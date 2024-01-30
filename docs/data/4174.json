@@ -1,0 +1,148 @@
+[
+  {
+    "imgs": [
+      "Hornet Queen",
+      "Growing Ranks"
+    ],
+    "q": "If I cast Hornet Queen and make its tokens and later populate to copy one of the tokens, does the copy have flying and deathtouch, too?",
+    "a": "It sure does! The copy of a permanent takes on the copiable characteristics of the original. In the case of an object that's represented by a card, those characteristics are what's printed on the card, but in the case of a token its copiable characteristics are defined by the effect that created the token. Hornet Queen's tokens are created with flying and deathtouch, as opposed to being created first and then given flying and deathtouch later, so those abilities are part of the token's copiable characteristics."
+  },
+  {
+    "imgs": [
+      "Yixlid Jailer",
+      "Soulflayer"
+    ],
+    "q": "My opponent controls Yixlid Jailer and I cast Soulflayer by delving creature cards from my graveyard. Does Soulflayer get the listed keyword abilities from the delved creatures?",
+    "a": "It does not. Soulflayer looks at the abilities of the cards that <i>were</i> exiled with its delve ability, which means that it's interested in what the cards looked like in the graveyard rather than what they look like in exile. The cards didn't have any abilities in the graveyard because of the Jailer, so Soulflayer won't gain any abilities."
+  },
+  {
+    "imgs": [
+      "Ilharg, the Raze-Boar",
+      "Leviathan"
+    ],
+    "q": "If I attack with Ilharg, the Raze-Boar and use its ability to bring out an attacking Leviathan, do I still have to sacrifice two Islands?",
+    "a": "Nope, you don't have to sacrifice any Islands in this situation. Sacrificing two Islands is a cost that you have to pay in order to declare Leviathan as an attacker, but Leviathan isn't being declared as an attacker here. It's simply put on the battlefield tapped and attacking, so you don't have to pay the attack cost."
+  },
+  {
+    "imgs": [
+      "Gond Gate",
+      "Frozen Aether"
+    ],
+    "q": "I control Gond Gate and my opponent controls Frozen Aether. Do my Gates enter the battlefield tapped or untapped?",
+    "a": "That's up to you. As a Gate enters the battlefield under your control, both Gond Gate and Frozen Aether create replacement effects that want to change how the Gate enters the battlefield. As the would-be controller of the Gate, you choose the order in which those effects apply, so in essence you choose which replacement effect wins."
+  },
+  {
+    "imgs": [
+      "Winter Orb"
+    ],
+    "q": "If I manage to tap my Winter Orb somehow during my opponent's turn, do I get to untap all my lands in my untap step?",
+    "a": "Yes. In your untap step, you first decide which permanents get untapped, and then all such permanents become untapped at the same time. At the moment you make this decision, Winter Orb is tapped, so its effect doesn't apply and all your permanents get to untap. The fact that Winter Orb's effect starts to apply once it becomes untaped itself doesn't matter, since it's too late to change the set of permanents you're untapping in this untap step."
+  },
+  {
+    "imgs": [
+      "Colossal Skyturtle",
+      "Beloved Chaplain"
+    ],
+    "q": "Can Colossal Skyturtle's second channel ability target a Beloved Chaplain?",
+    "a": "No. Even though the word \"creatures\" without an additional qualifier only refers to creatures on the battlefield, appearing in a protection ability is an additional qualifier that broadens the scope. One of the benefits of \"protection from (quality)\" is that the protected permanent can't be the target of spells with that quality or of abilities from sources with that quality. The Skyturtle's <i>channel</i> ability is an ability from a creature source, so it can't target Beloved Chaplain."
+  },
+  {
+    "imgs": [
+      "Myr Servitor",
+      "Psychic Paper",
+      "Serra Angel"
+    ],
+    "q": "I control Myr Servitor and attach Psychic Paper to it, naming Serra Angel as the card name for Psychic Paper. Does that allow me to reanimate the Serra Angels in my graveyard in my upkeep?",
+    "a": "No, that doesn't work. The name of an object in its rules text only means \"this permanent\" if it's actually referring to itself by name. In Myr Servitor's text, the bit \"if Myr Servitor is on the battlefield\" means \"if this permanent is on the battlefield\", but the text \"cards named Myr Servitor\" means exactly what it says since it's referring to other cards. Even if Myr Servitor's name is changed to Serra Angel, its ability still looks for cards named Myr Servitor in players' graveyards."
+  },
+  {
+    "imgs": [
+      "Pink Horror",
+      "Shock",
+      "Cancel"
+    ],
+    "q": "I control Pink Horror and cast Shock targeting my opponent. If my opponent Cancels my Shock, does Pink Horror's Coruscating Flames ability still let me deal 2 damage to any target?",
+    "a": "Absolutely! Casting Shock already triggered the ability, and it goes on the stack above Shock as a separate ability. Countering Shock or otherwise removing it from the stack won't counter or un-trigger that ability, so it'll still resolve."
+  },
+  {
+    "imgs": [
+      "Predatory Advantage",
+      "Discordant Spirit"
+    ],
+    "q": "Why are the trigger conditions of Predatory Advantage and Discordant Spirit worded differently? They both just trigger in my opponent's end step, right?",
+    "a": "Well, the trigger conditions are different, but that difference is only noticeable in certain kinds of games. In a duel or in a free-for-all multiplayer game, you are correct and there is no difference in how often those abilities trigger. However, in Two-Headed Giant or other game variants with the shared turns option, the two abilities work differently because the end step is shared by multiple players. Discordant Spirit's ability triggers for the end step as a whole, so it only triggers once during your opponent's team's turn in Two-Headed Giant. Predatory Advantage triggers for each player's end step, so it triggers separately for each player on your opponent's team provided that they didn't cast a creature spell during their turn."
+  },
+  {
+    "imgs": [
+      "Thryx, the Sudden Storm",
+      "Force of Will"
+    ],
+    "q": "If I control Thryx, the Sudden Storm and cast Force of Will for its alternative cost, can Force of Will be countered?",
+    "a": "No. Regardless of how much mana you spent to cast Force of Will, its mana value is always 5, so it still benefits from Thryx's effect."
+  },
+  {
+    "imgs": [
+      "Tergrid, God of Fright",
+      "Dress Down"
+    ],
+    "q": "I control Tergrid, God of Fright and my opponent controls Dress Down. When they sacrifice Dress Down at the beginning of the end step, will Tergrid's ability let me put Dress Down onto the battlefield from the graveyard?",
+    "a": "No. Tergrid's ability is a type of leave-the-battlefield trigger, which means that it belongs to the group of triggered abilities that \"look back in time\" to check their trigger condition. When your opponent sacrifices Dress Down, Tergrid's ability triggers based on the game state immediately before your opponent sacrificed Dress Down. In that game state, Tergrid didn't have the ability, so the ability doesn't trigger."
+  },
+  {
+    "imgs": [
+      "Awakening Zone",
+      "Growing Ranks"
+    ],
+    "q": "Let's say I control Awakening Zone and Growing Ranks. Can I order the triggers so that I create a token first and then populate it in the same upkeep?",
+    "a": "Absolutely. You control both abilities and they want to go on the stack at the same time, so you choose the order in which they go on the stack, and then they resolve in the reverse order."
+  },
+  {
+    "imgs": [
+      "Rotating Fireplace",
+      "Jhoira of the Ghitu",
+      "The Tenth Doctor"
+    ],
+    "q": "Suppose my Rotating Fireplace got suspended with Jhoira of the Ghitu, and it's down to the last time counter, and I use The Tenth Doctor's Timey-Wimey ability to time travel three times. Can I use the first time travel to unsuspend Rotating Fireplace and then use the remaining two time travels to put two additional time counters on the Fireplace?",
+    "a": "No, that doesn't work. When you resolve the <i>Timey-Wimey</i> ability, you time travel three times without anything else happening in between. When you remove the last time counter from the suspended Fireplace, this triggers the ability that will allow you to cast it, but that ability won't even go on the stack, let alone resolve, until after you've finished resolving the <i>Timey-Wimey</i> ability in its entirety."
+  },
+  {
+    "imgs": [
+      "Pithing Needle"
+    ],
+    "q": "If my opponent plays Pithing Needle and knows that I have Windswept Heath in my deck even though I don't control one at the moment, so he names it. If I later draw Windswept Heath and play it, can I still crack it to fetch a land?",
+    "a": "Nope, Pithing Needle stops you from making fetch happen. Pithing Needle creates a continuous effect that prevents you from using activated abilities of sources named \"Windswept Heath\" regardless of whether you controlled that source at the time the Needle entered the battlefield. The fact that Pithing Needle doesn't stop mana abilities doesn't help you either, since Windswept Heath's ability is not a mana ability."
+  },
+  {
+    "imgs": [
+      "Hardened Scales",
+      "Branching Evolution"
+    ],
+    "q": "How do Hardened Scales and Branching Evolution interact with each other? Let's say a creature would enter the battlefield with two counters, how many counters will it get?",
+    "a": "It enters the battlefield with your choice between five or six counters. Just like the earlier question about Gond Gate and Frozen Aether, there are two replacement effects that want to change how your creature enters the battlefield, and you choose the order in which they apply. You can choose to double the number of counters first and then add one, which results in five counters, or you can choose to add one first and then double that number, which results in six counters."
+  },
+  {
+    "imgs": [
+      "Circle of Protection: Red",
+      "Anarchy",
+      "Shock"
+    ],
+    "q": "I control Circle of Protection",
+    "a": "You can activate the Circle's ability, but it won't protect you from a spell that hasn't been cast yet. When the Circle's ability resolves, you have to choose a source of damage at that time. While the game is pretty flexible in what it allows you to choose as a source of damage, you can't choose a card in a player's hand. Even if you could, the damage ends up getting dealt by the Shock on the stack, which is a different object than the Shock in your opponent's hand."
+  },
+  {
+    "imgs": [
+      "Ardenn, Intrepid Archaeologist",
+      "Deflecting Swat"
+    ],
+    "q": "My opponent controls Ardenn, Intrepid Archaeologist and is about to move a bunch of Auras and Equipment onto a creature of theirs. Can I use Deflecting Swat to redirect those Auras and Equipment to a creature I control?",
+    "a": "Kind of yes, but mostly no. You can certainly use Deflecting Swat to change the target of Ardenn's ability to your own creature. However, the choice of which Auras and Equipment to attach to that target, and indeed whether to do this at all, is only made when the ability resolves, which is after Deflecting Swat has changed the target. Given the circumstances, your opponent will most likely choose not to move any Auras or Equipment onto your creature."
+  },
+  {
+    "imgs": [
+      "Emrakul, the Promised End",
+      "Time Warp"
+    ],
+    "q": "I cast Emrakul, the Promised End to take control of my opponent's next turn. During that turn, I cast their Time Warp, targeting me. Who takes the next turn after that, my opponent or I?",
+    "a": "You'll take your Time Warp turn next. Before Time Warp resolved, the established turn sequence was that after the current turn, your opponent would take an extra turn, which would be followed by your regular turn. The resolution of Time Warp inserts an extra turn for you into this turn sequence immediately after the current turn. This means that your extra turn happens first, followed by your opponent's extra turn from Emrakul's ability, followed by your regular turn."
+  }
+]
