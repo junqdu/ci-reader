@@ -1,5 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+    distDir: 'docs',
     async redirects() {
         return [
             // Basic redirect
