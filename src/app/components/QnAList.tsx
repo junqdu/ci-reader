@@ -5,7 +5,7 @@ import { QnA, QnAInterface } from './QnA';
 export function QnAList({ id }: { id: string }) {
     const [source, setSource] = useState<QnAInterface[]>([]);
     useEffect(() => {
-        fetch(`/data/${id}.json`)
+        fetch(`../../../public/data/${id}.json`)
             .then((data) => data.json())
             .then((data) => setSource(data));
     }, [id]);
