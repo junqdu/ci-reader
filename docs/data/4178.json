@@ -4,7 +4,7 @@
       "Agatha of the Vile Cauldron"
     ],
     "q": "Does Agatha of the Vile Cauldron reduce the cost of her own activated ability?",
-    "a": "Yes she does! Agatha doesn't exclude herself in the activated ability's discount - it would say \"Activated abilities of <i>other</i> creatures you control...\" for that to be true. So by default, Agatha's activated ability will cost <img src=\"/images/symbols/3.png\" class=\"mana\"><img src=\"/images/symbols/R.png\" class=\"mana\"><img src=\"/images/symbols/G.png\" class=\"mana\"> to activate since her power is 1, and if you get her up to a power of 4 or greater, then her ability will only cost <img src=\"/images/symbols/R.png\" class=\"mana\"><img src=\"/images/symbols/G.png\" class=\"mana\"> to activate."
+    "a": "Yes she does! Agatha doesn't exclude herself in the activated ability's discount - it would say \"Activated abilities of <i>other</i> creatures you control...\" for that to be true. So by default, Agatha's activated ability will cost <img src=\"/ci-reader/images/symbols/3.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/R.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"> to activate since her power is 1, and if you get her up to a power of 4 or greater, then her ability will only cost <img src=\"/ci-reader/images/symbols/R.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"> to activate."
   },
   {
     "imgs": [
@@ -102,7 +102,7 @@
       "Boseiju, Who Endures"
     ],
     "q": "My opponent has my Leonin Arbiter exiled to their Leyline Binding. If I channel Boseiju, Who Endures targeting my opponent's Leyline Binding, will they be able to search for a land?",
-    "a": "They won't. When Boseiju's ability resolves, the first thing we do is destroy the Binding. Since the Binding left the battlefield, the exiled Arbiter immediately returns to the battlefield. Then your opponent would search their library for a land, but because you now have Leonin Arbiter in play, they won't be able to search. They don't even get the chance to pay <img src=\"/images/symbols/2.png\" class=\"mana\"> to ignore the Arbiter's effect, since that's only an action they can take when they have priority, and they don't have priority in the middle of Boseiju's ability resolving. Not only did your opponent lose their Binding, they won't be able to search for a land with the second part of Boseiju's effect."
+    "a": "They won't. When Boseiju's ability resolves, the first thing we do is destroy the Binding. Since the Binding left the battlefield, the exiled Arbiter immediately returns to the battlefield. Then your opponent would search their library for a land, but because you now have Leonin Arbiter in play, they won't be able to search. They don't even get the chance to pay <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"> to ignore the Arbiter's effect, since that's only an action they can take when they have priority, and they don't have priority in the middle of Boseiju's ability resolving. Not only did your opponent lose their Binding, they won't be able to search for a land with the second part of Boseiju's effect."
   },
   {
     "imgs": [
