@@ -2,7 +2,7 @@
 const nextConfig = {
     output: 'export',
     assetPrefix: 'https://junqdu.github.io/ci-reader',
-    // distDir: 'test',
+    distDir: 'docs',
     // async redirects() {
     //     return [
     //         // Basic redirect
