@@ -14,7 +14,7 @@ export default function Post({ params }: { params: { slug: string } }) {
     return (
         <main className="flex min-h-screen flex-col items-center justify-between p-12">
             <nav className="flex sm:justify-center space-x-4">
-                {[['Home', '/']].map(([title, url]) => (
+                {[['Home', '/ci-reader']].map(([title, url]) => (
                     <a
                         key="title"
                         href={url}
