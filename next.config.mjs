@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     output: 'export',
-    // assetPrefix: '/test',
+    assetPrefix: 'https://junqdu.github.io/ci-reader',
     // distDir: 'test',
     // async redirects() {
     //     return [
