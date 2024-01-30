@@ -45,7 +45,7 @@ const get = async () => {
         manas.forEach((mana) => {
             // const num = mana.src.split('.');
             mana.outerHTML = mana.outerHTML
-                .replace('"i', '"/i')
+                .replace('"i', '"/ci-reader/i')
                 .replace('gif', 'png');
         });
 
