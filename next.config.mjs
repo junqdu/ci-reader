@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     output: 'export',
-    assetPrefix: 'https://junqdu.github.io/ci-reader',
-    distDir: 'docs',
+    // assetPrefix: '/test',
+    // distDir: 'test',
     // async redirects() {
     //     return [
     //         // Basic redirect
