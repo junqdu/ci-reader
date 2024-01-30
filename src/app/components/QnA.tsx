@@ -64,7 +64,7 @@ export function QnA({ a, q, imgs = [] }: QnAInterface) {
             }
         };
         fetchImg();
-    }, imgs);
+    }, [imgs]);
 
     return (
         <div className="py-8">

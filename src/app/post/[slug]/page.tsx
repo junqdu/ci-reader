@@ -1,14 +1,15 @@
-'use client';
-import { useEffect, useState } from 'react';
-import { QnA, QnAInterface } from '../../components/QnA';
+import List from '@/../public/data/list.json';
+import { QnAList } from '@/app/components/QnAList';
+
+export async function generateStaticParams() {
+    const res = List.map((post) => ({
+        slug: `${post.id}`,
+    }));
+    return res;
+}
 
 export default function Post({ params }: { params: { slug: string } }) {
-    const [source, setSource] = useState<QnAInterface[]>([]);
-    useEffect(() => {
-        fetch(`/data/${params.slug}.json`)
-            .then((data) => data.json())
-            .then((data) => setSource(data));
-    }, []);
+    const { slug } = params;
 
     return (
         <main className="flex min-h-screen flex-col items-center justify-between p-12">
@@ -23,19 +24,7 @@ export default function Post({ params }: { params: { slug: string } }) {
                     </a>
                 ))}
             </nav>
-            <div className="flex flex-col divide-y-2 divide-neutral-700">
-                <div className="mb-4">
-                    Source:{' '}
-                    <a
-                        className="text-blue-500"
-                        target="_blank"
-                        href={`https://www.cranial-insertion.com/article/${params.slug}`}
-                    >{`https://www.cranial-insertion.com/article/${params.slug}`}</a>
-                </div>
-                {source.map((item, idx) => (
-                    <QnA key={idx} {...item} />
-                ))}
-            </div>
+            <QnAList id={slug} />
         </main>
     );
 }
