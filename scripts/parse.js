@@ -33,8 +33,6 @@ const get = async (id) => {
             const dom = new JSDOM(q);
             const links = dom.window.document.querySelectorAll('a');
 
-            // console.log(dom.window.document.body.textContent);
-            // console.log(dom.window.document.body.textContent.split(':'));
             item.q = dom.window.document.body.textContent.split(':')[1].trim();
             const [_, ...rest] =
                 dom.window.document.body.textContent.split(':');
@@ -43,27 +41,24 @@ const get = async (id) => {
             links.forEach((link) => {
                 const tokens = link.href.split('=');
                 item.imgs.push(decodeURIComponent(tokens[tokens.length - 1]));
-                // console.log(link.innerText);
             });
-            // console.log(links[0].href);
 
             output.push(item);
         });
 
         foundA.forEach((ans, idx) => {
+            console.log(ans);
             const dom = new JSDOM(ans);
             const manas = dom.window.document.querySelectorAll('.mana');
             manas.forEach((mana) => {
-                // const num = mana.src.split('.');
                 mana.outerHTML = mana.outerHTML
                     .replace('"i', '"/ci-reader/i')
                     .replace('gif', 'png');
             });
 
-            output[idx].a = dom.window.document.body.innerHTML
-                .split(':')[1]
-                .replace('<br>', '')
-                .trim();
+            const [_, ...rest] = dom.window.document.body.innerHTML.split(':');
+
+            output[idx].a = rest.join(':').replace('<br>', '').trim();
         });
 
         fs.writeFile(
@@ -83,5 +78,5 @@ const getBatch = async () => {
     });
 };
 
-// get(4142);
-getBatch();
+get(4170);
+// getBatch();

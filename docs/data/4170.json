@@ -5,7 +5,7 @@
       "Roaming Throne"
     ],
     "q": "My Lord of Shatterskull Pass is leveled up to level 6 and I control a Roaming Throne naming Shaman. If I attack with the Lord of Shatterskull Pass, will it trigger twice?",
-    "a": "Yes, it will. That's 12 damage to each creature defending player controls. Roaming Throne can double-trigger triggered abilities even if the creature doesn't innately have those abilities and gains them through other means (such as <a href=\"http"
+    "a": "Yes, it will. That's 12 damage to each creature defending player controls. Roaming Throne can double-trigger triggered abilities even if the creature doesn't innately have those abilities and gains them through other means (such as <a href=\"http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Diviner's Wand\" class=\"autocard\" data-autocardimage=\"MOR/154163\" onclick=\"pde(event);AutoCardGatherer('Diviner\\'s Wand'); return false;\">Equipment</a>, <a href=\"http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grasp of the Hieromancer\" class=\"autocard\" data-autocardimage=\"E01/430552\" onclick=\"pde(event);AutoCardGatherer('Grasp of the Hieromancer'); return false;\">Auras</a>, and <a href=\"http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flash Conscription\" class=\"autocard\" data-autocardimage=\"RAV/87953\" onclick=\"pde(event);AutoCardGatherer('Flash Conscription'); return false;\">spells</a>)."
   },
   {
     "imgs": [
@@ -19,7 +19,7 @@
   {
     "imgs": [],
     "q": "I have two cards I want to run in my commander deck that have the same abilities but different names, can I do this?",
-    "a": "You can, sometimes. <a href=\"http"
+    "a": "You can, sometimes. <a href=\"http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bear Cub\" class=\"autocard\" data-autocardimage=\"J21/534704\" onclick=\"pde(event);AutoCardGatherer('Bear Cub'); return false;\">Bear Cub</a>, <a href=\"http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly Bears\" class=\"autocard\" data-autocardimage=\"J21/534708\" onclick=\"pde(event);AutoCardGatherer('Grizzly Bears'); return false;\">Grizzly Bears</a> and <a href=\"http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Runeclaw Bear\" class=\"autocard\" data-autocardimage=\"J21/534716\" onclick=\"pde(event);AutoCardGatherer('Runeclaw Bear'); return false;\">Runeclaw Bear</a> are all different cards and you can run one of each in your Bear-themed Commander deck."
   },
   {
     "imgs": [
@@ -77,7 +77,7 @@
       "Carnelian Orb of Dragonkind"
     ],
     "q": "I control Miirym, Sentinel Wyrm and cast Shivan Dragon using mana from Carnelian Orb of Dragonkind. Will the token copy made by Miirym have haste, too?",
-    "a": "The haste gained by Shivan Dragon is not a copiable characteristic, so the token won't have haste. If it helps, you can think of a how <a href=\"http"
+    "a": "The haste gained by Shivan Dragon is not a copiable characteristic, so the token won't have haste. If it helps, you can think of a how <a href=\"http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clone\" class=\"autocard\" data-autocardimage=\"M14/370622\" onclick=\"pde(event);AutoCardGatherer('Clone'); return false;\">Clone</a> won't copy the keyword abilities of the <a href=\"http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bear Cub\" class=\"autocard\" data-autocardimage=\"J21/534704\" onclick=\"pde(event);AutoCardGatherer('Bear Cub'); return false;\">Bear Cub</a> it copies if that Bear Cub is wielding a <a href=\"http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sword of Vengeance\" class=\"autocard\" data-autocardimage=\"NEC/554246\" onclick=\"pde(event);AutoCardGatherer('Sword of Vengeance'); return false;\">Sword of Vengeance</a>."
   },
   {
     "imgs": [
@@ -85,7 +85,7 @@
       "Mana Crypt"
     ],
     "q": "My opponent uses Karn, the Great Creator's +1 ability on my Mana Crypt. My opponent claims this kills my Crypt, is this true?",
-    "a": "They are correct. Karn turns your Crypt into a 0/0 artifact creature, which immediately gets placed in the graveyard for having toughness zero or less. If you happen to have <a href=\"http"
+    "a": "They are correct. Karn turns your Crypt into a 0/0 artifact creature, which immediately gets placed in the graveyard for having toughness zero or less. If you happen to have <a href=\"http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glorious Anthem\" class=\"autocard\" data-autocardimage=\"M21/488240\" onclick=\"pde(event);AutoCardGatherer('Glorious Anthem'); return false;\">Glorious Anthem</a> or similar effect, it would survive though!"
   },
   {
     "imgs": [
@@ -108,7 +108,7 @@
       "Tishana's Tidebinder"
     ],
     "q": "I cast Serra's Emissary and my opponent tries to counter the Angel's ability with Tishana's Tidebinder's trigger. Does this work?",
-    "a": "No, it does not. Tidebinder's trigger can only counter triggered abilities (usually including the words <a href=\"http"
+    "a": "No, it does not. Tidebinder's trigger can only counter triggered abilities (usually including the words <a href=\"http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Angel of Mercy\" class=\"autocard\" data-autocardimage=\"JMP/489568\" onclick=\"pde(event);AutoCardGatherer('Angel of Mercy'); return false;\">\"when\"</a>, <a href=\"http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ajani's Welcome\" class=\"autocard\" data-autocardimage=\"M19/447142\" onclick=\"pde(event);AutoCardGatherer('Ajani\\'s Welcome'); return false;\">\"whenever\"</a>, or <a href=\"http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ajani's Mantra\" class=\"autocard\" data-autocardimage=\"AVB/249398\" onclick=\"pde(event);AutoCardGatherer('Ajani\\'s Mantra'); return false;\">\"at\"</a>) or activated abilities (written in the form <a href=\"http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rummaging Goblin\" class=\"autocard\" data-autocardimage=\"J22/J22591\" onclick=\"pde(event);AutoCardGatherer('Rummaging Goblin'); return false;\">\"Cost:Effect\"</a>). Serra's Emissary doesn't have either a triggered or activated ability. It has flying (static ability), choose a type (replacement ability), and granting protection (another static ability)."
   },
   {
     "imgs": [
@@ -125,7 +125,7 @@
       "Vendilion Clique"
     ],
     "q": "During my draw step I drew and revealed Entreat the Angels. My opponent claims they can cast Vendilion Clique and put the Entreat on the bottom of my library preventing me from casting it. Is this true?",
-    "a": "They are correct. It's hard to tell why by just reading the reminder text next to miracle. So let's read the comprehensive rules on Miracle, shown below"
+    "a": "They are correct. It's hard to tell why by just reading the reminder text next to miracle. So let's read the comprehensive rules on Miracle, shown below:"
   },
   {
     "imgs": [
