@@ -1,7 +1,7 @@
 const jsdom = require('jsdom');
 const { JSDOM } = jsdom;
 const fs = require('node:fs');
-const data = require('./2023.json');
+const data = require('./2024.json');
 
 const args = process.argv.slice(2);
 const id = args[0] || 4160;
@@ -11,9 +11,10 @@ const requestOptions = {
     redirect: 'follow',
 };
 
-const output = [];
-
 const get = async (id) => {
+    const output = [];
+
+    console.log(`${id} started.`);
     try {
         const res = await fetch(
             `https://www.cranial-insertion.com/article/${id}`,
@@ -51,7 +52,7 @@ const get = async (id) => {
 
             item.q = dom.window.document.body.innerHTML.split(':')[1].trim();
             const [_, ...rest] = dom.window.document.body.innerHTML.split(':');
-            item.q = rest.join(':').trim();
+            item.q = rest.join(':').replace('<br>', '').trim();
 
             output.push(item);
         });
@@ -86,6 +87,7 @@ const get = async (id) => {
             JSON.stringify(output, null, '  '),
             (err) => {}
         );
+        console.log(`${id} ended.`);
     } catch (e) {
         console.log(`${id} failed to fetch`);
         console.log(e);
@@ -93,10 +95,13 @@ const get = async (id) => {
 };
 
 const getBatch = async () => {
-    data.forEach((datum) => {
-        get(datum.id);
-    });
+    for (const datum of data) {
+        await get(datum.id);
+    }
+    // data.forEach((datum) => {
+    //     await get(datum.id);
+    // });
 };
 
-get(4170);
-// getBatch();
+// get(4170);
+getBatch();
