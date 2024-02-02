@@ -1,0 +1,2599 @@
+[
+  {
+    "imgs": [
+      "Everybody Lives!"
+    ],
+    "q": "Can Everybody Lives! prevent me from losing the game due to having 10 or more poison counters?",
+    "a": "Oddly enough, no. In your graveyard, Fire//Ice has the characteristics of both halves, so it is an instant card that's exactly two colors and Niv-Mizzet gives it jump-start. However, as you start to cast the card, you have to choose one half to cast, and only that half is evaluated to check if you can cast it. Since each half is mono-colored, it doesn't have jump-start after all, so you can't cast either half."
+  },
+  {
+    "imgs": [
+      "Gallifrey Falls // No More"
+    ],
+    "q": "I don't understand how Gallifrey Falls // No More works. If I cast it fused, won't my creatures die before they phase out?",
+    "a": "No. Ayara's Oathsworn's ability has an intervening if clause that checks the condition at the moment the ability would trigger, and if the condition isn't true at that moment, the ability doesn't trigger at all. Since Ayara's Oathsworn has four +1/+1 counters on it, the condition is not true, so the ability doesn't trigger at all and none of its effects happen."
+  },
+  {
+    "imgs": [
+      "The Ninth Doctor"
+    ],
+    "q": "When does The Ninth Doctor's trigger go on the stack?",
+    "a": "It can, as long as your opponent reveals at least one card with mana value 1. Your opponent reveals each card individually and loses life equal to each card's mana value in distinct events. Every time that amount is 1, Ob Nixilis's ability triggers. All those triggers go on the stack after Ad Nauseam is done resolving, and then the triggers resolve one by one."
+  },
+  {
+    "imgs": [
+      "Return the Past",
+      "Karvanista, Loyal Lupari // Lupari Shield"
+    ],
+    "q": "Will Return the Past let me cast an adventure spell from my graveyard like Lupari Shield from my graveyard?",
+    "a": "Only if your opponent loses exactly 1 life as the result of the damage, for example if your opponent only controls one creature, or if they control multiple creatures but only one of them doesn't have infect. If they control multiple creatures that deal plain damage that results in loss of life, all that damage is dealt at the same time and causes the total loss of life in one event that's not exactly 1, so it doesn't trigger Ob Nix's ability."
+  },
+  {
+    "imgs": [
+      "Alistair, the Brigadier"
+    ],
+    "q": "I control Alistair, the Brigadier, four lands, and four Treasures. When I attack with Alistair, if I sacrifice those Treasures to pay for his triggered ability, will those Treasures count for the bonus that Alistair gives my creatures?",
+    "a": "I'm afraid not, and the reason is very similar to the previous question. Unless first strike or double strike are involved, all combat damage is dealt at the same time and all results of that damage happen in one combined event. While it's true that damage from multiple creatures with lifelink causes separate simultaneous life-gain events, no such rule exists for the life-loss part of the damage. If you can get one of the 1/1s to deal damage by itself, for example by giving it first strike, you'll get one trigger from Ob Nixilis, but that's still much less than the ten triggers you're hoping for."
+  },
+  {
+    "imgs": [
+      "RMS Titanic",
+      "Assault Suit"
+    ],
+    "q": "If I crew RMS Titanic and equip it with Assault Suit, what happens if it deals combat damage to a player?",
+    "a": "No, that doesn't work. Strionic Resonator creates another instance of the same triggered ability with the same source, which is Calix. Once you choose to make a token with one instance of that ability, other instances of the same ability do nothing."
+  },
+  {
+    "imgs": [
+      "Blink"
+    ],
+    "q": "How exactly does Blink work?",
+    "a": "Yes, that works. In that case, you have two very similar abilities on the stack, but they come from different sources, so they track their \"do this only once each turn\" restrictions separately."
+  },
+  {
+    "imgs": [
+      "Weeping Angel",
+      "Thijarian Witness"
+    ],
+    "q": "I attack my opponent with Weeping Angel. After attackers are declared, my opponent casts Thijarian Witness. What happens to my Angel?",
+    "a": "No, this is another example of a triggered ability with an intervening-if clause. Since the condition wasn't true at the time the ability would have triggered, it didn't trigger at all when your end step began, so there is no ability on the stack that you're responding to."
+  },
+  {
+    "imgs": [
+      "Amy Pond",
+      "Rory Williams"
+    ],
+    "q": "Since Amy Pond has both Partner With Rory Williams and Doctor's Companion, does that mean I'm allowed to have three commanders?",
+    "a": "Yes, that works. The effect from Jolrael's triggered ability adds abilities, so Inkmoth Nexus won't lose infect. The part of the effect that sets the base power and toughness to X/X has the newer timestamp, so it overwrites the 1/1 from Inkmoth Nexus's own animation effect."
+  },
+  {
+    "imgs": [
+      "The War Doctor",
+      "Ryan Sinclair"
+    ],
+    "q": "I have The War Doctor in play. I attack with Ryan Sinclair, and I exile four lands and a nonland card to his trigger. How many counters does The War Doctor get?",
+    "a": "No. Narset's ability instructs you to exile the card and copy it, and then you may cast the copy. This means that you're casting the copy from the exile zone, not from your graveyard."
+  },
+  {
+    "imgs": [
+      "Auton Soldier",
+      "Clara Oswald",
+      "The Seventh Doctor"
+    ],
+    "q": "I have an Auton Soldier in play that's a copy of an opponent's Clara Oswald. If I attack with the copy Clara Oswald and The Seventh Doctor, do I get the myriad tokens in time to give me more Seventh Doctor triggers?",
+    "a": "Absolutely. Prowess cares about the verb, <i>cast</i>, it doesn't care whether the spell you're casting is represented by a physical card, so casting a copy of a noncreature card works just fine for triggering prowess. On the other hand, copying a spell — for example with <a href=\"http"
+  },
+  {
+    "imgs": [
+      "Clara Oswald",
+      "The Sixth Doctor"
+    ],
+    "q": "If I have Clara Oswald in play, will that let The Sixth Doctor's ability trigger twice when I cast a historic spell?",
+    "a": "No, that doesn't work. A modal ability that allows you to choose the same mode more than once will say so explicitly, like <a href=\"http"
+  },
+  {
+    "imgs": [
+      "Atraxi Warden",
+      "Cyber Conversion"
+    ],
+    "q": "I attack my opponent with Atraxi Warden. In response, my opponent casts Cyber Conversion targeting my Warden. What happens to my Warden? Is it still attacking?",
+    "a": "No. By the time you get to respond to Nahiri, the cost to cast it has already been calculated, locked in, and paid, and Nahiri has been cast. The fact that Krosan Grip has split second doesn't help you, either, since that doesn't mean that you get to interrupt your opponent's spell-casting process. Even Krosan Grip has to wait until you have priority, and at that point it's too late to change how much your opponent has to pay to cast Nahiri."
+  },
+  {
+    "imgs": [
+      "Cybership",
+      "Krosan Colossus"
+    ],
+    "q": "I attacked my opponent with a Cybership, and one of the creatures I put onto the battlefield face down is a creature with morph - a Krosan Colossus. Can I turn it face-up?",
+    "a": "Almost, but not exactly. Kiora has ward <img src=\"/ci-reader/images/symbols/3.png\" class=\"mana\"> <i>and</i> ward <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"> in this situation, which works very similarly to ward <img src=\"/ci-reader/images/symbols/5.png\" class=\"mana\">, but there is a subtle difference. Each instance of ward triggers and resolves separately, and your opponent will have to pay a total of <img src=\"/ci-reader/images/symbols/5.png\" class=\"mana\"> if they want to get their spell or ability past both wards. If they have a <a href=\"http"
+  },
+  {
+    "imgs": [
+      "Dan Lewis",
+      "Hijack",
+      "Sol Ring"
+    ],
+    "q": "I have a Dan Lewis in play. I cast Hijack on my opponent's Sol Ring, then use the equip ability from Dan Lewis to attach the Sol Ring to a creature I control. What happens when the turn ends?",
+    "a": "Absolutely. Convoke is not an alternative cost to cast the spell, it is an ability that allows you to pay for the mana symbols in the spell's total cost in a different way. It doesn't matter whether that total cost was based on the spell's normal mana cost or from an alternative cost such as madness."
+  },
+  {
+    "imgs": [
+      "Ancestral Vision",
+      "The Eleventh Doctor",
+      "Wibbly-wobbly, Timey-wimey"
+    ],
+    "q": "Last week, you wrote about how exiling Ancestral Vision to The Eleventh Doctor won't let you cast it. But since the Vision is in exile, could I cast Wibbly-wobbly, Timey-wimey to time travel and add a time counter to it, letting me cast it on my next turn?",
+    "a": "Kind of, but you have to be careful about how exactly you do this. Arni's attack triggers its triggered ability, and when it resolves, you choose whether to pay <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/R.png\" class=\"mana\"> or not. If you choose to pay, you get to put a creature with mana value less than 3 onto the battlefield tapped and attacking. This triggers Arni's ability again, and again you choose whether to pay <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/R.png\" class=\"mana\"> or not. If you choose to pay, you get to put another creature onto the battlefield tapped and attacking, but its mana value has to be less than that of the creature you put onto the battlefield with the first trigger. This process repeats with ever-decreasing mana values until you either stop paying or you get to mana value 0 and it's impossible to choose a creature with mana value less than 0."
+  },
+  {
+    "imgs": [
+      "The Master, Multiplied",
+      "Dreadfeast Demon"
+    ],
+    "q": "The only creatures I control are token copies of The Master, Multiplied and a Dreadfeast Demon. During my end step, do I just get a free Dreadfeast Demon token?",
+    "a": "No. Campus Renovation creates a continuous effect with a duration, \"until the end of your next turn\", that allows you to play the exiled cards from an unusual zone, namely from the exile zone, but it doesn't allow you to play those cards at an unusual time. You still have to follow all applicable timing rules when you play the exiled cards."
+  },
+  {
+    "imgs": [
+      "The Twelfth Doctor",
+      "Vislor Turlough"
+    ],
+    "q": "My commanders are The Twelfth Doctor and Vislor Turlough. If I demonstrate Vislor Turlough, do I get the chance to give the token copy of Vislor to an opponent before the original enters the battlefield?",
+    "a": "Absolutely. The creature has two distinct instances of the ability that each Tazri grants it, so each ability sees that the creature has another activated ability. The fact that the two abilities have exactly the same wording doesn't matter."
+  },
+  {
+    "imgs": [
+      "Start the TARDIS"
+    ],
+    "q": "What happens if I cast Start the TARDIS but we're not playing planechase?",
+    "a": "Although it's only a \"mini set\", it is an actual set release that is legal in all Constructed formats. It's legal in Standard until it rotates out, it's legal in the non-rotating formats such as Modern, and of course it's legal in eternal formats such as Legacy."
+  },
+  {
+    "imgs": [
+      "River Song",
+      "The Stone Brain"
+    ],
+    "q": "I control River Song. If I search my opponent's library with The Stone Brain, will River Song's last ability trigger?",
+    "a": "Most signs point to \"no.\" The set was not designed to be played in Limited tournaments, and the Magic Tournament Rules state that <i>March of the Machine"
+  },
+  {
+    "imgs": [
+      "Carpet of Flowers"
+    ],
+    "q": "If I cast Carpet of Flowers during my first main phase, can I get mana from it during my second main phase?",
+    "a": "You can! Carpet of Flowers will trigger during each of your main phases until you've added mana with its ability that turn. If you play it during your first main phase, when you get to your second main phase, because the Carpet hasn't added mana that turn, the Carpet will trigger and you can get mana from its triggered ability."
+  },
+  {
+    "imgs": [
+      "Aquatic Alchemist // Bubble Up"
+    ],
+    "q": "I know you've told this tale before, but can you go over how Adventure cards work?"
+  },
+  {
+    "imgs": [
+      "Decadent Dragon // Expensive Taste"
+    ],
+    "q": "Could I play a Decadent Dragon in my mono-red Commander deck?"
+  },
+  {
+    "imgs": [
+      "Embereth Veteran"
+    ],
+    "q": "What is a Role token?"
+  },
+  {
+    "imgs": [
+      "Faunsbane Troll",
+      "Twisted Fealty"
+    ],
+    "q": "Can I just pile up a bunch of Role tokens on one creature? For example, if my Faunsbane Troll has the Monstrous Role token attached to it, and I cast Twisted Fealty and give the Troll the Wicked Role token, will it benefit from both Role tokens?"
+  },
+  {
+    "imgs": [],
+    "q": "Does that mean if my opponent puts the Cursed Role token on one of my creatures, I can get rid of it by putting another Role on it?"
+  },
+  {
+    "imgs": [
+      "Ashiok's Reaper"
+    ],
+    "q": "Will a Role token going to the graveyard trigger my Ashiok's Reaper?"
+  },
+  {
+    "imgs": [
+      "Rowan, Scion of War"
+    ],
+    "q": "I activate Rowan, Scion of War's ability after I've lost 3 life. After the ability has resolved, I lose 2 more life. Does that increase the discount of my black and red spells to , or is it stuck at ?"
+  },
+  {
+    "imgs": [
+      "Will, Scion of Peace",
+      "Intruder Alarm"
+    ],
+    "q": "I control Will, Scion of Peace, and I've gained 2 life this turn. I activate Will's ability, then cast a creature, which causes Intruder Alarm to trigger and untap Will. If I activate Will's ability again, are my white and/or blue spells discounted by  or ?"
+  },
+  {
+    "imgs": [
+      "Three Blind Mice"
+    ],
+    "q": "If I made a token copy of Three Blind Mice, could it copy itself with its own chapter II or III trigger?"
+  },
+  {
+    "imgs": [
+      "Ingenious Prodigy"
+    ],
+    "q": "My Ingenious Prodigy has five +1/+1 counters on. Can I remove all five counters from it during my upkeep and draw five cards?"
+  },
+  {
+    "imgs": [
+      "The Irencrag"
+    ],
+    "q": "When I turn The Irencrag into Everflame, Heroes' Legacy with its triggered ability, does equipping it to a creature mean that the equipped creature loses all abilities?"
+  },
+  {
+    "imgs": [
+      "Lich-Knights' Conquest"
+    ],
+    "q": "When I resolve Lich-Knights' Conquest, could I sacrifice my artifact creatures and enchantment creatures and return them to the battlefield?"
+  },
+  {
+    "imgs": [
+      "Discerning Financier"
+    ],
+    "q": "I control a Discerning Financier and a Treasure token. Can I activate the Financier's ability, then sacrifice the Treasure token in response and still draw a card?"
+  },
+  {
+    "imgs": [
+      "Discerning Financier"
+    ],
+    "q": "If I was in a game of Two-Headed Giant, could I give my Treasure to my teammate with Discerning Financier and still draw a card?"
+  },
+  {
+    "imgs": [
+      "Panharmonicon",
+      "Talion, the Kindly Lord"
+    ],
+    "q": "If I have a Panharmonicon in play, will that let me choose two numbers when Talion, the Kindly Lord enters the battlefield?"
+  },
+  {
+    "imgs": [
+      "Nyxborn Courser",
+      "A Tale for the Ages"
+    ],
+    "q": "Does my Nyxborn Courser count as an \"enchanted creature\" and get +2/+2 from A Tale for the Ages?"
+  },
+  {
+    "imgs": [
+      "Agatha's Soul Cauldron",
+      "Grist, the Hunger Tide"
+    ],
+    "q": "If I activate Agatha's Soul Cauldron exiling Grist, the Hunger Tide, will my creatures with +1/+1 counters on them have Grist's loyalty abilities?"
+  },
+  {
+    "imgs": [
+      "Kellan, the Fae-Blooded // Birthright Boon",
+      "Kellan, the Fae-Blooded // Birthright Boon"
+    ],
+    "q": "My commander is Kellan, the Fae-Blooded. Can I dodge the commander tax by casting Birthright Boon from the command zone and ignoring the commander tax?"
+  },
+  {
+    "imgs": [
+      "Land Tax"
+    ],
+    "q": "I just opened a Land Tax in my Wilds of Eldraine booster pack. Can I play it in Standard?"
+  },
+  {
+    "imgs": [],
+    "q": "So once Wilds of Eldraine is Standard-legal, that means Standard rotates and I won't be able to play my cards from Innistrad: Midnight Hunt and Streets of New Capenna anymore, right?"
+  },
+  {
+    "imgs": [
+      "Curse of Clinging Webs",
+      "Reassembling Skeleton"
+    ],
+    "q": "I've enchanted my opponent with Curse of Clinging Webs and their Reassembling Skeleton just died. Can they reanimate it before it gets exiled?"
+  },
+  {
+    "imgs": [
+      "Mire Triton"
+    ],
+    "q": "If Mire Triton gets blocked by both a 1/1 and a 2/2 creature, can it kill both of them?"
+  },
+  {
+    "imgs": [
+      "Extinguish All Hope"
+    ],
+    "q": "If I have a creature that's enchanted with an Aura, will it get destroyed by Extinguish All Hope?"
+  },
+  {
+    "imgs": [
+      "Myriad Landscape",
+      "Wastes"
+    ],
+    "q": "Can Myriad Landscape get two Wastes?"
+  },
+  {
+    "imgs": [
+      "Crypt Sliver"
+    ],
+    "q": "Can I activate Crypt Sliver's ability on my opponent's turn?"
+  },
+  {
+    "imgs": [
+      "Spiteful Sliver",
+      "Crypt Sliver"
+    ],
+    "q": "My opponent is attacking with a 4/4 creature, which I block with my Spiteful Sliver that is a 2/2. I also control Crypt Sliver, and I tap Spiteful Sliver to regenerate itself. Does its \"Whenever this creature is dealt damage\" ability still trigger?"
+  },
+  {
+    "imgs": [
+      "Spark Double"
+    ],
+    "q": "If Spark Double enters the battlefield while no planeswalker or other creature is on the battlefield, can it copy itself and get the +1/+1 counter?"
+  },
+  {
+    "imgs": [
+      "Zhulodok, Void Gorger",
+      "Endless One",
+      "Everflowing Chalice"
+    ],
+    "q": "Does Zhulodok, Void Gorger give double-cascade to an Endless One with X=8, or an Everflowing Chalice kicked four times?"
+  },
+  {
+    "imgs": [
+      "Zhulodok, Void Gorger",
+      "Abstruse Archaic"
+    ],
+    "q": "If Zhulodok, Void Gorger gives a spell I cast \"cascade, cascade\", can Abstruse Archaic copy that ability?"
+  },
+  {
+    "imgs": [
+      "Zhulodok, Void Gorger",
+      "Artisan of Kozilek"
+    ],
+    "q": "If I control Zhulodok, Void Gorger and cast Artisan of Kozilek, in what order do the cascade triggers and Artisan's trigger go on the stack?"
+  },
+  {
+    "imgs": [
+      "Agent of the Shadow Thieves",
+      "Spark Double"
+    ],
+    "q": "I have Agent of the Shadow Thieves in play and I control my commander. If I use Spark Double to copy my commander, does the copy also have the ability that Agent of the Shadow Thieves gives to my commander?"
+  },
+  {
+    "imgs": [
+      "Everquill Phoenix",
+      "Krenko, Mob Boss",
+      "Spark Double"
+    ],
+    "q": "Let's say Everquill Phoenix has been mutated on top of Krenko, Mob Boss. What do I get if I copy this creature with Spark Double?"
+  },
+  {
+    "imgs": [
+      "Ob Nixilis, Captive Kingpin",
+      "Nekusar, the Mindrazer",
+      "Wheel of Fortune"
+    ],
+    "q": "I control Ob Nixilis, Captive Kingpin and Nekusar, the Mindrazer, and I resolve Wheel of Fortune with three opponents. Does Ob Nixilis's ability trigger?"
+  },
+  {
+    "imgs": [
+      "Doubling Season",
+      "Vorinclex, Monstrous Raider",
+      "The Eldest Reborn"
+    ],
+    "q": "My opponent controls Doubling Season and I control Vorinclex, Monstrous Raider. If my opponent plays The Eldest Reborn, with how many lore counters does it enter the battlefield?"
+  },
+  {
+    "imgs": [
+      "Rise of the Eldrazi",
+      "Skittering Cicada"
+    ],
+    "q": "How does the extra turn from Rise of the Eldrazi work in a multiplayer game if I cast it on another player's turn thanks to Skittering Cicada?"
+  },
+  {
+    "imgs": [
+      "Omen Machine",
+      "Frantic Search"
+    ],
+    "q": "If Omen Machine is in play, does Frantic Search still make me discard cards?"
+  },
+  {
+    "imgs": [
+      "Ezuri's Predation"
+    ],
+    "q": "I control a bunch of Slivers that all have hexproof, and my opponent casts Ezuri's Predation. What happens?"
+  },
+  {
+    "imgs": [
+      "Commodore Guff",
+      "Jace, Cunning Castaway"
+    ],
+    "q": "Let's say I control Commodore Guff and a number of Jace, Cunning Castaway tokens that exceeds my opponents' life totals and the number of cards I have left in my library. What happens if I activate Commodore Guff's -3 ability?"
+  },
+  {
+    "imgs": [],
+    "q": "So what is Oathbreaker?"
+  },
+  {
+    "imgs": [],
+    "q": "You just mentioned a \"signature spell\". What's that?"
+  },
+  {
+    "imgs": [],
+    "q": "So I can just cast my signature spell from the command zone whenever I want?"
+  },
+  {
+    "imgs": [
+      "Capsize"
+    ],
+    "q": "If my signature spell is Capsize, can I pay the buyback cost so it goes back to my hand instead of back to the command zone?"
+  },
+  {
+    "imgs": [
+      "Search for Tomorrow"
+    ],
+    "q": "What if my signature spell is a card with suspend? Could I suspend Search for Tomorrow from the command zone?"
+  },
+  {
+    "imgs": [
+      "Approach of the Second Sun"
+    ],
+    "q": "I suppose having Approach of the Second Sun as my signature spell won't really work either, right?"
+  },
+  {
+    "imgs": [],
+    "q": "How does partner work in Oathbreaker?"
+  },
+  {
+    "imgs": [
+      "Will Kenrith",
+      "Rowan Kenrith",
+      "Lightning Bolt"
+    ],
+    "q": "So if I have Will Kenrith and Rowan Kenrith as my Oathbreakers, and Lightning Bolt as one of my signature spells, can I cast the Bolt if I control Will Kenrith?"
+  },
+  {
+    "imgs": [
+      "Valki, God of Lies",
+      "Tibalt, Cosmic Impostor"
+    ],
+    "q": "Since the back face of Valki, God of Lies is Tibalt, Cosmic Impostor, can Valki be my Oathbreaker?"
+  },
+  {
+    "imgs": [],
+    "q": "Is there a commander tax?"
+  },
+  {
+    "imgs": [
+      "Gideon Jura"
+    ],
+    "q": "What about commander damage? If my Oathbreaker is Gideon Jura, can I deal enough combat damage with Gideon to make an opponent lose the game?"
+  },
+  {
+    "imgs": [
+      "Karn, The Great Creator"
+    ],
+    "q": "I know \"wish\" effects don't work in commander, but do they work in Oathbreaker? Can I use Karn, The Great Creator's -2 to get cards from outside the game?"
+  },
+  {
+    "imgs": [
+      "Command Tower"
+    ],
+    "q": "Does a card like Command Tower work in Oathbreaker?"
+  },
+  {
+    "imgs": [
+      "Shorikai, Genesis Engine"
+    ],
+    "q": "Does that mean Shorikai, Genesis Engine can be my Oathbreaker?"
+  },
+  {
+    "imgs": [
+      "Tyvar, Jubilant Brawler",
+      "Emrakul, the Aeons Torn"
+    ],
+    "q": "I activate the -2 ability of Tyvar, Jubilant Brawler, and one of the cards I milled was Emrakul, the Aeons Torn. Do I still get to return a creature card from my graveyard to my hand, or does my graveyard get shuffled into my library before I can return something?"
+  },
+  {
+    "imgs": [
+      "Gideon of the Trials",
+      "Luxior, Giada's Gift"
+    ],
+    "q": "If I control a Gideon of the Trials equipped with Luxior, Giada's Gift, as well as the emblem from Gideon's last +0 ability, will the emblem still prevent me from losing the game?"
+  },
+  {
+    "imgs": [
+      "Saheeli, Sublime Artificer",
+      "Grafted Wargear"
+    ],
+    "q": "I activate Saheeli, Sublime Artificer's -2, turning my Servo token into a Grafted Wargear. I attach that Wargear to one of my creatures and attack. At the end of turn, when the Wargear turns back into a Servo, will that cause the Wargear's ability to trigger and force me to sacrifice the creature it was attached to?"
+  },
+  {
+    "imgs": [
+      "Tamiyo, Field Researcher"
+    ],
+    "q": "Can I target my opponent's creatures when I activate the +1 ability of Tamiyo, Field Researcher?"
+  },
+  {
+    "imgs": [
+      "Tamiyo, Collector of Tales",
+      "Wheel of Fortune"
+    ],
+    "q": "What happens if I have a Tamiyo, Collector of Tales in play when my opponent casts Wheel of Fortune?"
+  },
+  {
+    "imgs": [
+      "Dihada, Binder of Wills",
+      "Vexilus Praetor"
+    ],
+    "q": "If I have my Oathbreaker Dihada, Binder of Wills in play, along with Vexilus Praetor, will Dihada have protection from everything?"
+  },
+  {
+    "imgs": [
+      "Banishing Light",
+      "Elesh Norn, Mother of Machines"
+    ],
+    "q": "Can I use Banishing Light to exile my opponent's Elesh Norn, Mother of Machines?"
+  },
+  {
+    "imgs": [
+      "Elesh Norn, Mother of Machines",
+      "Jailbreak"
+    ],
+    "q": "If I control Elesh Norn, Mother of Machines and cast Jailbreak to return a card from my opponent's graveyard to the battlefield, do I then get to return two cards from my graveyard?"
+  },
+  {
+    "imgs": [
+      "Aboroth",
+      "All Will Be One"
+    ],
+    "q": "I control an Aboroth with one age counter on it, and I also control All Will Be One. Aboroth's cumulative upkeep triggers, and I know I get one trigger for 1 damage for putting on the age counter, but how many triggers do I get for putting the -1/-1 counters on Aboroth?"
+  },
+  {
+    "imgs": [
+      "Portal to Phyrexia",
+      "Phyrexian Censor"
+    ],
+    "q": "I control Portal to Phyrexia and Phyrexian Censor. When the Portal's second ability resolves and I choose a creature that's not normally a Phyrexian, does it enter the battlefield tapped or untapped?"
+  },
+  {
+    "imgs": [
+      "Invasion of Tarkir",
+      "Kolaghan's Command"
+    ],
+    "q": "I cast Invasion of Tarkir and I have one other card in my hand. The Invasion's enter-the-battlefield ability resolves and I reveal the last card in my hand, which is a Dragon card. My opponent responds to the damage trigger with Kolaghan's Command to make me discard that card. Does the damage trigger deal 2 or 3 damage?"
+  },
+  {
+    "imgs": [
+      "Hoarding Broodlord"
+    ],
+    "q": "If I control two Hoarding Broodlords, do the spells I cast from exile have double convoke? If so, does that halve the number of creatures I have to tap to pay for those spells?"
+  },
+  {
+    "imgs": [
+      "Rakdos, Lord of Riots",
+      "Elder Brain"
+    ],
+    "q": "I control Rakdos, Lord of Riots and my opponents have lost life, so the cost reduction effect is active. If I cast a creature card that was exiled with Elder Brain, can I apply the cost reduction from Rakdos to the colored mana symbols in its mana cost?"
+  },
+  {
+    "imgs": [
+      "Jinnie Fay, Jetmir's Second",
+      "White Sun's Twilight"
+    ],
+    "q": "If I control Jinnie Fay, Jetmir's Second and make some tokens with White Sun's Twilight, do those tokens still have toxic 1?"
+  },
+  {
+    "imgs": [
+      "Eyes of Gitaxias",
+      "Jinnie Fay, Jetmir's Second"
+    ],
+    "q": "What about Incubator tokens? Do they still get +1/+1 counters if Jinnie Fay, Jetmir's Second causes them to be Cats or Dogs instead?"
+  },
+  {
+    "imgs": [
+      "Bell Borca, Spectral Sergeant"
+    ],
+    "q": "Does Bell Borca, Spectral Sergeant's power reset to 0 when I pass the turn?"
+  },
+  {
+    "imgs": [
+      "Bitter Ordeal"
+    ],
+    "q": "Does Bitter Ordeal count tokens that were put into a graveyard?"
+  },
+  {
+    "imgs": [
+      "Vulturous Zombie"
+    ],
+    "q": "Does Vulturous Zombie trigger off of Treasure tokens or Clue tokens being sacrificed?"
+  },
+  {
+    "imgs": [
+      "Shu Yun, the Silent Tempest",
+      "Murder",
+      "Bolt Bend"
+    ],
+    "q": "I control a 3/2 Shu Yun, the Silent Tempest and an untapped Mountain. My opponent tries to Murder Shu Yun. If I cast Bolt Bend in response, does Shu Yun's prowess kick in early enough so that I can cast Bolt Bend for just ?"
+  },
+  {
+    "imgs": [
+      "Blessed Sanctuary",
+      "Murder"
+    ],
+    "q": "Does Blessed Sanctuary stop Murder?"
+  },
+  {
+    "imgs": [
+      "Liesa, Forgotten Archangel",
+      "Murder"
+    ],
+    "q": "If I control Liesa, Forgotten Archangel, can I Murder a creature with indestructible by exiling it instead?"
+  },
+  {
+    "imgs": [
+      "Ichormoon Gauntlet",
+      "Cosima, God of the Voyage"
+    ],
+    "q": "Can I use Ichormoon Gauntlet's triggered ability to give extra voyage counters to an exiled Cosima, God of the Voyage?"
+  },
+  {
+    "imgs": [
+      "Thousand Winds",
+      "Flicker"
+    ],
+    "q": "If I control a face-down Thousand Winds and Flicker it, does that trigger Thousand Winds's turned-face-up ability?"
+  },
+  {
+    "imgs": [
+      "Command the Dreadhorde",
+      "Eternal Witness"
+    ],
+    "q": "If I use Command the Dreadhorde to return Eternal Witness from my graveyard to the battlefield, can I use Eternal Witness's ability to return the same Command the Dreadhorde to my hand?"
+  },
+  {
+    "imgs": [
+      "The One Ring",
+      "The Mycosynth Gardens"
+    ],
+    "q": "I control The One Ring with four burden counters on it, and my upkeep just started. Can I activate the Ring to draw five cards, and then copy the Ring with The Mycosynth Gardens to get rid of it and avoid losing life?"
+  },
+  {
+    "imgs": [
+      "The Ninth Doctor",
+      "Freed from the Real"
+    ],
+    "q": "If I control The Ninth Doctor that's enchanted with Freed from the Real, can I repeatedly tap and untap it to get a bunch of additional upkeep steps?"
+  },
+  {
+    "imgs": [
+      "Soulless Jailer",
+      "Goblin Welder"
+    ],
+    "q": "If my opponent controls Soulless Jailer, can I still use Goblin Welder's ability to echange an artifact on the battlefield with one in my graveyard?"
+  },
+  {
+    "imgs": [
+      "The One Ring",
+      "Braids, Arisen Nightmare"
+    ],
+    "q": "If I have protection from everything due to The One Ring, can my opponent's Braids, Arisen Nightmare still harm me?"
+  },
+  {
+    "imgs": [
+      "Skyfisher Spider",
+      "Humble"
+    ],
+    "q": "The Oracle ruling for Skyfisher Spider says that the enter-the-battlefield ability doesn't have a target, but it has a \"reflexive trigger\" that goes on the stack separately and that players can respond to. If I respond to the enter-the-battlefield ability with Humble, does that reflexive trigger still happen?"
+  },
+  {
+    "imgs": [
+      "Mirage Mirror",
+      "Talion, the Kindly Lord"
+    ],
+    "q": "If I use Mirage Mirror to copy my opponent's Talion, the Kindly Lord, do I get to choose my own number between 1 and 10 or does it copy the chosen number from the original?"
+  },
+  {
+    "imgs": [
+      "Contaminant Grafter"
+    ],
+    "q": "I have three opponents that each have three poison counters. How many times does Contaminant Grafter's corrupted ability trigger?"
+  },
+  {
+    "imgs": [
+      "Evelyn, the Covetous"
+    ],
+    "q": "Can I use Evelyn, the Covetous's third ability to play a land that was exiled with a collection counter by her second ability?"
+  },
+  {
+    "imgs": [
+      "Clone",
+      "Enchanted Carriage"
+    ],
+    "q": "If I Clone a Vehicle that has been crewed, is the Clone an artifact creature forever?"
+  },
+  {
+    "imgs": [
+      "Mistbind Clique",
+      "Ashnod's Altar",
+      "Stifle"
+    ],
+    "q": "In a game of Commander, my opponent casts Mistbind Clique and champions their commander. They choose to leave it in exile, and then they sacrifice Mistbind Clique to Ashnod's Altar. If I Stifle the return part of the champion ability, does their commander get stuck in exile?"
+  },
+  {
+    "imgs": [
+      "Mystic Forge",
+      "Out of the Tombs"
+    ],
+    "q": "I control Mystic Forge and I'm resolving Out of the Tombs's mill ability. Does Mystic Forge allow me to cast an artifact from the top of my library instead of milling it?"
+  },
+  {
+    "imgs": [
+      "Explosive Entry"
+    ],
+    "q": "Can I cast Explosive Entry just to put a +1/+1 counter on a creature if there's no artifact on the battlefield?"
+  },
+  {
+    "imgs": [
+      "Doomsday Confluence",
+      "Syr Konrad, the Grim"
+    ],
+    "q": "I cast Doomsday Confluence, choosing the first and third modes. If my opponent sacrifices their Syr Konrad, the Grim and discards a creature card, does Syr Konrad's ability still trigger?"
+  },
+  {
+    "imgs": [
+      "Jaya's Phoenix"
+    ],
+    "q": "If I give Jaya's Phoenix double strike and it deals damage to my opponent, do I copy the next planeswalker activation twice, or the next two activations once each?"
+  },
+  {
+    "imgs": [
+      "Bear Cub",
+      "Giant Growth",
+      "Cyber Conversion"
+    ],
+    "q": "My opponent attacks me with a Bear Cub, and I don't block it. Before damage, they pump it with Giant Growth. Can I shrink it back to 2/2 with Cyber Conversion?"
+  },
+  {
+    "imgs": [
+      "Candlekeep Inspiration",
+      "Ixidron"
+    ],
+    "q": "Candlekeep Inspiration has made my creatures 30/30. If my opponent flashes in Ixidron, do my creatures become 2/2 or stay 30/30?"
+  },
+  {
+    "imgs": [
+      "The Cyber-Controller"
+    ],
+    "q": "Are the Cyberman artifact creatures from The Cyber-Controller token creatures or nontoken creatures?"
+  },
+  {
+    "imgs": [
+      "Ixidron"
+    ],
+    "q": "So if they're nontoken creatures, would Ixidron turn them face-up?"
+  },
+  {
+    "imgs": [
+      "Vial Smasher the Fierce",
+      "Isochron Scepter"
+    ],
+    "q": "If I control Vial Smasher the Fierce and activate Isochron Scepter to cast the imprinted card, does Vial Smasher's ability trigger?"
+  },
+  {
+    "imgs": [],
+    "q": "Are these cards going to be legal in Standard or Modern?"
+  },
+  {
+    "imgs": [
+      "Missy",
+      "TARDIS"
+    ],
+    "q": "So, since Missy and TARDIS are legal in Legacy, does that mean I can have a planar deck in a Legacy tournament?"
+  },
+  {
+    "imgs": [
+      "Rose Tyler",
+      "The Tenth Doctor"
+    ],
+    "q": "Can I partner Rose Tyler with The Tenth Doctor even though there is no white in The Tenth Doctor's color identity?"
+  },
+  {
+    "imgs": [
+      "K-9, Mark I",
+      "Morophon, the Boundless"
+    ],
+    "q": "Can I team up K-9, Mark I with Morophon, the Boundless because Morophon is a Doctor?"
+  },
+  {
+    "imgs": [
+      "The Thirteenth Doctor",
+      "Embiggen"
+    ],
+    "q": "Speaking of Time Lord Doctors, how many creature types does the Doctor have? Embiggen wants to know."
+  },
+  {
+    "imgs": [
+      "Avian Changeling",
+      "Gallifrey Stands"
+    ],
+    "q": "Do changelings count for the win condition of Gallifrey Stands?"
+  },
+  {
+    "imgs": [
+      "Gallifrey Stands"
+    ],
+    "q": "What happens if I already control thirteen Doctors and don't put another Doctor card onto the battlefield when Gallifrey Stands's ability resolves? Do I still win the game?"
+  },
+  {
+    "imgs": [
+      "The Eleventh Doctor",
+      "Ancestral Vision"
+    ],
+    "q": "If I use The Eleventh Doctor's first ability to exile Ancestral Vision from my hand, when do I end up casting Ancestral Vision?"
+  },
+  {
+    "imgs": [
+      "Wibbly-wobbly, Timey-wimey",
+      "The Eleventh Hour"
+    ],
+    "q": "How does time travel interact with Sagas?"
+  },
+  {
+    "imgs": [
+      "Wibbly-wobbly, Timey-wimey",
+      "Doubling Season"
+    ],
+    "q": "How does time travel interact with Doubling Season?"
+  },
+  {
+    "imgs": [
+      "Clara Oswald",
+      "The Twelfth Doctor"
+    ],
+    "q": "If I control Clara Oswald and The Twelfth Doctor, does the first spell I cast from somewhere other than my hand have demonstrate twice?"
+  },
+  {
+    "imgs": [
+      "Yasmin Khan"
+    ],
+    "q": "If I use Yasmin Khan's ability to exile the top card of my library, do I get to cast it for free and/or at a time when I couldn't normally cast it?"
+  },
+  {
+    "imgs": [
+      "The Thirteenth Doctor",
+      "Time Lord Regeneration"
+    ],
+    "q": "I control The Thirteenth Doctor while Time Lord Regeneration \"regenerates\" another Time Lord. Does the Paradox ability trigger?"
+  },
+  {
+    "imgs": [
+      "Into the Time Vortex",
+      "The Thirteenth Doctor"
+    ],
+    "q": "Does cascade trigger The Thirteenth Doctor's Paradox ability?"
+  },
+  {
+    "imgs": [
+      "The Foretold Soldier"
+    ],
+    "q": "If The Foretold Soldier gets blocked by something that can kill it, does it still become foretold?"
+  },
+  {
+    "imgs": [
+      "The Valeyard"
+    ],
+    "q": "What on Earth is a villainous choice?"
+  },
+  {
+    "imgs": [
+      "Mirror Box",
+      "Death in Heaven"
+    ],
+    "q": "Does Mirror Box give the Cyberman creatures from Death in Heaven a big power/toughness boost?"
+  },
+  {
+    "imgs": [
+      "From the Ashes",
+      "River Song"
+    ],
+    "q": "How many times does From the Ashes trigger River Song's ability if multiple lands get destroyed?"
+  },
+  {
+    "imgs": [
+      "The War Doctor",
+      "Teferi's Protection"
+    ],
+    "q": "If I control The War Doctor and phase out all my permanents with Teferi's Protection, does The War Doctor still get a time counter for the other permanents that phase out at the same time as it?"
+  },
+  {
+    "imgs": [
+      "Isshin, Two Heavens as One",
+      "Cybermat"
+    ],
+    "q": "If I control Isshin, Two Heavens as One, does Cybermat's attack trigger get doubled?"
+  },
+  {
+    "imgs": [
+      "Deep-Cavern Bat",
+      "Breeches, Eager Pillager",
+      "Eaten by Piranhas"
+    ],
+    "q": "My opponent cast Deep-Cavern Bat and exiled Breeches, Eager Pillager from my hand. Later on, I cast Eaten by Piranhas on the Bat. Do I get my exiled card back?"
+  },
+  {
+    "imgs": [
+      "Council of Echoes",
+      "Council of Echoes"
+    ],
+    "q": "If my opponent controls a Council of Echoes, can I play my own copy of Council of Echoes with descend active and bounce my opponent's Council of Echoes?"
+  },
+  {
+    "imgs": [
+      "Hulking Raptor"
+    ],
+    "q": "If I cast Hulking Raptor during my first main phase, do I immediately get two green mana from its triggered ability?"
+  },
+  {
+    "imgs": [
+      "Pirate Hat",
+      "Eaten by Piranhas"
+    ],
+    "q": "My opponent controls a creature equipped with Pirate Hat. If I enchant it with Eaten by Piranhas, what happens to their creature?"
+  },
+  {
+    "imgs": [
+      "The Ozolith"
+    ],
+    "q": "If The Ozolith ends up with a finality counter on it, and then The Ozolith is destroyed, what happens?"
+  },
+  {
+    "imgs": [
+      "Geological Appraiser"
+    ],
+    "q": "What happens if I resolve Geological Appraiser's discover 3 trigger but I don't have any cards with a mana value of 3 or less left in my library?"
+  },
+  {
+    "imgs": [
+      "Ojer Pakpatiq, Deepest Epoch",
+      "Virtue of Loyalty // Ardenvale Fealty"
+    ],
+    "q": "I control Ojer Pakpatiq, Deepest Epoch. If I cast Ardenvale Fealty from my hand (the adventure part of Virtue of Loyalty), what happens when it resolves?"
+  },
+  {
+    "imgs": [
+      "The Enigma Jewel",
+      "The Eternal Wanderer",
+      "Quintorius Kand",
+      "Locus of Enlightenment"
+    ],
+    "q": "I activate the craft ability of The Enigma Jewel, choosing to exile The Eternal Wanderer and Quintorius Kand, among other cards. Can I activate two loyalty abilities of Locus of Enlightenment, one ability given to it by The Eternal Wanderer, and a second ability given to it by Quintorius Kand?"
+  },
+  {
+    "imgs": [
+      "The Mightstone and Weakstone",
+      "The Golden-Gear Colossus"
+    ],
+    "q": "What happens if I target The Mightstone and Weakstone with the triggered ability from The Golden-Gear Colossus?"
+  },
+  {
+    "imgs": [
+      "Roaming Throne",
+      "Pantlaza, Sun-Favored"
+    ],
+    "q": "I control Roaming Throne with \"Dinosaur\" as the chosen type. If I cast Pantlaza, Sun-Favored, does that mean I get two of Pantlaza's enter the battlefield triggers?"
+  },
+  {
+    "imgs": [
+      "Geological Appraiser",
+      "Ephemerate"
+    ],
+    "q": "I cast Geological Appraiser, and with its discover trigger, I exile and cast Ephemerate. Do I get to cast Ephemerate off of rebound on my next upkeep?"
+  },
+  {
+    "imgs": [
+      "Sandswirl Wanderglyph"
+    ],
+    "q": "If I remove my opponent's Sandswirl Wanderglyph, am I free to cast spells and attack like normal?"
+  },
+  {
+    "imgs": [
+      "Sandswirl Wanderglyph"
+    ],
+    "q": "How does Sandswirl Wanderglyph work in a game of Two-Headed Giant?"
+  },
+  {
+    "imgs": [
+      "Topography Tracker",
+      "River Herald Guide"
+    ],
+    "q": "If I have two Topography Trackers in play, and I cast River Herald Guide, how many times will I explore?"
+  },
+  {
+    "imgs": [
+      "Knight of Malice",
+      "Indominus Rex, Alpha"
+    ],
+    "q": "If I discard Knight of Malice to Indominus Rex, Alpha, what kind of counters does Indominus Rex get?"
+  },
+  {
+    "imgs": [
+      "Ad Nauseam",
+      "Permission Denied",
+      "Counterspell"
+    ],
+    "q": "My opponent just cast Ad Nauseam, so I responded with Permission Denied to counter it. But in response to Permission Denied, another opponent cast Counterspell targeting Ad Nauseam. What happens when Permission Denied resolves?"
+  },
+  {
+    "imgs": [
+      "Anhelo, the Painter",
+      "Molten Collapse",
+      "Hulking Goblin"
+    ],
+    "q": "It's my turn, and I have Anhelo, the Painter in play and Molten Collapse in my hand, and I haven't had any permanent cards go to my graveyard yet. Can I cast Molten Collapse, use casualty from Anhelo and sacrifice a Hulking Goblin and be able to choose both modes of Molten Collapse?"
+  },
+  {
+    "imgs": [
+      "Hakbal of the Surging Soul",
+      "Benthic Biomancer"
+    ],
+    "q": "I have three Merfolk in play, including a Hakbal of the Surging Soul and a Benthic Biomancer. Hakbal's beginning of combat trigger resolves, and my Merfolk explore, starting with Benthic Biomancer. If I reveal a nonland card for the Biomancer's trigger, do I resolve the Biomancer's trigger before my next Merfolk explores?"
+  },
+  {
+    "imgs": [
+      "Soulcoil Viper"
+    ],
+    "q": "If my commander gets a finality counter, what happens to my commander if it would die?"
+  },
+  {
+    "imgs": [
+      "Slicer, Hired Muscle",
+      "Hunter's Blowgun"
+    ],
+    "q": "I control Slicer, Hired Muscle which is equipped with my Hunter's Blowgun. If I give control of Slicer to my opponent during their upkeep, which ability will Slicer gain, deathtouch or reach?"
+  },
+  {
+    "imgs": [
+      "Agatha of the Vile Cauldron",
+      "Granitic Titan"
+    ],
+    "q": "I control Agatha of the Vile Cauldron and have a Granitic Titan in my hand. Does Agatha reduce the cost to cycle the Titan out of my hand?"
+  },
+  {
+    "imgs": [
+      "Aquatic Alchemist // Bubble Up",
+      "Aquatic Alchemist // Bubble Up"
+    ],
+    "q": "I have an Aquatic Alchemist in my graveyard and a second copy of Aquatic Alchemist in my hand. Can I use the Adventure side of the one in my hand (Bubble Up) to put the Aquatic Alchemist in my graveyard on top of my library?"
+  },
+  {
+    "imgs": [
+      "Ashiok's Reaper",
+      "Conceited Witch // Price of Beauty",
+      "Murder"
+    ],
+    "q": "I control a Ashiok's Reaper and a 2/2 Zombie token enchanted with a Wicked Role (from the spell Price of Beauty). If my opponent Murders the Zombie, does the Wicked Role go to the graveyard and cause Ashiok's Reaper to draw me a card?"
+  },
+  {
+    "imgs": [
+      "Ashiok's Reaper",
+      "Murder"
+    ],
+    "q": "Cool. If the Wicked Role was enchanting my Ashiok's Reaper instead and then it got Murdered, would I still draw a card?"
+  },
+  {
+    "imgs": [
+      "Leyline of the Void",
+      "Bear Cub",
+      "Knightly Valor",
+      "Break the Spell"
+    ],
+    "q": "My opponent controls Leyline of the Void and I control a Bear Cub enchanted with my Knightly Valor. If I target my own Valor with Break the Spell, will I draw a card? Or will Leyline exiling it prevent the card draw?"
+  },
+  {
+    "imgs": [
+      "Callous Sell-Sword // Burn Together",
+      "Bear Cub",
+      "Dark Confidant",
+      "Corrupted Conviction"
+    ],
+    "q": "I cast Burn Together to have my Bear Cub deal damage to my opponent's Dark Confidant. My opponent responded by sacrificing the Dark Confidant to Corrupted Conviction. Do I still have to sacrifice my Bear Cub even though there is no creature for it to deal its damage to?"
+  },
+  {
+    "imgs": [
+      "Faerie Fencing",
+      "Hill Giant",
+      "Disdainful Stroke"
+    ],
+    "q": "My opponent casts Faerie Fencing targeting my Hill Giant. The  for Faerie Fencing was 3, so it would kill my Giant. Can I counter the Faerie Fencing with Disdainful Stroke?"
+  },
+  {
+    "imgs": [
+      "The End",
+      "Savage Packmate",
+      "Child of the Pack"
+    ],
+    "q": "I used The End to exile my opponent's Savage Packmate. When I search the opponent's graveyard, library, and hand, do I exile cards named Savage Packmate or Child of the Pack?"
+  },
+  {
+    "imgs": [
+      "Expel the Interlopers"
+    ],
+    "q": "Expel the Interlopers says choose a number between 0 and 10. Can I choose 0? Or must I only choose numbers that appear between 0 and 10?"
+  },
+  {
+    "imgs": [
+      "Glass Casket",
+      "Disenchant"
+    ],
+    "q": "I cast Glass Casket and have its enter-the-battlefield trigger target my opponent's 1/1 Soldier token. If my opponent responds to the trigger by Disenchanting my Glass Casket, do I still get to exile the Soldier token?"
+  },
+  {
+    "imgs": [
+      "Mishra, Lost to Phyrexia",
+      "Horned Loch-Whale // Lagoon Breach"
+    ],
+    "q": "If my opponent controls an attacking Mishra, Lost to Phyrexia and I target it with Lagoon Breach, what happens?"
+  },
+  {
+    "imgs": [
+      "Murder",
+      "Mishra, Lost to Phyrexia",
+      "Not Dead After All"
+    ],
+    "q": "If my opponent tries to Murder my Mishra, Lost to Phyrexia and I respond with Not Dead After All, what happens?"
+  },
+  {
+    "imgs": [
+      "Niv-Mizzet, Supreme",
+      "Questing Druid // Seek the Beast"
+    ],
+    "q": "If I cast Niv-Mizzet, Supreme while I control Questing Druid, does the Druid get four +1/+1 counters?"
+  },
+  {
+    "imgs": [
+      "Rankle's Prank"
+    ],
+    "q": "My opponent casts Rankle's Prank choosing all three modes. Do I get to see what cards my opponent discards before I have to decide what I will discard? Do I get to know what creatures my opponent will sacrifice before I choose what creatures I sacrifice?"
+  },
+  {
+    "imgs": [
+      "Regal Bunnicorn",
+      "Imperial Recruiter"
+    ],
+    "q": "Can I find Regal Bunnicorn with the enter-the-battlefield trigger of Imperial Recruiter?"
+  },
+  {
+    "imgs": [
+      "Restless Bivouac"
+    ],
+    "q": "If I attack with an animated Restless Bivouac and place the +1/+1 counter it makes on itself, does the counter fall off at the end of turn when it stops being a creature?"
+  },
+  {
+    "imgs": [
+      "Sharae of Numbing Depths",
+      "Likeness Looter"
+    ],
+    "q": "Sharae of Numbing Depths is in my graveyard and is currently being copied by Likeness Looter. I've already drawn one card from the copied Sharae's ability by tapping down an opponent's creature. If I have Sharae activate its X ability to become a copy of Sharae again, can I trigger the draw a card ability a second time this turn if I tap down another creature?"
+  },
+  {
+    "imgs": [
+      "Skewer Slinger"
+    ],
+    "q": "My attacking Skewer Slinger was blocked by a single 1/1 Soldier token. The Soldier died to Slinger's triggered ability before combat damage. Does my Slinger deal its combat damage to my opponent now?"
+  },
+  {
+    "imgs": [
+      "Skewer Slinger"
+    ],
+    "q": "What happens if we have the same question as that last one, but this time my Skewer Slinger has a Monster Role attached to it?"
+  },
+  {
+    "imgs": [
+      "Court of Garenbrig",
+      "Bear Cub",
+      "Hill Giant",
+      "Murder"
+    ],
+    "q": "I control Court of Garenbrig and I'm not currently the monarch. As my upkeep began, I put Court of Garenbrig's trigger on the stack targeting my Bear Cub and my Hill Giant, wanting to put a +1/+1 counter on each. Before the trigger resolved, my opponent Murdered my Hill Giant. When Garenbrig's trigger resolves, I'm convinced I get to put two +1/+1 counters on my Bear Cub, but my opponent thinks it only gets one +1/+1 counter. Who is correct?"
+  },
+  {
+    "imgs": [
+      "Orcish Bowmasters"
+    ],
+    "q": "Let's say I control an Orc Army and it somehow phases out. While it's phased out, I amass Orcs again, so I get a new Orc Army token. What happens if I amass Orcs again after the first Orc Army token phases back in?"
+  },
+  {
+    "imgs": [
+      "Reanimate",
+      "Dire Wolves",
+      "Act of Treason"
+    ],
+    "q": "In a four-player Commander game, Arya Reanimated Bran's Dire Wolves. Later, Bran steals his Wolves back with Act of Treason and kills Arya with it. What happens at the end of the turn when Act of Treason's effect wears off?"
+  },
+  {
+    "imgs": [
+      "Tayam, Luminous Enigma",
+      "Phyrexian Tower",
+      "Wastes"
+    ],
+    "q": "I control Tayam, Luminous Enigma, an untapped Phyrexian Tower, an untapped Wastes, and an Orc Army token with three +1/+1 counters on it. Can I activate Tayam's ability by removing the counters from the Orc Army, tapping the Wastes, and sacrificing the Orc Army to Phyrexian Tower for mana?"
+  },
+  {
+    "imgs": [
+      "Elminster",
+      "Sigiled Starfish",
+      "Augury Owl"
+    ],
+    "q": "I control Elminster, and I use Sigiled Starfish to scry 1, then I cast Augury Owl to scry 3, and finally I activate Elminster's +2 ability to draw a card and scry 2. How much less does my next instant or sorcery cost to cast?"
+  },
+  {
+    "imgs": [
+      "Mayhem Devil"
+    ],
+    "q": "Which of these can Mayhem Devil deal damage to?"
+  },
+  {
+    "imgs": [
+      "Bloodbraid Elf",
+      "Fireball"
+    ],
+    "q": "I cast Bloodbraid Elf and I'm resolving its cascade ability. The first card I exile is Fireball. What do I do next?"
+  },
+  {
+    "imgs": [
+      "Torment of Hailfire",
+      "Teferi's Protection"
+    ],
+    "q": "I cast Torment of Hailfire for X=11 and my opponent responds with Teferi's Protection. What happens when Torment of Hailfire resolves?"
+  },
+  {
+    "imgs": [
+      "Lambholt Elder",
+      "Mirrorhall Mimic",
+      "Quasiduplicate"
+    ],
+    "q": "I control a Lambholt Elder and copy it with Mirrorhall Mimic. Then I make a token copy of Mirrorhall Mimic, so the token looks like Lambholt Elder except that it's also a Spirit. Next turn, no spells are cast, so the turn after that all the Lambholt Elders want to transform. What happens to the token?"
+  },
+  {
+    "imgs": [
+      "Timeless Lotus"
+    ],
+    "q": "Which of these cards can be my commander if my deck contains Timeless Lotus?"
+  },
+  {
+    "imgs": [],
+    "q": "In a Legacy tournament at Competitive REL, a player picks up their graveyard to look at it and absentmindedly shuffles it. Assuming that the player does not have any cards in their deck that care about the order of the graveyard, what infraction has the player committed?"
+  },
+  {
+    "imgs": [
+      "Bilious Skulldweller",
+      "Virulent Sliver"
+    ],
+    "q": "Why did they decide to use toxic and not bring back poisonous?"
+  },
+  {
+    "imgs": [
+      "Nimraiser Paladin",
+      "Prosthetic Injector"
+    ],
+    "q": "If I equip my Nimraiser Paladin  with a Prosthetic Injector and attack my opponent with it, how many poison counters will they get?"
+  },
+  {
+    "imgs": [
+      "Anoint with Affliction"
+    ],
+    "q": "What does it mean to be \"corrupted\"?"
+  },
+  {
+    "imgs": [
+      "Watchful Blisterzoa"
+    ],
+    "q": "What does an oil counter do?"
+  },
+  {
+    "imgs": [
+      "Branchblight Stalker",
+      "Impede Momentum"
+    ],
+    "q": "If my Branchblight Stalker has both a +1/+1 counter and a stun counter from Impede Momentum on it, and I proliferate, can I choose to just proliferate just the +1/+1 counter and not the stun counter?"
+  },
+  {
+    "imgs": [
+      "All Will Be One",
+      "Kaya, Intangible Slayer"
+    ],
+    "q": "I have All Will Be One in play. If I cast a planeswalker like Kaya, Intangible Slayer, will All Will Be One trigger and let me deal 6 damage?"
+  },
+  {
+    "imgs": [
+      "Elesh Norn, Mother of Machines"
+    ],
+    "q": "If my opponent and I both control an Elesh Norn, Mother of Machines, what happens to our triggered abilities?"
+  },
+  {
+    "imgs": [
+      "Elesh Norn, Mother of Machines",
+      "Koth, Fire of Resistance"
+    ],
+    "q": "If my opponent controls Elesh Norn, Mother of Machines, does that mean planeswalkers I cast (like Koth, Fire of Resistance) won't enter with any loyalty counters on it?"
+  },
+  {
+    "imgs": [
+      "Elesh Norn, Mother of Machines",
+      "Dress Down"
+    ],
+    "q": "My opponent controls Elesh Norn, Mother of Machines. If I cast Dress Down, will I draw a card when Dress Down enters, or will Elesh Norn stop it from triggering?"
+  },
+  {
+    "imgs": [
+      "Geth, Thane of Contracts",
+      "Fleshbag Marauder"
+    ],
+    "q": "I control Geth, Thane of Contracts. If I return a Fleshbag Marauder, can I sacrifice the Marauder to its enter the battlefield trigger before it dies due to having a toughness of 0?"
+  },
+  {
+    "imgs": [
+      "Capricious Hellraiser"
+    ],
+    "q": "What happens if I only have two cards in my graveyard when Capricious Hellraiser enters the battlefield?"
+  },
+  {
+    "imgs": [
+      "Armored Scrapgorger"
+    ],
+    "q": "All graveyards are empty, and I tap and attack with an Armored Scrapgorger. Do I still get to put an oil counter on the Scrapgorger?"
+  },
+  {
+    "imgs": [
+      "White Sun's Twilight"
+    ],
+    "q": "If I cast White Sun's Twilight with X=5, whose creatures are destroyed?"
+  },
+  {
+    "imgs": [
+      "Thrun, Breaker of Silence",
+      "Assassin's Trophy"
+    ],
+    "q": "Can my opponent target and destroy my Thrun, Breaker of Silence with an Assassin's Trophy?"
+  },
+  {
+    "imgs": [
+      "Graaz, Unstoppable Juggernaut",
+      "Ovinize"
+    ],
+    "q": "I have a Graaz, Unstoppable Juggernaut and some other creatures in play. My opponent casts Ovinize targeting Graaz. What happens to my other creatures?"
+  },
+  {
+    "imgs": [
+      "Nahiri, the Unforgiving"
+    ],
+    "q": "If I activate Nahiri, the Unforgiving's first +1 targeting an opponent's creature in a multiplayer game, do I also get to choose which player that creature attacks?"
+  },
+  {
+    "imgs": [
+      "Synthesis Pod"
+    ],
+    "q": "Can I activate the ability of Synthesis Pod and exile a card from my graveyard to activate the ability?"
+  },
+  {
+    "imgs": [
+      "Synthesis Pod",
+      "Bring the Ending"
+    ],
+    "q": "Could my opponent respond to Synthesis Pod's ability by countering the spell I want to exile with Bring the Ending?"
+  },
+  {
+    "imgs": [
+      "Phyrexian Obliterator"
+    ],
+    "q": "Can I use the New Phyrexia version of Phyrexian Obliterator in a Standard tournament?"
+  },
+  {
+    "imgs": [],
+    "q": "I heard something about how cards from Phyrexia: All Will Be One will be legal earlier than other sets. Is that true?"
+  },
+  {
+    "imgs": [
+      "Death's Shadow"
+    ],
+    "q": "My opponent is currently at 10 life. If I attack my opponent with two 3/3 Beast tokens and my opponent blocks one of them with his Death's Shadow, does the Shadow get big enough to survive the combat damage in time?"
+  },
+  {
+    "imgs": [
+      "Shardless Agent",
+      "Living End",
+      "Containment Priest"
+    ],
+    "q": "My opponent has cascaded into Living End and I have a Containment Priest in my hand. My opponent claims there is no point I can cast the Priest to prevent Living End from reanimating creatures. Is this true?"
+  },
+  {
+    "imgs": [
+      "Uncivil Unrest",
+      "Jeska, Thrice Reborn",
+      "Bear Cub"
+    ],
+    "q": "I control Uncivil Unrest, Jeska, Thrice Reborn, and an attacking Bear Cub with a +1/+1 counter on it. Before attacking with the Bear Cub, I used Jeska's +0 ability to triple the Bear's damage. If my opponent doesn't block the Bear Cub, how much damage will it deal?"
+  },
+  {
+    "imgs": [
+      "Gisa, Glorious Resurrector",
+      "Hill Giant",
+      "Asphyxiate",
+      "Momentary Blink"
+    ],
+    "q": "My Gisa, Glorious Resurrector exiled my opponent's Bear Cub because it died blocking my Hill Giant. During my opponent's turn, they target Gisa with Asphyxiate. I respond by Momentary Blinking her. As my turn begins will I get a decayed Bear Cub?"
+  },
+  {
+    "imgs": [
+      "Puresteel Paladin",
+      "Lucille",
+      "Sword of Light and Shadow"
+    ],
+    "q": "I control Puresteel Paladin which is currently wielding Lucille. I then equip Sword of Light and Shadow onto the Paladin. When I attack with the Paladin, how much damage does it deal if it goes unblocked?"
+  },
+  {
+    "imgs": [
+      "Anikthea, Hand of Erebos",
+      "Necromancy"
+    ],
+    "q": "My commander is Anikthea, Hand of Erebos. If I have her make a copy of Necromancy from my graveyard, what happens to the Necromancy token?"
+  },
+  {
+    "imgs": [
+      "Evolved Sleeper",
+      "Vantress Transmuter // Croaking Curse"
+    ],
+    "q": "On my last turn, I upgraded my Evolved Sleeper into a 2/2 Human Cleric. After this, my opponent placed a Cursed Role on it during their turn, using Croaking Curse. It's now my turn again. Can I activate Evolved Sleeper's first ability? And if so, what will it look like?"
+  },
+  {
+    "imgs": [],
+    "q": "Same set up as the last question. Can I activate the Evolved Sleeper's second ability? And if so, what will it look like?"
+  },
+  {
+    "imgs": [
+      "Tribute to the World Tree",
+      "Branching Evolution",
+      "Bear Cub"
+    ],
+    "q": "I control two copies of Tribute to the World Tree and two copies of Branching Evolution. If I cast Bear Cub, how many +1/+1 counters will it end up with and will I draw any cards?"
+  },
+  {
+    "imgs": [
+      "Kaalia of the Vast",
+      "Baneslayer Angel",
+      "Horn of the Mark"
+    ],
+    "q": "If I attack with only Kaalia of the Vast putting a Baneslayer Angel onto the battlefield attacking with Kaalia's trigger, will this trigger my Horn of the Mark?"
+  },
+  {
+    "imgs": [
+      "Horn of the Mark"
+    ],
+    "q": "In a game of Commander I have three opponents. I attack each of them in the same turn with three 1/1 Saproling tokens. Does this trigger my Horn of the Mark once or three times?"
+  },
+  {
+    "imgs": [
+      "Damping Sphere",
+      "Nyxbloom Ancient",
+      "Ancient Tomb"
+    ],
+    "q": "My opponent controls Damping Sphere and I control Nyxbloom Ancient. If I tap my Ancient Tomb for mana, how much mana does it make?"
+  },
+  {
+    "imgs": [],
+    "q": "I'm not sure why, but I've always played with my lands on the left side of my battlefield. I had an opponent tell me that it's against the rules, and that I have to play with my lands in the back. Is this true?"
+  },
+  {
+    "imgs": [
+      "Farewell",
+      "Teferi's Protection"
+    ],
+    "q": "My opponent casts Farewell so I respond by phasing myself out with Teferi's Protection. My opponent chooses all modes for Farewell and claims they still exile my graveyard. Is this true?"
+  },
+  {
+    "imgs": [
+      "Precursor Golem",
+      "Sublime Epiphany"
+    ],
+    "q": "I control Precursor Golem and its two 3/3 Golem tokens. If I target Precursor Golem with Sublime Epiphany choosing the copy target creature mode and the draw a card mode, can I choose different modes with the two copies of Sublime Epiphany?"
+  },
+  {
+    "imgs": [
+      "Brenard, Ginger Sculptor",
+      "Bear Cub",
+      "Day of Judgment"
+    ],
+    "q": "I control Brenard, Ginger Sculptor and three Bear Cubs. My opponent casts Day of Judgment. Does Brenard still make three gingerbread Bear Cubs, even though he is dying along with them?"
+  },
+  {
+    "imgs": [
+      "Mortuary",
+      "Clone",
+      "Gyruda, Doom of Depths"
+    ],
+    "q": "If I control Mortuary and cast Clone choosing to copy my Gyruda, Doom of Depths, can I infinitely mill all other players?"
+  },
+  {
+    "imgs": [
+      "Bear Cub",
+      "Emberwilde Captain",
+      "Aetherize"
+    ],
+    "q": "My opponent attacks me with three Bear Cubs while I'm the monarch and I control an Emberwilde Captain. The opponent currently has four cards in their hand. Is it possible for me to use the Aetherize in my hand to increase the damage Emberwilde does to greater than 4?"
+  },
+  {
+    "imgs": [
+      "Parallel Thoughts",
+      "glimpse the unthinkable"
+    ],
+    "q": "I control Parallel Thoughts and my library has been entirely milled out by my opponent. If there are no more cards exiled by Parallel Thoughts, can I still have it replace my draw so I don't lose the game for drawing from an empty library?"
+  },
+  {
+    "imgs": [
+      "Breathkeeper Seraph",
+      "Uro, Titan of Nature's Wrath"
+    ],
+    "q": "I control Breathkeeper Seraph and cast Uro, Titan of Nature's Wrath from my hand. Can I soulbond Uro to Breathkeeper before Uro gets sacrificed to its own ability? And if I can, can I now get as many Uro triggers as I want?"
+  },
+  {
+    "imgs": [
+      "Ego Drain"
+    ],
+    "q": "Am I allowed to cast Ego Drain even if my hand is empty?"
+  },
+  {
+    "imgs": [
+      "Gruff Triplets"
+    ],
+    "q": "I control Gruff Triplets and its two token copies. I attack with all three, and my opponent blocks each one with a 3/3 of their own. Is there a way to stack the triggers so one Triplets dies first, pumping the other two to save them?"
+  },
+  {
+    "imgs": [
+      "Greater Auramancy",
+      "Cooped Up"
+    ],
+    "q": "I control a 4/4 creature and a Greater Auramancy. My opponent enchants my 4/4 with Cooped Up. Can they still use Cooped Up's activated ability to exile my creature?"
+  },
+  {
+    "imgs": [
+      "Talion, the Kindly Lord",
+      "Smuggler's Copter"
+    ],
+    "q": "I have Talion, the Kindly Lord in play, with the number \"3\" chosen. If my opponent casts a Smuggler's Copter, will Talion trigger?"
+  },
+  {
+    "imgs": [
+      "Elvish Vatkeeper",
+      "Doubling Season"
+    ],
+    "q": "I control an Elvish Vatkeeper, a Doubling Season, and an Incubator token with four +1/+1 counters on it. I activate the Vatkeeper's ability, targeting my Incubator tokens. How many +1/+1 counters does it end up with?"
+  },
+  {
+    "imgs": [
+      "Imodane, the Pyrohammer",
+      "Fear, Fire, Foes!"
+    ],
+    "q": "I have Imodane, the Pyrohammer in play. If I cast Fear, Fire, Foes! with X=4 targeting my opponent's 4/4 while they have three 1/1s in play, will I get an Imodan trigger? If so, how much damage will be dealt?"
+  },
+  {
+    "imgs": [
+      "Breach the Multiverse",
+      "Archangel of Wrath",
+      "Jace, the Perfected Mind",
+      "Leyline Binding"
+    ],
+    "q": "My opponent just cast Breach the Multiverse, putting an Archangel of Wrath and a Jace, the Perfected Mind in play. Even though it wasn't kicked, will the Archangel's triggers still go on the stack, giving me a chance to cast Leyline Binding to exile Jace before they can activate one of Jace's loyalty abilities?"
+  },
+  {
+    "imgs": [
+      "Ohabi Caleria",
+      "Arbalest Elite"
+    ],
+    "q": "I control Ohabi Caleria and an Arbalest Elite. I had to activate the Elite's ability during combat on my turn. Will the Elite untap during my opponent's untap step?"
+  },
+  {
+    "imgs": [
+      "Aquatic Alchemist // Bubble Up",
+      "Eye of the Storm"
+    ],
+    "q": "What happens if I cast Bubble Up with an Eye of the Storm in play? Do I get to cast a copy of Aquatic Alchemist?"
+  },
+  {
+    "imgs": [
+      "Worldspine Wurm",
+      "Undying Evil"
+    ],
+    "q": "If I target Worldspine Wurm with Undying Evil, what happens when my Wurm dies?"
+  },
+  {
+    "imgs": [
+      "Onakke Oathkeeper",
+      "Gideon Jura"
+    ],
+    "q": "My opponent controls an Onakke Oathkeeper and a Gideon Jura. My opponent activated the +2 ability of Gideon, targeting me. What happens on my next turn? Am I forced to pay to attack Gideon?"
+  },
+  {
+    "imgs": [
+      "Bladegriff Prototype"
+    ],
+    "q": "I'm in a multiplayer game, and I have two Bladegriff Prototypes in play. If I attack the same player with both and they both deal damage, are they forced to destroy two permanents?"
+  },
+  {
+    "imgs": [
+      "Trial of a Time Lord"
+    ],
+    "q": "What happens if the vote that happens during chapter IV of Trial of a Time Lord is tied?"
+  },
+  {
+    "imgs": [
+      "Vislor Turlough"
+    ],
+    "q": "I'm in a multiplayer game, and I cast Vislor Turlough, and I gave it to one of my opponents. But then that opponent lost the game. What happens with Vislor Turlough?"
+  },
+  {
+    "imgs": [
+      "Psychic Paper"
+    ],
+    "q": "If I attach Psychic Paper to a creature, can I choose \"changeling\" as its creature type so it has all creature types?"
+  },
+  {
+    "imgs": [
+      "All Will Be One",
+      "Dinosaurs on a Spaceship"
+    ],
+    "q": "If I have an All Will Be One in play, will suspending Dinosaurs on a Spaceship let me deal 4 damage to a target?"
+  },
+  {
+    "imgs": [
+      "Rassilon, the War President"
+    ],
+    "q": "How does Rassilon, the War President work with casting a colorless spell from exile? Am I allowed to tap two colorless creatures to conspire the spell?"
+  },
+  {
+    "imgs": [
+      "Everybody Lives!",
+      "Ad Nauseam"
+    ],
+    "q": "If Everybody Lives! has resolved, what happens if I cast Ad Nauseam?"
+  },
+  {
+    "imgs": [
+      "Davros, Dalek Creator",
+      "Sizzle"
+    ],
+    "q": "I'm in a four player game, and I have Davros, Dalek Creator. During my main phase, I cast Sizzle to deal three damage to each opponent. During my end step, how many Dalek tokens do I create?"
+  },
+  {
+    "imgs": [
+      "Harvesttide Infiltrator"
+    ],
+    "q": "How does day/night work in a game of Two-Headed giant?"
+  },
+  {
+    "imgs": [
+      "Helm of Awakening",
+      "Everflowing Chalice"
+    ],
+    "q": "Does Helm of Awakening reduce the kicker cost of Everflowing Chalice?"
+  },
+  {
+    "imgs": [
+      "Teferi's Protection"
+    ],
+    "q": "If I use Teferi's Protection, can my opponent still kill me with poison counters?"
+  },
+  {
+    "imgs": [
+      "Cut In"
+    ],
+    "q": "I cast Cut In targeting an opponent's creature for the damage and my creature for the Role token. In response, my opponent feeds their creature to some sacrifice outlet. Does my creature stil get the Role token?"
+  },
+  {
+    "imgs": [
+      "Maralen of the Mornsong",
+      "Windfall"
+    ],
+    "q": "I control Maralen of the Mornsong and my opponent plays Windfall. Do we still draw cards because Windfall has the later timestamp?"
+  },
+  {
+    "imgs": [
+      "Asmodeus the Archfiend",
+      "Maralen of the Mornsong"
+    ],
+    "q": "What about Asmodeus the Archfiend? If I control Maralen of the Mornsong, can my opponent's Asmodeus still replace their card draws?"
+  },
+  {
+    "imgs": [
+      "Anikthea, Hand of Erebos",
+      "Doubling Season"
+    ],
+    "q": "If I use Anikthea, Hand of Erebos to make a token copy of a Doubling Season in my graveyard, does Doubling Season token double itself as it enters the battlefield?"
+  },
+  {
+    "imgs": [
+      "Lava Spike",
+      "Lava Spike"
+    ],
+    "q": "I have three Lava Spikes from Modern Masters that say \"target player\" and one Lava Spike from Time Spiral Remastered that says \"target player or planeswalker.\" Can I play all four cards in the same deck, and if so, which wording is correct?"
+  },
+  {
+    "imgs": [
+      "Jaya's Immolating Inferno",
+      "Imodane, the Pyrohammer"
+    ],
+    "q": "If I cast Jaya's Immolating Inferno targeting one of my opponent's creatures, does it trigger Imodane, the Pyrohammer's ability?"
+  },
+  {
+    "imgs": [
+      "Likeness Looter"
+    ],
+    "q": "If Likeness Looter copies a creature and later on copies another creature, does it have the abilities from both creatures?"
+  },
+  {
+    "imgs": [
+      "Wall of Roots",
+      "Agatha's Soul Cauldron"
+    ],
+    "q": "If I've exiled two Wall of Roots with Agatha's Soul Cauldron, can a creature with a +1/+1 counter on it activate the Wall's ability twice?"
+  },
+  {
+    "imgs": [
+      "Lich-Knights' Conquest"
+    ],
+    "q": "I cast Lich-Knights' Conquest, and for some reason I want to sacrifice two things but only return one creature card from my graveyard. Can I do that?"
+  },
+  {
+    "imgs": [
+      "Rowan, Scion of War"
+    ],
+    "q": "I've lost 5 life this turn and I activate Rowan, Scion of War's ability, then untap her somehow and activate her ability again. Do my black/red spells cost  or  less to cast?"
+  },
+  {
+    "imgs": [
+      "Gadwick's First Duel",
+      "Johann's Stopgap"
+    ],
+    "q": "Gadwick's First Duel's chapter III just resolved, and I cast Johann's Stopgap with its bargain cost. Does it get copied?"
+  },
+  {
+    "imgs": [
+      "Ashiok, Wicked Manipulator",
+      "Asmodeus the Archfiend"
+    ],
+    "q": "How does Ashiok, Wicked Manipulator's -7 ability count the mana value of cards that were exiled face-down, for example with Asmodeus the Archfiend?"
+  },
+  {
+    "imgs": [
+      "Heartless Hidetsugu",
+      "Havoc Festival"
+    ],
+    "q": "I've heard that Heartless Hidetsugu can kill a Two-Headed Giant team with one activation, but Havoc Festival doesn't. What's the difference?"
+  },
+  {
+    "imgs": [
+      "Spiteful Hexmage",
+      "Cruel Somnophage // Can't Wake Up"
+    ],
+    "q": "If I put a Cursed Role token on my opponent's Cruel Somnophage, is its power/toughness still */* or does it become 1/1?"
+  },
+  {
+    "imgs": [
+      "Field of Dreams",
+      "Ponder"
+    ],
+    "q": "I control Field of Dreams and my opponent plays Ponder. Do I get to see the three cards that my opponent is looking at, and maybe even the fourth card?"
+  },
+  {
+    "imgs": [
+      "Jaheira, Friend of the Forest"
+    ],
+    "q": "If I control Jaheira, Friend of the Forest and I have a bunch of creatures with Role tokens on them, can I tap the Role tokens for ?"
+  },
+  {
+    "imgs": [
+      "Frodo Baggins"
+    ],
+    "q": "On Frodo Baggins, what does it mean by \"the Ring tempts you\"? And what does it mean to be the \"Ring-bearer\"?"
+  },
+  {
+    "imgs": [
+      "Frodo Baggins",
+      "Andúril, Flame of the West"
+    ],
+    "q": "If my Frodo Baggins is wielding Andúril, Flame of the West, do I make two attacking Frodos or two attacking Spirits?"
+  },
+  {
+    "imgs": [
+      "Conflux",
+      "Aragorn, the Uniter"
+    ],
+    "q": "If I cast Conflux while I control Aragorn, the Uniter, do I get all four of his abilities to trigger or do I have to chose one ability to trigger?"
+  },
+  {
+    "imgs": [
+      "Orcish Bowmasters",
+      "Wheel of Fortune"
+    ],
+    "q": "If I cast Orcish Bowmasters in response to my opponent casting Wheel of Fortune in a four-player Commander game, how much damage do I do and how big of an Orc Army do I make?"
+  },
+  {
+    "imgs": [
+      "Field-Tested Frying Pan",
+      "Marneus Calgar"
+    ],
+    "q": "How many cards do I draw if cast Field-Tested Frying Pan while I control Marneus Calgar?"
+  },
+  {
+    "imgs": [
+      "Blaze",
+      "Display of Power"
+    ],
+    "q": "My opponent has just cast Blaze with X=20 targeting me. If I respond by casting Display of Power, will my copy of Blaze deal 20 damage or zero damage?"
+  },
+  {
+    "imgs": [
+      "Display of Power"
+    ],
+    "q": "My opponent says its possible to copy Display of Power in some scenarios, despite it saying \"this spell can't be copied\". Is this true?"
+  },
+  {
+    "imgs": [
+      "Éowyn, Lady of Rohan",
+      "Bilbo's Ring"
+    ],
+    "q": "Does Éowyn, Lady of Rohan's last ability reduce Bilbo's Ring equip Halfling ability to zero?"
+  },
+  {
+    "imgs": [
+      "Gimli, Counter of Kills",
+      "Day of Judgment"
+    ],
+    "q": "I control Gimli, Counter of Kills and my opponent controls four 2/2 Orc tokens. If I cast Day of Judgment destroying them all, does Gimli still deal damage from his triggered ability?"
+  },
+  {
+    "imgs": [
+      "Gríma Wormtongue",
+      "Angel of Grace"
+    ],
+    "q": "How does Gríma Wormtongue's first ability interact with abilities and spells that set life totals like the last ability of Angel of Grace?"
+  },
+  {
+    "imgs": [
+      "Hobbit's Sting",
+      "Gingerbrute"
+    ],
+    "q": "If I cast Hobbit's Sting and the only nonland permanent I control is Gingerbrute, how much damage will it deal?"
+  },
+  {
+    "imgs": [
+      "Nazgûl"
+    ],
+    "q": "Can my commander deck have nine Nazgûl in it, or am I still restricted to running only one?"
+  },
+  {
+    "imgs": [
+      "Abrupt Decay",
+      "Reprieve"
+    ],
+    "q": "Even though Abrupt Decay can't be countered, can I still stop it with Reprieve?"
+  },
+  {
+    "imgs": [
+      "Counterbalance",
+      "Storm of Saruman",
+      "Ponder"
+    ],
+    "q": "I control Counterbalance and I know the top card of my library has a mana value of 1. My opponent controls Storm of Saruman and casts Ponder as their secpnd spell of the turn. Will both the Ponder and its copy get countered?"
+  },
+  {
+    "imgs": [
+      "Witch-king, Bringer of Ruin"
+    ],
+    "q": "I attack my opponent with Witch-king, Bringer of Ruin, but my opponent has five different creatures tied for lowest power. Does my opponent choose which creature they sacrifice, or do I?"
+  },
+  {
+    "imgs": [
+      "Galadriel of Lothlórien",
+      "Frodo Baggins"
+    ],
+    "q": "I control Galadriel of Lothlórien and then cast Frodo Baggins, choosing Frodo as the Ring-bearer, which causes me to scry 3 with Galadriel. If all three cards on top of my library are lands, can I put them all onto the battlefield with her last trigger?"
+  },
+  {
+    "imgs": [
+      "Callous Dismissal",
+      "Bear Cub",
+      "Treason of Isengard"
+    ],
+    "q": "Earlier this turn I used Callous Dismissal to put my opponent's Bear Cub into their hand, which created a 0/0 Zombie Army with one +1/+1 counter on it. I then cast Treason of Isengard to put Callous Dismissal on top of my library. When I go to Amass Orcs 2, what happens?"
+  },
+  {
+    "imgs": [
+      "Frodo, Sauron's Bane"
+    ],
+    "q": "I have Frodo, Sauron's Bane, and have on previous turns activated his first ability and second ability and successfully made Frodo a Halfling Rogue with the long triggered ability. Can I activate that second ability again, so he has two copies that long triggered ability?"
+  },
+  {
+    "imgs": [
+      "Sauron, the Necromancer",
+      "Clone",
+      "Runeclaw Bear"
+    ],
+    "q": "Bryan Prillaman asks \"If my Sauron, the Necromancer attacks and exiles Clone from my graveyard with his attack trigger, and I have it copy my opponent's Runeclaw Bear, what characteristics will the token I create have?\""
+  },
+  {
+    "imgs": [
+      "Tempered Sliver",
+      "Bonescythe Sliver"
+    ],
+    "q": "I attack with Tempered Sliver and Bonescythe Sliver. Both go unblocked this turn. Assuming they had no counters on them at the start of this turn, how many counters will each have at end of turn and how much damage did each deal to my opponent this turn?"
+  },
+  {
+    "imgs": [
+      "Saw in Half",
+      "Sakashima the Impostor",
+      "Bear Cub"
+    ],
+    "q": "If I Saw in Half my Sakashima the Impostor that is currently copying a Bear Cub, do I get two Bear Cubs, or do I get two Sakashimas that can copy different creatures?"
+  },
+  {
+    "imgs": [
+      "Saw in Half",
+      "Sakashima the Impostor"
+    ],
+    "q": "What happens if I Saw in Half my Sakashima the Impostor that is currently copying nothing?"
+  },
+  {
+    "imgs": [
+      "Thalia, Heretic Cathar",
+      "Gond Gate",
+      "Simic Guildgate"
+    ],
+    "q": "My opponent controls Thalia, Heretic Cathar and I control Gond Gate. If I play Simic Guildgate will it enter the battlefield tapped or untapped?"
+  },
+  {
+    "imgs": [
+      "Goblin War Drums",
+      "Nacatl War-Pride"
+    ],
+    "q": "My opponent has ten 3/3 Beast tokens and I control Goblin War Drums. If I attack with Nacatl War-Pride, can my opponent block any of the War-Prides?"
+  },
+  {
+    "imgs": [
+      "It that Betrays",
+      "Maestros Theater"
+    ],
+    "q": "My opponent and I each control an It that Betrays. If I play a Maestros Theater, do we each gain infinite life?"
+  },
+  {
+    "imgs": [
+      "Ovika, Enigma Goliath",
+      "Cyclonic Rift"
+    ],
+    "q": "I control Ovika, Enigma Goliath and overload Cyclonic Rift, how many Phyrexian Goblin tokens do I get?"
+  },
+  {
+    "imgs": [
+      "Eldrazi Monument",
+      "Vedalken Humiliator"
+    ],
+    "q": "My opponent controls five 1/1 Squirrel tokens and an Eldrazi Monument. If I attack with Vedalken Humiliator while I have  three or more artifacts, how big are my opponent's Squirrels and what abilities do they have?"
+  },
+  {
+    "imgs": [
+      "Ob Nixilis, the Hate-Twisted",
+      "Soothing Balm"
+    ],
+    "q": "My opponent controls Ob Nixilis, the Hate-Twisted and passes the turn to me. I'm currently at 1 life and the card I draw for the turn is Soothing Balm. Can I cast it, targeting myself, in time not to die to Ob Nixilis?"
+  },
+  {
+    "imgs": [
+      "Magus Lucea Kane",
+      "Harmonic Prodigy",
+      "Blaze"
+    ],
+    "q": "I control both Magus Lucea Kane and Harmonic Prodigy. If I use the Psychic Stimulus ability to cast Blaze with  equal to , do I get one or two copies of Blaze?"
+  },
+  {
+    "imgs": [
+      "Unwinding Clock",
+      "Mana Vault"
+    ],
+    "q": "I control Unwinding Clock and a tapped Mana Vault, do I get to untap the Mana Vault for free during opponent's turns, or does it stay tapped?"
+  },
+  {
+    "imgs": [
+      "Moonsilver Key",
+      "Pili-Pala"
+    ],
+    "q": "Can I use Moonsilver Key to find Pili-Pala from my library?"
+  },
+  {
+    "imgs": [
+      "Cruel Edict",
+      "Goblin Bombardment"
+    ],
+    "q": "If I cast Cruel Edict targeting my opponent, can they respond by sacrificing the creature to Goblin Bombardment to deal 1 damage to me?"
+  },
+  {
+    "imgs": [
+      "Fatal Push",
+      "Founding the Third Path"
+    ],
+    "q": "My opponent is trying to cast Fatal Push using the last chapter of Founding the Third Path. We aren't sure if her Fatal Push will have Revolt or not. Will Fatal Push resolve before or after Founding the Third Path is put into the graveyard?"
+  },
+  {
+    "imgs": [
+      "Wrenn and Seven",
+      "Crucible of Worlds"
+    ],
+    "q": "I control Wrenn and Seven and Crucible of Worlds. If I use Wrenn's second ability, can I now put all the lands in my graveyard onto the battlefield?"
+  },
+  {
+    "imgs": [
+      "Staff of Titania"
+    ],
+    "q": "I control Staff of Titania and on my last turn the Staff created a 1/1 green Forest Dryad land creature token. Can the token be tapped to make a  mana?"
+  },
+  {
+    "imgs": [
+      "Dragon Throne of Tarkir"
+    ],
+    "q": "On my last turn I created nine 1/1 Squirrel tokens. One Squirrel currently has Dragon Throne of Tarkir equipped. If I tap that Squirrel to activate the ability it got from the Throne, can I then equip it to a second Squirrel and activate it again to buff all my Squirrels again?"
+  },
+  {
+    "imgs": [
+      "Ivy, Gleeful Spellthief",
+      "Bear Cub",
+      "Dreamtail Heron"
+    ],
+    "q": "I control Ivy, Gleeful Spellthief and Bear Cub. If I  mutate Dreamtail Heron on top of Bear Cub, does Ivy copy it?"
+  },
+  {
+    "imgs": [
+      "Lore Drakkis",
+      "Lore Drakkis",
+      "Ivy, Gleeful Spellthief",
+      "Brainstorm",
+      "Dreamtail Heron"
+    ],
+    "q": "Similar to the last question, I have one mutate stack that has Lore Drakkis on top and Bear Cub on bottom and a second mutate stack that has a token copy of Lore Drakkis on top and Ivy, Gleeful Spellthief on bottom. The only instant or sorcery in my graveyard is Brainstorm. If I mutate Dreamtail Heron on top of the \"Bear Cub\" mutate stack, I know I get a Dreamtail Heron copy to mutate onto the \"Ivy\" mutate stack, but can I stack it so I can get back the Brainstorm, cast it, let it go to the graveyard and return the same Brainstorm to my hand?"
+  },
+  {
+    "imgs": [
+      "The One Ring",
+      "Cast into the Fire"
+    ],
+    "q": "I have The One Ring in play with zero burden counters on it. I activate The One Ring's ability, but in response, my opponent casts Cast into the Fire and exiles The One Ring. What happens when The One Ring's ability resolves?"
+  },
+  {
+    "imgs": [
+      "Witch-king of Angmar",
+      "Smite the Deathless"
+    ],
+    "q": "Is there a way I can save Witch-king of Angmar using his own ability from my opponent's Smite the Deathless?"
+  },
+  {
+    "imgs": [
+      "Arwen, Mortal Queen",
+      "Barrow-Blade"
+    ],
+    "q": "My opponent attacks me with Arwen, Mortal Queen, who still has her indestructible counter on it. If I block with a 2/2 equipped with Barrow-Blade, will Arwen lose indestructible?"
+  },
+  {
+    "imgs": [
+      "Boromir, Warden of the Tower",
+      "Isochron Scepter"
+    ],
+    "q": "Will my opponent's Boromir, Warden of the Tower effectively shut down my Isochron Scepter?"
+  },
+  {
+    "imgs": [
+      "Samwise the Stouthearted",
+      "Samwise the Stouthearted"
+    ],
+    "q": "I control Samwise the Stouthearted. If I cast a second Samwise the Stouthearted, can I apply the legend rule first and return one Samwise with the second Samwise's trigger?"
+  },
+  {
+    "imgs": [
+      "Stern Scolding",
+      "Tarmogoyf"
+    ],
+    "q": "Can Stern Scolding counter my opponent's Tarmogoyf when they cast it?"
+  },
+  {
+    "imgs": [
+      "Aether Vial",
+      "Invasion of Kaladesh",
+      "Meddling Mage",
+      "Aetherwing, Golden-Scale Flagship"
+    ],
+    "q": "I control an Aether Vial with two counters on it. My opponent controls Invasion of Kaladesh which they have just defeated. Can I respond to the cast trigger by Vialing in a Meddling Mage and name \"Aetherwing, Golden-Scale Flagship\" to prevent them from casting it?"
+  },
+  {
+    "imgs": [
+      "See Double",
+      "Zada, Hedron Grinder"
+    ],
+    "q": "What happens if I use the second mode of See Double targeting my Zada, Hedron Grinder?"
+  },
+  {
+    "imgs": [
+      "See Double",
+      "Arcane Bombardment"
+    ],
+    "q": "What if I exile my See Double to Arcane Bombardment? Will I get a copy of See Double every time I trigger the Bombardment?"
+  },
+  {
+    "imgs": [
+      "Lazav, Dimir Mastermind",
+      "Millstone",
+      "Blightsteel Colossus"
+    ],
+    "q": "I control Lazav, Dimir Mastermind. I activate Millstone targeting my opponent, and one of the cards I mill is a Blightsteel Colossus. Can I make Lazav into a copy of the Colossus?"
+  },
+  {
+    "imgs": [
+      "Counterflux"
+    ],
+    "q": "If there are no spells on the stack, can I cast Counterflux for its overload cost?"
+  },
+  {
+    "imgs": [
+      "Warp World",
+      "Impact Tremors"
+    ],
+    "q": "If I cast Warp World and reveal a lot of creatures and Impact Tremors, will the Tremors trigger for each creature that I put onto the battlefield with Warp World?"
+  },
+  {
+    "imgs": [
+      "Kaya's Ghostform",
+      "Farewell"
+    ],
+    "q": "If I have a creature enchanted with Kaya's Ghostform and my opponent casts Farewell, choosing to exile creatures and enchantments, will my creature return to the battlefield?"
+  },
+  {
+    "imgs": [
+      "Sleep"
+    ],
+    "q": "If my opponent casts Sleep targeting me, will it also stop my creatures that were tapped before Sleep resolved from untapping?"
+  },
+  {
+    "imgs": [
+      "Jungle Basin"
+    ],
+    "q": "If I play a Jungle Basin, can I choose a Forest to return, then respond by tapping it for mana before I return it to my hand?"
+  },
+  {
+    "imgs": [
+      "Argothian Enchantress",
+      "Strionic Resonator"
+    ],
+    "q": "If I have an Argothian Enchantress in play and cast an enchantment spell, can I copy the trigger with Strionic Resonator?"
+  },
+  {
+    "imgs": [
+      "Gossamer Chains",
+      "Disenchant"
+    ],
+    "q": "It's my main phase, and I have a Gossamer Chains in play. If my opponent tries to Disenchant it, can I activate its ability in response and return it to my hand?"
+  },
+  {
+    "imgs": [
+      "Saruman, the White Hand",
+      "Summons of Saruman"
+    ],
+    "q": "I control Saruman, the White Hand. I cast Summons of Saruman via its flashback cost, exiling five cards in my graveyard. How big of an amass Orcs token will I make with Saruman's triggered ability?"
+  },
+  {
+    "imgs": [
+      "Felidar Sovereign",
+      "Reins of Power"
+    ],
+    "q": "My opponent has 45 life and controls a Felidar Sovereign. I have a Reins of Power in my hand. Is there any way I can cast the Reins to stop my opponent from winning the game during their upkeep?"
+  },
+  {
+    "imgs": [
+      "Silent Arbiter",
+      "Broodbirth Viper"
+    ],
+    "q": "I'm in a four player game, and I control a Silent Arbiter and a Broodbirth Viper. If I attack with the Viper and get two Viper tokens from the myriad trigger, which one of my opponents can block?"
+  },
+  {
+    "imgs": [],
+    "q": "One of my local players said you can play mono-colored commanders as though they have \"partner\" now. Is this true?"
+  },
+  {
+    "imgs": [],
+    "q": "If I draft a red/green deck in Commander Masters, but failed to get a red/green commander (or one mono red commander and one mono green commander and use the partner rule from above), what do I do?"
+  },
+  {
+    "imgs": [
+      "The Prismatic Piper"
+    ],
+    "q": "In the last answer you said I can add two The Prismatic Pipers to my deck. They can both be my commander?"
+  },
+  {
+    "imgs": [
+      "Wanderer's Strike"
+    ],
+    "q": "If I draft four copies of Wanderer's Strike, can I play them all, or like Commander decks am I restricted to playing at most one?"
+  },
+  {
+    "imgs": [
+      "Entourage of Trest"
+    ],
+    "q": "Since Commander Masters is played multiplayer, if I kill the monarch during a player's turn that is neither mine nor the monarch's turn, do I become the monarch?"
+  },
+  {
+    "imgs": [
+      "Sidisi, Brood Tyrant",
+      "Clone",
+      "Deadly Rollick"
+    ],
+    "q": "My opponent's commander is Sidisi, Brood Tyrant and I have Clone copying her. Can I cast Deadly Rollick for free since I have a copy of a commander?"
+  },
+  {
+    "imgs": [
+      "Emerald Medallion",
+      "Thelon of Havenwood"
+    ],
+    "q": "If I control Emerald Medallion, will it help me cast my commander Thelon of Havenwood?"
+  },
+  {
+    "imgs": [
+      "Aether Gale"
+    ],
+    "q": "There are currently seven creatures on the battlefield, and I control two of them. I cast Aether Gale targeting all the creatures I don't control, my opponent claims that's not legal, I have to choose at least one creature I control. Is this true?"
+  },
+  {
+    "imgs": [
+      "Clone",
+      "Archfiend of Despair"
+    ],
+    "q": "In a four-player game, my opponent Nathan has Cloned my Archfiend of Despair and it's currently my turn. Assuming Susie lost 3 life this turn, how much life will she lose to there being two Archfiends when my turn ends?"
+  },
+  {
+    "imgs": [
+      "Avatar of Slaughter",
+      "Baird, Steward of Argive"
+    ],
+    "q": "I control Avatar of Slaughter and Baird, Steward of Argive. Are my opponents forced to pay Baird's tax to attack me?"
+  },
+  {
+    "imgs": [
+      "Mikaeus, the Lunarch",
+      "Darksteel Mutation"
+    ],
+    "q": "My opponent's Commander is Mikaeus, the Lunarch which currently has four +1/+1 counters on it. If I enchant it with Darksteel Mutation does it still deal commander damage?"
+  },
+  {
+    "imgs": [
+      "Counterspell",
+      "Avacyn, Angel of Hope",
+      "Deflecting Swat"
+    ],
+    "q": "My opponent is trying to Counterspell my Avacyn, Angel of Hope and I have a Deflecting Swat in my hand. Can I cast the Deflecting Swat making the Counterspell target itself, to save my Avacyn?"
+  },
+  {
+    "imgs": [
+      "Doubling Season",
+      "Freyalise, Llanowar's Fury"
+    ],
+    "q": "I control Doubling Season and cast Freyalise, Llanowar's Fury. If I use her +2 loyalty ability immediately, how much loyalty will she have?"
+  },
+  {
+    "imgs": [
+      "Body Double",
+      "Brinelin, the Moon Kraken",
+      "Feed the Swarm"
+    ],
+    "q": "My opponent controls a Body Double that is currently copying the Brinelin, the Moon Kraken in my graveyard. If I destroy it using Feed the Swarm do I lose 5 life or 8 life?"
+  },
+  {
+    "imgs": [
+      "Multani, Maro-Sorcerer",
+      "The Great Henge"
+    ],
+    "q": "The only creature I control is Multani, Maro-Sorcerer and there are a total of six cards among all players' hands. One of the cards in my hand is The Great Henge. If I try to cast it, how much mana will it cost me?"
+  },
+  {
+    "imgs": [
+      "Kozilek, the Great Distortion",
+      "Cyclonic Rift"
+    ],
+    "q": "I control Kozilek, the Great Distortion and my opponent has overloaded Cyclonic Rift. What mana value card do I have to discard through Kozilek to counter the rift?"
+  },
+  {
+    "imgs": [
+      "Lightning Greaves"
+    ],
+    "q": "I just put ten 2/2 Soldier tokens on the battlefield. Can I use my Lightning Greaves to give each one haste and then attack with all ten?"
+  },
+  {
+    "imgs": [
+      "Pathrazer of Ulamog",
+      "Deadly Rollick"
+    ],
+    "q": "My opponent Alice controls Pathrazer of Ulamog and it's currently her turn. I have a Deadly Rollick in hand. I'm not sure if she is going to attack me or not, and if she doesn't, I want to save the Rollick for something else. Is it possible to kill the Pathrazer after it attacks me and not have to sacrifice permanents to it's annihilator ability?"
+  },
+  {
+    "imgs": [
+      "Meteoric Mace",
+      "Toxic Deluge"
+    ],
+    "q": "If I cast Meteoric Mace and cascade into Toxic Deluge can I still pay life into Toxic Deluge even though I'm casting it for free?"
+  },
+  {
+    "imgs": [
+      "Ondu Spiritdancer",
+      "Spectra Ward",
+      "Decision Paralysis"
+    ],
+    "q": "My opponent controls Ondu Spiritdancer, three other creatures, and is casting Spectra Ward. I know which creature is being targeted by the original Spectra Ward, and I assume my opponent will copy Spectra Ward with Spiritdancer. Is there any time between when I'll know the target of the copy of Spectra Ward but before it gains protection from all colors so I can tap it down with Decision Paralysis?"
+  },
+  {
+    "imgs": [
+      "Vraska, Betrayal's Sting",
+      "Nylea, God of the Hunt"
+    ],
+    "q": "If I use Vraska, Betrayal's Sting's -2 ability to turn my opponent's Primalcrux into a Treasure, does the Primalcrux still count to my opponent's devotion to green?"
+  },
+  {
+    "imgs": [
+      "The First Sliver",
+      "The First Sliver",
+      "Battering Sliver"
+    ],
+    "q": "My commander is The First Sliver and every nonland in my deck is a Sliver. When I cast The First Sliver it cascades. If I cascade into another Sliver, let's say Battering Sliver, do I get to cascade again?"
+  },
+  {
+    "imgs": [
+      "Elenda, the Dusk Rose",
+      "Barony Vampire",
+      "Day of Judgment"
+    ],
+    "q": "I control Elenda, the Dusk Rose, two Barony Vampires, and two 1/1 Vampire tokens. Elenda currently has two +1/+1 counters on her. If my opponent casts Day of Judgment, how many Vampire tokens does her death trigger make?"
+  },
+  {
+    "imgs": [
+      "Wheel of Misfortune"
+    ],
+    "q": "So last week in a four player game of Commander, my opponent played Wheel of Misfortune. When it went to resolve, each player revealed their chosen number as five. We didn't know what to do. So we guessed everyone was dealt damage and discarded their hand and drew seven. Did we resolve that correctly?"
+  },
+  {
+    "imgs": [
+      "Thief of Blood",
+      "Urza's Saga"
+    ],
+    "q": "If I cast Thief of Blood what happens to my Urza's Saga that currently has two lore counters on it?"
+  },
+  {
+    "imgs": [
+      "Auntie Blyte, Bad Influence",
+      "Mana Confluence"
+    ],
+    "q": "I control Auntie Blyte, Bad Influence and use Mana Confluence to make a . Does this put a +1/+1 counter on Auntie Blyte?"
+  },
+  {
+    "imgs": [
+      "Ilharg, the Raze-Boar",
+      "Archers of Qarsi"
+    ],
+    "q": "If I attack with Ilharg, the Raze-Boar can I choose Archers of Qarsi for the creature Ilharg puts onto the battlefield tapped and attacking?"
+  },
+  {
+    "imgs": [
+      "Eerie Ultimatum",
+      "Recycle",
+      "Thought Vessel"
+    ],
+    "q": "If I use Eerie Ultimatum to return both Recycle and Thought Vessel from my graveyard to the battlefield, what is my maximum hand size?"
+  },
+  {
+    "imgs": [
+      "Breach the Multiverse",
+      "Eternal Witness"
+    ],
+    "q": "If I cast Breach the Multiverse and one of the creatures I get back with it is Eternal Witness, can the Witness return Breach back to my hand?"
+  },
+  {
+    "imgs": [
+      "The One Ring",
+      "Questing Beast"
+    ],
+    "q": "My opponent cast The One Ring and this turn I'm attacking my opponent with Questing Beast. Does my opponent take damage this turn?"
+  },
+  {
+    "imgs": [
+      "Urza Assembles the Titans",
+      "Jace, the Mind Sculptor"
+    ],
+    "q": "I just resolved the last chapter Urza Assembles the Titans and placed it into the graveyard. At the time I had no planeswalkers. If I now cast Jace, the Mind Sculptor can I activate him once or twice this turn?"
+  },
+  {
+    "imgs": [
+      "Pixie Guide"
+    ],
+    "q": "Does Pixie Guide help me roll to visit Attractions?"
+  },
+  {
+    "imgs": [
+      "Pixie Guide"
+    ],
+    "q": "Follow-up to the last question: If I have three copies of Pixie Guide, do I roll four dice and ignore the lowest three, or do I roll two dice and ignoring only the lowest?"
+  },
+  {
+    "imgs": [
+      "Urabrask's Forge"
+    ],
+    "q": "If I have an Urabrask's Forge and choose not to attack with any creatures this turn, does the Forge still trigger?"
+  },
+  {
+    "imgs": [
+      "Norn's Choirmaster",
+      "Kalemne, Disciple of Iroas"
+    ],
+    "q": "Can I use a card that proliferates (like Norn's Choirmaster) to increase experience counters (like from Kalemne, Disciple of Iroas?"
+  },
+  {
+    "imgs": [
+      "Thrakkus the Butcher",
+      "Helm of the Host"
+    ],
+    "q": "I have Thrakkus the Butcher who I just equipped with Helm of the Host. As I move to combat I make the non-legendary copy of Thrakkus. If I attack with both Thrakkus, do their attack triggers stack?"
+  },
+  {
+    "imgs": [
+      "Natural Reclamation"
+    ],
+    "q": "Can I cast Natural Reclamation with no target just to get the cascade effect?"
+  },
+  {
+    "imgs": [
+      "Robe of Stars"
+    ],
+    "q": "I have a 0/0 Germ token wearing a Robe of Stars. If I use the Robes ability to phase out the token, what happens to both of them now and as I start my next turn?"
+  },
+  {
+    "imgs": [
+      "Leyline of Anticipation",
+      "Errant and Giada"
+    ],
+    "q": "Is Leyline of Anticipation and Errant and Giada a combo that works?"
+  },
+  {
+    "imgs": [
+      "Bear Cub",
+      "Asceticism",
+      "Seize the Spotlight"
+    ],
+    "q": "My opponent controls four Bear Cubs and Asceticism. If I cast Seize the Spotlight and the opponent chooses fame, can I still steal one of their Bear Cubs?"
+  },
+  {
+    "imgs": [
+      "Niv-Mizzet, Supreme",
+      "Fire // Ice"
+    ],
+    "q": "If I control Niv-Mizzet, Supreme, can I jump-start Fire // Ice from my graveyard?"
+  },
+  {
+    "imgs": [
+      "Ayara's Oathsworn"
+    ],
+    "q": "If Ayara's Oathsworn already has four +1/+1 counters on it when it deals combat damage, does the second part of its ability still happen?"
+  },
+  {
+    "imgs": [
+      "Ob Nixilis, Captive Kingpin",
+      "Ad Nauseam"
+    ],
+    "q": "Does Ob Nixilis, Captive Kingpin's ability trigger when my opponent resolves Ad Nauseam?"
+  },
+  {
+    "imgs": [
+      "Ob Nixilis, Captive Kingpin",
+      "Rakdos Charm"
+    ],
+    "q": "If I control Ob Nixilis, Captive Kingpin and use the third mode of Rakdos Charm, does that trigger Ob Nixilis's ability?"
+  },
+  {
+    "imgs": [
+      "Ob Nixilis, Captive Kingpin"
+    ],
+    "q": "I control Ob Nixilis, Captive Kingpin and deal combat damage to my opponent with ten 1/1 creatures. Does Ob Nixilis's ability trigger ten times?"
+  },
+  {
+    "imgs": [
+      "Calix, Guided by Fate",
+      "Strionic Resonator"
+    ],
+    "q": "Calix, Guided by Fate deals combat damage to my opponent, so its ability triggers. Can I copy the ability with Strionic Resonator and make two token copies of something?"
+  },
+  {
+    "imgs": [
+      "Calix, Guided by Fate",
+      "Helm of the Host"
+    ],
+    "q": "What if I equip Calix, Guided by Fate with Helm of the Host, and both the original Calix and its non-legendary copy deal combat damage. Do I get to use both triggers?"
+  },
+  {
+    "imgs": [
+      "Feast of the Victorious Dead"
+    ],
+    "q": "I control Feast of the Victorious Dead and no creatures have died yet this turn. Can I sacrifice a creature in my end step in response to its ability to enable its effect?"
+  },
+  {
+    "imgs": [
+      "Inkmoth Nexus",
+      "Jolrael, Voice of Zhalfir"
+    ],
+    "q": "If I control an animated Inkmoth Nexus, can I use Jolrael, Voice of Zhalfir's first ability to turn it into an X/X that still has infect?"
+  },
+  {
+    "imgs": [
+      "Narset, Enlightened Exile",
+      "Secrets of the Dead"
+    ],
+    "q": "I use Narset, Enlightened Exile's attack ability to cast a copy of some card in my graveyard. Does this trigger Secrets of the Dead?"
+  },
+  {
+    "imgs": [
+      "Narset, Enlightened Exile",
+      "Arcane Bombardment"
+    ],
+    "q": "Does prowess trigger when I cast copies of exiled cards with Arcane Bombardment?"
+  },
+  {
+    "imgs": [
+      "Tranquil Frillback"
+    ],
+    "q": "Tranquil Frillback's enter-the-battlefield ability is resolving and I pay . Can I choose the first mode three times?"
+  },
+  {
+    "imgs": [
+      "Nahiri, Forged in Fury",
+      "Krosan Grip"
+    ],
+    "q": "My opponent controls four Equipment and casts Nahiri, Forged in Fury for . Can I counter Nahiri by destroying one of my opponent's Equipment with Krosan Grip?"
+  },
+  {
+    "imgs": [
+      "Kiora, Sovereign of the Deep",
+      "Gold-Forged Thopteryx"
+    ],
+    "q": "If I control Kiora, Sovereign of the Deep and Gold-Forged Thopteryx, does Kiora have ward ?"
+  },
+  {
+    "imgs": [
+      "Markov Baron"
+    ],
+    "q": "Can I use convoke to pay Markov Baron's madness cost?"
+  },
+  {
+    "imgs": [
+      "Arni Metalbrow"
+    ],
+    "q": "If Arni Metalbrow attacks, can I pay  multiple times to put that many creatures onto the battlefield tapped and attacking?"
+  },
+  {
+    "imgs": [
+      "Campus Renovation"
+    ],
+    "q": "Can I play a sorcery that was exiled with Campus Renovation on my opponent's turn?"
+  },
+  {
+    "imgs": [
+      "Tazri, Stalwart Survivor"
+    ],
+    "q": "Suppose I control Tazri, Stalwart Survivor and a non-legendary copy of it, and I control a vanilla 1/1 creature. Can I activate the 1/1 creature's ability to make mana of any color?"
+  },
+  {
+    "imgs": [],
+    "q": "So, in which formats is Aftermath legal?"
+  },
+  {
+    "imgs": [],
+    "q": "Can I run an Aftermath Draft tournament?"
+  }
+]

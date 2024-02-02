@@ -126,7 +126,7 @@
       "Anarchy",
       "Shock"
     ],
-    "q": "I control Circle of Protection",
+    "q": "I control Circle of Protection: Red and my opponent plays Anarchy to destroy it. Can I activate the Circle in response to protect me from a Shock that I suspect my opponent will play after Anarchy has resolved?",
     "a": "You can activate the Circle's ability, but it won't protect you from a spell that hasn't been cast yet. When the Circle's ability resolves, you have to choose a source of damage at that time. While the game is pretty flexible in what it allows you to choose as a source of damage, you can't choose a card in a player's hand. Even if you could, the damage ends up getting dealt by the Shock on the stack, which is a different object than the Shock in your opponent's hand."
   },
   {

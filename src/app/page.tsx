@@ -1,6 +1,11 @@
-import Image from 'next/image';
 import List from '../../public/data/list.json';
 import Link from 'next/link';
+
+const options = {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+};
 
 export default function Home() {
     return (
@@ -27,7 +32,7 @@ export default function Home() {
                             <p
                                 className={`m-0 max-w-[30ch] text-sm opacity-50`}
                             >
-                                {item.date}
+                                {new Date(item.date).toLocaleDateString()}
                             </p>
                         </Link>
                     </li>
