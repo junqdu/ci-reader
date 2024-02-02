@@ -31,29 +31,49 @@ const get = async (id) => {
         foundQ.forEach((q) => {
             const item = { imgs: [] };
             const dom = new JSDOM(q);
-            const links = dom.window.document.querySelectorAll('a');
 
-            item.q = dom.window.document.body.textContent.split(':')[1].trim();
-            const [_, ...rest] =
-                dom.window.document.body.textContent.split(':');
-            item.q = rest.join(':').trim();
-
-            links.forEach((link) => {
-                const tokens = link.href.split('=');
-                item.imgs.push(decodeURIComponent(tokens[tokens.length - 1]));
-            });
-
-            output.push(item);
-        });
-
-        foundA.forEach((ans, idx) => {
-            console.log(ans);
-            const dom = new JSDOM(ans);
+            // process symbols
             const manas = dom.window.document.querySelectorAll('.mana');
             manas.forEach((mana) => {
                 mana.outerHTML = mana.outerHTML
                     .replace('"i', '"/ci-reader/i')
                     .replace('gif', 'png');
+            });
+
+            // process card image
+            const images = dom.window.document.querySelectorAll('.autocard');
+            images.forEach((link) => {
+                const tokens = link.href.split('=');
+                const cardName = decodeURIComponent(tokens[tokens.length - 1]);
+                item.imgs.push(cardName);
+                link.outerHTML = `<span class="autocard">${cardName}</span>`;
+            });
+
+            item.q = dom.window.document.body.innerHTML.split(':')[1].trim();
+            const [_, ...rest] = dom.window.document.body.innerHTML.split(':');
+            item.q = rest.join(':').trim();
+
+            output.push(item);
+        });
+
+        foundA.forEach((ans, idx) => {
+            const dom = new JSDOM(ans);
+
+            // process symbols
+            const manas = dom.window.document.querySelectorAll('.mana');
+            manas.forEach((mana) => {
+                mana.outerHTML = mana.outerHTML
+                    .replace('"i', '"/ci-reader/i')
+                    .replace('gif', 'png');
+            });
+
+            // process card image
+            const images = dom.window.document.querySelectorAll('.autocard');
+            images.forEach((link) => {
+                const tokens = link.href.split('=');
+                const cardName = decodeURIComponent(tokens[tokens.length - 1]);
+                output[idx].imgs.push(cardName);
+                link.outerHTML = `<span class="autocard">${cardName}</span>`;
             });
 
             const [_, ...rest] = dom.window.document.body.innerHTML.split(':');

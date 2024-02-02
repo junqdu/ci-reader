@@ -28,9 +28,9 @@ export function QnA({ a, q, imgs = [] }: QnAInterface) {
         const fetchImg = async () => {
             try {
                 const promises = imgs.map((i) => {
-                    setQuestion((prev) =>
-                        prev.replace(i, `<span class="card-name">${i}</span>`)
-                    );
+                    // setQuestion((prev) =>
+                    //     prev.replace(i, `<span class="card-name">${i}</span>`)
+                    // );
                     return fetch(getSFUrl(i)).then((data) => data.json());
                 });
                 const results = (await Promise.all(promises).then(

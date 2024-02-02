@@ -32,8 +32,10 @@ body {
     }
 }
 
-.card-name {
+.card-name,
+.autocard {
     font-weight: 700;
+    pointer-events: none;
 }
 
 .mana {

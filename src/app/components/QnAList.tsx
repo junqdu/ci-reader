@@ -1,11 +1,12 @@
 'use client';
 import { useEffect, useState } from 'react';
 import { QnA, QnAInterface } from './QnA';
+import { isProd } from '../utils/isProd';
 
 export function QnAList({ id }: { id: string }) {
     const [source, setSource] = useState<QnAInterface[]>([]);
     useEffect(() => {
-        fetch(`/ci-reader/data/${id}.json`)
+        fetch(`${isProd() ? '/ci-reader' : ''}/data/${id}.json`)
             .then((data) => data.json())
             .then((data) => setSource(data));
     }, [id]);
