@@ -1,7 +1,7 @@
 const jsdom = require('jsdom');
 const { JSDOM } = jsdom;
 const fs = require('node:fs');
-const data = require('./2024.json');
+const data = require('./2023.json');
 
 const args = process.argv.slice(2);
 const id = args[0] || 4160;
@@ -20,21 +20,25 @@ const get = async (id) => {
             `https://www.cranial-insertion.com/article/${id}`,
             requestOptions
         ).then((response) => response.text());
+        const dom = new JSDOM(res);
 
         // const qRegex = /Q:.+/g;
         // const aRegex = /A:.+/g;
-        const qRegex = /Q:.+/g;
-        const aRegex = /A:.+/g;
+        const qRegex = /<span id="q([\s\S]*?)artanchor([\s\S]*?)<span/g;
+        // const aRegex = /<b>A:([\s\S]*?)<hr/g;
 
         const foundQ = res.match(qRegex);
-        const foundA = res.match(aRegex);
+        const foundA = dom.window.document.querySelectorAll('div.specialbox');
+
+        // console.log('length:' + foundQ.length);
+        // console.log('length:' + foundA.length);
 
         foundQ.forEach((q) => {
             const item = { imgs: [] };
-            const dom = new JSDOM(q);
+            const dom2 = new JSDOM(q);
 
             // process symbols
-            const manas = dom.window.document.querySelectorAll('.mana');
+            const manas = dom2.window.document.querySelectorAll('.mana');
             manas.forEach((mana) => {
                 mana.outerHTML = mana.outerHTML
                     .replace('"i', '"/ci-reader/i')
@@ -42,7 +46,7 @@ const get = async (id) => {
             });
 
             // process card image
-            const images = dom.window.document.querySelectorAll('.autocard');
+            const images = dom2.window.document.querySelectorAll('.autocard');
             images.forEach((link) => {
                 const tokens = link.href.split('=');
                 const cardName = decodeURIComponent(tokens[tokens.length - 1]);
@@ -50,8 +54,8 @@ const get = async (id) => {
                 link.outerHTML = `<span class="autocard">${cardName}</span>`;
             });
 
-            item.q = dom.window.document.body.innerHTML.split(':')[1].trim();
-            const [_, ...rest] = dom.window.document.body.innerHTML.split(':');
+            item.q = dom2.window.document.body.innerHTML.split(':')[1].trim();
+            const [_, ...rest] = dom2.window.document.body.innerHTML.split(':');
             item.q = rest.join(':').replace('<br>', '').trim();
 
             // dedup images
@@ -60,11 +64,14 @@ const get = async (id) => {
             output.push(item);
         });
 
+        // console.log(output.length);
+
         foundA.forEach((ans, idx) => {
-            const dom = new JSDOM(ans);
+            // console.log(idx);
+            // const dom = new JSDOM(ans);
 
             // process symbols
-            const manas = dom.window.document.querySelectorAll('.mana');
+            const manas = ans.querySelectorAll('.mana');
             manas.forEach((mana) => {
                 mana.outerHTML = mana.outerHTML
                     .replace('"i', '"/ci-reader/i')
@@ -72,7 +79,7 @@ const get = async (id) => {
             });
 
             // process card image
-            const images = dom.window.document.querySelectorAll('.autocard');
+            const images = ans.querySelectorAll('.autocard');
             images.forEach((link) => {
                 const tokens = link.href.split('=');
                 const cardName = decodeURIComponent(tokens[tokens.length - 1]);
@@ -80,9 +87,10 @@ const get = async (id) => {
                 link.outerHTML = `<span class="autocard">${cardName}</span>`;
             });
 
-            const [_, ...rest] = dom.window.document.body.innerHTML.split(':');
+            // console.log(ans.innerHTML);
+            // const [_, ...rest] = ans.body.innerHTML.split(':');
 
-            output[idx].a = rest.join(':').replace('<br>', '').trim();
+            output[idx].a = ans.childNodes[0].innerHTML;
         });
 
         fs.writeFile(
@@ -97,14 +105,9 @@ const get = async (id) => {
     }
 };
 
-const getBatch = async () => {
-    for (const datum of data) {
-        await get(datum.id);
-    }
-    // data.forEach((datum) => {
-    //     await get(datum.id);
-    // });
-};
-
-// get(4170);
-getBatch();
+// 4157
+// 4102
+// 4052
+// 3998
+// 3912
+get(3912);
