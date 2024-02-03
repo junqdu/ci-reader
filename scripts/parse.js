@@ -107,7 +107,7 @@ const get = async (id) => {
             (err) => {}
         );
         if (isMC) {
-            fs.appendFile(`./mcs.json`, `${id}\n`, (err) => {});
+            fs.appendFile(`./mcs.json`, `${id},\n`, (err) => {});
         }
 
         console.log(`${id} ended.`);
