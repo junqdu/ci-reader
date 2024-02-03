@@ -22,14 +22,16 @@ const get = async (id) => {
             requestOptions
         ).then((response) => response.text());
 
-        // const qRegex = /Q:.+/g;
-        // const aRegex = /A:.+/g;
         const qRegex = /Q:.+/g;
-        // const aRegex = /A:.+/g;
         const aRegex = /A:([\s\S]*?)<hr/g;
+        const aRegexB = /A:([\s\S]*?)artanchor/g;
 
         const foundQ = res.match(qRegex);
-        const foundA = res.match(aRegex);
+        let foundA = res.match(aRegex);
+
+        if (foundQ.length !== foundA.length) {
+            foundA = res.match(aRegexB);
+        }
 
         foundQ.forEach((q) => {
             const item = { imgs: [] };
@@ -89,18 +91,12 @@ const get = async (id) => {
             extra.forEach((el) => (el.outerHTML = ''));
             const extra2 = dom.window.document.querySelectorAll('hr');
             extra2.forEach((el) => (el.outerHTML = ''));
-            // const extra3 = dom.window.document.querySelectorAll('input');
-            // extra3.forEach((el) => (el.outerHTML = ''));
 
             const [_, ...rest] = dom.window.document.body.innerHTML.split(':');
 
             // dedup images
             output[idx].imgs = [...new Set(output[idx].imgs)];
-            output[idx].a = rest
-                .join(':')
-                .replaceAll('<br>\n<br>', '')
-                // .replaceAll('display: none;', '')
-                .trim();
+            output[idx].a = rest.join(':').replaceAll('<br>\n<br>', '').trim();
         });
 
         fs.writeFile(
@@ -128,5 +124,5 @@ const getBatch = async () => {
     // });
 };
 
-// get(4157);
+// get(4082);
 getBatch();
