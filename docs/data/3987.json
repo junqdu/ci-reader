@@ -1,0 +1,173 @@
+[
+  {
+    "imgs": [
+      "Invasion of New Phyrexia",
+      "Vindicate",
+      "Oblivion Ring",
+      "Counterspell",
+      "Boomerang"
+    ],
+    "q": "Let's get the big question out of the way. What in the Nine Spheres of Phyrexia is a <span class=\"autocard\">Invasion of New Phyrexia</span>?",
+    "a": "Battle is a new card type, being introduced in <i>March of the Machine</i>. All battles in this set have the subtype Siege. Battles are double-faced transforming permanents that can be cast at the normal sorcery speed of other permanents. Similar to planeswalkers, they enter the battlefield with a number of \"defense\" counters based on the number at their bottom right. Battles can be attacked and damaged by spells that say \"deal X damage to any target\". If a battle loses its last counter, instead of dying like a planeswalker, it gets exiled and its controller may transform it and cast the backside for free. Creatures may block for a battle to prevent it from taking damage, however only creatures controlled by its \"protector\" may choose to block incoming attacks. A protector's creatures may not attack a battle it is protecting. As a Battle that is also a Siege enters the battlefield, its controller must choose an opponent to be the battle's protector. Battles can be destroyed by spells like <span class=\"autocard\">Vindicate</span>, exiled by abilities like <span class=\"autocard\">Oblivion Ring</span>, countered by <span class=\"autocard\">Counterspell</span>, and bounced by <span class=\"autocard\">Boomerang</span>. However, in each of these cases it will not transform and/or cast its backside for free."
+  },
+  {
+    "imgs": [
+      "Invasion of Ergamon",
+      "Colossal Dreadmaw",
+      "Bear Cub"
+    ],
+    "q": "If I attack <span class=\"autocard\">Invasion of Ergamon</span> which currently has five defense counters with a <span class=\"autocard\">Colossal Dreadmaw</span>, can I trample 1 damage over to my opponent?",
+    "a": "You can not. However, if your opponent blocked with a <span class=\"autocard\">Bear Cub</span>, you could trample 4 damage over to the Invasion of Ergamon. Battles are more similar to planeswalkers in combat than they are to creatures."
+  },
+  {
+    "imgs": [
+      "Invasion of Ergamon",
+      "Mycosynth Lattice",
+      "March of the Machines"
+    ],
+    "q": "If I turn my <span class=\"autocard\">Invasion of Ergamon</span> into a creature, say with <span class=\"autocard\">Mycosynth Lattice</span> and <span class=\"autocard\">March of the Machines</span>, can it attack itself?",
+    "a": "It can not. If a battle is also a creature, the rules say it can not attack or block."
+  },
+  {
+    "imgs": [
+      "Solemnity",
+      "Mycosynth Lattice"
+    ],
+    "q": "What happens if a battle has zero defense counters, but never lost any?",
+    "a": "If this happens, it is placed in the owner's graveyard as a state based action. This would be tough to do, but could be done by having a permanent on the battlefield become a copy of a battle or maybe someone just happens to have a both <span class=\"autocard\">Solemnity</span> and <span class=\"autocard\">Mycosynth Lattice</span>."
+  },
+  {
+    "imgs": [],
+    "q": "What happens if a battle doesn't have a protector?",
+    "a": "Well, I don't know what happens to every battle, but battles that are also Sieges have one of two things that happen. If a Siege doesn't have a protector and it's not currently being attacked, its controller chooses a new protector as a state based action. If a Siege doesn't have a protector and it's in the middle of being attacked, it simply doesn't have a protector until it's not being attacked."
+  },
+  {
+    "imgs": [
+      "Death-Greeter's Champion",
+      "Bear Cub"
+    ],
+    "q": "How does the backup 1 ability work on <span class=\"autocard\">Death-Greeter's Champion</span>?",
+    "a": "If you cast Death-Greeter's Champion, you could choose to have it target itself or, for example, your <span class=\"autocard\">Bear Cub</span>.  If it targets itself, it gains a single +1/+1 counter. If it targets the Bear Cub, the Cub gets a single +1/+1 counter and gains double strike until end of turn. Note that the Cub doesn't gain dash, only the ability printed after Backup 1."
+  },
+  {
+    "imgs": [
+      "Death-Greeter's Champion",
+      "Bear Cub",
+      "Jump"
+    ],
+    "q": "If I dash out <span class=\"autocard\">Death-Greeter's Champion</span> and choose my <span class=\"autocard\">Bear Cub</span> as the backup target, but before the trigger resolves I cast <span class=\"autocard\">Jump</span> on the Death-Greeter, will both creatures have both flying and double strike?",
+    "a": "Only the Death-Greeter will have both. The Bear Cub will only gain double strike. Backup only copies abilities printed on the card and only those printed after the backup ability. If a card gains backup from a copy effect, then it only passes off abilities it copied from the original card."
+  },
+  {
+    "imgs": [
+      "Phyrexian Awakening"
+    ],
+    "q": "What does it mean to <span class=\"autocard\">Phyrexian Awakening</span>?",
+    "a": "Incubate is a new keyword action. To incubate 4 is to create an artifact token named Incubator Token with four +1/+1 counters on it. Note that this is not a creature yet! It has the ability \"<img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\">: Transform this artifact.\" Once it transforms to its backside, it's a 0/0 Phyrexian artifact creature. So incubating is to make artifacts that you can turn into creatures at some later point when you have some extra mana."
+  },
+  {
+    "imgs": [
+      "Clone",
+      "Delver of Secrets",
+      "Insectile Aberration"
+    ],
+    "q": "Wait, tokens can have two sides?",
+    "a": "They can now! Tokens that copy double faced transforming permanents will now have two sides and copy both sides the original card or token has. They will enter the battlefield with the same face up as what they are copying. This only works for tokens. If a card like <span class=\"autocard\">Clone</span> copies a double faced transforming card like <span class=\"autocard\">Delver of Secrets</span>//<span class=\"autocard\">Insectile Aberration</span>, then it only copies the side currently face up and can't transform."
+  },
+  {
+    "imgs": [
+      "Alabaster Host Intercessor",
+      "Bear Cub",
+      "Murder"
+    ],
+    "q": "My opponent cast <span class=\"autocard\">Alabaster Host Intercessor</span> targeting my <span class=\"autocard\">Bear Cub</span> with its triggered ability. If I <span class=\"autocard\">Murder</span> the Intercessor before the trigger resolves, what happens to my Cub?",
+    "a": "Nothing at all. Intercessor's ability has a duration, and if that duration ends before it begins, then the Cub will not be exiled even for a millisecond."
+  },
+  {
+    "imgs": [
+      "Corruption of Towashi",
+      "Imbraham, Dean of Theory"
+    ],
+    "q": "I control <span class=\"autocard\">Corruption of Towashi</span> and cast <span class=\"autocard\">Imbraham, Dean of Theory</span> do I draw a card from Towashi's last ability?",
+    "a": "You do not. Modal double-faced cards like Kianne//Imbraham can not transform and are never considered transformed."
+  },
+  {
+    "imgs": [
+      "Deadly Derision",
+      "Ravenous Baloth"
+    ],
+    "q": "I've cast <span class=\"autocard\">Deadly Derision</span> targeting my opponent's <span class=\"autocard\">Ravenous Baloth</span>. If my opponent responds by sacrificing the Baloth to itself, do I still get to make a Treasure?",
+    "a": "You do not. If Deadly Derision loses its only target, then it fails to complete any of its text."
+  },
+  {
+    "imgs": [
+      "Elesh Norn",
+      "Goblin Chainwhirler"
+    ],
+    "q": "My opponent controls <span class=\"autocard\">Elesh Norn</span> and three 1/1 Mite tokens. I then cast <span class=\"autocard\">Goblin Chainwhirler</span>. How many times does Elesh Norn trigger because of my Chainwhirler?",
+    "a": "Elesh Norn will create five separate triggers: Three for the Mites, one for Elesh Norn, and one for the opponent. Each trigger causes you to lose 2 life or pay <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\">."
+  },
+  {
+    "imgs": [
+      "Hidetsugu and Kairi",
+      "Murder",
+      "Cyclonic Rift"
+    ],
+    "q": "My <span class=\"autocard\">Hidetsugu and Kairi</span> was just <span class=\"autocard\">Murder</span>ed and revealed the top card of my library to be <span class=\"autocard\">Cyclonic Rift</span>. Can I chose to overload it, and if I do, does that cause my opponent to lose 2 or 7 life?",
+    "a": "You can't overload the Rift. <span class=\"autocard\">Hidetsugu and Kairi</span> cast the revealed instant or sorcery without paying its mana cost, which is an alternative cost. Overload is also an alternative cost. You can't use more than one alternative cost at a time. The mana value of Cyclonic Rift is always 2 even when it's overloaded, so your opponent will lose only 2 life. Additionally, the life loss from <span class=\"autocard\">Hidetsugu and Kairi</span> is determined when it's revealed, before it's even cast."
+  },
+  {
+    "imgs": [
+      "Primordial Plasm",
+      "Nightmare"
+    ],
+    "q": "If my <span class=\"autocard\">Primordial Plasm</span>'s triggered ability targets my <span class=\"autocard\">Nightmare</span> while I control five Swamps, will I end up with a 2/2 Nightmare or 7/7?",
+    "a": "You will get a 2/2 Nightmare. If a creature whose power and toughness is defined by an ability loses that ability, it becomes a 0/0. Luckily for your scary horse, it gets +2/+2 from the Ooze when it loses all its abilities."
+  },
+  {
+    "imgs": [
+      "The Great Synthesis",
+      "Invasion of Vryn",
+      "Jin-Gitaxias"
+    ],
+    "q": "I'm in the middle of resolving the third chapter of <span class=\"autocard\">The Great Synthesis</span> and decide to cast three free copies of <span class=\"autocard\">Invasion of Vryn</span> from my hand. Will <span class=\"autocard\">Jin-Gitaxias</span> flip back in time to draw me three cards?",
+    "a": "The third chapter casts any number of spells from your hand for free, then it reverts back into Jin. Jin will not trigger because the Invasion of Vryns were already cast."
+  },
+  {
+    "imgs": [
+      "Omnath, Locus of All",
+      "Omen Hawker",
+      "Phyrexian Obliterator"
+    ],
+    "q": "I control <span class=\"autocard\">Omnath, Locus of All</span>. If I make mana with <span class=\"autocard\">Omen Hawker</span> during my first main phase and let that mana hang around until my second main phase, can I use that mana to cast a <span class=\"autocard\">Phyrexian Obliterator</span>?",
+    "a": "You can not. Although the mana was washed from <img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\"> to <img src=\"/ci-reader/images/symbols/B.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/B.png\" class=\"mana\"> it still can only be spent to activate abilities."
+  },
+  {
+    "imgs": [
+      "Seraph of New Phyrexia",
+      "Lightning Bolt"
+    ],
+    "q": "My opponent controls <span class=\"autocard\">Seraph of New Phyrexia</span> and several 1/1 Soldier tokens. I have a <span class=\"autocard\">Lightning Bolt</span> in hand. My opponent then attacks with the Seraph. Is there a time between when they have chosen to sacrifice a Soldier to the Seraph but before it gets the +2/+1 bonus where I can cast the Lightning Bolt to kill the Seraph?",
+    "a": "There is not. If you wait for them to sacrifice the Soldier to the attack trigger, by the time you get priority again the Seraph will already be a 5/4."
+  },
+  {
+    "imgs": [
+      "Sculpted Perfection",
+      "Phyrexian Gargantua",
+      "Kor Halberd",
+      "Stasis Field"
+    ],
+    "q": "My opponent controls <span class=\"autocard\">Sculpted Perfection</span> and a <span class=\"autocard\">Phyrexian Gargantua</span> wielding a <span class=\"autocard\">Kor Halberd</span>. I then enchant the Gargantua with <span class=\"autocard\">Stasis Field</span>, how big is it now?",
+    "a": "It will be a 2/4. Before the Stasis Field is cast, the Gargantua is a 6/6. Once enchanted we can go through the layers: It starts out as a 4/4, then in layer 7b it becomes a 0/2, then in layer 7c it gets +1/+1 from the Equipment and then +1/+1 from the enchantment, ending up as a 2/4."
+  },
+  {
+    "imgs": [
+      "Storm the Seedcore",
+      "Bear Cub",
+      "Murder",
+      "Doom Blade"
+    ],
+    "q": "I cast <span class=\"autocard\">Storm the Seedcore</span> targeting four different <span class=\"autocard\">Bear Cub</span>s I control, wanting to put one +1/+1 counter on each. Before Storm the Seedcore resolves, my opponent <span class=\"autocard\">Murder</span>s one Cub and <span class=\"autocard\">Doom Blade</span>s another. When Storm the Seedcore resolves, can I now put two +1/+1 counters on each of the remaining Bear Cubs?",
+    "a": "You can not. Each +1/+1 counter that was intended for a now-dead Bear Cub is lost, you can't redistribute those counters."
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "imgs": [
+      "Death's Shadow"
+    ],
+    "q": "My opponent is currently at 10 life. If I attack my opponent with two 3/3 Beast tokens and my opponent blocks one of them with his <span class=\"autocard\">Death's Shadow</span>, does the Shadow get big enough to survive the combat damage in time?",
+    "a": "Yes, it does! All combat damage from these three creatures is dealt simultaneously, then after damage is dealt state based actions are checked, by which point the Shadow has grown to be a 6/6 with 3 damage marked on it. Note that the Shadow only dealt 3 damage during this combat."
+  },
+  {
+    "imgs": [
+      "Shardless Agent",
+      "Living End",
+      "Containment Priest"
+    ],
+    "q": "My opponent has <span class=\"autocard\">Shardless Agent</span> into <span class=\"autocard\">Living End</span> and I have a <span class=\"autocard\">Containment Priest</span> in my hand. My opponent claims there is no point I can cast the Priest to prevent Living End from reanimating creatures. Is this true?",
+    "a": "They are correct. \nIf you cast Priest before Living End resolves, the Priest will get sacrificed with the rest of the board, then all creatures exiled by Living End will enter the battlefield, which means Priest is dead before creatures enter the battlefield, so Priest has no effect. \nIf you wait to cast the Priest after Living End resolves, then it missed the time to affect the creatures brought onto the battlefield by Living End. \nWorse yet, if you flash out Priest and kill it somehow so that it's in the graveyard when Living End resolves, it still won't affect the number of cards put on the battlefield by Living End as Priest's ability is a replacement effect and therefore can't \"see\" other cards put on the battlefield at the same time."
+  },
+  {
+    "imgs": [
+      "Uncivil Unrest",
+      "Jeska, Thrice Reborn",
+      "Bear Cub"
+    ],
+    "q": "I control <span class=\"autocard\">Uncivil Unrest</span>, <span class=\"autocard\">Jeska, Thrice Reborn</span>, and an attacking <span class=\"autocard\">Bear Cub</span> with a +1/+1 counter on it. Before attacking with the Bear Cub, I used Jeska's +0 ability to triple the Bear's damage. If my opponent doesn't block the Bear Cub, how much damage will it deal?",
+    "a": "The Bear Cub will deal 18 damage. It's power is 3 with the +1/+1 counter. Then it has two replacement effects that try to increase the damage. It doesn't matter the order in this case as both multiply the damage, so we will get to the same result, but it's worth noting the player being injured chooses the order these replacement effects will be applied.\n3x2=6, then 6x3=18<br>\nor <br>\n3x3=9, then 9x2=18."
+  },
+  {
+    "imgs": [
+      "Gisa, Glorious Resurrector",
+      "Hill Giant",
+      "Asphyxiate",
+      "Momentary Blink"
+    ],
+    "q": "My <span class=\"autocard\">Gisa, Glorious Resurrector</span> exiled my opponent's Bear Cub because it died blocking my <span class=\"autocard\">Hill Giant</span>. During my opponent's turn, they target Gisa with <span class=\"autocard\">Asphyxiate</span>. I respond by <span class=\"autocard\">Momentary Blink</span>ing her. As my turn begins will I get a decayed Bear Cub?",
+    "a": "You will not. When a permanent leaves the battlefield and then returns, no matter how short the time, it is considered a new object and loses any connection to its previous existence on the battlefield.\nIn short, because you blinked Gisa, she forgets she exiled the Bear Cub.\n<br>"
+  },
+  {
+    "imgs": [
+      "Puresteel Paladin",
+      "Lucille",
+      "Sword of Light and Shadow"
+    ],
+    "q": "I control <span class=\"autocard\">Puresteel Paladin</span> which is currently wielding <span class=\"autocard\">Lucille</span>. I then equip <span class=\"autocard\">Sword of Light and Shadow</span> onto the Paladin. When I attack with the Paladin, how much damage does it deal if it goes unblocked?",
+    "a": "The Paladin will only deal 4 damage. Once the Paladin gains Protection from Black, that makes Lucille \"fall off\" as a creature with protection from black can't have black Equipment attached to it."
+  },
+  {
+    "imgs": [
+      "Anikthea, Hand of Erebos",
+      "Necromancy"
+    ],
+    "q": "My commander is <span class=\"autocard\">Anikthea, Hand of Erebos</span>. If I have her make a copy of <span class=\"autocard\">Necromancy</span> from my graveyard, what happens to the Necromancy token?",
+    "a": "The Necromancy token enters the battlefield as a 3/3 black enchantment creature Zombie. Then its triggered ability resolves, turning it into a 3/3 black enchantment creature Zombie Aura, pulling a creature from a graveyard onto the battlefield, but it fails to attach the Necromancy token to the creature, because a creature can't be attached to anything. As soon as the trigger is done resolving, the game places the Necromancy token in the graveyard for being an Aura that's not attached to anything. Once this happens, this triggers the \"When Necromancy leaves the battlefield, that creature's controller sacrifices it\" ability, making you sacrifice the creature you reanimated."
+  },
+  {
+    "imgs": [
+      "Evolved Sleeper",
+      "Vantress Transmuter // Croaking Curse"
+    ],
+    "q": "On my last turn, I upgraded my <span class=\"autocard\">Evolved Sleeper</span> into a 2/2 Human Cleric. After this, my opponent placed a Cursed Role on it during their turn, using <span class=\"autocard\">Vantress Transmuter // Croaking Curse</span>. It's now my turn again. Can I activate Evolved Sleeper's first ability? And if so, what will it look like?",
+    "a": "Yes you can, and when that ability resolves, it will become a 2/2 Human Cleric. \nEvolved Sleeper's first ability works in layer 4 (type changing) and Layer 7b (P/T setting). Cursed Role works in layer 7b. When multiple effects try to apply in the same layer, they are usually applied in timestamp order. Older timestamps first, newest timestamps last. So Sleeper starts out as a 1/1 as those are its printed stats. Then we apply the oldest effect, the original activation of the first ability, making it a 2/2. Then the next effect is the 1/1 from Cursed Role. Then the youngest effect, the most recent activation of the first ability, making it a 2/2 again."
+  },
+  {
+    "imgs": [],
+    "q": "Same set up as the last question. Can I activate the Evolved Sleeper's second ability? And if so, what will it look like?",
+    "a": "Yes you can, and when that ability resolves, it will become a 3/3 Phyrexian Human Cleric with a deathtouch counter. \nEvolved Sleeper's second ability works in Layer 4 (type changing), Layer 6 (adding//removing abilities), and Layer 7b (P/T setting). \nSleepers second ability doesn't care what size the Sleeper is, just that it is a Cleric to have any effect. Cursed Role doesn't remove abilities or change a creature's types, so you can still activate that second ability since the first one was activated earlier.\nWe again do timestamp order for determining the end power and toughness. Printed stats of 1/1, turns to 2/2, then Cursed Role makes 1/1, and then in the end the effect from the second ability wins as it has the most recent timestamp, making it a 3/3."
+  },
+  {
+    "imgs": [
+      "Tribute to the World Tree",
+      "Branching Evolution",
+      "Bear Cub"
+    ],
+    "q": "I control two copies of <span class=\"autocard\">Tribute to the World Tree</span> and two copies of <span class=\"autocard\">Branching Evolution</span>. If I cast <span class=\"autocard\">Bear Cub</span>, how many +1/+1 counters will it end up with and will I draw any cards?",
+    "a": "The Bear will have eight +1/+1 counters and you will draw 1 card. Branching Evolution is a replacement effect and World Tree is a triggered ability that adds +1/+1 counters or draws you a card. \nWhen the Bear enters the battlefield, both World Trees trigger. The first World Tree will attempt to put two +1/+1 counters on the Bear, this will be increased to four +1/+1 counters by the first Branching Evolution, and then the second Branching Evolution will double this to eight +1/+1 counters. By the time the second World Tree trigger tries to resolve, the Bear has way more power than 3, so you draw a card from it."
+  },
+  {
+    "imgs": [
+      "Kaalia of the Vast",
+      "Baneslayer Angel",
+      "Horn of the Mark"
+    ],
+    "q": "If I attack with only <span class=\"autocard\">Kaalia of the Vast</span> putting a <span class=\"autocard\">Baneslayer Angel</span> onto the battlefield attacking with Kaalia's trigger, will this trigger my <span class=\"autocard\">Horn of the Mark</span>?",
+    "a": "This will not. You have to declare two or more creatures attacking the same player to get the Horn to trigger. Creatures put onto the battlefield attacking were not declared as attackers."
+  },
+  {
+    "imgs": [
+      "Horn of the Mark"
+    ],
+    "q": "In a game of Commander I have three opponents. I attack each of them in the same turn with three 1/1 Saproling tokens. Does this trigger my <span class=\"autocard\">Horn of the Mark</span> once or three times?",
+    "a": "Three times! When you declare an attack, it trigger once for each opponent who is attacked by two or more creatures."
+  },
+  {
+    "imgs": [
+      "Damping Sphere",
+      "Nyxbloom Ancient",
+      "Ancient Tomb"
+    ],
+    "q": "My opponent controls <span class=\"autocard\">Damping Sphere</span> and I control <span class=\"autocard\">Nyxbloom Ancient</span>. If I tap my <span class=\"autocard\">Ancient Tomb</span> for mana, how much mana does it make?",
+    "a": "Its your choice of <img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\"> or <img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\">. Both Nyxbloom and Damping Sphere want to replace <img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\"> with making a different amount of mana, and since each can apply even after the other has both will get to have an effect in the end. \nSince you are affected by the event being replaced (the amount of mana made) you get to choose the order in which the two replacement effects are applied.\nIf you apply Nyxbloom first, you will triple <img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\"> to <img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\">, which then gets dropped to a single <img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\"> by Damping Sphere.\nIf you apply Damping Sphere first, you will cut <img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\"> in half to only <img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\">, which then gets tripled to <img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\"> by Nyxbloom."
+  },
+  {
+    "imgs": [],
+    "q": "I'm not sure why, but I've always played with my lands on the left side of my battlefield. I had an opponent tell me that it's against the rules, and that I have to play with my lands in the back. Is this true?",
+    "a": "That depends on the rules enforcement level. In casual games and at Regular REL, you may place your cards on your portion of the table as you see fit so long as it's clear what cards are what and you're not hiding some cards by placing some cards over others. However, at Competitive and Professional REL, the tournament rules specify a mandatory game layout that includes \"lands in the back\" among other requirements."
+  },
+  {
+    "imgs": [
+      "Farewell",
+      "Teferi's Protection",
+      "Relic of Progenitus",
+      "Wheel of Fortune",
+      "Maddening Cacophony"
+    ],
+    "q": "My opponent casts <span class=\"autocard\">Farewell</span> so I respond by phasing myself out with <span class=\"autocard\">Teferi's Protection</span>. My opponent chooses all modes for Farewell and claims they still exile my graveyard. Is this true?",
+    "a": "They do still get to exile your graveyard. You don't \"phase out\", only your permanents do. While under Teferi's Protection, your library, your hand, your graveyard, and you can still be affected by things that don't target. Examples include <span class=\"autocard\">Relic of Progenitus</span>, <span class=\"autocard\">Wheel of Fortune</span>, and <span class=\"autocard\">Maddening Cacophony</span>."
+  },
+  {
+    "imgs": [
+      "Precursor Golem",
+      "Sublime Epiphany",
+      "Disperse"
+    ],
+    "q": "I control <span class=\"autocard\">Precursor Golem</span> and its two 3/3 Golem tokens. If I target Precursor Golem with <span class=\"autocard\">Sublime Epiphany</span> choosing the copy target creature mode and the draw a card mode, can I choose different modes with the two copies of Sublime Epiphany?",
+    "a": "So this is a whole lot of no. With the modes chosen, you will make no copies as the spell has two targets, the Golem and a player to draw a card. It is possible to cast Sublime so that Precursor copies it. You could:<br>\nA) choose only the copy target creature mode<br>\nB) choose only the \"<span class=\"autocard\">Disperse</span>\" mode<br>\nC) choose the \"<span class=\"autocard\">Disperse</span>\" mode and the copy target creature mode with both modes targeting the same golem\nBut in these three cases, you can't change the modes chosen for the copies. If you copy a spell with modes on the stack, you can't change the modes.\nAs a side note, if you chose option C, each Golem will be \"bounced\" and you will still make the copy using its last known information. Although the target is gone by the time the copying part of the spell begins to resolve, the spell has already started resolving, so loss of target doesn't stop the Sublime Epiphany from resolving.<br>"
+  },
+  {
+    "imgs": [
+      "Brenard, Ginger Sculptor",
+      "Bear Cub",
+      "Day of Judgment"
+    ],
+    "q": "I control <span class=\"autocard\">Brenard, Ginger Sculptor</span> and three <span class=\"autocard\">Bear Cub</span>s. My opponent casts <span class=\"autocard\">Day of Judgment</span>. Does Brenard still make three gingerbread Bear Cubs, even though he is dying along with them?",
+    "a": "He does! He sees them dying with him, and still makes the copies even though he will be in the graveyard by the time the gingerbread Bear Cubs are made. Like a good chef, he does a lot of prep work beforehand."
+  },
+  {
+    "imgs": [
+      "Mortuary",
+      "Clone",
+      "Gyruda, Doom of Depths"
+    ],
+    "q": "If I control <span class=\"autocard\">Mortuary</span> and cast <span class=\"autocard\">Clone</span> choosing to copy my <span class=\"autocard\">Gyruda, Doom of Depths</span>, can I infinitely mill all other players?",
+    "a": "If you play it right, yes you can.\nSteps:<br>\n1) Place Gyruda or Clone in the graveyard with the legend rule<br>\n2) Put Gyruda's enter the battlefield trigger on the stack with the Mortuary trigger above it.<br>\n3) Put Gyruda or Clone on top of your library with the Mortuary trigger.<br>\n4) Each player mills four cards, including the Gyruda or Clone you just placed on top of your library. Choose to reanimate the Gyruda or Clone.<br>\n5) You're back at step 1. Repeat until all players have empty libraries.<br>\n6) To exit the loop, put the Mortuary trigger on the stack with Gyruda's enter the battlefield trigger above it.<br>\n7) Mill from an empty Library, failing to reanimate a creature.<br>\n8) Put Gyruda or Clone on top of your Library with the Mortuary trigger.<br>\n9) Pass turn and win the game as each opponent in turn order draws from an empty library.\n<br>"
+  },
+  {
+    "imgs": [
+      "Bear Cub",
+      "Emberwilde Captain",
+      "Aetherize"
+    ],
+    "q": "My opponent attacks me with three <span class=\"autocard\">Bear Cub</span>s while I'm the monarch and I control an <span class=\"autocard\">Emberwilde Captain</span>. The opponent currently has four cards in their hand. Is it possible for me to use the <span class=\"autocard\">Aetherize</span> in my hand to increase the damage Emberwilde does to greater than 4?",
+    "a": "You can. When the opponent attacks with the three Bears, the trigger for Emberwilde goes on the stack. The trigger only counts the number of cards in your opponent's hand as it resolves. Before it resolves, you can cast Aetherize returning all three Bears to the opponent's hand. Emberwilde's trigger will then resolve seeing seven cards in your opponent's hand, dealing 7 damage to them."
+  },
+  {
+    "imgs": [
+      "Parallel Thoughts",
+      "glimpse the unthinkable"
+    ],
+    "q": "I control <span class=\"autocard\">Parallel Thoughts</span> and my library has been entirely <span class=\"autocard\">glimpse the unthinkable</span> out by my opponent. If there are no more cards exiled by Parallel Thoughts, can I still have it replace my draw so I don't lose the game for drawing from an empty library?",
+    "a": "Yes, you can. Parallel Thoughts replaces your draw with putting a card from exile in your hand. It doesn't require that this action actually puts a card in your hand to replace the draw."
+  },
+  {
+    "imgs": [
+      "Breathkeeper Seraph",
+      "Uro, Titan of Nature's Wrath"
+    ],
+    "q": "I control <span class=\"autocard\">Breathkeeper Seraph</span> and cast <span class=\"autocard\">Uro, Titan of Nature's Wrath</span> from my hand. Can I soulbond Uro to Breathkeeper before Uro gets sacrificed to its own ability? And if I can, can I now get as many Uro triggers as I want?",
+    "a": "Yes, and sort of. If the Seraph isn't currently soulbonded with another creature, you can soulbond it to Uro. When Uro enters the battlefield it will trigger three different abilities:<br>\n1) Uro's \"you gain 3 life and draw a card, then you may put a land card from your hand onto the battlefield\"<br>\n2) Uro's self-sacrifice ability for not being escaped.<br>\n3) Seraph's soulbond trigger. \nAs you control all three triggers, you can put them on the stack in any order. So long as you have the Seraph's soulbond trigger resolve before the self-sacrifice trigger, you can pair the two creatures.\nHowever, this doesn't make infinite Uro triggers. Instead, Uro will still die and then come back at the beginning of your next turn. If Seraph is not soulbonded to another creature when Uro returns, you can soulbond the two again, and Uro will die yet again as he wasn't cast for his escape cost. You can keep doing this every turn if you like, gaining 3 life, drawing a card, and putting a land on the battlefield during each of your upkeeps."
+  }
+]

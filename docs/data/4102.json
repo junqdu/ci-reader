@@ -1,0 +1,112 @@
+[
+  {
+    "imgs": [
+      "Alrund's Epiphany",
+      "Ragavan, Nimble Pilferer",
+      "Whir of Invention",
+      "Force of Will",
+      "Phyrexian Fleshgorger",
+      "Thoughtcast"
+    ],
+    "q": "</b></span>   Which of the following cards have alternative costs or have built in ways to use an alternative cost later?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: <span class=\"autocard\">Alrund's Epiphany</span><br>\nB: <span class=\"autocard\">Ragavan, Nimble Pilferer</span><br>\nC: <span class=\"autocard\">Whir of Invention</span><br>\nD: <span class=\"autocard\">Force of Will</span><br>\nE: <span class=\"autocard\">Phyrexian Fleshgorger</span><br>\nF: <span class=\"autocard\">Thoughtcast</span><br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>A, B, and D.</b><br>\n<br>\na) Casting a card from exile using its foretell cost is an alternative cost.<br>\nb) Dash is an alternative cost.<br>\nc) Improvise is not an alternative cost, it merely permits you to tap artifacts to pay part (or all) of its cost. <br>\nd) Exiling a blue card and paying 1 life is an alternative cost. Many alternative costs don't have mana as part of the cost.<br>\ne) Protoype is not an alternative cost. The card has two different sets of characteristics with a shared set of types and abilities.<br>\nf) Affinity for artifacts is a cost reducer, not a alternative cost.<br>\n"
+  },
+  {
+    "imgs": [
+      "Collective Brutality",
+      "Mana Leak",
+      "Deadly Dispute",
+      "Thalia, Guardian of Thraben",
+      "Voidmage Prodigy",
+      "Orim's Chant"
+    ],
+    "q": "</b></span>   Which of the following cards have additional costs or give another spell an additional cost?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: <span class=\"autocard\">Collective Brutality</span><br>\nB: <span class=\"autocard\">Mana Leak</span><br>\nC: <span class=\"autocard\">Deadly Dispute</span><br>\nD: <span class=\"autocard\">Thalia, Guardian of Thraben</span><br>\nE: <span class=\"autocard\">Voidmage Prodigy</span><br>\nF: <span class=\"autocard\">Orim's Chant</span><br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>A, C, D, and F </b><br>\n<br>\na) Escalate is an optional additional cost.<br>\nb) Mana Leak is not an additional cost. The payment of <img src=\"/ci-reader/images/symbols/3.png\" class=\"mana\"> is an optional payment Mana Leak asks the controller of the target spell to pay to prevent said spell from being countered.<br>\nc) Deadly Dispute has a mandatory additional cost.<br>\nd) Thalia increases the cost of noncreature spells by <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\">. This is actually a cost-increasing effect rather than an additional cost, but the end result is the same.<br>\ne) Morph (casting a card face down for <img src=\"/ci-reader/images/symbols/3.png\" class=\"mana\">) is an alternative cost, not a additional cost.<br>\nf) Kicker is an optional additional cost.<br>\n"
+  },
+  {
+    "imgs": [
+      "Semblance Anvil",
+      "All That Glitters",
+      "Lodestone Golem",
+      "Aura of Silence"
+    ],
+    "q": "</b></span>   I control <span class=\"autocard\">Semblance Anvil</span> which is exiling <span class=\"autocard\">All That Glitters</span> and my opponent controls <span class=\"autocard\">Lodestone Golem</span>. If I try to cast <span class=\"autocard\">Aura of Silence</span>, how much mana will it cost me and what will its mana value be?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: Cost <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/W.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/W.png\" class=\"mana\"> and mana value 3<br>\nB: Cost <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/W.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/W.png\" class=\"mana\"> and mana value 3<br>\nC: Cost <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/W.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/W.png\" class=\"mana\"> and mana value 4<br>\nD: Cost <img src=\"/ci-reader/images/symbols/W.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/W.png\" class=\"mana\"> and mana value 2<br>\nE: Cost <img src=\"/ci-reader/images/symbols/W.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/W.png\" class=\"mana\"> and mana value 3<br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>E.</b><br>\n<br>\nAdditional costs can be reduced by cost reducers. When determining the total cost of a spell, first add all increases, then reduce it by any reducers. In this case we start with a base mana cost of <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/W.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/W.png\" class=\"mana\">, then increase it by <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\"> because of Lodestone Golem to <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/W.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/W.png\" class=\"mana\">, then at the end we reduce it by <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"> because of Anvil to a final total cost of <img src=\"/ci-reader/images/symbols/W.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/W.png\" class=\"mana\">. Reducing and increasing the cost of a spell doesn't change its mana Value, so it stays at mana value of 3.<br>\n<br>\n"
+  },
+  {
+    "imgs": [
+      "Omniscience",
+      "Capsize",
+      "Ancestral Vision",
+      "Gemrazer",
+      "Ornithopter",
+      "Cyclonic Rift",
+      "Lightning Bolt",
+      "Yawgmoth's Will"
+    ],
+    "q": "</b></span>   I control <span class=\"autocard\">Omniscience</span>. Which of the following cards can I use Omniscience to cast without paying any mana?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: <span class=\"autocard\">Capsize</span> with buyback.<br>\nB: <span class=\"autocard\">Ancestral Vision</span> from my hand.<br>\nC: Mutate the <span class=\"autocard\">Gemrazer</span> from my hand onto the <span class=\"autocard\">Ornithopter</span> I control.<br>\nD: Overloading a <span class=\"autocard\">Cyclonic Rift</span> from my hand.<br>\nE: <span class=\"autocard\">Lightning Bolt</span> from my graveyard after having cast <span class=\"autocard\">Yawgmoth's Will</span>.<br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>B.</b><br>\na) You can cast the Capsize for free, but must still pay the additional cost for buyback.<br>\nb) Omniscience gives you an alternative cost of free to Ancestral Vision, which gets around the fact that Ancestral Vision normally has an unpayable cost.<br>\nc and d) Both mutate and overload are alternative costs that can't be combined with the alternative cost from Omniscience.<br>\ne) Omniscience only lets you cast cards from your hand for free.<br>\n"
+  },
+  {
+    "imgs": [
+      "Annoyed Altisaur",
+      "Mox Tantalite",
+      "Draconic Roar",
+      "Bear Cub",
+      "Cathartic Reunion",
+      "Cobbled Lancer",
+      "Dig Up"
+    ],
+    "q": "</b></span>   If I cast <span class=\"autocard\">Annoyed Altisaur</span>, which of the following cards could I cast for free if I cascade into them?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: <span class=\"autocard\">Mox Tantalite</span>.<br>\nB: <span class=\"autocard\">Draconic Roar</span> while there are no Dragons in my hand and my opponent controls a <span class=\"autocard\">Bear Cub</span>.<br>\nC: <span class=\"autocard\">Cathartic Reunion</span> while I have no cards in hand.<br>\nD: <span class=\"autocard\">Cobbled Lancer</span> while there are no creatures in my graveyard.<br>\nE: A cleaved <span class=\"autocard\">Dig Up</span>.<br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>A and B</b><br>\n<br>\na) Cascade is an alternative cost of cast for free, which gets around unpayable costs like Mox Tantalite has.<br>\nb) You can choose to cast Draconic Roar as its additional cost is optional.<br>\nc) Since you can't pay the mandatory cost of discarding a card, you can't cast Cathartic Reunion with cascade.<br>\nd) Since you don't have a legal choice for the mandatory cost of Cobbled Lancer, you can't cast it at all with cascade.<br>\ne) You can cast Dig Up normally, but you can't cleave it as that is an alternative cost and cascade is already an alternative cost and you can't use more than one alternative cost at a time.<br>\n"
+  },
+  {
+    "imgs": [
+      "Necravolver",
+      "Chorus of the Conclave",
+      "Lodestone Golem"
+    ],
+    "q": "</b></span>   I currently have access to unlimited mana of every color. If I go to cast <span class=\"autocard\">Necravolver</span>, what is the greatest number and/or combination of the following additional costs I could pay while casting it?\n<br>\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"> kicker from Necravolver.<br>\nB: <img src=\"/ci-reader/images/symbols/W.png\" class=\"mana\"> kicker from Necravolver.<br>\nC: <img src=\"/ci-reader/images/symbols/7.png\" class=\"mana\"> for <span class=\"autocard\">Chorus of the Conclave</span>'s second ability.<br>\nD: <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\"> for the opponent's <span class=\"autocard\">Lodestone Golem</span><br>\nE. All of the above.<br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>E.</b><br>\n<br>\nIf you have the resources (and access to the appropriate targets), you can pay any number of additional costs. Some of those additional costs and cost increases may be mandatory (such as Lodestone Golem), while others may be optional (either kicker cost and Chorus of the Conclave's boost).<br>\n<br>\n"
+  },
+  {
+    "imgs": [
+      "Arcane Melee",
+      "Cyclonic Rift"
+    ],
+    "q": "</b></span>   I control two copies of <span class=\"autocard\">Arcane Melee</span>. If I want to overload the <span class=\"autocard\">Cyclonic Rift</span> from my hand, how much mana will I need to pay?\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: <img src=\"/ci-reader/images/symbols/6.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\"><br>\nB: <img src=\"/ci-reader/images/symbols/5.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\"><br>\nC: <img src=\"/ci-reader/images/symbols/4.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\"><br>\nD: <img src=\"/ci-reader/images/symbols/3.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\"><br>\nD: <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\"><br>\nE: <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\"><br>\nF: <img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\"><br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>D.</b><br>\n<br>\nAlternate costs like overload can be reduced by abilities like Arcane Melee. Cyclonic Rift starts at <img src=\"/ci-reader/images/symbols/6.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\"> and is reduced to <img src=\"/ci-reader/images/symbols/4.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\"> by the first Arcane Melee, and then is reduced to  <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\"> by the second Arcane Melee.<br>\n<br>\n"
+  },
+  {
+    "imgs": [
+      "Chalice of the Void",
+      "Cyclonic Rift",
+      "Blink of an Eye",
+      "Wear // Tear",
+      "Drain Life",
+      "Blaze"
+    ],
+    "q": "</b></span>   My opponent controls <span class=\"autocard\">Chalice of the Void</span> with two charge counters on it. Which of the following spells will get countered by the Chalice if I cast them?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: <span class=\"autocard\">Cyclonic Rift</span> that is overloaded.<br>\nB: <span class=\"autocard\">Cyclonic Rift</span> that is not overloaded.<br>\nC: <span class=\"autocard\">Blink of an Eye</span> that is kicked.<br>\nD: <span class=\"autocard\">Blink of an Eye</span> that is not kicked.<br>\nE: A fused <span class=\"autocard\">Wear // Tear</span>.<br>\nF: <span class=\"autocard\">Drain Life</span> with <img src=\"/ci-reader/images/symbols/X.png\" class=\"mana\"> equal to 2.<br>\nG: <span class=\"autocard\">Blaze</span> with <img src=\"/ci-reader/images/symbols/X.png\" class=\"mana\"> equal to 1.<br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>A, B, C, D, and G</b><br>\n<br>\na, b, c, &amp; d) Additional costs and alternative costs do not change the mana value of a spell.<br>\ne) Fusing a spell makes its mana value equal to the two sides combined (in this case mana value 3).<br>\nf &amp; g) While on the stack, X in mana costs is equal to the amount chosen for it. This makes Drain Life's mana value 4 and Blaze's mana value 2 in the above answers.<br>\n<br>\n"
+  },
+  {
+    "imgs": [
+      "Fist of Suns",
+      "Defiler of Dreams",
+      "Jwar Isle Avenger"
+    ],
+    "q": "</b></span>   I control <span class=\"autocard\">Fist of Suns</span> and <span class=\"autocard\">Defiler of Dreams</span> and have cast one spell earlier this turn. If I want to cast <span class=\"autocard\">Jwar Isle Avenger</span> from my hand, which of the following are amounts of mana I could pay to do so?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: <img src=\"/ci-reader/images/symbols/W.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/B.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/R.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"><br>\nB: <img src=\"/ci-reader/images/symbols/W.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/B.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/R.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"><br>\nC: <img src=\"/ci-reader/images/symbols/4.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\"><br>\nD: <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\"><br>\nE: <img src=\"/ci-reader/images/symbols/4.png\" class=\"mana\"><br>\nF: <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"><br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>All of them.</b><br>\n<br>\nFist of Suns and Surge are both alternative costs, and they can't be used at the same time to cast Jwar Isle Avenger, but none of the above answers attempt to do this.<br>\n<br>\na) This is merely casting the Avenger through Fist of Suns.<br>\n<br>\nb, e, &amp; f) Defiler of Dream's ability is an additional cost (pay 2 life) to get a cost reduction of <img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\">. This can be used to reduce the cost of the Avenger casting it normally, casting it through Fist of Suns, or casting it for its Surge cost.<br>\n<br>\nc &amp; e) Surge is an optional alternative cost, so don't have to use it. In this specific case I'm not sure why you wouldn't, but you don't have to.<br>\n<br>\na, c, &amp; d) Defiler of Dream's additional cost is optional. So if you would prefer to keep the life, you don't have to use Defiler's ability.<br>\n"
+  },
+  {
+    "imgs": [
+      "Archive Trap",
+      "evolving wilds",
+      "Snapcaster Mage",
+      "Mission Briefing",
+      "Wrenn and Six"
+    ],
+    "q": "</b></span>   I have an <span class=\"autocard\">Archive Trap</span> in my graveyard, an <span class=\"autocard\">Archive Trap</span> in my hand, and my opponent has \"<span class=\"autocard\">evolving wilds</span>\" a land this turn. Which of the following ways let me cast an Archive Trap for its \"free\" cost?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: I flash in <span class=\"autocard\">Snapcaster Mage</span>, giving flashback to the Archive Trap in the graveyard.<br>\nB: I cast <span class=\"autocard\">Mission Briefing</span> choosing the Archive Trap in my graveyard.<br>\nC: I cast the Archive Trap in my hand.<br>\nD: I control <span class=\"autocard\">Wrenn and Six</span>'s emblem and have a land in my hand.<br>\nE: Do my best impersonation of Admiral Ackbar.<br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>B, C, and D</b><br>\n<br>\na) Snapcaster Mage gives the Archive Trap flashback. Flashback is an alternative cost. Its \"trap\" ability is also a alternative cost. You can only use one alternative cost at a time.<br>\nb) Mission Briefing does not give Archive Trap an alternative cost, it just adds the graveyard as a zone the card can be cast from.<br>\nc) That is how that card is designed to work.<br>\nd) Wrenn's emblem adds an additional cost to Archive Trap, but this doesn't impede you from using its \"trap\" alternative cost.<br>\n"
+  }
+]

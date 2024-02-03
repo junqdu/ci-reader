@@ -1,0 +1,155 @@
+[
+  {
+    "imgs": [
+      "Impulse",
+      "Arcanis the Omnipotent"
+    ],
+    "q": "Are the cards from <i>Dominaria Remastered</i> going to be legal in Standard, or in Modern?",
+    "a": "That depends on the individual card. <i>Dominaria Remastered</i> is a supplemental product, not a set release. As such, the cards from <i>Dominaria Remastered</i> are tournament legal, but only in formats in which the card was already legal. For example, <span class=\"autocard\">Impulse</span>, originally from <i>Visions</i>, is currently Standard legal because it was reprinted in <i>Dominaria United</i>, which is currently a Standard-legal set. <span class=\"autocard\">Arcanis the Omnipotent</span>, originally from <i>Onslaught</i>, is Modern legal because it was reprinted in <i>Tenth Edition</i>."
+  },
+  {
+    "imgs": [
+      "Zur the Enchanter",
+      "Maze of Ith"
+    ],
+    "q": "I attack with <span class=\"autocard\">Zur the Enchanter</span>, and my opponent untaps it with <span class=\"autocard\">Maze of Ith</span>. Do I still get to search for an enchantment?",
+    "a": "Absolutely. Maze of Ith only does what it says it does, so it untaps Zur and creates a damage prevention effect. It doesn't even remove Zur from combat, so Zur is still an attacking creature, although removing Zur from combat wouldn't stop its ability, either. By the time your opponent activates Maze of Ith's ability, Zur's ability is already on the stack, and the Maze doesn't do anything that would counter or otherwise remove the ability from the stack."
+  },
+  {
+    "imgs": [
+      "Icatian Javelineers",
+      "Yawgmoth, Thran Physician"
+    ],
+    "q": "I control an <span class=\"autocard\">Icatian Javelineers</span> that has two javelin counters on it thanks to <span class=\"autocard\">Yawgmoth, Thran Physician</span>. Can I tap the Javelineers and remove both counters to deal 2 damage to a target?",
+    "a": "No, that doesn't work. The cost to activate the ability once is to tap the Javelineers and to remove a javelin counter from it, and it deals 1 damage when it resolves. To activate it again, you'd have to tap the Javelineers again, which you can't do unless you find some way to untap it first."
+  },
+  {
+    "imgs": [
+      "Sneak Attack",
+      "Ovinize"
+    ],
+    "q": "If I bring out a creature with <span class=\"autocard\">Sneak Attack</span>, can I <span class=\"autocard\">Ovinize</span> it before the end step to prevent it from being sacrificed?",
+    "a": "No. Sneak Attack doesn't give an ability to the creature to cause the sacrifice, it creates a delayed triggered ability. Since it's not an ability of the creature, removing the creature's abilities won't stop the sacrifice."
+  },
+  {
+    "imgs": [
+      "Necrosavant"
+    ],
+    "q": "Can I activate <span class=\"autocard\">Necrosavant</span>'s ability while it's in the graveyard?",
+    "a": "Yes, in fact that's the only zone in which the ability can be activated. Normally, abilities only function on the battlefield, but an activated ability that talks about returning its source from the graveyard only functions in the graveyard. This means, for example, that if you only control Necrosavant, you can't sacrifice it to its own ability and return it if you wanted to do that for some morbid reason."
+  },
+  {
+    "imgs": [
+      "Hermetic Study",
+      "Icy Manipulator"
+    ],
+    "q": "My opponent controls a creature that has <span class=\"autocard\">Hermetic Study</span> attached to it, and he's tapping it to activate the ability. Can I interrupt this process by tapping the creature with <span class=\"autocard\">Icy Manipulator</span> to stop the ability?",
+    "a": "No, that's not possible. By the time you get priority to respond to the ability, the ability is already on the stack and the creature has already been tapped, so Icy Manipulator won't do anything at all. The most you can do with Icy Manipulator is to activate it some time before your opponent decides to use the creature's ability. However, your opponent could still activate the ability in response, so you're just forcing them into a \"use it or lose it\" decision rather than stopping the ability altogether."
+  },
+  {
+    "imgs": [
+      "Wrath of God",
+      "Glory"
+    ],
+    "q": "Can I save my creatures from <span class=\"autocard\">Wrath of God</span> if I give them protection from white with <span class=\"autocard\">Glory</span>?",
+    "a": "No. When a creature has protection from white, it gets four specific benefits that are commonly remembered with the mnemonic \"DEBT\": 1) Damage that would be dealt by white sources is prevented. 2) White enchantments (or equipment) can't be attached to the creature. 3) It can't be blocked by white creatures. 4) It can't be the target of white spells or abilities from white sources. Wrath of God destroys creatures without dealing damage to them or targeting them, so protection from white is powerless to stop that from happening."
+  },
+  {
+    "imgs": [
+      "Serra Angel",
+      "Spirit Link",
+      "Confiscate"
+    ],
+    "q": "My opponent controls a <span class=\"autocard\">Serra Angel</span> that's enchanted with <span class=\"autocard\">Spirit Link</span>, and I <span class=\"autocard\">Confiscate</span> the Angel. What happens when I attack my opponent with the Angel and they don't block?",
+    "a": "That depends on whether your opponent has more or less than 4 life. The unblocked Angel deals 4 damage to your opponent, which triggers Spirit Link's ability, but that ability only goes on the stack if your opponent survives the damage. If they don't, you win the game, so let's assume they do survive the damage. Even though you control the Angel, your opponent still controls Spirit Link, and Spirit Link's ability is what's causing its controller to gain life, so your opponent gains back the 4 life right away."
+  },
+  {
+    "imgs": [
+      "High Tide",
+      "Island"
+    ],
+    "q": "If I resolve <span class=\"autocard\">High Tide</span> and play another <span class=\"autocard\">Island</span>, does the new Island tap for additional blue mana, too?",
+    "a": "It does. Some spells create continuous effects that change the characteristics or controller of a certain set of objects, and such effects lock in the affected set of objects at the time the spell resolves. High Tide is not such a spell, though. It doesn't give all Islands a triggered ability. High Tide's resolution creates a delayed triggered ability that just exists in the game state, not belonging to any particular object. That ability watches the game for the remainder of the turn, and whenever its trigger event happens, it kicks in and the player who tapped an Island for mana adds another <img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\">. It doesn't matter to High Tide's delayed triggered ability whether that Island was on the battlefield when High Tide resolved."
+  },
+  {
+    "imgs": [
+      "High Tide",
+      "Remote Isle"
+    ],
+    "q": "Speaking of <span class=\"autocard\">High Tide</span>, does it work with <span class=\"autocard\">Remote Isle</span>?",
+    "a": "No. Even though an Isle is linguistically similar to an Island, and Remote Isle produces blue mana, but that doesn't mean that it is an Island. To be an Island and to count for High Tide, it would need to have the land type Island on its type line, which it doesn't."
+  },
+  {
+    "imgs": [
+      "Arboria"
+    ],
+    "q": "What in the world is a \"<span class=\"autocard\">Arboria</span>\"?",
+    "a": "World is a supertype that comes with its own rule that goes by the obvious name of \"world rule.\" In essence, the world rule makes sure that at most one world permanent can be on the battlefield at a time, so if more than one world permanent is on the battlefield, all except the newest one go away. However, the only world permanent that's printed in <i>Dominaria Remastered</i> is Arboria, so it's unlikely that this situation will come up in a <i>Dominaria Remastered</i> draft."
+  },
+  {
+    "imgs": [
+      "Fact or Fiction",
+      "Dodecapod"
+    ],
+    "q": "I resolve <span class=\"autocard\">Fact or Fiction</span> and <span class=\"autocard\">Dodecapod</span> is in the pile that I choose to send to the graveyard. Do I get to put Dodecapod onto the battlefield?",
+    "a": "No, for two reasons. For one, what's happening to Dodecapod is not caused by a spell or ability your opponent controls. Your opponent had some input by dividing the cards into two piles, but this is all happening because of a spell you control. Second, Dodecapod is going into the graveyard from your library, while \"discard\" refers to a card going to the graveyard from its owner's hand, so Dodecapod is not being discarded, either."
+  },
+  {
+    "imgs": [
+      "Fact or Fiction",
+      "Legacy Weapon",
+      "Serra Avatar",
+      "Tormod's Crypt"
+    ],
+    "q": "I resolve <span class=\"autocard\">Fact or Fiction</span> again, and this time <span class=\"autocard\">Legacy Weapon</span> and <span class=\"autocard\">Serra Avatar</span> are in the pile that's going into the graveyard. What happens?",
+    "a": "Both Legacy Weapon and Serra Avatar have abilities that resist the card going into the graveyard, but they're doing so by different means. Legacy Weapon creates a replacement effect, so it gets shuffled into your library instead of ever going to the graveyard, while Fact or Fiction is resolving. Serra Avatar, on the other hand, goes to the graveyard first and then has to wait for its triggered ability to resolve to get shuffled into your library. If nothing else happens between the resolution of Fact or Fiction and the triggered ability, the two shuffles could physically be combined into one shuffle to save some time, but note that your opponent could respond to Serra Avatar's ability with something like <span class=\"autocard\">Tormod's Crypt</span>."
+  },
+  {
+    "imgs": [
+      "Sevinne's Reclamation",
+      "Counterspell"
+    ],
+    "q": "If I flash back <span class=\"autocard\">Sevinne's Reclamation</span> and my opponent <span class=\"autocard\">Counterspell</span>s it, do I still get to make the copy for having cast Sevinne's Reclamation from my graveyard?",
+    "a": "No. The copy is not made by a triggered ability that triggers on casting the original. It is an additional conditional effect that happens while the original spell is resolving. If the spell is countered, it won't resolve, so it won't get the chance to make a copy of itself."
+  },
+  {
+    "imgs": [
+      "Sevinne's Reclamation",
+      "Grapeshot"
+    ],
+    "q": "If <span class=\"autocard\">Sevinne's Reclamation</span> gets copied by its ability, does the copy count towards my <span class=\"autocard\">Grapeshot</span>?",
+    "a": "Nope. Storm counts how many spells you have cast before it this turn. The copy of Sevinne's Reclamation was created on the stack without being cast, so it doesn't contribute to your storm count."
+  },
+  {
+    "imgs": [
+      "Urza, Lord High Artificer",
+      "Grapeshot"
+    ],
+    "q": "If I play a spell off of <span class=\"autocard\">Urza, Lord High Artificer</span>'s ability, does that count towards my <span class=\"autocard\">Grapeshot</span>?",
+    "a": "It does! Urza's ability lets you \"play\" the exiled card, and to play a card means to play it as a land if it's a land, or to cast it as a spell if it's a nonland card. Even though the instruction said \"play\", the spell was indeed cast, so it counts towards your storm count."
+  },
+  {
+    "imgs": [
+      "Test of Endurance",
+      "Swords to Plowshares"
+    ],
+    "q": "I control <span class=\"autocard\">Test of Endurance</span>, I'm at 49 life, and my upkeep is beginning. Can I respond to Test of Endurance's trigger with <span class=\"autocard\">Swords to Plowshares</span> on some 1/1 of mine to get to 50 life and win the game?",
+    "a": "I'm afraid not. Test of Endurance's ability has an \"intervening if\" clause that's checked both when the ability resolves and when it triggers. If the condition isn't true at the moment the ability would trigger, it doesn't even trigger in the first place, so you are actually responding to an empty stack here."
+  },
+  {
+    "imgs": [
+      "Sylvan Library",
+      "Frantic Search"
+    ],
+    "q": "I control <span class=\"autocard\">Sylvan Library</span>, and in response to its draw trigger I cast <span class=\"autocard\">Frantic Search</span>. What happens?",
+    "a": "What happens is that you'll have to be very careful to distinguish the cards that were already in your hand from the cards you have drawn this turn, and where the cards you're discarding to Frantic Search are from. The safest way to do this is to separate your hand into two physically distinct piles. When Sylvan Library's trigger resolves, there are between three and five cards in your hand that you drew this turn, depending on which cards you discarded to Frantic Search. From those three to five cards, you choose two. Then, for each of those two cards you choose whether to pay 4 life or put it back on top of your library. Easy peasy as long as you properly keep track of which cards were drawn this turn."
+  },
+  {
+    "imgs": [
+      "Royal Assassin",
+      "Maze of Ith"
+    ],
+    "q": "I attack with some creature, and my opponent attempts to kill it with <span class=\"autocard\">Royal Assassin</span>. Can I save my creature by untapping it with <span class=\"autocard\">Maze of Ith</span> in response?",
+    "a": "Absolutely. Maze of Ith's ability resolves first and untaps your creature. Royal Assassin's ability rechecks whether its target is still legal, finds that it is no longer a tapped creature, so the Assassin is disappointed and its ability doesn't resolve."
+  }
+]

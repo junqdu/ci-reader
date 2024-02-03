@@ -1,0 +1,169 @@
+[
+  {
+    "imgs": [
+      "Everybody Lives!"
+    ],
+    "q": "Can <span class=\"autocard\">Everybody Lives!</span> prevent me from losing the game due to having 10 or more poison counters?",
+    "a": "Only for a brief time. If you resolve Everybody Lives! before you get the tenth poison counter, you can't lose the game this turn. However, during the cleanup step of the turn, when the effect from Everybody Lives! wears off, unless you have some other effect preventing you from losing the game (or you've managed to lose poison counters), you'll lose the game during the cleanup step."
+  },
+  {
+    "imgs": [
+      "Gallifrey Falls // No More"
+    ],
+    "q": "I don't understand how <span class=\"autocard\">Gallifrey Falls // No More</span> works. If I cast it fused, won't my creatures die before they phase out?",
+    "a": "Nope, your creatures are safe. If you cast a spell via fuse, then you're casting and resolving a single spell, not multiple spells. There's no priority being passed or state-based actions being checked after you deal the damage with Gallifrey Falls, but before your targeted creatures phase out with No More. Even if your creatures take lethal damage, they'll phase out because of No More before we check state-based actions, and since they're phased out, they won't be destroyed."
+  },
+  {
+    "imgs": [
+      "The Ninth Doctor"
+    ],
+    "q": "When does <span class=\"autocard\">The Ninth Doctor</span>'s trigger go on the stack?",
+    "a": "More than likely, during your upkeep. While the ability will trigger during your untap step, since no one gets priority during the untap step, that trigger won't go on the stack until the next time players would get priority. This is almost certainly going to be during the upkeep step, which is the step after the untap step, so The Ninth Doctor's trigger will go on the stack and will resolve during the upkeep step."
+  },
+  {
+    "imgs": [
+      "Return the Past",
+      "Karvanista, Loyal Lupari // Lupari Shield",
+      "Lier, Disciple of the Drowned"
+    ],
+    "q": "Will <span class=\"autocard\">Return the Past</span> let me cast an adventure spell from my graveyard like <span class=\"autocard\">Karvanista, Loyal Lupari // Lupari Shield</span> from my graveyard?",
+    "a": "Surprisingly, yes! This works the same way as <span class=\"autocard\">Lier, Disciple of the Drowned</span> works with adventure spells. Before we put the spell on the stack when we begin casting it, we use its alternative characteristics to see if we're allowed to cast it. If you're casting Lupari Shield, you're casting an instant or sorcery spell, which means that the Return gives it flashback, and that means you can cast it for its flashback cost.\nAnd, as an added bonus, when it resolves, you can choose to exile it to adventure, and can cast Karvanista from exile later on!"
+  },
+  {
+    "imgs": [
+      "Alistair, the Brigadier"
+    ],
+    "q": "I control <span class=\"autocard\">Alistair, the Brigadier</span>, four lands, and four Treasures. When I attack with Alistair, if I sacrifice those Treasures to pay for his triggered ability, will those Treasures count for the bonus that Alistair gives my creatures?",
+    "a": "They will not count. After you've paid 8 mana, the ability will count how many historic permanents you control. Those Treasures you sacrificed aren't on the battlefield during this check, since they were sacrificed to pay for the triggered ability, so those sacrificed Treasures won't count for Alistair's effect."
+  },
+  {
+    "imgs": [
+      "RMS Titanic",
+      "Assault Suit"
+    ],
+    "q": "If I crew <span class=\"autocard\">RMS Titanic</span> and equip it with <span class=\"autocard\">Assault Suit</span>, what happens if it deals combat damage to a player?",
+    "a": "You get your Treasures, and you get to keep the RMS Titanic around. You're not required to sacrifice the RMS Titanic when its trigger resolves in order to get the Treasures. Because of Assault Suit, you can't sacrifice the RMS Titanic when the trigger resolves, but you'll still get the Treasures, and you'll be able to keep the RMS Titanic around for another attack on your next turn.\n<br>"
+  },
+  {
+    "imgs": [
+      "Blink"
+    ],
+    "q": "How exactly does <span class=\"autocard\">Blink</span> work?",
+    "a": "We're used to Sagas that list their chapters in a normal progression. The first chapter is followed by the second, which is followed by the third, and so on. But Blink works a little differently than what you're used to. The first ability is the first and third chapters, not the second chapter, and the last ability is the second and fourth chapters. \nWhen it enters, you'll do chapter I, and can shuffle a creature into its owner's library and its controller investigates. Then the second chapter happens, and you makes the 2/2 Alien Angel token. The third chapter is a repeat of the first chapter, so you shuffle a creature into the library and its controller investigates again. Then the fourth chapter happens, and you make another 2/2 Alien Angel token."
+  },
+  {
+    "imgs": [
+      "Weeping Angel",
+      "Thijarian Witness"
+    ],
+    "q": "I attack my opponent with <span class=\"autocard\">Weeping Angel</span>. After attackers are declared, my opponent casts <span class=\"autocard\">Thijarian Witness</span>. What happens to my Angel?",
+    "a": "Your Angel turns into a statue and isn't attacking anymore. Since your opponent cast a creature spell, the Angel's ability will trigger, and when that trigger resolves, the Angel stops being a creature. Since it's no longer a creature, the Angel is removed from combat, so it's no longer attacking (and thus will not deal any damage in combat)."
+  },
+  {
+    "imgs": [
+      "Amy Pond",
+      "Rory Williams",
+      "The Eleventh Doctor"
+    ],
+    "q": "Since <span class=\"autocard\">Amy Pond</span> has both Partner With <span class=\"autocard\">Rory Williams</span> and Doctor's Companion, does that mean I'm allowed to have three commanders?",
+    "a": "No, you can still only have two commanders. Amy can share the command zone with <span class=\"autocard\">Rory Williams</span>, or you could have a Doctor in the command zone with Amy (like <span class=\"autocard\">The Eleventh Doctor</span>) and include Rory in your deck (that you could then search for when Amy enters the battlefield), but you can't have all three in the command zone."
+  },
+  {
+    "imgs": [
+      "The War Doctor",
+      "Ryan Sinclair",
+      "Laelia, the Blade Reforged"
+    ],
+    "q": "I have <span class=\"autocard\">The War Doctor</span> in play. I attack with <span class=\"autocard\">Ryan Sinclair</span>, and I exile four lands and a nonland card to his trigger. How many counters does The War Doctor get?",
+    "a": "The surprising answer here is that The War Doctor gets five counters, not one counter. Those of you who have encountered <span class=\"autocard\">Laelia, the Blade Reforged</span>/cascade probably understand why.\nWhen we're resolving Ryan's trigger, we don't know how many cards we need to exile ahead of time, since we're exiling until we exile a nonland card. That means we have to exile the top card of the library card, stop, look to see what that card is, and if it's a land card, exile another card (and if it's a nonland card, proceed with the rest of the ability). Because we are exiling until we exile a card of a certain type, we exile those cards one at a time, not all at the same time, and that means The War Doctor triggers for each card exiled with Ryan's attack trigger. In this example, The War Doctor ends up with five time counters and not one time counter, since Ryan's trigger ended up exiling five cards before we found a nonland card."
+  },
+  {
+    "imgs": [
+      "Auton Soldier",
+      "Clara Oswald",
+      "The Seventh Doctor"
+    ],
+    "q": "I have an <span class=\"autocard\">Auton Soldier</span> in play that's a copy of an opponent's <span class=\"autocard\">Clara Oswald</span>. If I attack with the copy Clara Oswald and <span class=\"autocard\">The Seventh Doctor</span>, do I get the myriad tokens in time to give me more Seventh Doctor triggers?",
+    "a": "Nope, you get the tokens too late. The Seventh Doctor's ability triggers when he's declared as an attacker. At the point when his ability is triggering, you only control one Clara - the myriad trigger hasn't even gone on the stack yet. Since you only control one Clara, you get one additional trigger. Later on, when the myriad trigger resolves, you'll get some more Claras, but since they're entering after The Seventh Doctor's ability has triggered, they won't go back and make his ability trigger more times."
+  },
+  {
+    "imgs": [
+      "Clara Oswald",
+      "The Sixth Doctor"
+    ],
+    "q": "If I have <span class=\"autocard\">Clara Oswald</span> in play, will that let <span class=\"autocard\">The Sixth Doctor</span>'s ability trigger twice when I cast a historic spell?",
+    "a": "Nope, Clara won't help out that trigger. The Sixth Doctor's ability can only trigger once each turn. Not even Clara is powerful enough to get around that restriction, so even with Clara in play, the ability will still only trigger once each turn."
+  },
+  {
+    "imgs": [
+      "Atraxi Warden",
+      "Cyber Conversion"
+    ],
+    "q": "I attack my opponent with <span class=\"autocard\">Atraxi Warden</span>. In response, my opponent casts <span class=\"autocard\">Cyber Conversion</span> targeting my Warden. What happens to my Warden? Is it still attacking?",
+    "a": "Yep, the Warden is still an attacking creature, just a 2/2 instead of a 6/6. The Conversion turns the Warden into a face-down 2/2 Cyberman artifact creature. Turning it face down doesn't remove it from combat, and since it's still a creature, it's still attacking, and the defending player is free to block with their 3/3 creature and kill it."
+  },
+  {
+    "imgs": [
+      "Cybership",
+      "Krosan Colossus"
+    ],
+    "q": "I attacked my opponent with a <span class=\"autocard\">Cybership</span>, and one of the creatures I put onto the battlefield face down is a creature with morph - a <span class=\"autocard\">Krosan Colossus</span>. Can I turn it face-up?",
+    "a": "Sure. Cybership puts the two cards onto the battlefield face down as 2/2 Cyberman artifact creatures. Since they're face down, they can be turned face up if one of them has morph, like the Colossus. If one of those creatures is turned face up, the effect that makes them 2/2 Cyberman artifact creatures ends and they'll be back to their normal self (in this case, a green 9/9 creature)."
+  },
+  {
+    "imgs": [
+      "Dan Lewis",
+      "Hijack",
+      "Sol Ring"
+    ],
+    "q": "I have a <span class=\"autocard\">Dan Lewis</span> in play. I cast <span class=\"autocard\">Hijack</span> on my opponent's <span class=\"autocard\">Sol Ring</span>, then use the equip ability from Dan Lewis to attach the Sol Ring to a creature I control. What happens when the turn ends?",
+    "a": "During the cleanup step, when the effect from Hijack wears off, you lose control of the opponent's Sol Ring. Since you don't control your opponent's Sol Ring anymore, it's no longer affected by Dan Lewis's ability, and Sol Ring stops being an equipment. Since Sol Ring isn't an equipment, it unattaches from your creature, and remains on the battlefield, back under your opponent's control but not attached to anything."
+  },
+  {
+    "imgs": [
+      "Ancestral Vision",
+      "The Eleventh Doctor",
+      "Wibbly-wobbly, Timey-wimey"
+    ],
+    "q": "Last week, you wrote about how exiling <span class=\"autocard\">Ancestral Vision</span> to <span class=\"autocard\">The Eleventh Doctor</span> won't let you cast it. But since the Vision is in exile, could I cast <span class=\"autocard\">Wibbly-wobbly, Timey-wimey</span> to time travel and add a time counter to it, letting me cast it on my next turn?",
+    "a": "Sorry, that doesn't work either. In order for a card to be \"suspended\", it must be in exile with at least one time counter on it. While the Vision is in exile, it's not considered to be a suspended card since it doesn't have any time counters on it. You won't be able to use time travel to add a time counter to the Vision since it's not exiled with at least one time counter on it."
+  },
+  {
+    "imgs": [
+      "The Master, Multiplied",
+      "Dreadfeast Demon"
+    ],
+    "q": "The only creatures I control are token copies of <span class=\"autocard\">The Master, Multiplied</span> and a <span class=\"autocard\">Dreadfeast Demon</span>. During my end step, do I just get a free Dreadfeast Demon token?",
+    "a": "You don't get anything. In order to get the Dreadfeast Demon token, you have to sacrifice a non-Demon creature. You can't sacrifice Dreadfeast Demon since it's a Demon, and you can't sacrifice your token copies of The Master, Multiplied since they can't be sacrificed to a triggered ability. Since you didn't sacrifice anything to the Demon's trigger, you don't get a token copy of Dreadfeast Demon."
+  },
+  {
+    "imgs": [
+      "The Twelfth Doctor",
+      "Vislor Turlough"
+    ],
+    "q": "My commanders are <span class=\"autocard\">The Twelfth Doctor</span> and <span class=\"autocard\">Vislor Turlough</span>. If I demonstrate Vislor Turlough, do I get the chance to give the token copy of Vislor to an opponent before the original enters the battlefield?",
+    "a": "Yes you do! The copy from demonstrate will resolve first, and Vislor enters the battlefield and its enter the battlefield trigger goes on the stack. We have to deal with that enter the battlefield trigger before the original Vislor resolves, so you'll be able to give your token Vislor to an opponent (probably not the opponent who currently has the other token copy of Vislor under their control), then your original Vislor will enter the battlefield, and you can either keep him or give him to another opponent."
+  },
+  {
+    "imgs": [
+      "Start the TARDIS"
+    ],
+    "q": "What happens if I cast <span class=\"autocard\">Start the TARDIS</span> but we're not playing planechase?",
+    "a": "You'll resolve the spell mostly like normal, you just ignore the instruction to planeswalk. You'll surveil 2 and will draw a card. But since you're not playing planechase, you can't choose to planeswalk and you'll just ignore that part of the spell."
+  },
+  {
+    "imgs": [
+      "River Song",
+      "The Stone Brain"
+    ],
+    "q": "I control <span class=\"autocard\">River Song</span>. If I search my opponent's library with <span class=\"autocard\">The Stone Brain</span>, will River Song's last ability trigger?",
+    "a": "No, you don't get a trigger. River Song's last ability will only trigger if the opponent searches their own library, not if you search an opponent's library. Since your opponent isn't searching their own library, you don't get a River Song trigger."
+  },
+  {
+    "imgs": [
+      "Carpet of Flowers"
+    ],
+    "q": "If I cast <span class=\"autocard\">Carpet of Flowers</span> during my first main phase, can I get mana from it during my second main phase?",
+    "a": "You can! Carpet of Flowers will trigger during each of your main phases until you've added mana with its ability that turn. If you play it during your first main phase, when you get to your second main phase, because the Carpet hasn't added mana that turn, the Carpet will trigger and you can get mana from its triggered ability."
+  }
+]

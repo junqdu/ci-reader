@@ -1,0 +1,98 @@
+[
+  {
+    "imgs": [
+      "Mild-Mannered Librarian",
+      "Kogla, the Titan Ape",
+      "Murder"
+    ],
+    "q": "</b></span>  The only two creatures Allen has are <span class=\"autocard\">Mild-Mannered Librarian</span> and <span class=\"autocard\">Kogla, the Titan Ape</span>. Nancy tries to <span class=\"autocard\">Murder</span> Kogla. In response, which of the following ways can Allen both draw a card from the Librarian and use it to make Kogla indestructible?\n <br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: Activate Kogla first, then respond to that by activating Librarian.<br>\nB: Activate Librarian first, then respond to that by activating Kogla.<br>\nC: Either A or B works.<br>\nD: It's not possible to both save Kogla and draw a card from Librarian.<br>\nE: Is this someone's elevator pitch? King Kong falls in love with a Librarian who just happens to be a werewolf.<br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>B.</b><br>\n<br>\nAnswer A will fail to save Kogla. Kogla's ability targets a Human, and as it goes to resolve, the Librarian will no longer be a Human (only a Werewolf) and get countered by having an illegal target.<br>\n<br>\nAnswer B works. Kogla will return the Librarian while it's still a Human. The Librarian's ability can and will still resolve as best it can, even though it's no longer on the battlefield. It won't place any +1/+1 counters, but will still draw a card.<br>\n"
+  },
+  {
+    "imgs": [
+      "Rick, Steadfast Leader",
+      "Mentor of the Meek",
+      "Join the Dance",
+      "Plains"
+    ],
+    "q": "</b></span>  The only creatures Angela controls are <span class=\"autocard\">Rick, Steadfast Leader</span> and <span class=\"autocard\">Mentor of the Meek</span>. Angela then casts <span class=\"autocard\">Join the Dance</span>. Assuming Angela has plenty of untapped <span class=\"autocard\">Plains</span>, which of the following is true?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: Angela can draw up to two cards using Mentor of the Meek.<br>\nB: Angela can draw only up to one card using Mentor of the Meek.<br>\nC: Angela can't draw any cards using Mentor of the Meek.<br>\nD: Wait, I thought Rick was a mentor to the meek?<br>\n <br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>C.</b><br>\n<br>\nThe two Human tokens created by Join the Dance enter the battlefield simultaneously. That means at no point is either token on the battlefield without getting Rick's +2/+2, so neither token will trigger Mentor of the Meek.<br>\n"
+  },
+  {
+    "imgs": [
+      "Torbran, Thane of Red Fell",
+      "Shadowspear"
+    ],
+    "q": "</b></span>  Axel attacks with <span class=\"autocard\">Torbran, Thane of Red Fell</span> wielding a <span class=\"autocard\">Shadowspear</span>. Nina blocks Torbran with a 2/2 Fish token. If Axel tries to trample over with as much damage as possible, how much will Nina take?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: 4<br>\nB: 3<br>\nC: 2<br>\nD: 1<br>\nE: The Dwarf has gone spearfishing.<br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>B.</b><br>\n<br>\nAlthough it's tempting to treat Torbran as having 5 power, his ability to increase damage from red sources doesn't quite work like that. Torbran has 3 power, and must dedicate 2 of that to killing the Fish, which will end up dealing 4 to the Fish. The last 1 damage can be used to trample into Nina, which will end up dealing 3 damage to Nina. Torbran will deal a total of 7 damage this turn, and gaining 7 life from lifelink.<br>\n"
+  },
+  {
+    "imgs": [
+      "Akroma, Angel of Wrath",
+      "Bribery",
+      "Griselbrand",
+      "Reanimate",
+      "Grand Arbiter Augustin IV",
+      "Invoke the Winds",
+      "Lightning Bolt"
+    ],
+    "q": "</b></span>  In a four-player game of Commander, Amber controls Nigel's <span class=\"autocard\">Akroma, Angel of Wrath</span> because of a <span class=\"autocard\">Bribery</span> she cast earlier in the game, Nick's <span class=\"autocard\">Griselbrand</span> because she <span class=\"autocard\">Reanimate</span>d it, and Norbit's <span class=\"autocard\">Grand Arbiter Augustin IV</span> because she cast <span class=\"autocard\">Invoke the Winds</span> earlier in the game. Amber is then killed by a <span class=\"autocard\">Lightning Bolt</span>. Which of the following creatures don't get exiled because Amber died?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: Akroma<br>\nB: Griselbrand<br>\nC: Augustin<br>\nD: So a Demon, an Angel, and an Advisor all walk into a bar...<br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>C.</b><br>\n<br>\nWhen a player loses the game during a multiplayer game, first all permanents they own leave the game with them, then all \"gain control\" effects they have end, and lastly if they still control any permanents those permanents get exiled. Griselbrand and Akroma were both put onto the battlefield under Amber's control and no one else had controlled them, so they get exiled. Augustin will go back to the last person who controlled it, most likely Norbit. <br>\n"
+  },
+  {
+    "imgs": [
+      "Sensei's Divining Top",
+      "Zacama, Primal Calamity"
+    ],
+    "q": "</b></span>  My opponent controls an untapped <span class=\"autocard\">Sensei's Divining Top</span> and I control <span class=\"autocard\">Zacama, Primal Calamity</span>. Which of the following ways will likely lead to the Top being in my opponent's graveyard?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: While I only have access to <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\">, use Zacama's destroy target artifact ability when the stack is empty. <br>\nB: While I only have access to <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\">, use Zacama's destroy target artifact ability after my opponent activates the Top's second ability. <br>\nC: While I only have access to <img src=\"/ci-reader/images/symbols/4.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\">, use Zacama's destroy target artifact ability when the stack is empty. Then, if the opponent activates the Top's second ability, in response use Zacama's destroy target artifact ability again.<br>\nD: None of the above.<br>\nE: So now I'm picturing a 3-headed dinosaur singing \"dreidel dreidel dreidel\"<br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>B and C.</b><br>\n<br>\nThere are two major things to consider:<br>\n1) The Top's second ability can be used in response to being targeted by a destroy ability only once per turn if it can't be untapped by some other means. <br>\n<br>\n2) The Top being put on top of the library is part of the ability resolving, not part of the cost.<br>\n<br>\nWhen you combine these two facts, the easiest way to get the Top into the graveyard is to wait for the opponent to activate the second ability. This does however leave you with the option to force the issue by trying to destroy the Top, and then destroy it again in response if the opponent tries to save it.<br>\n"
+  },
+  {
+    "imgs": [
+      "Gyrus, Waker of Corpses",
+      "Lodestone Golem",
+      "Mana Leak",
+      "Nether Void"
+    ],
+    "q": "</b></span>  <span class=\"autocard\">Gyrus, Waker of Corpses</span> is my commander. Which of the following \"mana taxes\" would lead to Gyrus getting more +1/+1 counters?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: <span class=\"autocard\">Lodestone Golem</span><br>\nB: <span class=\"autocard\">Mana Leak</span><br>\nC: <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"> commander tax because I had cast Gyrus once before<br>\nD: <span class=\"autocard\">Nether Void</span><br>\nE: They say two things are unavoidable, death and taxes, but if you are a Gyrus-awakened Zombie, you are kind of avoiding both.<br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>A and C.</b><br>\n<br>\nBoth Lodestone Golem's tax and the commander tax increase how much it costs to cast Gyrus, so you get more +1/+1 counters.<br>\n<br>\nMana Leak's and Nether Void's taxes are you preventing an ability from countering Gyrus, not increasing the cost to cast it.<br>\n"
+  },
+  {
+    "imgs": [
+      "Damping Sphere",
+      "Overabundance",
+      "Mana Reflection",
+      "Overgrowth",
+      "Sheltered Aerie"
+    ],
+    "q": "</b></span>  My opponent controls <span class=\"autocard\">Damping Sphere</span>. Which of the following cards get their mana production reduced by Damping Sphere's first ability?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: <span class=\"autocard\">Overabundance</span><br>\nB: <span class=\"autocard\">Mana Reflection</span><br>\nC: <span class=\"autocard\">Overgrowth</span><br>\nD: <span class=\"autocard\">Sheltered Aerie</span><br>\nE: Am I the only one who keeps trying to call this \"Dampening Sphere\"?<br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>B and D.</b><br>\n<br>\nOverabundance and Overgrowth are triggered mana abilities. Damping Sphere doesn't see this extra mana as part of the action of tapping a land for mana.<br>\n<br>\nMana Reflection causes a land to make two or more mana when it is tapped for mana, so Damping Sphere definitely replaces this.<br>\n<br>\nSheltered Aerie gives a land the ability to tap for two mana of any color, so Damping Sphere definitely replaces this, too. <br>\n"
+  },
+  {
+    "imgs": [
+      "Ivy, Gleeful Spellthief",
+      "Bear Cub",
+      "Boon Satyr"
+    ],
+    "q": "</b></span>  Anthony controls <span class=\"autocard\">Ivy, Gleeful Spellthief</span> and a <span class=\"autocard\">Bear Cub</span>. Anthony bestows <span class=\"autocard\">Boon Satyr</span> targeting the Bear Cub. Which of the following best describes what happens next?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: Anthony gets a token Boon Satyr, but it's a creature, not an Aura.<br>\nB: Anthony gets a token Boon Satyr Aura, and if Ivy dies later, the Boon Satyr token will become a creature.<br>\nC: Anthony gets a token Boon Satyr Aura, and if Ivy dies later, the Boon Satyr token will go to the graveyard.<br>\nD: Anthony doesn't get a Boon Satyr token at all.<br>\nE: I think I wrote \"token Boon Satyr\" too many times, the words have lost all meaning.<br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>B.</b><br>\n<br>\nIvy's ability fully copies Boon Satyr, including the fact that it was cast for its bestow cost.<br>\n<br>\n"
+  },
+  {
+    "imgs": [
+      "Elvish Spirit Guide",
+      "Rite of Replication",
+      "Withdraw"
+    ],
+    "q": "</b></span>  Noel has five <span class=\"autocard\">Elvish Spirit Guide</span> tokens, because earlier in the game he <span class=\"autocard\">Rite of Replication</span>ed Alex's original Elvish Spirit Guide. Alex casts <span class=\"autocard\">Withdraw</span> targeting two of these tokens. Noel wants to use the mana ability of the first token once it's in his hand to prevent the second one from getting bounced. Can he do this, and if not, why not?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: Yes.<br>\nB: No, because tokens cease to exist before they get to zones outside the battlefield.<br>\nC: No, because tokens can't leave zones other than the battlefield.<br>\nD: No, because Elvish Spirit Guide's ability isn't a mana ability and even the card version couldn't be used in the middle of Withdraw resolving.<br>\nE: Ok, this one hurts my brain.<br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>C.</b><br>\n<br>\nTokens that have left the battlefield cease to exist when state based actions are checked. The first time state based actions will be checked is once Withdraw has finished resolving, so the token Guide is in Noel's hand while Withdraw is resolving. Also, Elvish Spirit Guide's ability is a mana ability.<br>\n<br>\nHowever, because of Rule CR 111.8, the cost of exiling the token from Noel's hand can't be paid. (CR 111.8 A token that has left the battlefield can't move to another zone or come back onto the battlefield. If such a token would change zones, it remains in its current zone instead. It ceases to exist the next time state-based actions are checked; see rule 704.)<br>\n"
+  },
+  {
+    "imgs": [
+      "Halimar Excavator",
+      "Mothdust Changeling",
+      "Ghostway"
+    ],
+    "q": "</b></span> Nancy controls three <span class=\"autocard\">Halimar Excavator</span>s and three <span class=\"autocard\">Mothdust Changeling</span>s. During Amber's first main phase, Nancy casts <span class=\"autocard\">Ghostway</span>. When these creatures return, what's the most cards Nancy can make Amber mill?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: 3<br>\nB: 9<br>\nC: 30<br>\nD: 36<br>\nE: 108<br>\nF: Holy milling Mothdusts Batman!<br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>E.</b><br>\n<br>\nThe Mothdusts are always Allies, and so the Halimars will count them both to trigger their ability and toward the X in each trigger.<br>\n<br>\nThe first Halimar will trigger six times, once for itself, twice for the other 2 Halimars, and three times for Mothdusts. The second and third Halimars will do the same, making for 18 triggers total. Each trigger will mill six cards each, and 18 times 6 is 108.<br>\n"
+  }
+]

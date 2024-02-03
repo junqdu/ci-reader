@@ -1,0 +1,152 @@
+[
+  {
+    "imgs": [
+      "The One Ring",
+      "The Mycosynth Gardens"
+    ],
+    "q": "I control <span class=\"autocard\">The One Ring</span> with four burden counters on it, and my upkeep just started. Can I activate the Ring to draw five cards, and then copy the Ring with <span class=\"autocard\">The Mycosynth Gardens</span> to get rid of it and avoid losing life?",
+    "a": "You can do those things, but you won't avoid the loss of life. At the time you activate the card draw ability and the Gardens's copy ability, the Ring's \"at the beginning of your upkeep\" ability is already on the stack, waiting to resolve. Removing the Ring from the battlefield, by legend rule or otherwise, won't remove the ability from the stack or counter it. The ability still resolves, and it uses the Ring's last-known information to determine that there were five burden counters on it when it was on the battlefield, and you lose 5 life."
+  },
+  {
+    "imgs": [
+      "The Ninth Doctor",
+      "Freed from the Real"
+    ],
+    "q": "If I control <span class=\"autocard\">The Ninth Doctor</span> that's enchanted with <span class=\"autocard\">Freed from the Real</span>, can I repeatedly tap and untap it to get a bunch of additional upkeep steps?",
+    "a": "No, that doesn't work. The Ninth Doctor's ability that grants an additional upkeep step triggers in your <i>untap</i> step. This means that you'd have to activate Freed from the Real during your untap step to get multiple triggers, but no players get priority in the untap step to do anything."
+  },
+  {
+    "imgs": [
+      "Soulless Jailer",
+      "Goblin Welder"
+    ],
+    "q": "If my opponent controls <span class=\"autocard\">Soulless Jailer</span>, can I still use <span class=\"autocard\">Goblin Welder</span>'s ability to echange an artifact on the battlefield with one in my graveyard?",
+    "a": "No, the Jailer doesn't allow that. You can activate the ability, and it will resolve and do as much as possible, but as much as possible in this case just means that you sacrifice the artifact you chose for the first target. Returning the second target from your graveyard to the battlefield is an impossible action thanks to the Jailer, so you don't do that part of the Welder's ability."
+  },
+  {
+    "imgs": [
+      "The One Ring",
+      "Braids, Arisen Nightmare"
+    ],
+    "q": "If I have protection from everything due to <span class=\"autocard\">The One Ring</span>, can my opponent's <span class=\"autocard\">Braids, Arisen Nightmare</span> still harm me?",
+    "a": "I'm afraid so. Protection only provides four rather narrow benefits, commonly remembered by the acronym \"DEBT\", and the \"B\" (can't be blocked) doesn't even apply to players. While you have protection from everything, damage that would be dealt to you gets prevented, you can't be enchanted, and you can't be the target of spells or abilities. Braids's ability isn't trying to do any of those things, so its ability will still ask you to sacrifice a permanent, and it will cause you to lose 2 life if you don't."
+  },
+  {
+    "imgs": [
+      "Skyfisher Spider",
+      "Humble"
+    ],
+    "q": "The Oracle ruling for <span class=\"autocard\">Skyfisher Spider</span> says that the enter-the-battlefield ability doesn't have a target, but it has a \"reflexive trigger\" that goes on the stack separately and that players can respond to. If I respond to the enter-the-battlefield ability with <span class=\"autocard\">Humble</span>, does that reflexive trigger still happen?",
+    "a": "I'm afraid so. The reflexive trigger is created by the resolving enter-the-battlefield ability, which is an object that's on the stack independent from its source. Removing the ability from the creature doesn't change the enter-the-battlefield ability on the stack. The ability still resolves, and if its controller chooses to sacrifice another creature, the reflexive trigger still goes on the stack."
+  },
+  {
+    "imgs": [
+      "Mirage Mirror",
+      "Talion, the Kindly Lord"
+    ],
+    "q": "If I use <span class=\"autocard\">Mirage Mirror</span> to copy my opponent's <span class=\"autocard\">Talion, the Kindly Lord</span>, do I get to choose my own number between 1 and 10 or does it copy the chosen number from the original?",
+    "a": "Unfortunately, it's neither. The chosen number isn't among the copiable characteristics of Talion, so it doesn't get copied, and Mirage Mirror isn't entering the battlefield, so the \"As this enters the battlefield\" ability doesn't happen. Also, even if the chosen number were copied from the original, the triggered ability is a so-called linked ability. It's linked to the middle ability and only refers to a choice that was established as the result of that ability, so it wouldn't refer to the copied number anyway. All this means that Mirage Mirror's instance of the triggered ability uses an undefined number and therefore has no effect."
+  },
+  {
+    "imgs": [
+      "Contaminant Grafter"
+    ],
+    "q": "I have three opponents that each have three poison counters. How many times does <span class=\"autocard\">Contaminant Grafter</span>'s <i>corrupted</i> ability trigger?",
+    "a": "Just once. The condition \"if an opponent has three or more poison counters\" is a yes or no question. Having more than one opponent with three or more poison counters doesn't make that condition any more true than just having one opponent with three or more poison counters."
+  },
+  {
+    "imgs": [
+      "Evelyn, the Covetous",
+      "Exploration"
+    ],
+    "q": "Can I use <span class=\"autocard\">Evelyn, the Covetous</span>'s third ability to play a land that was exiled with a collection counter by her second ability?",
+    "a": "Maybe. Evelyn's ability allows you to <i>play</i> the card, and to play a card means to play it as a land if it's a land card or to cast it as a spell if it's a nonland card. However, you can only do this if there's nothing stopping you from playing a land. If you've already reached your land play limit for the turn, which is <span class=\"autocard\">Exploration</span>, or if it's not your turn, you're prohibited from playing a land and the permission from Evelyn's ability can't change that."
+  },
+  {
+    "imgs": [
+      "Clone",
+      "Enchanted Carriage"
+    ],
+    "q": "If I <span class=\"autocard\">Clone</span> a <span class=\"autocard\">Enchanted Carriage</span> that has been crewed, is the Clone an artifact creature forever?",
+    "a": "No, and it doesn't even start out as an artifact creature, it starts out as an uncrewed Vehicle. Clone copies the copiable characteristics of the vehicle, which is simply what's printed on the card. Some effects such as other copy effects and mutations can affect the copiable characteristics, but crewing a Vehicle is not one of those effects, so the Clone simply enters as an uncrewed artifact. You'll have to crew it if you want it to be a creature, and then it'll only be one until end of turn."
+  },
+  {
+    "imgs": [
+      "Mistbind Clique",
+      "Ashnod's Altar",
+      "Stifle"
+    ],
+    "q": "In a game of Commander, my opponent casts <span class=\"autocard\">Mistbind Clique</span> and champions their commander. They choose to leave it in exile, and then they sacrifice Mistbind Clique to <span class=\"autocard\">Ashnod's Altar</span>. If I <span class=\"autocard\">Stifle</span> the return part of the champion ability, does their commander get stuck in exile?",
+    "a": "Yup. The mechanism that allows a player to move their commander from exile (or from the graveyard) into the command zone is a state-based action, but it only applies if the commander has been put into that zone since the last state-based action check. That happened when your opponent championed their commander, and they chose not to apply this action at the time, so the state-based action won't apply again while their commander is in exile."
+  },
+  {
+    "imgs": [
+      "Mystic Forge",
+      "Out of the Tombs",
+      "Vedalken Orrery"
+    ],
+    "q": "I control <span class=\"autocard\">Mystic Forge</span> and I'm resolving <span class=\"autocard\">Out of the Tombs</span>'s mill ability. Does Mystic Forge allow me to cast an artifact from the top of my library instead of milling it?",
+    "a": "No. For one, you're in your upkeep, and you can normally only cast artifact spells during your main phase, but even if you had <span class=\"autocard\">Vedalken Orrery</span>, the answer would still be no. You need priority to cast a spell, and during the resolution of Out of the Tombs's ability, you don't get priority to act in between milled cards. The first time you get priority is after Out of the Tombs's ability has finished resolving and you've milled a bunch of cards."
+  },
+  {
+    "imgs": [
+      "Explosive Entry"
+    ],
+    "q": "Can I cast <span class=\"autocard\">Explosive Entry</span> just to put a +1/+1 counter on a creature if there's no artifact on the battlefield?",
+    "a": "Absolutely. Both the artifact and the creature are optional targets for Explosive Entry, as indicated by the wording \"up to one target.\" It's legal to cast it with both targets, or with just an artifact, or with just a creature, or even with no targets if you feel like doing that for some reason."
+  },
+  {
+    "imgs": [
+      "Doomsday Confluence",
+      "Syr Konrad, the Grim"
+    ],
+    "q": "I cast <span class=\"autocard\">Doomsday Confluence</span>, choosing the first and third modes. If my opponent sacrifices their <span class=\"autocard\">Syr Konrad, the Grim</span> and discards a creature card, does Syr Konrad's ability still trigger?",
+    "a": "No. The instructions on Doomsday Confluence are carried out in the order of the card text, so the sacrifice happens first and then the discard happens. At the time the discard happens, Syr Konrad is no longer on the battlefield, so its ability doesn't trigger."
+  },
+  {
+    "imgs": [
+      "Jaya's Phoenix"
+    ],
+    "q": "If I give <span class=\"autocard\">Jaya's Phoenix</span> double strike and it deals damage to my opponent, do I copy the next planeswalker activation twice, or the next two activations once each?",
+    "a": "You'll copy the next activation twice. Each instance of the Phoenix's ability creates a delayed triggered ability that triggers the next time you activate a loyalty ability. Both of those delayed triggers will trigger independently the next time you activate a loyalty ability, and they will both copy that ability."
+  },
+  {
+    "imgs": [
+      "Bear Cub",
+      "Giant Growth",
+      "Cyber Conversion"
+    ],
+    "q": "My opponent attacks me with a <span class=\"autocard\">Bear Cub</span>, and I don't block it. Before damage, they pump it with <span class=\"autocard\">Giant Growth</span>. Can I shrink it back to 2/2 with <span class=\"autocard\">Cyber Conversion</span>?",
+    "a": "I'm afraid not. Even after the Bear Cub is turned face-down, the +3/+3 effect from Giant Growth is still there, and it applies in <a href=\"ooo\">layer</a> 7c, well after the \"face-down-ness\" which is applied in layer 1b, so you're still going to take 5 damage."
+  },
+  {
+    "imgs": [
+      "Candlekeep Inspiration",
+      "Ixidron"
+    ],
+    "q": "<span class=\"autocard\">Candlekeep Inspiration</span> has made my creatures 30/30. If my opponent flashes in <span class=\"autocard\">Ixidron</span>, do my creatures become 2/2 or stay 30/30?",
+    "a": "They stay 30/30, for reasons that are eerily similar to the previous question. The only difference is that Candlekeep Inspiration's effect applies in layer 7b, but that's still after the face-down-ness that applies in layer 1b."
+  },
+  {
+    "imgs": [
+      "The Cyber-Controller"
+    ],
+    "q": "Are the Cyberman artifact creatures from <span class=\"autocard\">The Cyber-Controller</span> token creatures or nontoken creatures?",
+    "a": "They're nontoken creatures. A token is a permanent that's not represented by a card. The Cyberman creatures are represented by cards that are face-down, but they're still cards, so they're not tokens."
+  },
+  {
+    "imgs": [
+      "Ixidron"
+    ],
+    "q": "So if they're nontoken creatures, would <span class=\"autocard\">Ixidron</span> turn them face-up?",
+    "a": "No, Ixidron doesn't turn anything face-up. It only turns creatures face-down. The Cyberman creatures are already face-down, and turning a face-down creature face down is an impossible action, so Ixidron has no effect on the Cybermen. It doesn't change their status, and it doesn't remove their creature type."
+  },
+  {
+    "imgs": [
+      "Vial Smasher the Fierce",
+      "Isochron Scepter"
+    ],
+    "q": "If I control <span class=\"autocard\">Vial Smasher the Fierce</span> and activate <span class=\"autocard\">Isochron Scepter</span> to cast the imprinted card, does Vial Smasher's ability trigger?",
+    "a": "Yup. Isochron Scepter's ability copies the imprinted card, and then you cast the copy. The copy is not represented by a card, but you are still casting a spell, and that's good enough for Vial Smasher."
+  }
+]

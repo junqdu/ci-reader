@@ -1,0 +1,162 @@
+[
+  {
+    "imgs": [
+      "Vraska, Betrayal's Sting",
+      "Nylea, God of the Hunt"
+    ],
+    "q": "If I use <span class=\"autocard\">Vraska, Betrayal's Sting</span>'s -2 ability to turn my opponent's Primalcrux into a Treasure, does the Primalcrux still count to my opponent's <span class=\"autocard\">Nylea, God of the Hunt</span>?",
+    "a": "The Primalcrux still gives its controller six devotion to green. The cards types are changed to Artifact - Treasure and it loses all abilities, but its name and mana cost are still there."
+  },
+  {
+    "imgs": [
+      "The First Sliver",
+      "Battering Sliver"
+    ],
+    "q": "My commander is <span class=\"autocard\">The First Sliver</span> and every nonland in my deck is a Sliver. When I cast <span class=\"autocard\">The First Sliver</span> it cascades. If I cascade into another Sliver, let's say <span class=\"autocard\">Battering Sliver</span>, do I get to cascade again?",
+    "a": "You do not. The First Sliver is still on the stack when you cascaded into Battering Sliver. The First Sliver's ability that gives Slivers you cast cascade only functions while The First Sliver is on the battlefield.\nOnce The First Sliver is on the battlefield, you can start chaining Slivers that cascade into smaller Slivers, but when you cast The First Sliver itself, usually the best it can do is get you one Sliver."
+  },
+  {
+    "imgs": [
+      "Elenda, the Dusk Rose",
+      "Barony Vampire",
+      "Day of Judgment"
+    ],
+    "q": "I control <span class=\"autocard\">Elenda, the Dusk Rose</span>, two <span class=\"autocard\">Barony Vampire</span>s, and two 1/1 Vampire tokens. Elenda currently has two +1/+1 counters on her. If my opponent casts <span class=\"autocard\">Day of Judgment</span>, how many Vampire tokens does her death trigger make?",
+    "a": "The short answer is three. Elenda died with 3 power, so her trigger makes three Vampires.\nLong answer, when Elenda dies to the Day of Judgment, she triggers five times. Four triggers to give her a +1/+1 counter and one to make Vampires based on her power. As you control all of these triggers, you can put them on the stack in any order you like, though it will make no difference. Each ability that tries to put a +1/+1 counter on her will fail to do anything as she is now in the graveyard. Her own death trigger will check the power she had as she died, not as she exists in the graveyard, and see she had two +1/+1 counters when she died and makes a total of three Vampires."
+  },
+  {
+    "imgs": [
+      "Wheel of Misfortune"
+    ],
+    "q": "So last week in a four player game of Commander, my opponent played <span class=\"autocard\">Wheel of Misfortune</span>. When it went to resolve, each player revealed their chosen number as five. We didn't know what to do. So we guessed everyone was dealt damage and discarded their hand and drew seven. Did we resolve that correctly?",
+    "a": "You resolved it half correctly. Everyone chose the highest number, so everyone is dealt 5 damage. Everyone also chose the smallest number, so no one \"wheels\"."
+  },
+  {
+    "imgs": [
+      "Thief of Blood",
+      "Urza's Saga"
+    ],
+    "q": "If I cast <span class=\"autocard\">Thief of Blood</span> what happens to my <span class=\"autocard\">Urza's Saga</span> that currently has two lore counters on it?",
+    "a": "It loses both lore counters and stays on the battlefield. It also can still be tapped to make a <img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\"> and can still be tapped to make the Construct token. On your next turn, it will gain a lore counter and gain the mana ability a second time. On your next turn after that, it will gain the ability to make a Construct token a second time. On your next turn after that, it attempts to search for an artifact that costs <img src=\"/ci-reader/images/symbols/0.png\" class=\"mana\"> or <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\"> and then gets placed in the graveyard."
+  },
+  {
+    "imgs": [
+      "Auntie Blyte, Bad Influence",
+      "Mana Confluence",
+      "Soulgorger Orgg",
+      "City of Brass"
+    ],
+    "q": "I control <span class=\"autocard\">Auntie Blyte, Bad Influence</span> and use <span class=\"autocard\">Mana Confluence</span> to make a <img src=\"/ci-reader/images/symbols/R.png\" class=\"mana\">. Does this put a +1/+1 counter on Auntie Blyte?",
+    "a": "It does not. Auntie Blyte is looking for damage dealt to you by your permanents. Mana Confluence is paying life as a cost. Paying life as a cost or <span class=\"autocard\">Soulgorger Orgg</span> do not count as being dealt damage. \nYou could use <span class=\"autocard\">City of Brass</span> and that would work as the City deals 1 damage to you when it becomes tapped."
+  },
+  {
+    "imgs": [
+      "Ilharg, the Raze-Boar",
+      "Archers of Qarsi"
+    ],
+    "q": "If I attack with <span class=\"autocard\">Ilharg, the Raze-Boar</span> can I choose <span class=\"autocard\">Archers of Qarsi</span> for the creature Ilharg puts onto the battlefield tapped and attacking?",
+    "a": "You can. A creature with defender can't be declared as an attacker during the declare attackers step, but Ilharg is bypassing this by just putting the creature onto the battlefield already attacking."
+  },
+  {
+    "imgs": [
+      "Eerie Ultimatum",
+      "Recycle",
+      "Thought Vessel"
+    ],
+    "q": "If I use <span class=\"autocard\">Eerie Ultimatum</span> to return both <span class=\"autocard\">Recycle</span> and <span class=\"autocard\">Thought Vessel</span> from my graveyard to the battlefield, what is my maximum hand size?",
+    "a": "Because you control both permanents and they enter at the same time, you chose which to apply first and which to apply second. Whichever you apply second wins. So in short you choose, and I have a guess you may want to apply Thought Vessel second to end up with no maximum hand size."
+  },
+  {
+    "imgs": [
+      "Breach the Multiverse",
+      "Eternal Witness"
+    ],
+    "q": "If I cast <span class=\"autocard\">Breach the Multiverse</span> and one of the creatures I get back with it is <span class=\"autocard\">Eternal Witness</span>, can the Witness return Breach back to my hand?",
+    "a": "Yes, it can. Witness and any other creature you put onto the battlefield with Breach do so while Breach is still on the stack and resolving. However, Witness's trigger won't be put on the stack or choose targets until after Breach has fully resolved and been placed into the graveyard. At this point you can choose Breach as the target and get it back into your hand."
+  },
+  {
+    "imgs": [
+      "The One Ring",
+      "Questing Beast"
+    ],
+    "q": "My opponent cast <span class=\"autocard\">The One Ring</span> and this turn I'm attacking my opponent with <span class=\"autocard\">Questing Beast</span>. Does my opponent take damage this turn?",
+    "a": "Your opponent does take combat damage from the Questing Beast. Protection is four abilities in one:<br>\n1) Prevent all damage from sources it has protection from<br>\n2) Can't have things attached to it that it has protection from<br>\n3) Can't be blocked by things it has protection from<br>\n4) Can't be targeted by things it has protection from\nQuesting Beast by virtue of being on the battlefields makes it so your combat damage can't be prevented."
+  },
+  {
+    "imgs": [
+      "Urza Assembles the Titans",
+      "Jace, the Mind Sculptor"
+    ],
+    "q": "I just resolved the last chapter <span class=\"autocard\">Urza Assembles the Titans</span> and placed it into the graveyard. At the time I had no planeswalkers. If I now cast <span class=\"autocard\">Jace, the Mind Sculptor</span> can I activate him once or twice this turn?",
+    "a": "Twice! Urza Assembles the Titans changes the rules of the game for you until end of turn, not just give a bonus activation to each planeswalker you controlled at the time it resolved."
+  },
+  {
+    "imgs": [
+      "Pixie Guide"
+    ],
+    "q": "Does <span class=\"autocard\">Pixie Guide</span> help me roll to visit Attractions?",
+    "a": "Maybe. Pixie forces you to roll two dice instead of one as your main phase begins. Pixie forces you to ignore the lower roll. This may help you visit an Attractionm or possibly hinder visiting an Attraction. If your only Attraction is visited on 2's and 6's, and you happen to roll 2 and 5 because of Pixie, you ignore the 2 and use the 5. In this case it may have prevented you from visiting the Attraction. You could mitigate this by making all the Attractions in your Attraction deck trigger on 4's, 5's, and 6's."
+  },
+  {
+    "imgs": [
+      "Pixie Guide"
+    ],
+    "q": "Follow-up to the last question: If I have three copies of <span class=\"autocard\">Pixie Guide</span>, do I roll four dice and ignore the lowest three, or do I roll two dice and ignoring only the lowest?",
+    "a": "Pixie Guide stacks! You roll four dice and ignore the lowest three results."
+  },
+  {
+    "imgs": [
+      "Urabrask's Forge",
+      "Moment of Silence"
+    ],
+    "q": "If I have an <span class=\"autocard\">Urabrask's Forge</span> and choose not to attack with any creatures this turn, does the Forge still trigger?",
+    "a": "Yes, it will. Each of your turns will have a combat phase even if you chose not to attack or can't use it because you have no creatures that can attack.\n(Yes, it's possible to not have a combat phase because of cards like <span class=\"autocard\">Moment of Silence</span>, but the above answer is about usual turns.)\n<br>"
+  },
+  {
+    "imgs": [
+      "Norn's Choirmaster",
+      "Kalemne, Disciple of Iroas"
+    ],
+    "q": "Can I use a card that proliferates (like <span class=\"autocard\">Norn's Choirmaster</span>) to increase experience counters (like from <span class=\"autocard\">Kalemne, Disciple of Iroas</span>?",
+    "a": "Yes, you can. Proliferate can increase counters on permanents or, more importantly for your question, counters that players have. Experience counters are counters that players have, so you can choose to increase them when you proliferate."
+  },
+  {
+    "imgs": [
+      "Thrakkus the Butcher",
+      "Helm of the Host"
+    ],
+    "q": "I have <span class=\"autocard\">Thrakkus the Butcher</span> who I just equipped with <span class=\"autocard\">Helm of the Host</span>. As I move to combat I make the non-legendary copy of Thrakkus. If I attack with both Thrakkus, do their attack triggers stack?",
+    "a": "Yes they do! Both Thrakkuses (Thrakki?) end up having 12 power. The first trigger makes them both 6/4. The second trigger doubles that to 12/4."
+  },
+  {
+    "imgs": [
+      "Natural Reclamation"
+    ],
+    "q": "Can I cast <span class=\"autocard\">Natural Reclamation</span> with no target just to get the cascade effect?",
+    "a": "You can not. Natural Reclamation needs to have a target to be cast."
+  },
+  {
+    "imgs": [
+      "Robe of Stars"
+    ],
+    "q": "I have a 0/0 Germ token wearing a <span class=\"autocard\">Robe of Stars</span>. If I use the Robes ability to phase out the token, what happens to both of them now and as I start my next turn?",
+    "a": "Both permanents phase out. The token continues to exist. Phasing a token out doesn't eliminate the token. As your next turn begins, before you untap, both the Germ token and the Robe of Stars phase back in and the Robe of Stars will still be attached to the Germ token.\nIf the Germ had any other equipment or Auras attached to it, those too would phase out with it, and then phase back in as your next turn begins, all still attached to the Germ."
+  },
+  {
+    "imgs": [
+      "Leyline of Anticipation",
+      "Errant and Giada"
+    ],
+    "q": "Is <span class=\"autocard\">Leyline of Anticipation</span> and <span class=\"autocard\">Errant and Giada</span> a combo that works?",
+    "a": "It is not. Errant and Giada only let you cast cards off the top of your library that actually have the flash ability. Leyline allows you to cast such spell \"as though they had flash\", but it doesn't actually give those cards the flash ability."
+  },
+  {
+    "imgs": [
+      "Bear Cub",
+      "Asceticism",
+      "Seize the Spotlight"
+    ],
+    "q": "My opponent controls four <span class=\"autocard\">Bear Cub</span>s and <span class=\"autocard\">Asceticism</span>. If I cast <span class=\"autocard\">Seize the Spotlight</span> and the opponent chooses fame, can I still steal one of their Bear Cubs?",
+    "a": "Yes, you can. Seize the Spotlight doesn't target any creatures, you just choose a creature without targeting it for each opponent who chose fame."
+  }
+]

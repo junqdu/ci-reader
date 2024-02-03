@@ -1,0 +1,162 @@
+[
+  {
+    "imgs": [
+      "The Goose Mother",
+      "Up the Beanstalk"
+    ],
+    "q": "If I cast <span class=\"autocard\">The Goose Mother</span> with X=4, will my <span class=\"autocard\">Up the Beanstalk</span> trigger?",
+    "a": "Yes, you'll get a trigger. While on the stack, X is equal to the value you set it at during announcement. Since you cast The Goose Mother with X=4, that makes its mana value on the stack 6. Since that's 5 or greater, Up the Beanstalk will trigger and you'll draw a card."
+  },
+  {
+    "imgs": [
+      "Cooped Up",
+      "Candy Grapple"
+    ],
+    "q": "I enchanted my opponent's creature with <span class=\"autocard\">Cooped Up</span>. Can I activate Cooped Up's ability, then respond by casting <span class=\"autocard\">Candy Grapple</span>, sacrificing Cooped Up, and still exiling the opponent's creature when Cooped Up's activated ability resolves?",
+    "a": "Yes, you can do that. If Cooped Up isn't on the battlefield when the ability resolves, we use its last-known information about what it was attached to to determine what creature is exiled. You're free to activate Cooped Up's last ability, sacrifice it to your bargain spell, and still exile whatever Cooped Up was attached to when it was last on the battlefield."
+  },
+  {
+    "imgs": [
+      "Elvish Archivist",
+      "Grasp of Fate",
+      "Spider Food"
+    ],
+    "q": "My <span class=\"autocard\">Elvish Archivist</span> has been exiled to my opponent's <span class=\"autocard\">Grasp of Fate</span>. If I destroy the Grasp with <span class=\"autocard\">Spider Food</span>, will my Archivist return in time to trigger off of the food token being created?",
+    "a": "Yep, it returns and you'll get a trigger. The Grasp returns the exiled permanents as a one-shot effect that occurs immediately after the Grasp leaves the battlefield. This one-shot effect can happen even in the middle of a spell or ability resolving. After the Grasp is destroyed, the Archivist returns to the battlefield, and then you create the Food. The Archivist is on the battlefield when you create the Food token, so the Archivist's first ability will trigger."
+  },
+  {
+    "imgs": [
+      "Besotted Knight // Betroth the Beast",
+      "Rimefur Reindeer",
+      "Troublemaker Ouphe"
+    ],
+    "q": "I control a <span class=\"autocard\">Besotted Knight // Betroth the Beast</span> enchanted with the Monster Role, making it a 4/4. I attack with the Knight, and my opponent blocks with a <span class=\"autocard\">Rimefur Reindeer</span>. After combat, I cast <span class=\"autocard\">Troublemaker Ouphe</span> and sacrifice the Monster Role token attached to the Knight for bargain. What happens to my Knight?",
+    "a": "You got more than you bargained for, because your Knight is also going to die. The Knight took 3 damage in combat, so it's a 4/4 with 3 damage marked on it. When you sacrificed the Monster Role token to cast the Ouphe, the Knight lost the +1/+1 bonus and is now a 3/3 with 3 damage marked on it. The Knight has lethal damage marked on it, so the Knight will also die as a side-effect to losing the Monster Role token."
+  },
+  {
+    "imgs": [
+      "Agatha's Soul Cauldron"
+    ],
+    "q": "I have an <span class=\"autocard\">Agatha's Soul Cauldron</span> in play which has exiled some creatures, but my opponent destroyed the Soul Cauldron. If I play a second Agatha's Soul Cauldron, will my creatures regain the abilities from the creature cards exiled by the first Cauldron?",
+    "a": "They will not. The Soul Cauldron that's on the battlefield now is a different object than the Soul Cauldron that was on the battlefield before. Since it's a different object, it won't know about the cards exiled by the previous Soul Cauldron, so your new Soul Cauldron won't grant any abilities to your creature initially - it will have to exile new creature cards for your creatures to start granting their abilities."
+  },
+  {
+    "imgs": [
+      "Syr Ginger, the Meal Ender"
+    ],
+    "q": "Will <span class=\"autocard\">Syr Ginger, the Meal Ender</span> trigger if I sacrifice a Food token?",
+    "a": "Yep, you'll get a trigger. Tokens will go to the graveyard long enough to trigger any leaves the battlefield abilities, so a Food token going to the graveyard will cause Syr Ginger to get a +1/+1 counter and will let you scry 1."
+  },
+  {
+    "imgs": [
+      "Curiosity",
+      "Unruly Catapult"
+    ],
+    "q": "If I put <span class=\"autocard\">Curiosity</span> on my <span class=\"autocard\">Unruly Catapult</span>, will I get to draw a card each time I activate the Catapult's ability?",
+    "a": "Yes you will! Curiosity doesn't trigger only on combat damage, it triggers off of any damage the enchanted creature deals. Using the Catapult's ability will cause Curiosity to trigger, and you'll get to draw a card.\nIf you're in a multiplayer game, you'll get to draw multiple cards each time you activate the Catapult's ability, since it will trigger off of each opponent dealt damage by the ability. If you damaged three opponents with the Catapult's ability, Curiosity will trigger three times and you'll draw three cards."
+  },
+  {
+    "imgs": [
+      "Defense of the Heart",
+      "Rowan's Grim Search",
+      "Standstill"
+    ],
+    "q": "I control <span class=\"autocard\">Defense of the Heart</span>, and my opponent controls three creatures, so the Defense triggers during my upkeep. Can I cast <span class=\"autocard\">Rowan's Grim Search</span>, sacrificing the Defense for the bargain cost, and still get to search for two creature cards to put onto the battlefield?",
+    "a": "You can! Since your opponent controls three or more creatures, the Defense will trigger. When the trigger resolves, you'll sacrifice the Defense and search for two creatures to put into play, but the trigger doesn't care if the Defense was sacrificed when the trigger resolves or not. (It's not worded like <span class=\"autocard\">Standstill</span> where players only get to draw if Standstill is sacrificed when the trigger resolves.) You'll be able to double dip by sacrificing the Defense for your bargain spell and still get to search when the Defense's trigger resolves."
+  },
+  {
+    "imgs": [
+      "Invasion of Alara",
+      "Bramble Familiar // Fetch Quest"
+    ],
+    "q": "I cast <span class=\"autocard\">Invasion of Alara</span>, and one of the cards I reveal to the Invasion's enter the battlefield trigger is <span class=\"autocard\">Bramble Familiar // Fetch Quest</span>. Can I cast Fetch Quest with the trigger?",
+    "a": "Yep, you can cast Fetch Quest off of the Invasion's trigger. The Invasion only cares about the mana value of the card in exile. It doesn't check the mana value of the spell you cast as well (like cascade does). Bramble Familiar has a mana value of 2, which is low enough for the Invasion to care about it, but since you're casting one of them, you can then choose to cast it via adventure and can cast Fetch Quest, even though the Quest's mana value on the stack is 7."
+  },
+  {
+    "imgs": [
+      "Utopia Sprawl",
+      "Spreading Seas"
+    ],
+    "q": "I control a Forest enchanted with my <span class=\"autocard\">Utopia Sprawl</span>. My opponent casts <span class=\"autocard\">Spreading Seas</span> on my Forest. What happens to the Sprawl?",
+    "a": "It goes to the graveyard. The Sprawl can only be attached to a Forest. Spreading Seas will remove the lands other types, so your Forest is no longer a Forest and is only an Island. Since the Sprawl is no longer attached to a Forest, it will unattach and will go to the graveyard."
+  },
+  {
+    "imgs": [
+      "Teferi, Time Raveler",
+      "Beseech the Mirror"
+    ],
+    "q": "My opponent controls a <span class=\"autocard\">Teferi, Time Raveler</span>. If I cast <span class=\"autocard\">Beseech the Mirror</span> and bargain it, will I be able to cast what I searched for?",
+    "a": "Nope, you won't be able to cast it. You're instructed to cast the card you searched for while the Mirror is resolving, which is not a time you could normally cast a sorcery. Your opponent's Teferi will stop you from being able to cast the card, and the card you searched for will end up in your hand."
+  },
+  {
+    "imgs": [
+      "Chandra, Hope's Beacon",
+      "Light Up the Night"
+    ],
+    "q": "I control <span class=\"autocard\">Chandra, Hope's Beacon</span> with six loyalty counters on it. If I flash back <span class=\"autocard\">Light Up the Night</span> and remove all six loyalty counters from Chandra, will I still get a copy of Light Up the Night?",
+    "a": "You will! Even though you removed all of the loyalty counters from Chandra to cast Light Up the Night, it doesn't go to the graveyard yet. We need to check state-based actions first for Chandra to leave play. After you cast Light Up the Night, Chandra is still on the battlefield, so Chandra will trigger, and then Chandra will die since state-based actions are checked and Chandra has zero loyalty counters on it (and you'll still get the copy of Light Up the Night from Chandra's trigger)."
+  },
+  {
+    "imgs": [
+      "Raff, Weatherlight Stalwart",
+      "Samite Herbalist"
+    ],
+    "q": "I have <span class=\"autocard\">Raff, Weatherlight Stalwart</span> and a <span class=\"autocard\">Samite Herbalist</span> in play. I cast an instant, triggering Raff, and I choose to tap Raff and the Herbalist when the trigger resolves. Can I scry from the Herbalist's trigger before I draw a card?",
+    "a": "You cannot. You tap Raff and the Herbalist while the trigger is resolving, and while the Herbalist will trigger at that point, the trigger won't go on the stack until Raff's trigger is done resolving. You'll draw first, then the trigger from the Herbalist will go on the stack and you'll scry afterwards."
+  },
+  {
+    "imgs": [
+      "Cyclonic Rift",
+      "Heroic Intervention"
+    ],
+    "q": "Can I save my permanents from an opponent's overloaded <span class=\"autocard\">Cyclonic Rift</span> by casting <span class=\"autocard\">Heroic Intervention</span> in response?",
+    "a": "Sorry, that doesn't work. A spell cast for its overload cost doesn't target anything, since we replace \"target\" with \"each\" in its rules text while it's on the stack. Since the overloaded Cyclonic Rift doesn't target anything, your permanents having hexproof won't matter, and they'll still be bounced by the Rift when it resolves."
+  },
+  {
+    "imgs": [
+      "Steel Hellkite",
+      "Agatha of the Vile Cauldron"
+    ],
+    "q": "I control a <span class=\"autocard\">Steel Hellkite</span> and an <span class=\"autocard\">Agatha of the Vile Cauldron</span> with a power of 2. Can I just activate the Hellkite's ability as much as I want and make it an infinite powered attacker?",
+    "a": "Nope, you can't do that. Agatha can't reduce the cost of the ability to less than one mana. Even if Agatha's power is 2 or more, the Hellkite's first activated ability will still cost 1 mana to activate, so you can't infinitely pump your Hellkite - you still need to pay 1 mana per activation."
+  },
+  {
+    "imgs": [
+      "Karn Liberated"
+    ],
+    "q": "I'm in an unusual game of Magic, where my <span class=\"autocard\">Karn Liberated</span> has managed to exile almost all of the cards my opponent owns. Then I restart the game, but my opponent only ends up with five cards in their starting library. What happens?",
+    "a": "Your opponent loses almost immediately after the restarted game has started. When you're drawing your opening hands, your opponent isn't going to be able to draw seven cards, since their starting library only has five cards in it. Once we resolve mulligans and restart the game, your opponent will lose since they tried to draw from an empty library (and trying to mulligan won't help either - even if they mulligan, they still tried to draw from an empty library when they were drawing their hand at the start of the game, and will still lose the game)."
+  },
+  {
+    "imgs": [
+      "Bolt Bend",
+      "Solitude"
+    ],
+    "q": "Can I use <span class=\"autocard\">Bolt Bend</span> to change the target of <span class=\"autocard\">Solitude</span>s triggered ability and have Solitude exile itself?",
+    "a": "No you cannot. Solitude's ability can only target another creature. It can't target itself. While you can use Bolt Bend to change the target of the trigger, you still have to choose a legal target for that trigger, and that trigger can't target Solitude."
+  },
+  {
+    "imgs": [
+      "Invasion of Ulgrotha",
+      "Thief of Blood"
+    ],
+    "q": "What happens to a <span class=\"autocard\">Invasion of Ulgrotha</span> if I cast <span class=\"autocard\">Thief of Blood</span>?",
+    "a": "You get quick access to the back face. As Thief of Blood enters the battlefield, you remove all counters from all permanents. This includes any battles on the battlefield. Since the last counter was removed from the battle, its ability will trigger and you'll be able to cast it transformed. Battles don't care why the last defense counter is removed, so Thief of Blood is a quick way for you to get access to the back face of all of your battles at once."
+  },
+  {
+    "imgs": [
+      "Sliver Gravemother",
+      "Hatchery Sliver"
+    ],
+    "q": "I control a <span class=\"autocard\">Sliver Gravemother</span> and a <span class=\"autocard\">Hatchery Sliver</span>. If I encore a Sliver card from my graveyard, can I also replicate it? If so, what happens to the replicate copies at the end of turn?",
+    "a": "You won't be able to replicate at all. Replicate is an option if you're casting the spell. Encore is an activated ability, not casting a spell. You're free to encore back your Slivers, but since encore doesn't involve casting a spell, you won't be able to replicate the encored copies as well."
+  },
+  {
+    "imgs": [
+      "Brenard, Ginger Sculptor",
+      "Withered Wretch"
+    ],
+    "q": "My opponent controls a <span class=\"autocard\">Brenard, Ginger Sculptor</span>. If one of their creatures dies, can I stop them from making the Food Golem token by exiling their creature with <span class=\"autocard\">Withered Wretch</span>?",
+    "a": "Yep, you can do that. In order for your opponent to make the token, they have to exile the creature card from the graveyard when Brenard's trigger resolves. If that creature card isn't in the graveyard (because you exiled it with Withered Wretch's activated ability in response), they won't be able to exile the card when the trigger resolves and won't be able to make a token copy."
+  }
+]

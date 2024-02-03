@@ -1,0 +1,167 @@
+[
+  {
+    "imgs": [
+      "Rhystic Study",
+      "Zur, Eternal Schemer",
+      "Clone",
+      "Giant Growth",
+      "Double Cleave"
+    ],
+    "q": "My <span class=\"autocard\">Rhystic Study</span> is currently a creature because of <span class=\"autocard\">Zur, Eternal Schemer</span>'s last ability. I then <span class=\"autocard\">Clone</span> the Study, is the Clone a creature enchantment?",
+    "a": "The Clone will not be a creature. Copying a permanent card only copies what's printed on the card and and/or any other copy effects that permanent card is affected by. Zur's animation ability is not a copy effect, so the Clone ignores it. This is similar to how Clone ignores the +3/+3 when copying a creature that is affected by <span class=\"autocard\">Giant Growth</span> or ignores double strike when copying a creature that is affected by <span class=\"autocard\">Double Cleave</span>."
+  },
+  {
+    "imgs": [
+      "Bear Cub",
+      "Ferris Wheel",
+      "Krark-Clan Ironworks"
+    ],
+    "q": "I just phased out my opponent's <span class=\"autocard\">Bear Cub</span> with my <span class=\"autocard\">Ferris Wheel</span>. I then sacrifice the Wheel to my <span class=\"autocard\">Krark-Clan Ironworks</span>. Will the Cub stay phased out for the rest of the game?",
+    "a": "Maybe. The Cub can come back any time you roll 3 or less for visiting any attraction you may have, not just that Ferris Wheel. Assuming you now have no attractions, if you gain a new attraction three turns after sacrificing the Ferris Wheel, each turn you roll for visiting the new attraction there is a chance the Cub is coming back. It's worth noting, you don't roll to visit attractions if you don't have any attractions, so it would be easy for you not to open any new attractions, keeping the Cub phased out for the rest of the game."
+  },
+  {
+    "imgs": [
+      "Goblin Warchief",
+      "Krenko, Mob Boss",
+      "Wipe Away"
+    ],
+    "q": "My opponent controls <span class=\"autocard\">Goblin Warchief</span> and casts <span class=\"autocard\">Krenko, Mob Boss</span>. Can I <span class=\"autocard\">Wipe Away</span> Krenko before my opponent has a chance to activate him?",
+    "a": "Maybe. When a spell resolves, priority returns to the player whose turn it currently is. Since Krenko just resolved, we can assume it's the opponents turn and not yours. This means if the first action the Krenko player takes is to activate him, you can Wipe Away Krenko but his ability will still resolve this turn. If your opponent takes any other action and passes priority or chooses to move to the next step or phase, you will get priority and can Wipe Away Krenko. In that scenario, the opponent can't activate Krenko in response since the Wipe Away will be on the stack and split second prevents players from activating abilities that aren't mana abilities."
+  },
+  {
+    "imgs": [
+      "Ken, Burning Brawler",
+      "Demolish"
+    ],
+    "q": "If my <span class=\"autocard\">Ken, Burning Brawler</span> blocks a 1/1 Squirrel token, can I cast <span class=\"autocard\">Demolish</span> for free with Ken's trigger? Or can I not as it's my opponent's turn?",
+    "a": "You can! Ken's trigger gets around timing restrictions as it doesn't give a duration for how long you can cast the spell (such as  \"until end of turn\"). However, you must cast the sorcery as Ken's trigger resolves, you can't wait and cast it later in the turn."
+  },
+  {
+    "imgs": [
+      "Devilish Valet",
+      "Blade of Selves",
+      "Bear Cub"
+    ],
+    "q": "I have a <span class=\"autocard\">Devilish Valet</span> wielding a <span class=\"autocard\">Blade of Selves</span> and I have three opponents. I cast a <span class=\"autocard\">Bear Cub</span> and then I attack with the Valet, how big will it be and how big will its copies be?",
+    "a": "The original Valet will grow to an 8/3. Each copy will grow to be 2/3s. The original grows from a 1/3 to a 2/3 because of Cub, and then goes 4/3 for the first token and then end up at 8/3 for the last token. Each token only grows from a 1/3 to a 2/3 for seeing the other token. They don't see themselves nor did they copy the bonus the original one had from seeing the Cub."
+  },
+  {
+    "imgs": [
+      "Contradict"
+    ],
+    "q": "Can I cast <span class=\"autocard\">Contradict</span> with no target, just to draw a card?",
+    "a": "You can not. A spell with one or more targets must have that many targets to be cast."
+  },
+  {
+    "imgs": [
+      "Kenessos, Priest of Thassa",
+      "Training Grounds",
+      "Biomancer's Familiar"
+    ],
+    "q": "I control <span class=\"autocard\">Kenessos, Priest of Thassa</span>, <span class=\"autocard\">Training Grounds</span>, and <span class=\"autocard\">Biomancer's Familiar</span>. Does it cost <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/GU.png\" class=\"mana\"> or <img src=\"/ci-reader/images/symbols/GU.png\" class=\"mana\"> to activate Kenessos as the two reducers say they can't reduce the cost below one mana?",
+    "a": "It will cost <img src=\"/ci-reader/images/symbols/GU.png\" class=\"mana\"> to activate Kenessos. Neither Training Ground nor the Familiar can reduce an activation cost to below one mana and a single <img src=\"/ci-reader/images/symbols/GU.png\" class=\"mana\"> is one mana, so together they can reduce a starting cost of <img src=\"/ci-reader/images/symbols/3.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/GU.png\" class=\"mana\"> to only <img src=\"/ci-reader/images/symbols/GU.png\" class=\"mana\">."
+  },
+  {
+    "imgs": [
+      "Dreadhorde Arcanist",
+      "Brute Force",
+      "Laelia, the Blade Reforged"
+    ],
+    "q": "If I attack with <span class=\"autocard\">Dreadhorde Arcanist</span> and use its attack trigger to cast <span class=\"autocard\">Brute Force</span> from my graveyard, does this cause <span class=\"autocard\">Laelia, the Blade Reforged</span>'s last ability to trigger?",
+    "a": "It does not. Although the Brute Force ends up in exile and started in the graveyard, it temporarily goes to the stack in the middle. Laelia doesn't trigger for cards going from the stack to exile."
+  },
+  {
+    "imgs": [
+      "Genasi Enforcers",
+      "Dark-Dweller Oracle"
+    ],
+    "q": "While I have three opponents, if I attacked with <span class=\"autocard\">Genasi Enforcers</span>, and assuming each went unblocked, can I sacrifice the tokens after they deal damage but before they get exiled with a card like <span class=\"autocard\">Dark-Dweller Oracle</span>?",
+    "a": "Short answer: Yes, you can. \nLong answer: In a normal combat phase there are five steps: Beginning of Combat Step, Declare Attackers Step, Declare Blockers Step, Combat Damage Step, and End of Combat Step. Combat damage is dealt as the Combat Damage Step begins without using the stack, then each player gets a chance to cast spells and activate abilities. This is a place where you could sacrifice the tokens to Dark-Dweller before they get exiled. When the End of Combat step begins, triggered abilities for \"at end of combat\" get put on the stack. This is another time and the last chance to sacrifice the tokens before they get exiled as their exile trigger is on the stack waiting to resolve."
+  },
+  {
+    "imgs": [
+      "Chatterfang, Squirrel General",
+      "Feldon of the Third Path",
+      "Bear Cub"
+    ],
+    "q": "I control <span class=\"autocard\">Chatterfang, Squirrel General</span>, <span class=\"autocard\">Feldon of the Third Path</span>, and I have a <span class=\"autocard\">Bear Cub</span> in my graveyard. If I copy Cub with Feldon, does the Squirrel token get haste?",
+    "a": "So I have good news and bad news. The Squirrel token does get haste, but it also gets sacrificed at end of turn along with the Cub."
+  },
+  {
+    "imgs": [
+      "Angel of Destiny",
+      "Maze of Ith"
+    ],
+    "q": "In a Commander game, I control <span class=\"autocard\">Angel of Destiny</span> and currently have 55 life. If I attack with the Angel and use <span class=\"autocard\">Maze of Ith</span> on the Angel before blocks, will the opponent I attacked still lose the game?",
+    "a": "If the Angel of Destiny is still alive as the end of combat step begins, then yes, they do lose the game. Angel of Destiny doesn't have to deal damage to an opponent or still be in combat for its trigger to work."
+  },
+  {
+    "imgs": [
+      "Silver Knight",
+      "Agonizing Demise"
+    ],
+    "q": "I targeted my opponent's <span class=\"autocard\">Silver Knight</span> with a kicked <span class=\"autocard\">Agonizing Demise</span> and my opponent claims this is illegal as the knight has Protection From Red. Is she right?",
+    "a": "Your opponent is wrong. Although the kicker ability requires red mana to pay for it, this doesn't change Agonizing Demise to a black and red spell, it is still only a black spell."
+  },
+  {
+    "imgs": [
+      "Brightling",
+      "Mothdust Changeling"
+    ],
+    "q": "Does the creature <span class=\"autocard\">Brightling</span> have all creature types?",
+    "a": "Brightling's only creature type is Shapeshifter. There are many Shapeshifter creatures that have the ability <span class=\"autocard\">Mothdust Changeling</span>, and creatures with changeling have all creature types, but not all shapeshifters have the ability changeling. Sort of like how all ducks are birds, but not all birds are ducks."
+  },
+  {
+    "imgs": [
+      "The First Sliver",
+      "Galerider Sliver"
+    ],
+    "q": "I control <span class=\"autocard\">The First Sliver</span> and cast <span class=\"autocard\">Galerider Sliver</span> and I know there are no non-land cards left in my library worth zero or less mana. I believe I end up revealing my whole library and shuffling, but my dad thinks I get stuck infinitely revealing cards from my library causing the game to end in draw. Who is right?",
+    "a": "You are correct. When you cascade, you exile each card as you go, until you either find a non-land cards small enough to cast or reveal the whole library. To this point, nothing is putting the cards back to the bottom of the library. If you cast a card for free, choose not to cast a card that could be cast for free, or fail to find a card that could be cast, only then do the exiled cards get put to the bottom of the library in a random order."
+  },
+  {
+    "imgs": [
+      "Mothdust Changeling",
+      "Death Baron"
+    ],
+    "q": "I control a <span class=\"autocard\">Mothdust Changeling</span> and a <span class=\"autocard\">Death Baron</span>. Does the Baron give my Mothdust +1/+1 or +2/+2?",
+    "a": "Only +1/+1. Because Death Baron grants the +1/+1 as part of a single ability with an \"and\", it's looking for anything that has either characteristic, giving no special bonus to something that has both characteristics. Death Baron would need to read something like \"Skeletons you control get +1/+1 and have deathtouch. Zombies you control get +1/+1 and have deathtouch.\" to give the Mothdust +2/+2."
+  },
+  {
+    "imgs": [
+      "Skullbriar, the Walking Grave",
+      "Boomerang"
+    ],
+    "q": "My commander, <span class=\"autocard\">Skullbriar, the Walking Grave</span>, is on the battlefield with three +1/+1 counters on him. My opponent <span class=\"autocard\">Boomerang</span>s Skullbriar. Can I choose to move him to the command zone so he doesn't lose his counters?",
+    "a": "You can! There are two different rules that get your commander back to the command zone. 1) A state based action that moves your commander after it moved to a public zone (graveyard or exile). 2) a replacement effect that moves your commander to the command zone instead of it moving to a private zone (hand, library). This works quite well for Skullbriar as he never wants to go to a private zone for even a second. \n<br>"
+  },
+  {
+    "imgs": [
+      "Archive Trap",
+      "Invoke Despair"
+    ],
+    "q": "I'm playing a <span class=\"autocard\">Archive Trap</span> in Modern. My opponent has one card left in their library and I'm at 2 life. I have only lands on the battlefield. My opponent casts <span class=\"autocard\">Invoke Despair</span>. Do I win or lose?",
+    "a": "Neither, you actually draw the game. After Despair resolves, the game will see that your opponent drew from an empty library and that you are at less than zero life. You both lose simultaneously, leading to a draw."
+  },
+  {
+    "imgs": [],
+    "q": "If I'm in a tournament and my opponent and I draw the third game of a match, like in the situation of the last question, what happens next? Do we play another game? Is the whole match a draw?",
+    "a": "Depends on how much time is left in round. If time hasn't been called for the round yet, you do play another game. Most Constructed matches will have only fifty minutes to complete. You keep playing games until one player has won two games or until time is called. It is possible to draw more than one game in a match. \nBy the way, the <b>Magic</b> Companion App doesn't have a way to enter drawn games. If you have a game or match that ends in draw, you will want to call a judge to see how the Tournament Organizer for the event wants those reported.\nIf you are reporting your matches on paper match slips, you should note the number of drawn games in the draw field.\nNote that if Alex and Nancy played a match that ended with Nancy wining one game and the two of them drawing three games, Nancy wins the match as she won more games than Alex. If they both have the same number of game wins and any number of drawn games, then the whole match ends in draw.\n<br>"
+  },
+  {
+    "imgs": [
+      "Embodiment of Insight",
+      "Yedora, Grave Gardener",
+      "Zuran Orb"
+    ],
+    "q": "My opponent controls <span class=\"autocard\">Embodiment of Insight</span>, <span class=\"autocard\">Yedora, Grave Gardener</span>, and <span class=\"autocard\">Zuran Orb</span>. He says he can make infinite mana and infinite life. I don't understand the combo, can you explain it?",
+    "a": "<br>\nThe steps are:<br>\n1) Put a land on to battlefield.<br>\n2) Trigger Embodiment, turn a land into a land creature.<br>\n3) Tap that land creature for mana.<br>\n4) Sacrifice the land creature for 2 life using Zuran Orb.<br>\n5) Yedora reanimates that land (or creature) as a face-down Forest.<br>\n6) Go back to step 2, repeat.\nThe combo can also start in step 5 if a creature card other than Embodiment or Yedora dies."
+  },
+  {
+    "imgs": [
+      "Sphere of Safety"
+    ],
+    "q": "Before moving to combat on their turn, my opponent made 10 million green mana using the combo from the last question. They end the combo with one untapped face-down Forest that's been animated into a 3/3 Elemental by Embodiment, an untapped Embodiment, and an untapped Yedora. The animated Forest is their only untapped land. I currently control <span class=\"autocard\">Sphere of Safety</span> and ten other enchantments. Is it possible for my opponent to attack me with Yedora and Embodiment this turn?",
+    "a": "It is not. Yes, they can restart the combo and make any amount of green mana they want, which you might think would help pay for the Sphere of Safety tax, but it can't. At the end of each step and phase, all unused mana goes away. So making 10 million green mana during the beginning of combat step won't help, because it will all disappear when the game flips over to the declare attackers step. No player gets priority during the declare attackers step until legal attacks have been declared. Costs to attack (such as Sphere of Safety) are paid while declaring attackers, and the game only permits the attacking player to activate mana abilities during this time. The combo can't be restarted until after it's too late to use that mana to pay for Sphere of Safety. Any infinite mana combo that has a necessary non-mana ability as part of the combo can't help to pay for Sphere of Safety or similar abilities."
+  }
+]

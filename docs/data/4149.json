@@ -1,0 +1,154 @@
+[
+  {
+    "imgs": [
+      "Etali, Primal Conqueror",
+      "Gishath, Sun's Avatar",
+      "Coat of Arms"
+    ],
+    "q": "Does <span class=\"autocard\">Etali, Primal Conqueror</span> count as a Dinosaur for things like <span class=\"autocard\">Gishath, Sun's Avatar</span> or <span class=\"autocard\">Coat of Arms</span>?",
+    "a": "Etali doesn't just \"count as\" a Dinosaur, it actually <i>is</i> a Dinosaur. It has two creature types, Elder and Dinosaur. The fact that it's also an Elder doesn't make it any less of a Dinosaur."
+  },
+  {
+    "imgs": [
+      "Jodah, Archmage Eternal",
+      "Terror"
+    ],
+    "q": "Is <span class=\"autocard\">Jodah, Archmage Eternal</span> considered black?",
+    "a": "It can be, depending on what's doing the considering. If you're asking if Jodah is a black creature, the answer is no, because there are no black mana symbols in its mana cost or any other reason for it to be black, so Jodah is nonblack and could be <span class=\"autocard\">Terror</span>ed, for example. However, if you're asking for its color identity for Commander, the answer is different because color identity also looks at mana symbols in the card's rules text. Since there is a black mana symbol in Jodah's rules text, Jodah's color identity includes black."
+  },
+  {
+    "imgs": [
+      "Tranquil Frillback"
+    ],
+    "q": "If I play <span class=\"autocard\">Tranquil Frillback</span> and pay three green mana for its enter-the-battlefield ability, can I destroy three enchantments with it?",
+    "a": "No. When you're asked to choose some number of modes and the ability doesn't explicitly state that you can choose a mode more than once, you can only choose a mode once. In this case, you'll choose each of the three modes once."
+  },
+  {
+    "imgs": [
+      "Kenrith, the Returned King",
+      "Tranquil Frillback"
+    ],
+    "q": "If I use <span class=\"autocard\">Kenrith, the Returned King</span>'s ability to return a <span class=\"autocard\">Tranquil Frillback</span> from the graveyard, can I pay a green mana to destroy an enchantment?",
+    "a": "You sure can. Tranquil Frillback is entering the battlefield, so its enter-the-battlefield ability triggers. The fact that it's entering the battlefield from the graveyard and that you didn't cast it doesn't matter."
+  },
+  {
+    "imgs": [
+      "Star Whale"
+    ],
+    "q": "If I control two <span class=\"autocard\">Star Whale</span>s, do the ward effects add up?",
+    "a": "Yes, the ward effects are cumulative, so your other creatures will have two instances of ward <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\">, which is practically the same as ward <img src=\"/ci-reader/images/symbols/4.png\" class=\"mana\">. When your opponent targets one of those creatures with a spell or ability, each instance of ward <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"> triggers and resolves separately, so your opponent has to pay a total of <img src=\"/ci-reader/images/symbols/4.png\" class=\"mana\"> to stop the spell or ability from getting countered."
+  },
+  {
+    "imgs": [
+      "Murder",
+      "Act of Treason",
+      "Vedalken Orrery",
+      "Royal Assassin"
+    ],
+    "q": "If my opponent casts <span class=\"autocard\">Murder</span> on my creature, can I play <span class=\"autocard\">Act of Treason</span> on my creature to fizzle Murder?",
+    "a": "No, there are two problems with this idea. For one, Act of Treason is a sorcery, so you can't respond with it to Murder in the first place unless something like <span class=\"autocard\">Vedalken Orrery</span> helps you out. For another, a spell only fizzles if all of its targets have become illegal by the time it tries to resolve, so a response to a spell can only make that spell fizzle if it affects the legality of its target somehow. Murder doesn't care who controls the creature, it doesn't care if the creature is tapped or not, and it doesn't care if the creature has haste or not, so nothing that Act of Treason does changes whether your creature is a legal target for Murder. Maybe you're thinking of <span class=\"autocard\">Royal Assassin</span>'s ability. That ability cares whether the target is tapped, so untapping the creature in response to the ability saves it from being assassinated, but Murder doesn't care."
+  },
+  {
+    "imgs": [
+      "Cryptic Pursuit",
+      "Cauldron of Souls"
+    ],
+    "q": "If a <span class=\"autocard\">Cryptic Pursuit</span> creature has persist from something like <span class=\"autocard\">Cauldron of Souls</span> and dies, does it come back face up or face down?",
+    "a": "A card enters the battlefield face-up by default and persist doesn't say otherwise, so the comes back face-up if it can come back at all. If the card is an instant or a sorcery, it's not allowed to be face-up on the battlefield, so it stays in the graveyard. The same is true if it's an Aura enchantment and there isn't anything legal to attach it to as it enters the battlefield."
+  },
+  {
+    "imgs": [
+      "Annex Sentry",
+      "Stifle"
+    ],
+    "q": "Is <span class=\"autocard\">Annex Sentry</span> a triggered ability?",
+    "a": "No, Toxic is a song by Britney Spears. It's also a static ability that changes how a creature deals combat damage to a player. If a creature with toxic deals combat damage to a player, the result of that damage includes that the player gets a certain number of poison counters. This is simply an additional result of the damage. It does not use the stack, players can't respond to it, and it can't be <span class=\"autocard\">Stifle</span>."
+  },
+  {
+    "imgs": [
+      "Henrika Domnathi",
+      "Captivating Crew"
+    ],
+    "q": "I gained control of my opponent's <span class=\"autocard\">Henrika Domnathi</span> with <span class=\"autocard\">Captivating Crew</span> and then transformed it. Does it return to my opponent at the end of the turn, or do I get to keep it because it's a new card?",
+    "a": "Henrika Domnathi does not become a new card when it transforms. It is simply turned over to its back face and changes its characteristics as a result, but it's still the same permanent it was before. At the end of your turn, the control-changing effect from Captivating Crew wears off, so your opponent gets the permanent back as a Henrika, Infernal Seer."
+  },
+  {
+    "imgs": [
+      "Training Grounds",
+      "Lazav, the Multifarious"
+    ],
+    "q": "Does <span class=\"autocard\">Training Grounds</span> reduce the activation cost for <span class=\"autocard\">Lazav, the Multifarious</span>'s ability?",
+    "a": "Absolutely. When you activate Lazav's ability, you first choose an X to plug into the ability, which determines the mana value of what you can target with the ability and also flows into the calculation of the activation cost. To calculate the cost, you start with the X you chose, and then you subtract up to <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"> from that cost, except that the cost can't be reduced to less than <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\">. The end result is that you can target a creature card with a mana value that's up to 2 greater than what you could afford without Training Grounds."
+  },
+  {
+    "imgs": [
+      "Knowledge Vault",
+      "Bazaar Trader"
+    ],
+    "q": "If I control <span class=\"autocard\">Knowledge Vault</span>, can I activate its second ability and then respond by giving it to my opponent with <span class=\"autocard\">Bazaar Trader</span> in order to force my opponent to discard their hand?",
+    "a": "That's an interesting idea, but it doesn't work. The \"you\" in the text of the ability refers to the controller of the ability, which is the player who activated the ability, which is, well, you. When the ability resolves, it tells you to sacrifice it, but thanks to the Trader your opponent controls Knowledge Vault now. You can't sacrifice a permanent that you don't control, so you don't, and the rest of Knowledge Vault's ability does a whole lot of nothing at all."
+  },
+  {
+    "imgs": [
+      "Dan Lewis",
+      "Arterial Alchemy"
+    ],
+    "q": "I control <span class=\"autocard\">Dan Lewis</span> and <span class=\"autocard\">Arterial Alchemy</span>. Do my Blood tokens get the abilities from both Dan Lewis and Arterial Alchemy?",
+    "a": "No, they'll only get the ability from Arterial Alchemy. Dan Lewis's effect depends on Arterial Alchemy's effect because applying Arterial Alchemy's effect changes what Dan Lewis's effect applies to. Because of this dependency, Arterial Alchemy's effect has to be applied first, but then Dan Lewis's effect no longer applies to your Blood tokens (because they're Equipment now), so they only get the +2/+0 ability."
+  },
+  {
+    "imgs": [
+      "Colossus Hammer",
+      "Polymorphist's Jest"
+    ],
+    "q": "I control a 4/4 that has <span class=\"autocard\">Colossus Hammer</span> attached to it, and my opponent <span class=\"autocard\">Polymorphist's Jest</span>. How big is my creature?",
+    "a": "It's 11/11. Polymorphist's Jest changes the base power and toughness of your creature to 1/1, but it doesn't remove the Hammer or the effect from the Hammer, so your creature still gets the +10/+10 bonus on top of this base power and toughness."
+  },
+  {
+    "imgs": [
+      "Lion Sash",
+      "Shadowspear",
+      "Bear Cub"
+    ],
+    "q": "If <span class=\"autocard\">Lion Sash</span> is equipped with <span class=\"autocard\">Shadowspear</span> and I pay Lion Sash's reconfigure cost to attach it to my <span class=\"autocard\">Bear Cub</span>, does the Spear get attached to the Cub as well?",
+    "a": "No, at least not automatically. When Lion Sash gets attached to the Cub, it stops being a creature, so any equipment that's attached to it becomes unattached. If you want the Spear to be attached to the Cub as well, you'll have to pay its equip cost to attach it to the Cub."
+  },
+  {
+    "imgs": [
+      "Garruk, Apex Predator"
+    ],
+    "q": "If I use <span class=\"autocard\">Garruk, Apex Predator</span>'s -3 to destroy a 1/1 that has four +1/+1 counters on it, how much life do I gain?",
+    "a": "You'll gain 5 life. Garruk's ability looks at the toughness of the creature that existed on the battlefield, including all bonuses from counters and effects. The creature's toughness was 5, so you gain 5 life."
+  },
+  {
+    "imgs": [
+      "Displaced Dinosaurs",
+      "Trespasser's Curse"
+    ],
+    "q": "I control <span class=\"autocard\">Displaced Dinosaurs</span> and I'm enchanted with <span class=\"autocard\">Trespasser's Curse</span>. Do I lose 1 life to the Curse if an artifact enters the battlefield under my control?",
+    "a": "I'm afraid so. Due to the effect from Displaced Dinosaurs, the artifact becomes a 7/7 Dinosaur artifact creature immediately upon entering the battlefield. There is no point in time when the artifact is on the battlefield as just an artifact. When Trespasser's Curse checks what entered the battlefield, it sees that a creature has entered the battlefield under your control, so its ability triggers."
+  },
+  {
+    "imgs": [
+      "King of the Oathbreakers",
+      "Horobi, Death's Wail"
+    ],
+    "q": "I control <span class=\"autocard\">King of the Oathbreakers</span> and my opponent controls <span class=\"autocard\">Horobi, Death's Wail</span>. If my opponent targets King of the Oathbreakers with a spell, does it phase out or does it get destroyed?",
+    "a": "That depends on whose turn it is. Targeting King of the Oathbreakers triggers both its ability and Horobi's ability, so both abilities want to go on the stack at the same time. This traffic jam gets cleared up by the APNAP rule: The player whose turn it is puts their trigger on the stack first, and then the other player puts their trigger on the stack. If it's your turn, Horobi's ability gets put on the stack last and resolves first, so your creature is destroyed. If it's your opponent's turn, your creature phases out and it's safe from Horobi's trigger."
+  },
+  {
+    "imgs": [
+      "Mesmeric Orb",
+      "Filter Out"
+    ],
+    "q": "My opponent just played a <span class=\"autocard\">Mesmeric Orb</span> and passed the turn. I have a whole bunch of permanents to untap. Can I play <span class=\"autocard\">Filter Out</span> in my upkeep in response to the <span class=\"autocard\">Mesmeric Orb</span> triggers?",
+    "a": "Sure, but that won't stop the mill triggers from Mesmeric Orb. Once an ability has triggered, it exists independent from its source, and getting rid of the source won't counter the ability or stop it from resolving. If you want to stop the Orb from milling you, you'll have to bounce it before its ability even triggers, which means you'd have to bounce it at the end of your opponent's turn."
+  },
+  {
+    "imgs": [
+      "Mage Slayer"
+    ],
+    "q": "If I equip my commander with <span class=\"autocard\">Mage Slayer</span>, does the damage it deals due to Mage Slayer's ability count as commander damage?",
+    "a": "No, only combat damage counts towards the alternative win condition that is commonly described as \"commander damage,\" and only damage that's dealt due to the turn-based action at the beginning of the combat damage step is combat damage. The damage from Mage Slayer's ability is dealt in the combat phase, but it's not combat damage."
+  }
+]

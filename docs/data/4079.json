@@ -1,0 +1,144 @@
+[
+  {
+    "imgs": [
+      "Needle Spires",
+      "Awakening of Vitu-Ghazi"
+    ],
+    "q": "If I animate <span class=\"autocard\">Needle Spires</span> with <span class=\"autocard\">Awakening of Vitu-Ghazi</span>, does it have double strike?",
+    "a": "No, Needle Spires only gains double strike when its own animation ability resolves. If you have the mana to do so, you could activate Needle Spires' own ability as well, and its effect would combine in interesting ways with the effect of Awakening of Vitu-Ghazi. You'd end up with a legendary red and white Elemental creature with haste and double-strike named Vitu-Ghazi. Its base power and toughness is 2/1, but thanks to the nine +1/+1 counters on it, it's 11/10."
+  },
+  {
+    "imgs": [
+      "Ghalta, Primal Hunger",
+      "Food Chain",
+      "Psychosis Crawler"
+    ],
+    "q": "I control <span class=\"autocard\">Ghalta, Primal Hunger</span>, which is my commander and was cast once from the command zone, as well as <span class=\"autocard\">Food Chain</span> and a 20/20 <span class=\"autocard\">Psychosis Crawler</span>. If I feed Ghalta to Food Chain, how much mana do I get and how much will it cost to re-cast it from the command zone?",
+    "a": "Food Chain looks at Ghalta's mana value to determine how much mana to give you. This is derived purely from the mana symbols in Ghalta's mana cost and has very little to do with how much you have spent, will spend, or might spend, on casting it as a spell. Ghalta's mana value is 12, so you get thirteen mana from Food Chain, and you're probably choosing to make green mana. When you re-cast Ghalta, you calculate its total cost by starting with the mana cost of <img src=\"/ci-reader/images/symbols/10.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\">, adding the commander tax of <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\">, and subtracting <img src=\"/ci-reader/images/symbols/20.png\" class=\"mana\"> for Ghalta's own cost-reduction effect. This reduction eliminates the entire generic mana component of the cost, but it can't touch the green mana component, so you're left with a total cost of <img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\">, and you'll keep eleven floating mana for fun and profit."
+  },
+  {
+    "imgs": [
+      "Aven Wind Guide",
+      "Poppet Factory"
+    ],
+    "q": "If I control both <span class=\"autocard\">Aven Wind Guide</span> and <span class=\"autocard\">Poppet Factory</span>, do my creature tokens have flying and vigilance or not?",
+    "a": "The answer comes down to the timestamp order of the two effects, since neither effect depends on the other. The timestamp of Poppet Factory's effect is set when Poppet Stitcher transforms, and the timestamp of Aven Wind Guide's effect is set when it enters the battlefield. The two effects are applied in timestamp order, from oldest to most recent, so if Aven Wind Guide entered more recently than when Poppet Stitcher transformed, your tokens have flying and vigilance. Otherwise, they don't have any abilities."
+  },
+  {
+    "imgs": [
+      "Death's Shadow",
+      "Dress Down",
+      "Berserk"
+    ],
+    "q": "I control <span class=\"autocard\">Death's Shadow</span> and I cast <span class=\"autocard\">Dress Down</span>, and then I cast <span class=\"autocard\">Berserk</span> on Death's Shadow. Does it have trample?",
+    "a": "Yup! Once again this is due to timestamps. Dress Down's effect has the earlier timestamp, so its effect in layer 6 gets applied first and removes all abilities from Death's Shadow. Berserk's effect gets applied afterwards and gives Death's Shadow trample. Have fun beating up your opponent with a 26/13 trampler!"
+  },
+  {
+    "imgs": [
+      "Tazri, Stalwart Survivor",
+      "Reassembling Skeleton"
+    ],
+    "q": "If I control <span class=\"autocard\">Tazri, Stalwart Survivor</span> and <span class=\"autocard\">Reassembling Skeleton</span>, can I tap the Skeleton for mana?",
+    "a": "Absolutely. The Skeleton has another activated ability besides the mana ability that Tazri gives it. The fact that this other ability can only be activated when the Skeleton is in the graveyard doesn't matter. The Skeleton has the ability even while it's on the battlefield, and the ability from Tazri only cares whether the creature has another activated ability, not whether it could be activated."
+  },
+  {
+    "imgs": [
+      "Hardened Scales",
+      "Daghatar the Adamant"
+    ],
+    "q": "Does <span class=\"autocard\">Hardened Scales</span> apply when I move a +1/+1 from one creature to another with <span class=\"autocard\">Daghatar the Adamant</span>?",
+    "a": "It does! To move a counter from one creature to another means to remove it from the first creature and to put it onto the second creature. Hardened Scales notices that you're putting a +1/+1 counter onto a creature you control and replaces that with putting two counters onto it instead."
+  },
+  {
+    "imgs": [
+      "Daybreak Coronet",
+      "Spirit Link"
+    ],
+    "q": "If I enchant an opponent's creature with <span class=\"autocard\">Daybreak Coronet</span>, who gains life when it deals damage?",
+    "a": "Your opponent will gain the life, so you probably don't want to do this. Daybreak Coronet gives the creature lifelink, which means that the controller of the creature, not the controller of the Aura, gains the life. Compare this to <span class=\"autocard\">Spirit Link</span>, which has a triggered ability that causes the Aura's controller to gain life."
+  },
+  {
+    "imgs": [
+      "Bag of Holding"
+    ],
+    "q": "I have a bunch of cards exiled with my <span class=\"autocard\">Bag of Holding</span> and the Bag gets bounced to my hand. If I play the Bag again, can it bring back the cards I exiled with it before?",
+    "a": "No, those cards are stuck in exile. Bag of Holding has a pair of linked abilities, and the last ability only looks for cards that were exiled by the first ability of the same permanent. Even though it's represented by the same piece of cardboard, the Bag you control now is no longer the same Bag whose first ability exiled those cards. Once it changed zones, it became a new object without any connection to the permanent it was before."
+  },
+  {
+    "imgs": [
+      "Runeclaw Bear",
+      "Cancel",
+      "Serra Angel",
+      "Twincast"
+    ],
+    "q": "I cast <span class=\"autocard\">Runeclaw Bear</span> and my opponent <span class=\"autocard\">Cancel</span>s it. Then I cast <span class=\"autocard\">Serra Angel</span> and my opponent copies Cancel with <span class=\"autocard\">Twincast</span> to cancel Serra Angel, too. Can they do that?",
+    "a": "No, that's not how Twincast works. Twincast can only copy a spell on the stack that's waiting to resolve. Your opponent's Cancel has resolved and is in the graveyard now, so it can't be copied with Twincast."
+  },
+  {
+    "imgs": [
+      "Bruna, the Fading Light",
+      "Gisela, the Broken Blade"
+    ],
+    "q": "Can I make a Commander deck with both <span class=\"autocard\">Bruna, the Fading Light</span> and <span class=\"autocard\">Gisela, the Broken Blade</span> as my commanders?",
+    "a": "No, Bruna and Gisela don't have partner, so they can't both be your commanders. You'd choose one of them to be your commander, which would start the game in the command zone, and the other would be among your other 99 cards in your library."
+  },
+  {
+    "imgs": [
+      "Decimate",
+      "Resurrection Orb"
+    ],
+    "q": "If I use <span class=\"autocard\">Decimate</span> to destroy both <span class=\"autocard\">Resurrection Orb</span> and the creature it's attached to, does the creature still come back at the end of the turn?",
+    "a": "Yup. Decimate destroys the Orb and the creature at the same time, so the game state goes in one event from the creature being on the battlefield with the Orb attached to it, to both the Orb and the creature being in the graveyard. The Orb's ability is a \"dies\" trigger, so it looks back in time and triggers based on the game state before the event. In that game state, the creature was the \"equipped creature\", and it died, so the ability triggers and creates the delayed trigger that returns the card from the graveyard to the battlefield at the beginning of the next end step."
+  },
+  {
+    "imgs": [
+      "Archon of Coronation"
+    ],
+    "q": "Does <span class=\"autocard\">Archon of Coronation</span> save me from commander damage?",
+    "a": "It does not. While the damage doesn't cause you to lose life, the damage still happens, and any other effects that the damage might have still happen. For example, if a creature with lifelink deals damage to you, its controller still gains that much life. Also, as Archon of Coronation's reminder text helpfully point out, combat damage dealt to you by a creature still causes its controller to become the monarch. Finally, if a commander deals combat damage to you, that damage still gets counted towards the 21 damage game-loss condition."
+  },
+  {
+    "imgs": [
+      "Dash Hopes"
+    ],
+    "q": "I'm playing a deck in which I want to lose life, and I cast any spell and respond to it with <span class=\"autocard\">Dash Hopes</span>. Do I get to pay 5 life first, or can another player pay the 5 life before me?",
+    "a": "The game asks all players in turn order, starting with the active player, whether they want to pay 5 life. If you're the active player, you get asked first. However, even if you do this on your opponent's turn and your opponent chooses to pay 5 life, you can still choose to pay 5 life as well. Dash Hopes asks all players in turn order whether they want to pay life, and it doesn't stop asking just because a player says yes. Once all players have made their choice, the life payments by all players who said yes happen at the same time, and then Dash Hopes gets countered if at least one player said yes."
+  },
+  {
+    "imgs": [
+      "Pramikon, Sky Rampart",
+      "Irenicus's Vile Duplication"
+    ],
+    "q": "I'm in a four-player game, and I control <span class=\"autocard\">Pramikon, Sky Rampart</span> for which I chose left. I cast <span class=\"autocard\">Irenicus's Vile Duplication</span> to copy Pramikon, choosing right for the copy. In which direction can players attack?",
+    "a": "Players can't attack in either direction. Each Pramikon creates an attack restriction, and players have to attack in a way that obeys all restrictions. Attacking left disobeys the restriction created by the copy, and attacking right disobeys the restriction created by the original, so the only legal declaration of attackers is not attacking at all."
+  },
+  {
+    "imgs": [
+      "Pithing Needle",
+      "Eyes of Gitaxias"
+    ],
+    "q": "Can <span class=\"autocard\">Pithing Needle</span> stop <span class=\"autocard\">Eyes of Gitaxias</span> from transforming?",
+    "a": "No. In order to stop the Incubator token's activated ability, you'd have to name \"Incubator Token\", since that's the name of the token that has the ability you wish to stop. However, there is no card by that name, so that's not a valid choice for Pithing Needle."
+  },
+  {
+    "imgs": [
+      "Gitaxian Probe"
+    ],
+    "q": "In a four-player Commander game, player A casts <span class=\"autocard\">Gitaxian Probe</span> to look at player B's hand. Are they allowed to tell players C and D what was in player B's hand?",
+    "a": "Sure. It's private information that player A has access to, and player A may choose to share that information or not. Also, since it's private information, they are allowed to lie about it, so players C and D might want to consider the possibility that player A is not telling the truth."
+  },
+  {
+    "imgs": [],
+    "q": "I hate it when my opponents shuffle my deck. Can I forbid my opponent from shuffling my deck?",
+    "a": "No. At Regular REL, your opponent is allowed to shuffle your deck, and at Competitive REL, your opponent is actually required to shuffle your deck, so you can't forbid your opponent from shuffling your deck. However, if you think that your opponent is shuffling your cards in a way that might damage them, you should call a judge."
+  },
+  {
+    "imgs": [
+      "The One Ring",
+      "Ragavan, Nimble Pilferer",
+      "Fireball"
+    ],
+    "q": "If I cast <span class=\"autocard\">The One Ring</span> and don't announce that I gain protection from everything until my next turn, do I have protection? Let's say on the following turn my opponent attacks me with <span class=\"autocard\">Ragavan, Nimble Pilferer</span>, can they exile the top card of my library?",
+    "a": "As long as you point out the Ring's ability once it becomes relevant, you have protection. Triggered abilities are intended to happen automatically, so once the game reaches a point at which an ability should have resolved, it's assumed to have resolved unless there's a visible indication that it was missed. With abilities that create a visible effect or require a choice, it's easy to tell whether it was missed, but abilities whose effect is invisible can create an ambiguous game state. However, even with invisible abilities, the assumption is that it resolved until proven otherwise.\nYou only need to point out that you have protection once your opponent attempts to do something that's illegal while you have protection, such as cast a <span class=\"autocard\">Fireball</span> at you or deal combat damage to you with an attacking Ragavan. If you allow this to happen, that would be the indication that you missed the ability and you don't have protection. Note that you don't even have to say anything about protection while your opponent declares attackers, since attacking you is perfectly legal while you have protection. You only have to point it out once the game gets to the combat damage step."
+  }
+]

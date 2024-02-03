@@ -1,0 +1,141 @@
+[
+  {
+    "imgs": [
+      "Delaying Shield",
+      "Solemnity"
+    ],
+    "q": "If I control <span class=\"autocard\">Delaying Shield</span> and <span class=\"autocard\">Solemnity</span>, does that make me basically immortal?",
+    "a": "Well, it makes you immune to damage. If a source tries to deal damage to you, the damage gets replaced by you putting that many delay counters on the Shield instead. The fact that the resulting action is impossible does not stop the replacement effect from doing its thing; the game doesn't look that far ahead. The replacement effect applies, and then nothing happens because putting the delay counters on the Shield is impossible. This even replaces damage that can't be prevented, but it doesn't stop you from losing life, or from losing the game to any number of alternative win conditions."
+  },
+  {
+    "imgs": [
+      "Frantic Salvage"
+    ],
+    "q": "If I target multiple cards in my graveyard with <span class=\"autocard\">Frantic Salvage</span>, does my opponent get to know the order of those cards on top of my library?",
+    "a": "No. You put the cards on top of your library in an order of your choice, and since the library is a hidden zone, you do not have to reveal this order."
+  },
+  {
+    "imgs": [
+      "Everdream",
+      "Day's Undoing"
+    ],
+    "q": "If I splice <span class=\"autocard\">Everdream</span> onto <span class=\"autocard\">Day's Undoing</span>, do I get to end my turn with eight cards in my hand?",
+    "a": "Not quite. After you do the things Day's Undoing asks you to do, you \"end the turn\", and then you draw a card for the spliced Everdream effect. However, ending the turn in the middle of that spell doesn't mean that you discard down to your hand size at that time. Ending the turn merely fast-forwards the game state into the cleanup step. The turn-based actions for the cleanup step, including discarding down to your maximum hand size, happen after the spell has finished resolving, so it happens after you draw the eighth card and you'll have to discard a card."
+  },
+  {
+    "imgs": [
+      "Snapcaster Mage",
+      "Logic Knot"
+    ],
+    "q": "I control four untapped Islands and cast <span class=\"autocard\">Snapcaster Mage</span> to give <span class=\"autocard\">Logic Knot</span> flashback. If I have five other cards in my graveyard, can I exile those five cards and pay <img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\"> to flash back Logic Knot with X=5?",
+    "a": "Yup, that works. Delve is not an alternative cost, so it can be combined with an alternative cost such as flashback. Delve simply provides another way of paying for generic mana symbols in the total cost of the spell, and this works regardless of whether the total cost came from the mana cost or from an alternative cost."
+  },
+  {
+    "imgs": [
+      "The Mightstone and Weakstone",
+      "Elesh Norn, Mother of Machines",
+      "Urza, Planeswalker"
+    ],
+    "q": "Can I play <span class=\"autocard\">The Mightstone and Weakstone</span> in an <span class=\"autocard\">Elesh Norn, Mother of Machines</span> Commander deck even though its back face is half of <span class=\"autocard\">Urza, Planeswalker</span>?",
+    "a": "You can. While the back face of a double-faced card contributes to the card's color identity, a meld card is not a double-faced card, so only the front face matters for its color identity. Therefore, The Mightstone and Weakstone's color identity is colorless and it can be played in any Commander deck."
+  },
+  {
+    "imgs": [
+      "Elesh Norn, Mother of Machines",
+      "Welcoming Vampire"
+    ],
+    "q": "I control <span class=\"autocard\">Elesh Norn, Mother of Machines</span> and a <span class=\"autocard\">Welcoming Vampire</span>. How many cards do I draw the first time a 1/1 enters the battlefield?",
+    "a": "Just one. Elesh Norn wants to make the ability trigger a second time, but the ability can only trigger once each turn, so it only triggers once."
+  },
+  {
+    "imgs": [
+      "Elesh Norn, Mother of Machines",
+      "Isochron Scepter"
+    ],
+    "q": "I control <span class=\"autocard\">Elesh Norn, Mother of Machines</span> and an <span class=\"autocard\">Isochron Scepter</span> that has two cards imprinted on it thanks to Elesh Norn. What happens if I activate the Scepter's ability?",
+    "a": "You perform the actions that refer to \"the exiled card\" once for each card that's exiled with the Scepter. This means that you'll copy both cards, and for each one you choose independently whether to cast the copy, so you choose whether to cast both, just one, or none."
+  },
+  {
+    "imgs": [
+      "Mindslaver"
+    ],
+    "q": "If I <span class=\"autocard\">Mindslaver</span> during their turn and their commander dies, can I force them to leave it in the graveyard and not put it back into the command zone?",
+    "a": "Absolutely. While you control a player, you get to make all in-game decisions on their behalf. When state-based actions find your opponent's commander in the graveyard, your opponent is given the choice whether to leave it there or move it to the command zone. Since you control your opponent, you make that choice for them."
+  },
+  {
+    "imgs": [
+      "Fae of Wishes // Granted"
+    ],
+    "q": "What happens if I cast <span class=\"autocard\">Fae of Wishes // Granted</span> in a Commander game?",
+    "a": "In a tournament, nothing happens, since cards from outside the game must come from your sideboard, which doesn't exist in a Commander game. In a casual game, the rules say that you can choose a card from your personal collection, but your playgroup might want to put some restrictions on that in the interest of keeping the game fun, so you should ask them their opinion before you include any kind of Wish effect in your deck."
+  },
+  {
+    "imgs": [
+      "Zirda, the Dawnwaker",
+      "Magus of the Candelabra"
+    ],
+    "q": "Does <span class=\"autocard\">Zirda, the Dawnwaker</span> reduce the <img src=\"/ci-reader/images/symbols/X.png\" class=\"mana\"> in <span class=\"autocard\">Magus of the Candelabra</span>'s ability?",
+    "a": "It does, because the Magus's ability is indeed an activated ability that's not a mana ability. (Mana abilities are abilities that <i>produce</i> mana, not abilities that cost mana.) The way this works is that you choose an X and then you calculate and pay the resulting cost, but the size of the effect is determined by the X you chose, not by how much mana you pay. The end result is that you get to untap two more lands than you could pay for without Zirda's help, but note that Zirda can't reduce the mana to less than <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\">, so you can't untap two lands for free."
+  },
+  {
+    "imgs": [
+      "Impulsive Maneuvers"
+    ],
+    "q": "Does <span class=\"autocard\">Impulsive Maneuvers</span> work on an attacking creature with hexproof?",
+    "a": "Absolutely. Impulsive Maneuvers triggers whenever a creature attacks, and the damage doubling or prevention effect applies even if the creature has hexproof because the ability isn't targeting the creature. In order to target a creature, an ability has to use the word \"target\", which Impulsive Maneuvers doesn't do. (Keyword abilities can have the word \"target\" hidden in their definition, like equip, but Impulsive Maneuver's ability isn't a keyword ability.)"
+  },
+  {
+    "imgs": [
+      "Imprisoned in the Moon"
+    ],
+    "q": "If I cast <span class=\"autocard\">Imprisoned in the Moon</span> on a planeswalker, does it lose its loyalty counters?",
+    "a": "No, the loyalty counters stay on it. Lands normally don't have loyalty counters on them, but that doesn't mean that it's impossible for a land to have loyalty counters on it. Your opponent won't be able to use those loyalty counters for anything while their planeswalker is a land and doesn't have loyalty abilities, but the counters are still there, and they'll be relevant if your opponent manages to get rid of Imprisoned in the Moon."
+  },
+  {
+    "imgs": [
+      "Debilitating Injury",
+      "Natural State"
+    ],
+    "q": "I control a 3/1 creature and my opponent enchants it with <span class=\"autocard\">Debilitating Injury</span>. Can I destroy the Aura with <span class=\"autocard\">Natural State</span> before my creature dies?",
+    "a": "No, that doesn't work. As soon as Debilitating Injury is on the battlefield, it affects your creature and gives it -2/-2, so it's now a 1/-1. Before any player gets priority, state-based actions see that there's a creature whose toughness is 0 or less and put that creature into the graveyard. By the time you get priority, your creature is dead, Debilitating Injury is gone, and there's no Aura there for you to target with Natural State."
+  },
+  {
+    "imgs": [
+      "Flamewar, Streetwise Operative",
+      "Swift Reconfiguration"
+    ],
+    "q": "I control <span class=\"autocard\">Flamewar, Streetwise Operative</span> and my opponent casts <span class=\"autocard\">Swift Reconfiguration</span>. Does it automatically become a creature on my next turn due to its living metal ability?",
+    "a": "No. The living metal ability isn't a triggered ability that triggers at the beginning of your turn. It's a static ability that creates a continuous effect, but that effect is only \"on\" during your turn. Because this effect comes from a static ability of Flamewar, Streetwise Operative, the timestamp of this effect is the timestamp that Flamewar got when it converted to its back face. The effect from Swift Reconfiguration has a more recent timestamp, so it overrides the living metal effect."
+  },
+  {
+    "imgs": [
+      "Kenrith's Transformation",
+      "Vrondiss, Rage of Ancients",
+      "Klauth's Will"
+    ],
+    "q": "I've used <span class=\"autocard\">Kenrith's Transformation</span> to turn my opponent's <span class=\"autocard\">Vrondiss, Rage of Ancients</span> into an Elk. My opponent casts <span class=\"autocard\">Klauth's Will</span> for X=2 and chooses both modes so they can destroy Kenrith's Transformation. Does the damage from Klauth's Will trigger Vrondiss's <i>enrage</i> ability?",
+    "a": "No. The instructions from Klauth's Will are carried out in the order they're printed on the card, so Klauth's Will deals the damage while Vrondiss is still an Elk that doesn't have the <i>enrage</i> ability."
+  },
+  {
+    "imgs": [
+      "Unnatural Growth",
+      "Multani, Maro-Sorcerer"
+    ],
+    "q": "Does <span class=\"autocard\">Unnatural Growth</span> work on creatures that have */* as their power/toughness, for example <span class=\"autocard\">Multani, Maro-Sorcerer</span>?",
+    "a": "Yes, but you have to be a bit careful here. To double a creature's power and toughness means to give it +X/+Y, where X/Y is its current power and toughness. For example, if Multani is currently a 6/6 because both you and your opponent each have three cards in hand, Unnatural Growth gives Multani +6/+6 until end of turn, so it's now a 12/12. If you draw a card later this turn, Multani's base power and toughness goes up to 7/7, but the effect from Unnatural Growth is locked at +6/+6, so Multani becomes 13/13, not 14/14."
+  },
+  {
+    "imgs": [],
+    "q": "I'm judging a top 8 draft in a Competitive REL tournament, and a player calls me over because they opened a card in Phyrexian and they need the Oracle text for it. What should I do?",
+    "a": "You give them the Oracle text of the card. Players are allowed to ask for the Oracle text of a card at any time. Usually this happens during a match, but there's no reason why it can't happen during a draft."
+  },
+  {
+    "imgs": [
+      "Verdant Catacombs",
+      "Dryad Arbor",
+      "Grafdigger's Cage"
+    ],
+    "q": "My opponent activates <span class=\"autocard\">Verdant Catacombs</span> and puts <span class=\"autocard\">Dryad Arbor</span> onto the battlefield. I point out that I control <span class=\"autocard\">Grafdigger's Cage</span>, so Dryad Arbor can't enter the battlefield. Does my opponent get to choose a different land?",
+    "a": "Strictly speaking, no. Choosing Dryad Arbor was legal because Dryad Arbor fits the criteria for Verdant Catacombs. Your opponent only broke the rules once they put Dryad Arbor onto the battlefield, and the remedy for breaking the rules is to back up the game to the point immediately before the error, so your opponent wouldn't get to change their mind and choose a different land. At Competitive REL this is an acceptable outcome because good awareness of the game state is one of the skills being tested in competitive <b>Magic</b>. However, at Regular REL or in a casual kitchen table game where the emphasis is more on fun than competition, I would strongly recommend that you allow your opponent to choose a different land."
+  }
+]

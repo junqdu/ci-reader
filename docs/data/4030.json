@@ -1,0 +1,157 @@
+[
+  {
+    "imgs": [
+      "Frodo Baggins"
+    ],
+    "q": "On <span class=\"autocard\">Frodo Baggins</span>, what does it mean by \"the Ring tempts you\"? And what does it mean to be the \"Ring-bearer\"?",
+    "a": "The <i>Lord of the Rings</i> set is introducing a new mechanic called \"The Ring\". It's not fully explained on the cards, but fear not, the set has a \"tip\" card that explains nearly all the nuances. This tip card can be seen to the right, the top part being the front and the bottom part being the back.\nMany cards say \"the Ring tempts you\". Each time it does, you must select a creature to be your Ring-bearer, if you control one. You may only ever have one Ring-bearer, but you can change it each time you are tempted.\n\"The Ring\" is an emblem that you can have at most one of. Each time you are tempted, it gains a new ability, and each of these abilities makes your Ring-bearer better. Once your \"The Ring\" has all four abilities, it can't get better, but you still count as being tempted for abilities that care."
+  },
+  {
+    "imgs": [
+      "Frodo Baggins",
+      "Andúril, Flame of the West"
+    ],
+    "q": "If my <span class=\"autocard\">Frodo Baggins</span> is wielding <span class=\"autocard\">Andúril, Flame of the West</span>, do I make two attacking Frodos or two attacking Spirits?",
+    "a": "The wording on this card is a little ambiguous, but you get two attacking Spirits. Two attacking Frodos, making for a total of three, would be a flavor fail. Additionally, nothing would stop the tokens from being legendary, so you would immediately have to put two of the three Frodos into the graveyard. Luckily, you just get some attacking Spirit tokens with flying to help defend Gondor."
+  },
+  {
+    "imgs": [
+      "Conflux",
+      "Aragorn, the Uniter"
+    ],
+    "q": "If I cast <span class=\"autocard\">Conflux</span> while I control <span class=\"autocard\">Aragorn, the Uniter</span>, do I get all four of his abilities to trigger or do I have to chose one ability to trigger?",
+    "a": "You get all four abilities to trigger! Each of the four triggered abilities Aragorn has are separate abilities and so can trigger independent of each other."
+  },
+  {
+    "imgs": [
+      "Orcish Bowmasters",
+      "Wheel of Fortune"
+    ],
+    "q": "If I cast <span class=\"autocard\">Orcish Bowmasters</span> in response to my opponent casting <span class=\"autocard\">Wheel of Fortune</span> in a four-player Commander game, how much damage do I do and how big of an Orc Army do I make?",
+    "a": "Assuming you don't already have an Army Creature, you get to spread out 22 damage and make a 0/0 Orc Army and place 22 counters on it. Bowmasters deals 1 damage and then amasses Orc 1 just from entering the battlefield. Then, when Wheel of Fortune resolves, each of your three opponents discards their hand, and then draws a fresh seven. This will trigger Bowmasters 21 more times. Each damage can be directed at a different target."
+  },
+  {
+    "imgs": [
+      "Field-Tested Frying Pan",
+      "Marneus Calgar",
+      "Bestial Menace"
+    ],
+    "q": "How many cards do I draw if cast <span class=\"autocard\">Field-Tested Frying Pan</span> while I control <span class=\"autocard\">Marneus Calgar</span>?",
+    "a": "You draw two cards. If this was worded like <span class=\"autocard\">Bestial Menace</span> you would only draw one card as all three of its tokens are created as one event. But Frying Pan creates a food token \"and then\" creates a Halfling token, triggering Calgar twice."
+  },
+  {
+    "imgs": [
+      "Blaze",
+      "Display of Power"
+    ],
+    "q": "My opponent has just cast <span class=\"autocard\">Blaze</span> with X=20 targeting me. If I respond by casting <span class=\"autocard\">Display of Power</span>, will my copy of Blaze deal 20 damage or zero damage?",
+    "a": "You will deal 20 damage with your copy of Blaze. X in the cost of a permanent or card is considered to be zero everywhere except on the stack. While on the stack, the X is equal to the amount that was chosen when the spell was cast. Copying a spell on the stack, the X is a copiable characteristic."
+  },
+  {
+    "imgs": [
+      "Display of Power",
+      "Arcane Bombardment",
+      "Spellweaver Volute"
+    ],
+    "q": "My opponent says its possible to copy <span class=\"autocard\">Display of Power</span> in some scenarios, despite it saying \"this spell can't be copied\". Is this true?",
+    "a": "In some scenarios it can be copied! The ability \"this spell can't be copied\" only functions while Display of Power is a spell on the stack. So copies of it can be made from other zones like <span class=\"autocard\">Arcane Bombardment</span> and from the <span class=\"autocard\">Spellweaver Volute</span>, for example."
+  },
+  {
+    "imgs": [
+      "Éowyn, Lady of Rohan",
+      "Bilbo's Ring",
+      "Leech Gauntlet"
+    ],
+    "q": "Does <span class=\"autocard\">Éowyn, Lady of Rohan</span>'s last ability reduce <span class=\"autocard\">Bilbo's Ring</span> equip Halfling ability to zero?",
+    "a": "It does! Not only can Éowyn's ability reduce an equip <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\"> to equip <img src=\"/ci-reader/images/symbols/0.png\" class=\"mana\">, but it can also reduce equip costs with limitations like equip legendary or equip Dwarf. However, this does not reduce <span class=\"autocard\">Leech Gauntlet</span> as it's not strictly an equip ability."
+  },
+  {
+    "imgs": [
+      "Gimli, Counter of Kills",
+      "Day of Judgment"
+    ],
+    "q": "I control <span class=\"autocard\">Gimli, Counter of Kills</span> and my opponent controls four 2/2 Orc tokens. If I cast <span class=\"autocard\">Day of Judgment</span> destroying them all, does Gimli still deal damage from his triggered ability?",
+    "a": "Yes, Gimli will still deal 4 damage, 1 for each Orc, even though he is dying simultaneously with them."
+  },
+  {
+    "imgs": [
+      "Gríma Wormtongue",
+      "Angel of Grace"
+    ],
+    "q": "How does <span class=\"autocard\">Gríma Wormtongue</span>'s first ability interact with abilities and spells that set life totals like the last ability of <span class=\"autocard\">Angel of Grace</span>?",
+    "a": "When a spell or ability sets a player's life total, it does so by either gaining them enough life to reach that total or lose enough life to fall to that amount. So Wormtongue will prevent a player from going up in life from an ability like Angel of Grace's last ability."
+  },
+  {
+    "imgs": [
+      "Hobbit's Sting",
+      "Gingerbrute"
+    ],
+    "q": "If I cast <span class=\"autocard\">Hobbit's Sting</span> and the only nonland permanent I control is <span class=\"autocard\">Gingerbrute</span>, how much damage will it deal?",
+    "a": "It will deal 2 damage. Gingerbrute is a creature and a Food. Hobbit's Sting counts both groups separately and adds them together to determine how much damage is dealt."
+  },
+  {
+    "imgs": [
+      "Nazgûl"
+    ],
+    "q": "Can my commander deck have nine <span class=\"autocard\">Nazgûl</span> in it, or am I still restricted to running only one?",
+    "a": "Nazgûl's last ability gets around the one-of rule in Commander, so you can run anywhere from zero to nine in your Commander deck assuming your commander has black in its color identity."
+  },
+  {
+    "imgs": [
+      "Abrupt Decay",
+      "Reprieve"
+    ],
+    "q": "Even though <span class=\"autocard\">Abrupt Decay</span> can't be countered, can I still stop it with <span class=\"autocard\">Reprieve</span>?",
+    "a": "You can! Reprieve doesn't counter a spell, it merely moves it from the stack to its owner's hand."
+  },
+  {
+    "imgs": [
+      "Counterbalance",
+      "Storm of Saruman",
+      "Ponder"
+    ],
+    "q": "I control <span class=\"autocard\">Counterbalance</span> and I know the top card of my library has a mana value of 1. My opponent controls <span class=\"autocard\">Storm of Saruman</span> and casts <span class=\"autocard\">Ponder</span> as their secpnd spell of the turn. Will both the Ponder and its copy get countered?",
+    "a": "The original Ponder will get countered, but the copy will not. Since the copy was not cast, Counterbalance won't trigger for it."
+  },
+  {
+    "imgs": [
+      "Witch-king, Bringer of Ruin"
+    ],
+    "q": "I attack my opponent with <span class=\"autocard\">Witch-king, Bringer of Ruin</span>, but my opponent has five different creatures tied for lowest power. Does my opponent choose which creature they sacrifice, or do I?",
+    "a": "Your opponent gets to choose. When a player is forced to sacrifice something, by default they choose which object they control to sacrifice."
+  },
+  {
+    "imgs": [
+      "Galadriel of Lothlórien",
+      "Frodo Baggins"
+    ],
+    "q": "I control <span class=\"autocard\">Galadriel of Lothlórien</span> and then cast <span class=\"autocard\">Frodo Baggins</span>, choosing Frodo as the Ring-bearer, which causes me to scry 3 with Galadriel. If all three cards on top of my library are lands, can I put them all onto the battlefield with her last trigger?",
+    "a": "Nope. For each time you scry, you can put at most one land onto the battlefield with Galadriel."
+  },
+  {
+    "imgs": [
+      "Callous Dismissal",
+      "Bear Cub",
+      "Treason of Isengard"
+    ],
+    "q": "Earlier this turn I used <span class=\"autocard\">Callous Dismissal</span> to put my opponent's <span class=\"autocard\">Bear Cub</span> into their hand, which created a 0/0 Zombie Army with one +1/+1 counter on it. I then cast <span class=\"autocard\">Treason of Isengard</span> to put Callous Dismissal on top of my library. When I go to Amass Orcs 2, what happens?",
+    "a": "Because you already have an Army creature, you will not create an Orc Army creature token, but you will add two +1/+1 counters on the the Zombie Army you have and it will gain the type Orc, making it an Orc Zombie Army."
+  },
+  {
+    "imgs": [
+      "Frodo, Sauron's Bane",
+      "Imagecrafter"
+    ],
+    "q": "I have <span class=\"autocard\">Frodo, Sauron's Bane</span>, and have on previous turns activated his first ability and second ability and successfully made Frodo a Halfling Rogue with the long triggered ability. Can I activate that second ability again, so he has two copies that long triggered ability?",
+    "a": "Under normal circumstances, no. That second ability only works if Frodo is a Scout, and if he is a Scout that ability turns him permanently into a Halfling Rogue, no longer a Scout. You could use a card like <span class=\"autocard\">Imagecrafter</span> to turn him back into a Scout, then reactivate his second ability to gain him two copies of the long triggered ability."
+  },
+  {
+    "imgs": [
+      "Sauron, the Necromancer",
+      "Clone",
+      "Runeclaw Bear"
+    ],
+    "q": "Bryan Prillaman asks \"If my <span class=\"autocard\">Sauron, the Necromancer</span> attacks and exiles <span class=\"autocard\">Clone</span> from my graveyard with his attack trigger, and I have it copy my opponent's <span class=\"autocard\">Runeclaw Bear</span>, what characteristics will the token I create have?\"",
+    "a": "Short answer: 2/2 green Bear creature with a mana cost of <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"> named \"Runeclaw Bear\".\nLonger answer: Sauron tries to make a Clone that is 3/3, black, and has menace, but as it enters the battlefield, Clone's ability copies all the characteristics of the Runeclaw Bear, overriding the 3/3, black, and menace. To help visualize this, I've created a mock-up of the three steps: Step 1: Clone in graveyard. Step 2: What Sauron is trying to create. Step 3: What the Clone looks like on the battlefield.\n<img src=\"images/article/clonewraith2.png\"><br>\n \n<br>"
+  }
+]

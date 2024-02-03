@@ -1,0 +1,144 @@
+[
+  {
+    "imgs": [],
+    "q": "So what is Oathbreaker?",
+    "a": "Oathbreaker is a format similar to Commander, but instead of building around a legendary creature, you build around a planeswalker paired with an instant or sorcery spell. Instead of a 100 card deck, your deck is 60 cards including your Oathbreaker and signature spell, and you start with 20 life instead of 40 life. But Oathbreaker still has singleton rules, and you're still restricted by cards in your Oathbreaker's color identity.\n<br>"
+  },
+  {
+    "imgs": [],
+    "q": "You just mentioned a \"signature spell\". What's that?",
+    "a": "A signature spell is an instant or sorcery card that also starts out the game in the command zone, along with your Oathbreaker. Your signature spell's color identity has to be within the color identity of your Oathbreaker, and can be cast from the command zone, but only if your Oathbreaker is on the battlefield and under your control.\n<br>"
+  },
+  {
+    "imgs": [],
+    "q": "So I can just cast my signature spell from the command zone whenever I want?",
+    "a": "Not quite. To be able to cast your signature spell, you have to have your Oathbreaker on the battlefield and under your control. Without your Oathbreaker in play, your signature spell can't be cast.\n<br>"
+  },
+  {
+    "imgs": [
+      "Capsize"
+    ],
+    "q": "If my signature spell is <span class=\"autocard\">Capsize</span>, can I pay the buyback cost so it goes back to my hand instead of back to the command zone?",
+    "a": "You could, but it won't work. Your signature spell can effectively exist in one of two zones - the command zone or the stack. If your signature spell would try to go anywhere else, you move it back to the command zone instead. So while you could pay the buyback cost when you cast Capsize, instead of going to your hand when it resolves, it ends up back in the command zone.\n<br>"
+  },
+  {
+    "imgs": [
+      "Search for Tomorrow"
+    ],
+    "q": "What if my signature spell is a card with suspend? Could I suspend <span class=\"autocard\">Search for Tomorrow</span> from the command zone?",
+    "a": "You cannot. You can only suspend a card if it's in your hand, not in the command zone, so you can't try to suspend your signature spell from the command zone. Even if you could, since your signature spell can only exist in the command zone or the stack, it wouldn't go to exile at all.\n<br>"
+  },
+  {
+    "imgs": [
+      "Approach of the Second Sun"
+    ],
+    "q": "I suppose having <span class=\"autocard\">Approach of the Second Sun</span> as my signature spell won't really work either, right?",
+    "a": "Yeah, the Approach probably isn't the best choice for a signature spell. While you do end up moving the Approach back to the command zone instead of putting it into your library, if you want to win the game, you have to cast the Approach from your hand the second time you cast it. Casting it from the command zone doesn't count as casting it from your hand, so having the Approach as your signature spell means you're spending a lot of mana to gain 7 life.\n<br>"
+  },
+  {
+    "imgs": [
+      "Will Kenrith",
+      "Rowan Kenrith"
+    ],
+    "q": "How does partner work in Oathbreaker?",
+    "a": "With partner, you can have two Oathbreakers. But since you have two Oathbreakers, you can have two signature spells, one for each of your Oathbreakers. For example, if you have <span class=\"autocard\">Will Kenrith</span> and <span class=\"autocard\">Rowan Kenrith</span> as your Oathbreakers, you can have a red signature spell and a blue signature spell."
+  },
+  {
+    "imgs": [
+      "Will Kenrith",
+      "Rowan Kenrith",
+      "Lightning Bolt"
+    ],
+    "q": "So if I have <span class=\"autocard\">Will Kenrith</span> and <span class=\"autocard\">Rowan Kenrith</span> as my Oathbreakers, and <span class=\"autocard\">Lightning Bolt</span> as one of my signature spells, can I cast the Bolt if I control Will Kenrith?",
+    "a": "Unfortunately, that doesn't work. Each signature spell is tied to a particular Oathbreaker. Lighting Bolt is Rowan Kenrith's signature spell, so you'll need to have Rowan Kenrith in play to be able to cast the Bolt. Only having Will Kenrith in play will not let you cast Rowan's signature spell.\n<br>"
+  },
+  {
+    "imgs": [
+      "Valki, God of Lies",
+      "Tibalt, Cosmic Impostor"
+    ],
+    "q": "Since the back face of <span class=\"autocard\">Valki, God of Lies</span> is <span class=\"autocard\">Tibalt, Cosmic Impostor</span>, can Valki be my Oathbreaker?",
+    "a": "No it cannot. It has to be a planeswalker on the front face for it to be your Oathbreaker. Tibalt is a planeswalker, but Tibalt is on the back face of the card, not the front face. Since the front face is not a planeswalker, Valki/Tibalt cannot be your Oathbreaker.\n<br>"
+  },
+  {
+    "imgs": [],
+    "q": "Is there a commander tax?",
+    "a": "Yep, the commander tax works the same in Oathbreaker as it does in Commander - each time you want to cast your Oathbreaker or signature spell from the command zone, you have to pay an additional <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"> for each time you've previously cast it from the command zone. But like partner in Commander, the commander tax is tracked separately for your Oathbreaker and your signature spell - casting your Oathbreaker won't affect the commander tax for your signature spell and vice versa.\n<br>"
+  },
+  {
+    "imgs": [
+      "Gideon Jura"
+    ],
+    "q": "What about commander damage? If my Oathbreaker is <span class=\"autocard\">Gideon Jura</span>, can I deal enough combat damage with Gideon to make an opponent lose the game?",
+    "a": "Nope, there's no commander damage in Oathbreaker, which makes sense - most Oathbreakers can't turn themselves into creatures and can't attack. You can attack your opponent with your Oathbreaker Gideon all you want, but they won't lose the game if they take 21 or more points of combat damage from your Gideon.\n<br>"
+  },
+  {
+    "imgs": [
+      "Karn, The Great Creator"
+    ],
+    "q": "I know \"wish\" effects don't work in commander, but do they work in Oathbreaker? Can I use <span class=\"autocard\">Karn, The Great Creator</span>'s -2 to get cards from outside the game?",
+    "a": "Nope, that also doesn't work here. There's no outside the game to reference, just like in Commander. While Karn's -2 will let you get an exiled artifact card back into your hand, it won't let you get an artifact card from outside the game.\n<br>"
+  },
+  {
+    "imgs": [
+      "Command Tower",
+      "Saheeli, Sublime Artificer"
+    ],
+    "q": "Does a card like <span class=\"autocard\">Command Tower</span> work in Oathbreaker?",
+    "a": "It does! In a game of Oathbreaker, if a card refers to your \"commander\", it's referring to your \"oathbreaker\" instead. For example, if your Oathbreaker is <span class=\"autocard\">Saheeli, Sublime Artificer</span>, then your Command Tower can tap for red or blue mana.\n<br>"
+  },
+  {
+    "imgs": [
+      "Shorikai, Genesis Engine"
+    ],
+    "q": "Does that mean <span class=\"autocard\">Shorikai, Genesis Engine</span> can be my Oathbreaker?",
+    "a": "Oddly enough, yes, at least at the time of this article being posted. Based on the previous question, since we replace \"commander\" with \"oathbreaker\", Shorikai's last ability says that Shorikai can be your Oathbreaker. So if you'd like to have a vehicle as your Oathbreaker, you can play Shorikai.\n<br>"
+  },
+  {
+    "imgs": [
+      "Tyvar, Jubilant Brawler",
+      "Emrakul, the Aeons Torn"
+    ],
+    "q": "I activate the -2 ability of <span class=\"autocard\">Tyvar, Jubilant Brawler</span>, and one of the cards I milled was <span class=\"autocard\">Emrakul, the Aeons Torn</span>. Do I still get to return a creature card from my graveyard to my hand, or does my graveyard get shuffled into my library before I can return something?",
+    "a": "You can still return a creature card to your hand. The trigger from Emrakul can't go on the stack until after Tyvar's ability is completely done resolving. You'll be able to return a creature card before Emrakul's trigger can go on the stack and shuffle your graveyard into your library.\n<br>"
+  },
+  {
+    "imgs": [
+      "Gideon of the Trials",
+      "Luxior, Giada's Gift"
+    ],
+    "q": "If I control a <span class=\"autocard\">Gideon of the Trials</span> equipped with <span class=\"autocard\">Luxior, Giada's Gift</span>, as well as the emblem from Gideon's last +0 ability, will the emblem still prevent me from losing the game?",
+    "a": "No, the emblem is't doing anything right now. The emblem requires you to control a Gideon planeswalker for its effect to work. And while you do control Gideon of the Trials, because of Luxior, it's not a planeswalker - it's just a creature, and its subtype isn't Gideon anymore either, since that's a planeswalker subtype. So while you do control Gideon of the Trials, you don't control a planeswalker Gideon, so your emblem won't stop you from losing the game.\n<br>"
+  },
+  {
+    "imgs": [
+      "Saheeli, Sublime Artificer",
+      "Grafted Wargear"
+    ],
+    "q": "I activate <span class=\"autocard\">Saheeli, Sublime Artificer</span>'s -2, turning my Servo token into a <span class=\"autocard\">Grafted Wargear</span>. I attach that Wargear to one of my creatures and attack. At the end of turn, when the Wargear turns back into a Servo, will that cause the Wargear's ability to trigger and force me to sacrifice the creature it was attached to?",
+    "a": "Nope, your creature is safe. During the cleanup step, the effect from Saheeli wears off, and the Wargear goes back to being a Servo. Since it's now a creature, state-based actions will cause it to unattach. But it's no longer a Wargear when it becomes unattached, so the Wargear's unattach ability will not trigger and you won't sacrifice the creature that the Servo Wargear was attached to.\n<br>"
+  },
+  {
+    "imgs": [
+      "Tamiyo, Field Researcher"
+    ],
+    "q": "Can I target my opponent's creatures when I activate the +1 ability of <span class=\"autocard\">Tamiyo, Field Researcher</span>?",
+    "a": "Yep, you can. The ability just requires up to two target creatures, not creatures you control. And as a bonus, if those creatures were to deal combat damage, you will be the one to draw the card, not the controller of the creature (which may make blocking or attacking with those creatures a little less appealing for your opponent).\n<br>"
+  },
+  {
+    "imgs": [
+      "Tamiyo, Collector of Tales",
+      "Wheel of Fortune"
+    ],
+    "q": "What happens if I have a <span class=\"autocard\">Tamiyo, Collector of Tales</span> in play when my opponent casts <span class=\"autocard\">Wheel of Fortune</span>?",
+    "a": "You'll just draw seven cards. Since spells and abilities controlled by your opponents can't make you discard cards, you won't discard the cards that are already in your hand. But you'll still benefit from the other part of the Wheel's effect, and you'll still draw seven cards.\n<br>"
+  },
+  {
+    "imgs": [
+      "Dihada, Binder of Wills",
+      "Vexilus Praetor"
+    ],
+    "q": "If I have my Oathbreaker <span class=\"autocard\">Dihada, Binder of Wills</span> in play, along with <span class=\"autocard\">Vexilus Praetor</span>, will Dihada have protection from everything?",
+    "a": "Sure. There's nothing stopping an Oathbreaker from having protection. Since Dihada has protection from everything, it can't be targeted, have anything attached to it, and all damage that would be dealt to it is prevented. Dihada could still be attacked, but the damage dealt by that attacking creature to Dihada is prevented (and Dihada would not lose any loyalty counters)."
+  }
+]

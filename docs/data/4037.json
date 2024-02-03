@@ -1,0 +1,143 @@
+[
+  {
+    "imgs": [
+      "Omniscience",
+      "Stonecloaker"
+    ],
+    "q": "Let's say I have access to arbitrary amounts of mana, or maybe I control <span class=\"autocard\">Omniscience</span>, and I want to repeatedly cast <span class=\"autocard\">Stonecloaker</span> and return it to my hand. Can I continue to do that even if there are no cards left in graveyards to exile with its last ability?",
+    "a": "Absolutely. Stonecloaker as a spell doesn't have any targets, so you can cast it even if there are no cards in any graveyards. When it resolves, its enter-the-battlefield abilities go on the stack, and its last ability has to target a card in a graveyard. If you can't choose a valid target, that ability is simply removed from the stack, but there are no negative consequences from that. Its bounce ability still happens, so you can continue to bounce and re-cast it as often as you want in order to trigger some other ETB or \"whenever you cast\" abilities a bunch of times. \n<br>"
+  },
+  {
+    "imgs": [
+      "Horizon Stone",
+      "Delighted Halfling"
+    ],
+    "q": "I control <span class=\"autocard\">Horizon Stone</span> and <span class=\"autocard\">Delighted Halfling</span>. If I use the Halfling's second ability to add colored mana and then move to the next phase to let Horizon Stone turn it into colorless mana, is the mana still restricted to casting legendary spells?",
+    "a": "I'm afraid so. Horizon Stone's replacement effect doesn't drain the mana and replace it with colorless mana. It simply changes the mana in your mana pool to colorless mana, but the mana retains any restrictions or perks that were associated with it. This means that you now have one colorless mana that you can only spend to cast a legendary spell, but at least that spell can't be countered. \n<br>"
+  },
+  {
+    "imgs": [
+      "General's Enforcer",
+      "Chromium, the Mutable"
+    ],
+    "q": "I control <span class=\"autocard\">General's Enforcer</span> and activate <span class=\"autocard\">Chromium, the Mutable</span>'s ability. Does Chromium have indestructible from General's Enforcer?",
+    "a": "No. To see why, we have to go through the <a href=\"ooo\">layers</a>. The effect from Chromium's ability is applied in layers 4, 6, and 7b, as well as the \"not actually a layer\" layer where changes to the game rules are applied, namely its \"can't be blocked this turn\" effect. The crucial bit is in layer 6, where Chromium's own effect removes all its abilities and adds hexproof, while General's Enforcer's effect wants to adds indestructible. This effect applies to Chromium because it's a Human since the type-changing effect happened in layer 4. The two effects in layer 6 don't depend on each other, so they're applied in timestamp order. Chromium's effect has the more recent timestamp, so General's Enforcer's effect is applied first and gives Chromium indestructicle, but then Chromium's own effect applies and removes all its abilities, including indestructible."
+  },
+  {
+    "imgs": [
+      "General Kudro of Drannith",
+      "Chromium, the Mutable"
+    ],
+    "q": "What about <span class=\"autocard\">General Kudro of Drannith</span>, does <span class=\"autocard\">Chromium, the Mutable</span> get the +1/+1 buff after I activate its ability?",
+    "a": "Certainly. Chromium sets its base power/toughness to 1/1 in layer 7b, and then Kudro's effect gives it +1/+1 in layer 7c, so Chromium ends up as a 2/2 in that situation. \n<br>"
+  },
+  {
+    "imgs": [
+      "Life from the Loam",
+      "Stifle"
+    ],
+    "q": "I'm playing Legacy against a dredge deck and my opponent announces that they're dredging <span class=\"autocard\">Life from the Loam</span> from their graveyard during their draw step. What happens if I <span class=\"autocard\">Stifle</span> the dredge trigger?",
+    "a": "I have bad news for you: Dredge is not a triggered ability, so you can't actually use Stifle to stop your opponent from dredging. Triggered abilities are written in the form \"When/Whenever/At (event), (effect)\". Dredge is a replacement effect, and replacement effects are often written like \"If (something would happen), (something different happens) instead.\" \"If\" and \"when\" are very similar words in the English language, but they make a big difference in <b>Magic</b>. Triggered abilities use the stack and can be responded to, but replacement effects just happen. The only thing you can do to stop your opponent from dredging is by making sure that there are no cards with dredge in their graveyard at the time their draw step begins. Otherwise, they can replace their draw with dredge and there is absolutely nothing you can do about that.\n<br>"
+  },
+  {
+    "imgs": [
+      "Sneak Attack",
+      "Etali, Primal Conqueror",
+      "Etali, Primal Sickness"
+    ],
+    "q": "If I use <span class=\"autocard\">Sneak Attack</span> to bring in <span class=\"autocard\">Etali, Primal Conqueror</span> and then transform Etali right away, do I still have to sacrifice <span class=\"autocard\">Etali, Primal Sickness</span> at the end of the turn?",
+    "a": "Unfortunately, yes. Rather than leaving the battlefield and coming back, Etali transforms in place, so it's still the same permanent that was put onto the battlefield with Sneak Attack despite having changed its characteristics in the meantime. Since it is still \"the creature\" that you put onto the battlefield with Sneak Attack, you have to sacrifice it at the beginning of the next end step.\n<br>"
+  },
+  {
+    "imgs": [
+      "Old Gnawbone",
+      "Blightsteel Colossus"
+    ],
+    "q": "Does <span class=\"autocard\">Old Gnawbone</span>'s ability still trigger if I deal combat damage with a creature with infect such as <span class=\"autocard\">Blightsteel Colossus</span>?",
+    "a": "Certainly. Blightsteel Colossus deals damage in the form of poison counters to players since it has infect, but that doesn't change the fact that it's dealing damage. Old Gnawbone triggers off of combat damage being dealt to a player, not off of a player losing life, so its ability triggers just fine when Blightsteel Colossus deals combat damage to a player. \n<br>"
+  },
+  {
+    "imgs": [
+      "The One Ring",
+      "Smokestack"
+    ],
+    "q": "I control <span class=\"autocard\">The One Ring</span> and <span class=\"autocard\">Smokestack</span>. If I choose to sacrifice the Ring to Smokestack's upkeep trigger, do I still lose life to the Ring's upkeep trigger?",
+    "a": "Yes. Both abilities trigger at the beginning of your upkeep and you can choose the order in which they go on the stack, so you can let Smokestack's trigger resolve first, but sacrificing the Ring doesn't counter or \"un-trigger\" the Ring's ability. The Ring's ability still resolves and uses the Ring's last known information to determine how many burden counters were on it when it was last seen on the battlefield. \n<br>"
+  },
+  {
+    "imgs": [
+      "Blessing of Leeches"
+    ],
+    "q": "How can <span class=\"autocard\">Blessing of Leeches</span> regenerate a creature multiple times? Wouldn't the Aura be removed when the creature dies and regenerates the first time?",
+    "a": "Well, the Aura would be removed if the creature died and came back as a new creature, but that's not what regenerate does. Contrary to a common misconception, which is caused entirely by the fact that \"regenerate\" is a misleading name for what the mechanic does, regenerate does not bring a creature back from the dead. Regenerate actually stops a creature from dying in the first place. It is a replacement effect that replaces the creature's destruction with a different event in which the creature is tapped, any damage that's marked on it is removed, and if the creature is an attacking or blocking creature it gets removed from combat. The creature remains on the battlefield a bit dizzy and confused perhaps, but otherwise unharmed, and there is no reason for Blessing of Leeches to be removed, so the Aura remains and can regenerate the creature again if that should become necessary. \n<br>"
+  },
+  {
+    "imgs": [
+      "Firesong and Sunspeaker"
+    ],
+    "q": "I recall being able to target planeswalkers with <span class=\"autocard\">Firesong and Sunspeaker</span>, but I hear that's no longer possible. How come?",
+    "a": "I'm pretty sure that Firesong and Sunspeaker was never able to target a planeswalker. What you're thinking of was the \"planeswalker redirection rule\", a replacement effect that was baked into the rules that allowed you to redirect damage from a player to a planeswalker they control. Under that rule, you'd target a player with a damage spell or ability and then redirect the damage to their planeswalker, which many players mentally abbreviated to targeting the planeswalker. However, this rule was unintuitive and caused lots of player communication problems, so Wizards of the Coast finally eliminated it in April of 2018 with the release of <i>Dominaria</i>. Since that change, spells and abilities that can deal damage to planeswalkers will say so explicitly by saying \"target planeswalker\" or \"any target.\" Firesong and Sunspeaker was originally printed in <i>Dominaria</i> and always said \"target creature or player\", so it was never able to deal damage to a planeswalker. \n<br>"
+  },
+  {
+    "imgs": [
+      "Gollum, Obsessed Stalker"
+    ],
+    "q": "If <span class=\"autocard\">Gollum, Obsessed Stalker</span> deals damage to an opponent and is sent to the command zone, does \"each opponent dealt combat damage this game\" reset when it's cast again from the command zone?",
+    "a": "It does not. The ability looks for opponents that were dealt combat damage by any creature with the name \"Gollum, Obsessed Stalker.\" The re-cast Gollum is a different permanent than the previous incarnation that dealt the damage, but the previous incarnation was a creature named Gollum, Obsessed Stalker, so the damage dealt by the previous incarnation counts for the end step trigger of the new incarnation. \n<br>"
+  },
+  {
+    "imgs": [
+      "Drivnod, Carnage Dominus",
+      "Sméagol, Helpful Guide"
+    ],
+    "q": "If I control <span class=\"autocard\">Drivnod, Carnage Dominus</span>, will <span class=\"autocard\">Sméagol, Helpful Guide</span>'s first ability tempt me twice?",
+    "a": "No. Drivnod's ability only applies to triggered abilities that are triggered by a creature's death. Sméagol's ability is triggered by the beginning of your end step, with an additional condition that a creature died under your control, but the ability is not triggered by the creature dying. \n<br>"
+  },
+  {
+    "imgs": [
+      "Sauron, the Dark Lord"
+    ],
+    "q": "I control <span class=\"autocard\">Sauron, the Dark Lord</span> and the Ring tempts me. Can I still use Sauron's last ability to draw four cards if I have no cards in hand?",
+    "a": "Sure. The ability triggers when the Ring tempts you, and when it resolves it asks you if you would like to discard your hand. To discard your hand, you simply discard each card that's in your hand, which is still possible if there are no cards in your hand. The \"if you do\" clause does not care whether you actually ended up discarding any cards. It only checks whether you chose to discard your hand, which you did.  \n<br>"
+  },
+  {
+    "imgs": [
+      "Academy Manufactor",
+      "Cackling Counterpart",
+      "Gingerbrute"
+    ],
+    "q": "I control <span class=\"autocard\">Academy Manufactor</span> and use <span class=\"autocard\">Cackling Counterpart</span> to make a token copy of <span class=\"autocard\">Gingerbrute</span>. What happens?",
+    "a": "Cackling Counterpart resolves and instructs you to create a token that's a copy of Gingerbrute, and Gingerbrute has the subtype Food, so Academy Manufactor notices that you're about to create a Food token. The fact that Gingerbrute is not an ordinary Food token doesn't matter. It's a Food, so the replacement effect kicks in, and instead of creating a Gingerbrute token, you create a Clue token, an ordinary Food token, and a Treasure token. \n<br>"
+  },
+  {
+    "imgs": [
+      "Giant Adephage",
+      "Nylea, God of the Hunt"
+    ],
+    "q": "Do the token copies that <span class=\"autocard\">Giant Adephage</span> makes of itself count towards my <span class=\"autocard\">Nylea, God of the Hunt</span>?",
+    "a": "Yup! The mana cost is one of the copiable values that get copied when you make a copy of a thing, so the Giant Adephage copy token is a token with a mana cost of <img src=\"/ci-reader/images/symbols/5.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"> and a mana value of 7, and it contributes 2 to your devotion to green.\n<br>"
+  },
+  {
+    "imgs": [
+      "Bilbo, Birthday Celebrant",
+      "Planewide Celebration"
+    ],
+    "q": "I control <span class=\"autocard\">Bilbo, Birthday Celebrant</span> and cast <span class=\"autocard\">Planewide Celebration</span> choosing the last mode all four times. What happens?",
+    "a": "You end up gaining 20 life. When Planewide Celebration resolves, you perform \"You gain 4 life\" four separate times, so Bilbo sees four separate events in which you gain life and replaces each one with gaining 5 life instead. \n<br>"
+  },
+  {
+    "imgs": [
+      "Hall of Gemstone"
+    ],
+    "q": "I'm in a Commander game with three other players. One player controls <span class=\"autocard\">Hall of Gemstone</span>, and they choose a color at the beginning of their upkeep. If they leave the game during their turn, does the effect from Hall of Gemstone stick around until end of turn?",
+    "a": "It sure does. Hall of Gemstone has a triggered ability that creates a continuous effect with a duration when it resolves. The duration is \"until end of turn\", and effects don't normally end prematurely when a player leaves the game. There is a special rule that makes control-changing effects end when a player leaves the game, but no such rule exists for Hall of Gemstone's effect. \n<br>"
+  },
+  {
+    "imgs": [
+      "Artificial Evolution",
+      "Orcish Bowmasters"
+    ],
+    "q": "Can I use <span class=\"autocard\">Artificial Evolution</span> on <span class=\"autocard\">Orcish Bowmasters</span> and change Army to Frog to create Orc Frogs?",
+    "a": "No, the creature type \"Army\" does not actually occur anywhere in the text of Orcish Bowmasters, so changing Army to Frog does nothing. The Army creature type is baked into the definition of the amass keyword, which the text-changing effect can't touch. You could change Orc to Frog, which will cause the amass ability to create a Frog Army instead."
+  }
+]

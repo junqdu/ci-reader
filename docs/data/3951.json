@@ -1,0 +1,162 @@
+[
+  {
+    "imgs": [
+      "Drivnod, Carnage Dominus",
+      "Vraan, Executioner Thane"
+    ],
+    "q": "If I control <span class=\"autocard\">Drivnod, Carnage Dominus</span> and <span class=\"autocard\">Vraan, Executioner Thane</span>, and another one of my creatures dies, will I get two Vraan triggers or just one?",
+    "a": "You still only get one trigger. Vraan's ability can only trigger once each turn. While Drivnod tries to make it trigger a second time, since Vraan says it can't trigger more than once each turn, it doesn't, and you still only get one Vraan trigger each turn."
+  },
+  {
+    "imgs": [
+      "Vraska's Fall"
+    ],
+    "q": "Can I cast <span class=\"autocard\">Vraska's Fall</span> even if my opponent controls no creatures or planeswalkers?",
+    "a": "Sure. Vraska's Fall doesn't target anything, so it doesn't matter if your opponent controls a creature/planeswalker or not. If you're less interested in making them sacrifice and more interested in getting them to ten poison counters, you're free to cast it even if they have nothing to sacrifice, and they'll still get a poison counter."
+  },
+  {
+    "imgs": [
+      "Soulless Jailer",
+      "Uro, Titan of Nature's Wrath"
+    ],
+    "q": "If my opponent controls a <span class=\"autocard\">Soulless Jailer</span>, can I still cast a creature spell with escape like <span class=\"autocard\">Uro, Titan of Nature's Wrath</span> from my graveyard?",
+    "a": "You can. The Jailer won't stop you from casting a creature spell from the graveyard, and when Uro resolves, it's entering from the stack, not the graveyard, so the first ability of the Jailer won't apply, and Uro will resolve and enters the battlefield like normal."
+  },
+  {
+    "imgs": [
+      "Cruel Grimnarch",
+      "Black Sun's Twilight"
+    ],
+    "q": "I control a <span class=\"autocard\">Cruel Grimnarch</span>. Can I cast <span class=\"autocard\">Black Sun's Twilight</span> with X=6, targeting the Grimnarch and returning it with the second part of the Twilight's effect?",
+    "a": "You cannot. While you can give the Grimnarch -6/-6 with the Twilight, it's not going to die until state-based actions are checked once the Twilight is done resolving. Since it's still on the battlefield when you're resolving the second part of the Twilight's effect, it does not die in time for you to be able to return it with the same resolving Black Sun's Twilight."
+  },
+  {
+    "imgs": [
+      "Nissa, Ascended Animist",
+      "Wrenn and Seven"
+    ],
+    "q": "If I create a Phyrexian Horror token with <span class=\"autocard\">Nissa, Ascended Animist</span>, will the token's power and toughness change as the number of loyalty counters on Nissa changes?",
+    "a": "Nope, the power and toughness of the token is locked in when the ability resolves. The token's power and toughness won't change as Nissa's loyalty changes, since the token wasn't granted an ability that updates its power and toughness, like the token made by <span class=\"autocard\">Wrenn and Seven</span>'s -3 ability. Once the token is created, its power and toughness are locked in, which is good, because that means your tokens won't die if your Nissa dies."
+  },
+  {
+    "imgs": [
+      "Danitha, Benalia's Hope",
+      "Dragonwing Glider"
+    ],
+    "q": "I cast <span class=\"autocard\">Danitha, Benalia's Hope</span> and put <span class=\"autocard\">Dragonwing Glider</span> onto the battlefield attached to Danitha. What happens next?",
+    "a": "The Glider will briefly be attached to Danitha, but then becomes attached to the Rebel token. You put the equipment onto the battlefield attached to Danitha, but since the equipment entered the battlefield, the For Mirrodin! ability will trigger. When that trigger resolves, you'll create the Rebel token, and then you'll attach the Glider to the new Rebel token and unattach it from Danitha. So while you did cheat the Glider onto the battlefield, it doesn't remain attached to Danitha."
+  },
+  {
+    "imgs": [
+      "Phyrexian Atlas",
+      "Prologue to Phyresis"
+    ],
+    "q": "My opponent is at two poison counters. I control a <span class=\"autocard\">Phyrexian Atlas</span> and an Island, and have a <span class=\"autocard\">Prologue to Phyresis</span> I want to cast. Is it possible for me to cast the Prologue and have my opponent lose 1 life from the Atlas?",
+    "a": "That is very possible. While it may feel like the Atlas has an intervening if trigger, it doesn't - it will just check to see if any opponent has three or more poison counters when the trigger resolves. It will always trigger when you tap the Atlas, no matter how many poison counters your opponents have. So you can tap the Atlas and Island for mana, then respond to the Atlas's trigger by casting the Prologue. The Prologue will resolve first, and you will give the opponent a poison counter, bringing them to three poison counters, and when the Atlas's trigger resolves, they lose 1 life since they're now corrupted."
+  },
+  {
+    "imgs": [
+      "Vivisection Evangelist",
+      "Vat Emergence"
+    ],
+    "q": "My opponent has two poison counters, and I have a <span class=\"autocard\">Vivisection Evangelist</span> in my graveyard. If I cast <span class=\"autocard\">Vat Emergence</span>, can I return the Evangelist and proliferate their poison counter and get the Evangelist's trigger?",
+    "a": "No you cannot. When the Emergence resolves, the first thing we do is return the Evangelist to the battlefield, and we check for enter the battlefield triggers immediately after it enters. Your opponent isn't corrupted yet, so the Evangelist's ability won't trigger. Then you can proliferate the opponent's poison counters and bring them up to three, but that happens after the Evangelist checks to see if it should trigger. You will proliferate too late for the Evangelist to trigger."
+  },
+  {
+    "imgs": [
+      "Lagomos, Hand of Hatred",
+      "Dreadfeast Demon"
+    ],
+    "q": "If I have a <span class=\"autocard\">Lagomos, Hand of Hatred</span> and a <span class=\"autocard\">Dreadfeast Demon</span> in play, could I sacrifice the Elemental token to the Demon's end step trigger, or do I have to sacrifice it first?",
+    "a": "You'll be able to sacrifice it to the Demon's trigger before it's sacrificed to the delayed trigger. You control both triggers, so when your end step begins, you'll be able to choose the order the triggers are put on the stack. Put the Demon's trigger on the stack last and it will resolve first, and you'll be able to sacrifice the Elemental token to make a new Dreadfeast Demon before it's sacrificed to Lagomos's delayed triggered ability."
+  },
+  {
+    "imgs": [
+      "Adeline, Resplendent Cathar",
+      "Neyali, Suns' Vanguard"
+    ],
+    "q": "If I attack with an <span class=\"autocard\">Adeline, Resplendent Cathar</span>, will the tokens that are created by its attack trigger get double strike from <span class=\"autocard\">Neyali, Suns' Vanguard</span>?",
+    "a": "Yes they will. The static ability just gives your attacking tokens double strike. They don't need to be declared as attackers to have double strike. For Neyali's triggered ability, you do have to declare an attack with tokens, so a token put onto the battlefield attacking won't help. So the attacking tokens will have double strike, but they won't count for Neyali's triggered ability."
+  },
+  {
+    "imgs": [
+      "Faceless Butcher",
+      "Ovinize",
+      "Fairgrounds Warden",
+      "Banisher Priest"
+    ],
+    "q": "I have a <span class=\"autocard\">Faceless Butcher</span> in play that's exiled an opponent's creature. I attack with it, my opponent blocks, and then casts <span class=\"autocard\">Ovinize</span> targeting the Butcher. Will my opponent get their exiled card back?",
+    "a": "Nope, their creature is exiled permanently. Faceless Butcher, unlike modern cards, has two abilities - an enter the battlefield trigger that exiles a creature, and a second triggered ability that triggers when the Butcher leaves the battlefield to return the exiled card. It's not like <span class=\"autocard\">Fairgrounds Warden</span> or <span class=\"autocard\">Banisher Priest</span> that set up a one-shot effect to return the exiled card when the creature leaves the battlefield. Since the Butcher didn't have the leave the battlefield trigger when it left the battlefield, the ability won't trigger and the exiled card will stay in exile."
+  },
+  {
+    "imgs": [
+      "Blood Artist",
+      "Vito, Thorn of the Dusk Rose",
+      "Day of Judgment"
+    ],
+    "q": "I control a <span class=\"autocard\">Blood Artist</span>, <span class=\"autocard\">Vito, Thorn of the Dusk Rose</span>, and some other creatures. My opponent wipes my board with a <span class=\"autocard\">Day of Judgment</span>. Will Vito trigger from my Blood Artist triggers resolving?",
+    "a": "You'll get Blood Artist triggers, but no Vito triggers. Vito needs to be on the battlefield when you gain life for his triggered ability to trigger. While Blood Artist will trigger for all of the creatures dying at the same time as itself, Vito will not be on the battlefield when the Artist triggers resolve, since it was destroyed along with Blood Artist, so Vito will not trigger from the Blood Artist triggers resolving."
+  },
+  {
+    "imgs": [
+      "Furnace of Rath",
+      "Sanctum Seeker"
+    ],
+    "q": "My opponent controls a <span class=\"autocard\">Furnace of Rath</span>. If I attack with <span class=\"autocard\">Sanctum Seeker</span> and some other Vampires, will my opponent lose twice as much life from the Seeker's triggers?",
+    "a": "Nope, there's no interaction with the Furnace and the Seeker's trigger. The Seeker's trigger causes a loss of life. It doesn't deal damage, so the Furnace won't apply. Your opponent will still only lose 1 life from each Sanctum Seeker trigger."
+  },
+  {
+    "imgs": [
+      "Brightflame",
+      "Gold Myr"
+    ],
+    "q": "If I cast <span class=\"autocard\">Brightflame</span> with X=5, targeting my opponent's <span class=\"autocard\">Gold Myr</span>, will I end up dealing 5 damage to all colorless creatures?",
+    "a": "Nope, you will not. The only creature here that will take any damage is the Gold Myr. Gold Myr is colorless, so it can't share a color with any other creature, and that includes other colorless creatures. Brightflame will deal damage to the targeted Myr, but the other colorless creatures in play won't take any damage from Brightflame."
+  },
+  {
+    "imgs": [
+      "Karn, the Great Creator",
+      "Reidane, God of the Worthy"
+    ],
+    "q": "Can I use the -2 ability of <span class=\"autocard\">Karn, the Great Creator</span> to get <span class=\"autocard\">Reidane, God of the Worthy</span> from my sideboard, since the back face is an artifact?",
+    "a": "You cannot. The front face of Reidane is a creature card, not an artifact card. Unless you're playing or casting the card, you ignore the back face of a modal double-faced card. Since Reidane isn't an artifact on the front face, Karn ignores it and you cannot put it into your hand with Karn's -2 ability."
+  },
+  {
+    "imgs": [
+      "Null Brooch"
+    ],
+    "q": "Can I activate the ability of <span class=\"autocard\">Null Brooch</span> even if I have no cards in my hand?",
+    "a": "Sure! You always have a hand, even if it's empty. If your hand is empty, you can still activate the Brooch's ability. You'll just discard all of the cards in your empty hand, along with the rest of the costs, to activate the ability."
+  },
+  {
+    "imgs": [
+      "Traverse the Outlands",
+      "Unsummon"
+    ],
+    "q": "When does <span class=\"autocard\">Traverse the Outlands</span> check the power of my creatures? If my only creature in play is a 5/5 and I cast the Traverse, but my opponent responds by <span class=\"autocard\">Unsummon</span>ing my 5/5, how many lands do I get to search for?",
+    "a": "The Traverse only looks at the power among your creatures as part of the spell resolving. It doesn't care what the highest power among your creatures was when you cast the Traverse. Since your 5/5 is no longer in play when the Traverse resolves, it won't use its power to determine how many lands you can search for. If you don't have any creatures in play, you won't search for any lands (but you still get to search and shuffle)."
+  },
+  {
+    "imgs": [
+      "Scholar of New Horizons",
+      "History of Benalia"
+    ],
+    "q": "Can I use the ability of <span class=\"autocard\">Scholar of New Horizons</span> to remove a lore counter on a Saga like <span class=\"autocard\">History of Benalia</span> to keep the Saga around after the third chapter ability has resolved?",
+    "a": "Sure, you can. You can respond to the third chapter ability (before it resolves) by using the Scholar's ability to remove a lore counter from the History. When the History's third chapter ability resolves and we check state-based actions, it only has two lore counters, not three, so the History will stay on the battlefield, and will trigger again on your next turn when it gets the third lore counter again."
+  },
+  {
+    "imgs": [
+      "Archon of Coronation",
+      "Blightsteel Colossus"
+    ],
+    "q": "I'm the monarch, with an <span class=\"autocard\">Archon of Coronation</span> in play. My opponent attacks me with a <span class=\"autocard\">Blightsteel Colossus</span> and I don't block. Is the damage prevented?",
+    "a": "No, you just got eleven poison counters and lost the game. The Archon's ability doesn't prevent damage, it just says that damage doesn't cause you to lose life. A creature with infect isn't causing you to lose life, so the Archon's ability won't do anything, and you'll receive the full amount of poison counters from the Colossus."
+  },
+  {
+    "imgs": [
+      "Maddening Hex"
+    ],
+    "q": "I'm in a multiplayer game, and I have a <span class=\"autocard\">Maddening Hex</span> attached to an opponent who is at 1 life. If they cast an instant, will the Hex end up attached to another opponent, or does it go to my graveyard since that opponent dies from the damage?",
+    "a": "It will end up attached to another opponent before that opponent loses the game. No matter what they roll, they're going to take lethal damage from the Hex's trigger. But they won't lose the game until after the Hex's trigger is done resolving. Even though they're at 0 or less life, the rest of the Hex's trigger will still happen and you'll move the Hex to another random opponent before the opponent the Hex was attached to loses the game."
+  }
+]

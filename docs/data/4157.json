@@ -1,0 +1,121 @@
+[
+  {
+    "imgs": [
+      "Vexilus Praetor",
+      "Urza, Planeswalker",
+      "Urza, Lord Protector",
+      "Clone",
+      "Ramses Overdark",
+      "Invoke the Winds",
+      "Dress Down"
+    ],
+    "q": "</b></span>  Amber has controlled <span class=\"autocard\">Vexilus Praetor</span> for several turns. Under which situations does the Praetor give protection from everything to the following cards?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: Card: Amber's <span class=\"autocard\">Urza, Planeswalker</span> <br>\nSituation: Contains Amber's Commander <span class=\"autocard\">Urza, Lord Protector</span> melded into it<br>\nB: Card: Amber's <span class=\"autocard\">Clone</span><br>\nSituation: Currently copying her opponent's commander <span class=\"autocard\">Ramses Overdark</span><br>\nC: Card: <span class=\"autocard\">Ramses Overdark</span><br>\nSituation: Amber controls her opponent's commander Ramses, gained by casting <span class=\"autocard\">Invoke the Winds</span> <br>\nD: Card: Amber's commander <span class=\"autocard\">Urza, Lord Protector</span> which she has controlled since her last turn<br>\nSituation: Amber's opponent played <span class=\"autocard\">Dress Down</span> earlier this turn<br>\nE: Wait, is Urza the new Emperor? Is Ramses the new Horus?<br>\n</blockquote><p></p>",
+    "a": "<b>A. &amp; C.</b><br>\nUrza, Planeswalker is still Amber's commander if it has her commander Urza Lord Protector melded into it.<br>\n<br>\nA clone or copy of a commander is not a commander. Commander\"ness\" is not a copiable value.<br>\n<br>\nVexilus gives protection to all commanders you control, not just ones you own.<br>\n<br>\nDress Down will have a later time stamp and will remove protection from everything from Urza, Lord Protector. (It also removes the ability from Vexilus that grants Urza the protection ability, so no ability twice.)"
+  },
+  {
+    "imgs": [
+      "Impulsive Maneuvers",
+      "Bear Cub",
+      "Ninja of the New Moon",
+      "Basri Ket"
+    ],
+    "q": "</b></span>  Nolan controls <span class=\"autocard\">Impulsive Maneuvers</span>. For which of the following creatures will Maneuvers cause a coin flip?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: When a <span class=\"autocard\">Bear Cub</span> attacks Nolan's planeswalker.<br>\nB: The <span class=\"autocard\">Ninja of the New Moon</span> that Ninjutsu'd a <span class=\"autocard\">Bear Cub</span> after it went unblocked and had its damage prevented by Maneuvers.<br>\nC: The <span class=\"autocard\">Ninja of the New Moon</span> that Ninjutsu'd a <span class=\"autocard\">Bear Cub</span> after it went unblocked and had its damage doubled by Maneuvers.<br>\nD: The token created by <span class=\"autocard\">Basri Ket</span> second loyalty ability.<br>\nE: Basri Ket's Ninja Bears!<br>\n</blockquote><p></p>",
+    "a": "<b>A.</b><br>\nImpulsive Maneuvers sees the Bear Cub even if it attacks a planeswalker (or a battle), so this will cause a coin flip.<br>\n<br>\nThis is rather subtle, but a creature put onto the battlefield attacking (such as with ninjutsu or Basri Ket's second ablity), is not a creature that attacked. To attack, a creature has to go from not attacking to attacking by the declare attackers step. "
+  },
+  {
+    "imgs": [
+      "Ragavan, Nimble Pilferer",
+      "Mental Misstep",
+      "Spell Snare",
+      "Counterspell",
+      "Stifle"
+    ],
+    "q": "</b></span>  Which of the following spells can counterspell a \"dashed\" <span class=\"autocard\">Ragavan, Nimble Pilferer</span>?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: <span class=\"autocard\">Mental Misstep</span><br>\nB: <span class=\"autocard\">Spell Snare</span><br>\nC: <span class=\"autocard\">Counterspell</span><br>\nD: <span class=\"autocard\">Stifle</span><br>\nE: Why does blue hate the monkey?<br>\n</blockquote><p></p>",
+    "a": "<b>A. &amp; C.</b><br>\nA creature that is dashed still has its original mana value, even if the dash cost is different. A dashed Ragavan still has a mana value of 1.<br>\n<br>\nDashing a creature is an alternative cost, it's still being cast, it is not a triggered or activated ability."
+  },
+  {
+    "imgs": [
+      "Anointed Procession",
+      "Beast Within",
+      "Phyrexian Processor",
+      "Generous Gift",
+      "Garruk Wildspeaker",
+      "See Double",
+      "Bear Cub"
+    ],
+    "q": "</b></span>  Antonio controls <span class=\"autocard\">Anointed Procession</span>. It which situations will Anointed Procession help create extra tokens?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: Nicole casts <span class=\"autocard\">Beast Within</span> to destroy Antonio's <span class=\"autocard\">Phyrexian Processor</span><br>\nB: Antonio <span class=\"autocard\">Generous Gift</span>s Nicole's <span class=\"autocard\">Garruk Wildspeaker</span><br>\nC: Antonio casts <span class=\"autocard\">See Double</span> using only its first mode, targeting Nicole's <span class=\"autocard\">Bear Cub</span> that's currently a spell.<br>\nD: Antonio casts <span class=\"autocard\">See Double</span> using only its second mode, targeting Nicole's <span class=\"autocard\">Bear Cub</span> that's currently on the battlefield.<br>\nE: Beasts, Elephants, and Bears, ohh my!<br>\n</blockquote><p></p>",
+    "a": "<b>A. &amp; D.</b><br>\nBecause Antonio controls the Procession, and Procession only increases the number of tokens created under its owners control, only Antonio will get extra tokens when his permanents get Beast Within'ed or Generous Gift'ed.<br>\n<br>\nWhen a permanent spell gets copied, it's placed on the stack, not on the battlefield. When that spell resolves, it turns into a token as it gets placed on the battlefield. This means that Procession will not see a copy of a creature spell.<br>\n<br>\nTokens created in the normal fashion, such as the second mode of See Double, do get extra copies from Procession."
+  },
+  {
+    "imgs": [
+      "Otawara, Soaring City",
+      "Bear Cub",
+      "Swift Reconfiguration",
+      "Momentary Blink",
+      "Gods Willing",
+      "Blacksmith's Skill"
+    ],
+    "q": "</b></span>  Nathan channels <span class=\"autocard\">Otawara, Soaring City</span> targeting Angela's <span class=\"autocard\">Bear Cub</span>. Which of the following responses by Angela would prevent the Bear Cub from getting bounced to her hand?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: Angela flashes out <span class=\"autocard\">Swift Reconfiguration</span> enchanting her Bear Cub<br>\nB: Angela \"blinks\" the Bear Cub with <span class=\"autocard\">Momentary Blink</span><br>\nC: Angela casts <span class=\"autocard\">Gods Willing</span> targeting her Bear Cub choosing \"blue\"<br>\nD: Angela casts <span class=\"autocard\">Blacksmith's Skill</span> targeting her Bear Cub<br>\nE: How does a floating city make a Bear disappear?<br>\n</blockquote><p></p>",
+    "a": "<b>B. &amp; D.</b><br>\nChanging the Bear Cub from a creature to only being an artifact will not save the Bear Cub from getting bounced. Otawara's ability can bounce a creature or a artifact, and changing to one or the other doesn't stop it from being a legal target.<br>\n<br>\n\"Blinking\" a permanent changes it from one the battlefield to exile and back again. Each time a permanent leaves the battlefield and returns, it is considered a new and different object, even if it is indeed the same card. This will make Otawara's channel ability fail to resolve because its target is no longer legal. It's important to note that blinking a creature in this way does reset its summoning sickness, though.<br>\n<br>\nGiving the Bear Cub Protection from blue will not save it. Although Otawara makes blue mana and its ability requires blue mana to activate, it is a colorless card and is not blue.<br>\n<br>\nGiving the Bear Cub hexproof will protect it from Otawara. Otawara's channel ability does target, and if its target becomes illegal, the ability will fail to resolve."
+  },
+  {
+    "imgs": [
+      "Bruna, Light of Alabaster",
+      "Spirit Link",
+      "Vampiric Link",
+      "Curiosity",
+      "Mesa Enchantress",
+      "Infernal Scarring",
+      "Ashiok's Reaper"
+    ],
+    "q": "</b></span>  I attack with <span class=\"autocard\">Bruna, Light of Alabaster</span>. Which of the following Auras can I successfully move to her when her trigger resolves?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: The <span class=\"autocard\">Spirit Link</span> in my graveyard.<br>\nB: The <span class=\"autocard\">Vampiric Link</span> in my opponent's graveyard.<br>\nC: My <span class=\"autocard\">Curiosity</span> currently attached to my <span class=\"autocard\">Mesa Enchantress</span><br>\nD: My opponent's <span class=\"autocard\">Infernal Scarring</span> currently attached to their <span class=\"autocard\">Ashiok's Reaper</span><br>\nE: More like Bruna, Thief of Alabaster.<br>\n</blockquote><p></p>",
+    "a": "<b>A, C, &amp; D.</b><br>\nBruna can animate Auras from your graveyard, but not your opponent's graveyards. (\"and you may put onto the battlefield attached to it any number of Aura cards that could enchant it from your graveyard and/or hand.\").<br>\n<br>\nBruna can move your and your opponent's Auras to herself. This does not change who controls those Auras. (\"you may attach to it any number of Auras on the battlefield\"). "
+  },
+  {
+    "imgs": [
+      "Doubling Season",
+      "Paradox Zone"
+    ],
+    "q": "</b></span>  Earlier this turn I cast <span class=\"autocard\">Doubling Season</span> followed by <span class=\"autocard\">Paradox Zone</span>. During my end step, how many Fractal creatures will I make and how big will they be?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: You make two 0/0s. One will get four +1/+1 counters.<br>\nB: You make two 0/0s. Both will get four +1/+1 counters.<br>\nC: You make two 0/0s. One will get six +1/+1 counters.<br>\nD: You make two 0/0s. Both will get six +1/+1 counters.<br>\nE: You make two 0/0s. One will get eight +1/+1 counters.<br>\nF: You make two 0/0s. Both will get eight +1/+1 counters.<br>\nG: You make two 0/0s. One will get ten +1/+1 counters.<br>\nH: You make two 0/0s. Both will get ten +1/+1 counters.<br>\nI: You make two 0/0s. One will get twelve +1/+1 counters.<br>\nJ: You make two 0/0s. Both will get twelve +1/+1 counters.<br>\n</blockquote><p></p>",
+    "a": "<b>J.</b><br>\nWhen Paradox Zone entered the battlefield it tried to come in with one growth counter. This got doubled by Doubling Season to two growth counters. At the beginning of the end step, Paradox Zone tries to double its number of growth counters to four, this means adding two counters, this gets doubled to add four counters, ending up with a final result of six growth counters. Then Paradox Zone tries to make one 0/0 Fractal creature, but instead makes two 0/0 Fractal creatures because of Doubling Season. It then tries to add six +1/+1 counters to each of the Fractals. This six +1/+1 counters gets doubled by Doubling Season to twelve +1/+1 counters to each Fractal.<br>\n<br>\nSide Note: <br>\nIf a spell or ability creates more tokens than normal because of Doubling Season (or similar card), and that original ability or spell would modify that token in some way, it will then modify all the tokens it creates in the same way."
+  },
+  {
+    "imgs": [
+      "Rootpath Purifier",
+      "Myriad Landscape",
+      "Island",
+      "Snow-covered Island",
+      "Forest",
+      "Plains",
+      "Sacred Foundry",
+      "Swamp",
+      "Urborg, Tomb of Yawgmoth",
+      "Mountain",
+      "Indatha Triome"
+    ],
+    "q": "</b></span>  I control <span class=\"autocard\">Rootpath Purifier</span>. If I activate <span class=\"autocard\">Myriad Landscape</span> which of the following groups of two lands could I grab with it?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: <span class=\"autocard\">Island</span> and <span class=\"autocard\">Snow-covered Island</span><br>\nB: Two <span class=\"autocard\">Forest</span>s<br>\nC: <span class=\"autocard\">Plains</span> and <span class=\"autocard\">Sacred Foundry</span><br>\nD: <span class=\"autocard\">Swamp</span> and <span class=\"autocard\">Urborg, Tomb of Yawgmoth</span><br>\nE: <span class=\"autocard\">Mountain</span> and <span class=\"autocard\">Indatha Triome</span><br>\n</blockquote><p></p>",
+    "a": "<b>A, B, &amp; C.</b><br>\nMyraid Landscape can get both A &amp; B, even if Rootpath wasn't involved. Both sets are basic lands that share a land type. <br>\n<br>\nRootpath adds basic to each land in your library, including Sacred Foundry, this means Sacred Foundry and Plains are both basic lands with the Plains subtype.<br>\n<br>\nUrborg is only a Swamp when it's on the battlefield, so it doesn't share a land type with a Swamp while it's in the library.<br>\n<br>\nIndatha has three land types, but none of them are Mountain, so answer E is a combo that doesn't work."
+  },
+  {
+    "imgs": [
+      "Bituminous Blast",
+      "Hopeful Eidolon",
+      "Cathartic Reunion",
+      "Blaze"
+    ],
+    "q": "</b></span>  I cast <span class=\"autocard\">Bituminous Blast</span>. Which of the following cards can I cast with Blast's cascade trigger?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: <span class=\"autocard\">Hopeful Eidolon</span> for its bestow cost<br>\nB: <span class=\"autocard\">Cathartic Reunion</span> without having to discard two cards<br>\nC: <span class=\"autocard\">Cathartic Reunion</span> with discarding a card<br>\nD: <span class=\"autocard\">Blaze</span> with <img src=\"/ci-reader/images/symbols/X.png\" class=\"mana\"> equal to 4.<br>\nE: <span class=\"autocard\">Blaze</span> with <img src=\"/ci-reader/images/symbols/X.png\" class=\"mana\"> equal to 50.<br>\nF: <span class=\"autocard\">Blaze</span> with <img src=\"/ci-reader/images/symbols/X.png\" class=\"mana\"> equal to 0.<br>\n</blockquote><p></p>",
+    "a": "<b>C. &amp; F.</b><br>\nCasting for free from cascade is an alternative cost. Only one alternative cost may be used to cast a spell at a time. <br>\n<br>\nBestow is also an alternative cost. This means you can't both cast Eidolon for free and bestow it. You may only cast the Eidolon as a 1/1 creature if you cascade into it.<br>\n<br>\nCathartic Reunion has an additional cost. This additional cost is not optional. You can combine an additional cost with an alternative cost. If you cascade into Cathartic Reunion, you may cast it for free but only if you discard two cards for it additional cost. If you can't or don't want to discard cards to Cathartic Reuninion, you will cast no spell with the cascade and the Reunion will get shuffled to the bottom of your library with any other cards revealed.<br>\n<br>\nIf you cascade into a spell with <img src=\"/ci-reader/images/symbols/X.png\" class=\"mana\"> in its mana cost, you may only choose zero for <img src=\"/ci-reader/images/symbols/X.png\" class=\"mana\">. You don't get to choose any number or some number lower than 5 for <img src=\"/ci-reader/images/symbols/X.png\" class=\"mana\">."
+  },
+  {
+    "imgs": [
+      "Bear Cub",
+      "Black Ward",
+      "Pestilence",
+      "Terror",
+      "Diabolic Edict",
+      "Languish"
+    ],
+    "q": "</b></span>  My only creature, <span class=\"autocard\">Bear Cub</span>, is enchanted with <span class=\"autocard\">Black Ward</span>. Which of the following cards can still get the Bear Cub put into the graveyard?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: <span class=\"autocard\">Pestilence</span><br>\nB: <span class=\"autocard\">Terror</span><br>\nC: <span class=\"autocard\">Diabolic Edict</span><br>\nD: <span class=\"autocard\">Languish</span><br>\nE: I'm glad the 4th edition text of Black Ward made it clear it doesn't remove itself.<br>\n</blockquote><p></p>",
+    "a": "<b>C. &amp; D.</b><br>\nPestilence deals damage, protection from black prevents all damage from black sources.<br>\n<br>\nTerror targets a creature, protection from black makes it so the Bear Cub can't be the target of black spells or abilities.<br>\n<br>\nNeither Diabolic Edict nor Languish deal damage or target the bear cub, so both can get the Bear Cub put into the graveyard (by being sacrificed or for having zero or less toughness, respectively)."
+  }
+]

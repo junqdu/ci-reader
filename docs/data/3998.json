@@ -1,0 +1,107 @@
+[
+  {
+    "imgs": [
+      "Thassa, God of the Sea",
+      "Mind Control"
+    ],
+    "q": "</b></span>  Alex's only non-land permanent is <span class=\"autocard\">Thassa, God of the Sea</span>. Nolan also has a <span class=\"autocard\">Thassa, God of the Sea</span> but does have enough devotion to blue that Thassa is a creature. Alex casts <span class=\"autocard\">Mind Control</span> targeting Nolan's Thassa. Which of the following best describes what will happen when Mind Control resolves?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: Alex gains control of Nolan's Thassa, but before state based actions can be checked, it stops being a creature, and he loses control of it because it's no longer legal for Mind Control to be attached to it. Neither Thassa has to be put into the graveyard.<br>\n<br>\nB: Alex gains control of Nolan's Thassa, state based actions are checked and find that Alex has two legendary permanents with the same name, and also that he controls an Aura attached to something it can't be attached to. Simultaneously, he must put one of the two Thassas <br>\nof his choice in a graveyard and put the Aura in his graveyard.<br>\n<br>\nC:  Alex gains control of Nolan's Thassa, but before state based actions can be checked, it stops being a creature, and he loses control of it because it's no longer legal for Mind Control to be attached to it. Because Alex controlled two legendary permanents with the same name, even briefly, he must now put his Thassa into his graveyard as he has only one by the time state based actions are checked.<br>\n<br>\nD: Alex gains control of Nolan's Thassa, and then state based actions are checked in a specific order. The first relevant one is the legend rule, and Alex chooses which Thassa to put into a graveyard. No matter which he keeps, either way the next relevant state based action to be checked will find an Aura either not attached to a permanent or attached to an illegal one, and that Aura will be placed into his graveyard.<br>\n<br>\nE: Alex steals Thassa's Bident and hightails it out of Theros to the safety of Zendikar.<br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>B.</b> The state based actions are checked all at once and then applied simultaneously.<br>\n<br>\n"
+  },
+  {
+    "imgs": [
+      "Detention Sphere",
+      "Elixir of Immortality",
+      "Wear // Tear"
+    ],
+    "q": "</b></span>   Alan cast's <span class=\"autocard\">Detention Sphere</span> and targets Nathan's <span class=\"autocard\">Elixir of Immortality</span> with its triggered ability. Nathan responds by activating Elixir of Immortality. Not to be outdone, Alan responds by casting the Wear side of <span class=\"autocard\">Wear // Tear</span> on the Elixir of Immortality. Which of the following best describes what happens next?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: Wear destroys Elixir of Immortality, then Elixir's ability resolves shuffling Nathan's graveyard into his library (including the recently destroyed Elixir), Detention Sphere's trigger fails to resolve from lack of target, and the Detention Sphere gets placed into Alan's graveyard.<br>\n<br>\nB: Wear destroys Elixir of Immortality. Then, because the Elixir is in a zone other than the zone the game expects it to be when its ability tries to resolve, the whole ability becomes countered by the rules, and Detention Sphere's trigger fails to resolve from lack of target, and the Detention Sphere gets placed into Alan's graveyard.<br>\n<br>\nC: Alan can't respond to Nathan activating Elixir, as Elixir shuffles itself into Nathan's Library as part of paying its costs.<br>\n<br>\nD: Wear destroys Elixir of Immortality, then Elixir's ability resolves shuffling Nathan's graveyard into his library (including the recently destroyed Elixir), Detention Sphere's trigger fails to resolve from lack of target, but the Sphere stays on the battlefield with nothing exiled by it.<br>\n<br>\nE: Since Nathan has drunk the Elixir of Immortality, Alex can't win. You can't kill an immortal, obviously.<br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>D.</b><br>\n<br>\n"
+  },
+  {
+    "imgs": [
+      "Wavecrash Triton",
+      "Hidden Strings",
+      "Doom Blade",
+      "Breaching Hippocamp"
+    ],
+    "q": "</b></span>  Adrian controls a <span class=\"autocard\">Wavecrash Triton</span> with a <span class=\"autocard\">Hidden Strings</span> encoded onto it. Which of the following situations would trigger its heroic ability?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA:  The Wavecrash deals combat damage to Nigel, and Adrian chooses Wavecrash as Hidden Strings's target but chooses to leave it tapped.<br>\n<br>\nB: Nigel targets Wavecrash with <span class=\"autocard\">Doom Blade</span>.<br>\n<br>\nC: The Wavecrash deals combat damage to Nigel, and Adrian chooses Wavecrash as Hidden Strings's target to become untapped.<br>\n<br>\nD: Adrian targets Wavecrash with <span class=\"autocard\">Doom Blade</span>.<br>\n<br>\nE: Adrian targets Wavecrash with <span class=\"autocard\">Breaching Hippocamp</span>'s ability to untap it.<br>\n<br>\nF: Adrian must pay a fine for not having a fishing license even if he used hidden strings to catch the Wavecrash Triton.<br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>A, C, &amp; D.</b> Heroic triggers only if its controller targets the creature with a spell. In B, the opponent is targeting, and in E, it's an ability that is targeting when it needs to be a spell.<br>\n<br>\n"
+  },
+  {
+    "imgs": [
+      "Protective Sphere",
+      "Scion of the Ur-Dragon",
+      "Draco"
+    ],
+    "q": "</b></span>   Nicole controls <span class=\"autocard\">Protective Sphere</span> and using <img src=\"/ci-reader/images/symbols/R.png\" class=\"mana\"> mana to activate it, chooses <span class=\"autocard\">Scion of the Ur-Dragon</span> as the source to prevent damage from. After this resolves, Aaron activates Scion's ability, and pulls a <span class=\"autocard\">Draco</span> out of his library and puts it into his graveyard, and then attacks Nicole with Scion that is copying Draco. Nicole declares no blockers. Which of the following best describes what happens during the combat damage step?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: Nicole takes 9 damage, as Protective Sphere can only protect from this source if it is red.<br>\n<br>\nB: Nicole takes 9 damage, as Protective Sphere can only protect from a source named Scion of the Ur-Dragon.<br>\n<br>\nC: Nicole takes 9 damage, as Protective Sphere's ability was countered for having an illegal target.<br>\n <br>\nD: The 9 damage is prevented.<br>\n<br>\nE: Nicole takes 9 damage, as the Scion is now a new object.<br>\n<br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>A.</b> Although the Protective Sphere ability resolved on a red source, once the Scion goes to deal damage its checked again to see if it has the correct property to prevent the damage. Since it is no longer red, the damage is not prevented.<br>\n"
+  },
+  {
+    "imgs": [
+      "Island",
+      "Cyclonic Rift",
+      "Trinisphere",
+      "Spell Snare",
+      "Spell Blast",
+      "Defense Grid",
+      "Gaddock Teeg"
+    ],
+    "q": "</b></span>  It's currently Amber's turn and Noah has enough untapped <span class=\"autocard\">Island</span>s to make seven <img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\"> mana. Which of the following situations could be used to prevent Noah from overloading <span class=\"autocard\">Cyclonic Rift</span> or cause an overloaded Cyclonic Rift to be countered? \n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: Amber controls a <span class=\"autocard\">Trinisphere</span>.<br>\n<br>\nB: Amber casts <span class=\"autocard\">Spell Snare</span> targeting Cyclonic Rift.<br>\n<br>\nC: Amber casts <span class=\"autocard\">Spell Blast</span> with X=7 targeting Cyclonic Rift.<br>\n<br>\nD: Amber controls a <span class=\"autocard\">Defense Grid</span>.<br>\n<br>\nE: Amber controls a <span class=\"autocard\">Gaddock Teeg</span>.<br>\n<br>\nF: I remember when it was Converted Mana Cost. These youngins' and their newfangled Mana Value.<br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>B &amp; D.</b> Spell Blast, Spell Snare, and Teeg all ask for the mana value of the spell. No matter how you cast a spell, its mana value is based on the mana cost located in the upper right. X in the mana cost when on the stack counts as what was chosen for it, when not on the stack X counts as 0. Spell Blast was illegally cast in this situation. Trinisphere, unlike the previous three, cares how much mana was paid to cast the spell, and since 7 is greater than 3, no problem here. Defense Grid should be obvious, it's the opponents turn and Noah doesn't have the extra 3 mana.<br>\n<br>\n"
+  },
+  {
+    "imgs": [
+      "Aetherling",
+      "Whip of Erebos",
+      "Stifle",
+      "Boomerang",
+      "Reality Ripple",
+      "Time Stop"
+    ],
+    "q": "</b></span>  Axel brought his <span class=\"autocard\">Aetherling</span> onto the battlefield earlier in the turn by activating his <span class=\"autocard\">Whip of Erebos</span>. Which of the following, if any, would prevent the Aetherling from being permanently exiled this turn?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: <span class=\"autocard\">Stifle</span>ing the Whip's delayed trigger at the beginning of the end step.<br>\n<br>\nB: Activating the Aetherling's first ability before it gets exiled by Whip's delayed trigger.<br>\n<br>\nC:  <span class=\"autocard\">Boomerang</span>ing the Aetherling before it gets exiled by Whip's delayed trigger.<br>\n<br>\nD: Phasing it out with <span class=\"autocard\">Reality Ripple</span> before it gets exiled by Whip's delayed trigger.<br>\n<br>\nE: Casting <span class=\"autocard\">Time Stop</span> with Whip's delayed trigger on the stack.[/list]<br>\n<br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>A, B, D, &amp; E.</b> So A, D, &amp; E each get past the delayed trigger that would permanently exile Aetherling at the end of the turn, but if at any point later in the game the Aetherling goes to a zone other than exile, it would still get permanently exiled. B not only gets around the delayed trigger, but makes Aetherling a new object, so if it dies later, it would go to the graveyard. It cheats around the Whip's replacement effect because it only replaces leaving the battlefield if it goes to somewhere <i>other</i> than the exile zone.<br>\n<br>\n"
+  },
+  {
+    "imgs": [
+      "Nighthowler",
+      "Borderland Minotaur",
+      "Aurelia's Fury",
+      "Negate",
+      "Essence Scatter",
+      "Murder",
+      "Gaddock Teeg"
+    ],
+    "q": "</b></span>  Abbie wants to bestow her <span class=\"autocard\">Nighthowler</span> on her <span class=\"autocard\">Borderland Minotaur</span>. Which of the following would prevent her from casting it for its bestow cost, or could be used to counter the Nighthowler if she casts it for its bestow cost?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: Norton injured Abbie with an <span class=\"autocard\">Aurelia's Fury</span> earlier in the turn.<br>\n<br>\nB: Norton casts <span class=\"autocard\">Negate</span> targeting Nighthowler.<br>\n<br>\nC: Norton casts <span class=\"autocard\">Essence Scatter</span> targeting Nighthowler.<br>\n<br>\nD: Norton <span class=\"autocard\">Murder</span>s the Borderland Minotaur, in response to Abbie targeting it with a bestowed Nighthowler.<br>\n<br>\nE: Norton controls a <span class=\"autocard\">Gaddock Teeg</span>.<br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>A &amp; B.</b> <br>\nAurelia's Fury doesn't stop a bestow creature from being cast as a a creature, but does stop it from being bestowed. Nighthowler's mana value is 3 even when it's bestowed, so Teeg never stops Nighthowler. By the time a Nighthowler is fully cast for its bestow cost, it's only an enchantment spell, and since no player can get priority until a spell is fully cast, you can only Negate but not Essence Scatter it, as it's no longer a creature spell. Most Auras that lose their target while on the stack get countered, but bestow cards have a special rule that lets them enter the battlefield as a creature if they lose their target.<br>\n<br>\n"
+  },
+  {
+    "imgs": [
+      "Stillmoon Cavalier",
+      "Supreme Verdict",
+      "Far // Away",
+      "Lavalanche"
+    ],
+    "q": "</b></span>  Nancy controls a 1/1 Soldier token, <span class=\"autocard\">Stillmoon Cavalier</span>, and no other creatures. Which of the following can Albert use to get the Cavalier off the battlefield?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: <span class=\"autocard\">Supreme Verdict</span>.<br>\n<br>\nB: A fused <span class=\"autocard\">Far // Away</span> targeting Cavalier. <br>\n<br>\nC: A fused Far // Away targeting the Soldier token.<br>\n <br>\nD: <span class=\"autocard\">Lavalanche</span> with X=4 targeting Nancy.<br>\n<br>\nE: Just the Far side of Far // Away targeting Cavalier.<br>\n<br>\nF: If your name is Ichabod, just run away from this headless Cavalier.<br>\n<br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>A, C, &amp; E.</b> Protection grants four small benefits: 1) Prevent damage from things with Quality, 2) Can't be targeted by things with Quality, 3) Can't be blocked by creatures with Quality, and 4) Can't have things attached with Quality. A &amp; C have the correct quality, but they neither target nor deal damage to the Cavalier, so they can ship him to the graveyard. E does target but doesn't have the quality (white or black). B has the quality and targets, so this is an illegally cast spell. D has the quality, is legally cast, but its damage to the Cavalier will get prevented. Note: A fused split card is the colors of both sides. A split card that is not fused is only the color or colors of the side that was cast.<br>\n<br>\n"
+  },
+  {
+    "imgs": [
+      "Ghor-Clan Rampager",
+      "Essence Scatter",
+      "Stifle",
+      "Pithing Needle",
+      "Esper Charm"
+    ],
+    "q": "</b></span>  Amber has only a <span class=\"autocard\">Ghor-Clan Rampager</span> in her hand and is attacking with a 1/1 Goblin token. Which of the following would Natasha be able to use to prevent Amber from bloodrushing the Rampager onto the Hoblin or to prevent the Goblin from dealing more than 1 combat damage this turn?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA: Natasha casts <span class=\"autocard\">Essence Scatter</span> targeting Ghor-Clan Rampager, when Amber bloodrushes it.<br>\n<br>\nB: Natasha casts <span class=\"autocard\">Stifle</span> targeting Ghor-Clan Rampager, when Amber bloodrushes it.<br>\n<br>\nC: Natasha had cast <span class=\"autocard\">Pithing Needle</span> the turn before, naming Ghor-Clan Rampager.<br>\n<br>\nD: Natasha casts <span class=\"autocard\">Esper Charm</span> targeting Amber with the discard two cards mode, before Amber has tried to bloodrush onto the Goblin.<br>\n<br>\nE: Natasha casts Esper Charm targeting Amber with the discard two cards mode, after Amber has tried to bloodrush onto the Goblin, but before bloodrush has resolved.<br>\n<br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>B &amp; C.</b> Bloodrush is an activated ability, not a spell, which means it can be stifled, but not Essence Scattered. Pithing Needle stops abilities from being activated by sources with the chosen name no matter what zone they are activated from. With Esper charm, if a player waits until after the bloodrush cost has been paid, the Ghor-Clan Rampager is no longer in the opponent's hand, so it's too late. if a player tries to cast Esper Charm before the opponent bloodrushes, but while there is a creature attacking, the opponent can just bloodrush in response to the Charm. <br>\n<br>\n"
+  },
+  {
+    "imgs": [
+      "Experiment One",
+      "Burning-Tree Emissary",
+      "Gore-House Chainwalker",
+      "Ambiguity"
+    ],
+    "q": "</b></span>  Abraham controls an <span class=\"autocard\">Experiment One</span> with no counters on it. He then casts <span class=\"autocard\">Burning-Tree Emissary</span>, and with the mana from the Burning-Tree Emissary unleashes a <span class=\"autocard\">Gore-House Chainwalker</span>. Which of the following describes correctly how many counters the Experiment One can gain this turn?\n<br>\n<b>A:</b>  The answer is...<br>\n<blockquote><br>\nA:  One counter, because the Gore-House enters as a 2/1 and then gets a +1/+1 counter.<br>\n<br>\nB: Two counters, because it first gains one counter from Burning-Tree, then another counter from the Gore-House.<br>\n<br>\nC: One or two counters, because both triggers are put on the stack at the same time, so Abraham can choose the order they are put on the stack. Gore-House first will give two counters, and Burning-Tree first will give only one counter.<br>\n<br>\nD: At least this question is easier to understand than <span class=\"autocard\">Ambiguity</span>.<br>\n</blockquote><br>\n<br>\n<p></p>",
+    "a": "<b>B.</b> Because a player can't usually cast a creature until the stack is empty, the trigger caused by Burning-Tree will give Experiment One a counter before Abraham can even attempt to cast the Gore-House. The Gore-House will enter with its unleashed counter, so the Experiment One will get its second counter.<br>\n<br>\n"
+  }
+]

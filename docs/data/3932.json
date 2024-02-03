@@ -1,0 +1,144 @@
+[
+  {
+    "imgs": [
+      "Isu the Abominable"
+    ],
+    "q": "Are there any limitations to when I can look at the top card of my library with <span class=\"autocard\">Isu the Abominable</span>? Let's say something happens that triggers multiple abilities, can I look at the top card before deciding the order in which they go on the stack?",
+    "a": "There are almost no limitations to when you can take advantage of Isu's ability. The only time you're not allowed to look at the top card of your library is if the top card changes during the process of casting a spell or activating an ability, which can happen with certain mana abilities that include a card draw. In such situations, which in my experience happen more often in theoretical \"stump the judge\" questions than in actual games, you're not allowed to look at the new top card until after the process of casting the spell or activating the ability is done. Apart from this narrow exception, \"any time\" means exactly that. In particular, you can look at the top card of your library before you decide the order in which you put multiple triggered abilities on the stack."
+  },
+  {
+    "imgs": [
+      "King Darien XLVIII",
+      "Bear Umbra"
+    ],
+    "q": "If I enchant <span class=\"autocard\">King Darien XLVIII</span> with <span class=\"autocard\">Bear Umbra</span>, can I sacrifice him to his ability and get him back with the totem armor effect?",
+    "a": "No, that's not how totem armor works. For one, totem armor doesn't bring back a creature that just died; it stops the creature from dying in the first place. For another, the totem armor effect only kicks in if the creature would be destroyed, either by having lethal damage marked on it or by effects that use the word \"destroy\". While a sacrifice has visually the same end result as destruction, it's not the same action as destruction, so totem armor doesn't do anything about the enchanted creature being sacrificed."
+  },
+  {
+    "imgs": [
+      "Nullmage Shepherd"
+    ],
+    "q": "Can I tap a creature with summoning sickness to activate <span class=\"autocard\">Nullmage Shepherd</span>'s ability?",
+    "a": "Absolutely. The summoning sickness rule only applies to declaring a creature as an attacker and to activating its activated abilities that include <img src=\"/ci-reader/images/symbols/T.png\" class=\"mana\"> (or <img src=\"/ci-reader/images/symbols/Q.png\" class=\"mana\">) in their cost. Tapping a random untapped creature to help pay for Nullmage Shepherd's ability is neither of those, so the summoning sickness rule has no problem with it."
+  },
+  {
+    "imgs": [
+      "Imoti, Celebrant of Bounty",
+      "Aurora Phoenix",
+      "Wretched Gryff"
+    ],
+    "q": "Let's say I control <span class=\"autocard\">Imoti, Celebrant of Bounty</span> and <span class=\"autocard\">Aurora Phoenix</span>, and I sacrifice Aurora Phoenix to cast <span class=\"autocard\">Wretched Gryff</span> for its emerge cost. Does Aurora Phoenix see that I'm casting a spell with cascade and return itself to my hand?",
+    "a": "It does! Aurora Phoenix's ability checks what happened after you've finished the process of casting Wretched Gryff, including paying its total cost. Since you sacrificed Aurora Phoenix as part of the total cost, it's in the graveyard at that time, and Wretched Gryff has cascade because Imoti gave it cascade as soon as you put it on the stack."
+  },
+  {
+    "imgs": [
+      "Pyromancer's Gauntlet",
+      "Furnace of Rath",
+      "Lightning Bolt"
+    ],
+    "q": "If I control <span class=\"autocard\">Pyromancer's Gauntlet</span> and <span class=\"autocard\">Furnace of Rath</span>, how much damage does my <span class=\"autocard\">Lightning Bolt</span> do to my opponent?",
+    "a": "That's up to your opponent. There are two replacement effects that want to change how your opponent will be affected by the resolving Lightning Bolt. As the affected player, your opponent chooses one to apply first. After the first effect has been applied, the other effect is still applicable and gets applied, and then the event happens. If your opponent chooses the Gauntlets first, they'll be dealt 10 damage. If they choose the Furnace first, they'll be dealt \"only\" 8 damage."
+  },
+  {
+    "imgs": [
+      "Vesuva",
+      "Primeval Titan"
+    ],
+    "q": "If <span class=\"autocard\">Vesuva</span> and another land enter the battlefield at the same time, for example due to <span class=\"autocard\">Primeval Titan</span>'s ability, can Vesuva copy the other land?",
+    "a": "No. Vesuva creates a replacement effect that changes how it enters the battlefield, so this replacement effect gets applied immediately before Vesuva enters the battlefield. At the time this effect gets applied, neither Vesuva nor the other land have entered the battlefield yet, so you can't choose to copy the other land."
+  },
+  {
+    "imgs": [
+      "Prodigal Pyromancer"
+    ],
+    "q": "Can my opponent activate an ability like <span class=\"autocard\">Prodigal Pyromancer</span>'s ability during my upkeep even if there's no trigger for them to respond to?",
+    "a": "Sure, they can do that. After the game has determined that there are no triggered abilities to put on the stack, you get priority first because you're the active player. If you don't want to (or need to) do anything in your upkeep, you'll simply pass priority to your opponent. If they also pass, the game moves on to the main phase, but instead of passing they can take an action such as activating their Pyromancer."
+  },
+  {
+    "imgs": [
+      "Snow-Covered Swamp",
+      "Cabal Stronghold"
+    ],
+    "q": "I'm playing a mono-black Commander deck with <span class=\"autocard\">Snow-Covered Swamp</span>s, and I'm using <span class=\"autocard\">Cabal Stronghold</span>'s ability. My opponent claims it does nothing because Snow-Covered Swamps don't count as basic Swamps. Is that correct?",
+    "a": "No, that is incorrect. In order to be a basic Swamp, a land needs two things: It needs to have the supertype \"basic\", and it needs to have the land type \"Swamp\". Snow-Covered Swamp has both things, so it is in fact a basic Swamp."
+  },
+  {
+    "imgs": [
+      "Bag of Holding"
+    ],
+    "q": "If my opponent sacrifices their <span class=\"autocard\">Bag of Holding</span> during my turn for a bunch of cards, do they have to discard down to seven cards at the end of my turn?",
+    "a": "No, they have until the end of their own turn. Players discard down to their hand size during the cleanup steps of their own turns. At any other times, there is no limit to the number of cards in their hand."
+  },
+  {
+    "imgs": [
+      "Urza's Incubator",
+      "Trinisphere"
+    ],
+    "q": "Does <span class=\"autocard\">Urza's Incubator</span>'s effect reduce commander tax?",
+    "a": "In a way, yes. Urza's Incubator's effect is a cost reduction effect that gets applied while you're calculating the total cost for a spell. This calculation starts with the mana cost or alternative cost, then you add any applicable additional costs and cost increases, and finally you subtract any applicable cost reductions. (If there's a <span class=\"autocard\">Trinisphere</span>, it might say \"well, actually...\" after that final step, but that's not the point here.) Urza's Incubator subtracts <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"> from whatever the total cost is at that step in the calculation, so it can neatly offset the <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"> commander tax for having cast your commander from the command zone once before."
+  },
+  {
+    "imgs": [
+      "Urza's Incubator",
+      "Deceiver of Form"
+    ],
+    "q": "If I choose Eldrazi for <span class=\"autocard\">Urza's Incubator</span>, does it reduce <span class=\"autocard\">Deceiver of Form</span>'s cost to <img src=\"/ci-reader/images/symbols/5.png\" class=\"mana\">?",
+    "a": "No. The reduction of <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"> is applied to the generic portion of the cost. The <img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\"> in Deceiver of Form's mana cost is not a generic cost; it is a cost that must be paid with colorless mana. The actual cost after applying Urza's Incubator is <img src=\"/ci-reader/images/symbols/4.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\">."
+  },
+  {
+    "imgs": [
+      "Arcane Denial",
+      "Titania, Voice of Gaea",
+      "Argoth, Sanctum of Nature",
+      "Titania, Gaea Incarnate",
+      "Stifle"
+    ],
+    "q": "Can <span class=\"autocard\">Arcane Denial</span> counter the melding of <span class=\"autocard\">Titania, Voice of Gaea</span> and <span class=\"autocard\">Argoth, Sanctum of Nature</span> into <span class=\"autocard\">Titania, Gaea Incarnate</span>?",
+    "a": "No. Exiling the two cards and returning them melded as Titania is not a spell, so nothing that counters spells can meddle with meld. However, you could use something like <span class=\"autocard\">Stifle</span> to counter the triggered ability that causes the melding."
+  },
+  {
+    "imgs": [
+      "Doubling Season",
+      "The Ozolith"
+    ],
+    "q": "If I control <span class=\"autocard\">Doubling Season</span>, do counters get doubled as they move from <span class=\"autocard\">The Ozolith</span> to another creature?",
+    "a": "Absolutely. To move counters from one permanent to another means to take them from the permanent they're on and to put them onto the other permanent. Doubling Season recognizes the event of putting the counters onto the other creature and doubles each kind of counter that's being moved."
+  },
+  {
+    "imgs": [
+      "Omnath, Locus of Rage",
+      "Selesnya Charm"
+    ],
+    "q": "If my opponent plays <span class=\"autocard\">Omnath, Locus of Rage</span>, can I exile it with <span class=\"autocard\">Selesnya Charm</span> before they get the chance to play a land and get a <i>landfall</i> trigger?",
+    "a": "Probably not. After Omnath has resolved, your opponent gets priority back first because they are the active player. Unless some triggered ability got triggered by Omnath entering the battlefield, your opponent has priority, it's their main phase, and the stack is empty, which means they meet all the conditions they need to play a land."
+  },
+  {
+    "imgs": [
+      "Chandra, Awakened Inferno"
+    ],
+    "q": "Who controls the emblems that <span class=\"autocard\">Chandra, Awakened Inferno</span> gives to my opponents?",
+    "a": "Each opponent who gets the emblem is its owner and its controller, even though you controlled the activated ability whose resolution caused your opponents to get the emblems. Because they're the emblem's controller, they are the \"you\" in the emblem's ability who are dealt the damage. Also, in a multiplayer game the emblems stick around even if you leave the game because your opponents are the emblems' owners, so they'll continue to enjoy Chandra's warm embrace."
+  },
+  {
+    "imgs": [],
+    "q": "I attack with a 3/3 with double strike and my opponent blocks it with a vanilla 1/1. Does my 3/3 deal damage to my opponent in the second combat damage step?",
+    "a": "Nope. Even though the 1/1 died in the first combat damage step, your 3/3 is still blocked. Unless it has trample, it won't deal any combat damage at all in the second combat damage step. If it helps, imagine that it wildly swings at the air where the 1/1 used to be."
+  },
+  {
+    "imgs": [
+      "Identity Thief",
+      "Runeclaw Bear",
+      "Clone"
+    ],
+    "q": "<span class=\"autocard\">Identity Thief</span> attacks and becomes a copy of <span class=\"autocard\">Runeclaw Bear</span>. If I <span class=\"autocard\">Clone</span> the Identity Thief that's currently a Bear, what happens to the Clone at the end of the turn when Identity Thief returns to being a Identity Thief?",
+    "a": "The Clone remains a copy of Runeclaw Bear. When the Clone copied the Bear, it took on the copiable values of a Runeclaw Bear, which are just the characteristics that are printed on Runeclaw Bear. The fact that the original reverts to another shape at the end of the turn is not getting copied by the Clone."
+  },
+  {
+    "imgs": [
+      "Radha, Heir to Keld",
+      "Hellkite Charger"
+    ],
+    "q": "Can I use the red mana from <span class=\"autocard\">Radha, Heir to Keld</span>'s ability to help pay for <span class=\"autocard\">Hellkite Charger</span>'s ability?",
+    "a": "Sure, provided that you put the abilities on the stack in the right order. You need to put Radha's ability on the stack last so that it resolves first. When the ability resolves, it adds <img src=\"/ci-reader/images/symbols/R.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/R.png\" class=\"mana\"> to your mana pool, so it's available for you to use when Hellkite Charger's ability asks you if you want to pay <img src=\"/ci-reader/images/symbols/5.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/R.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/R.png\" class=\"mana\">."
+  }
+]

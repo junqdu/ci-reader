@@ -1,0 +1,162 @@
+[
+  {
+    "imgs": [
+      "Drift of Phantasms",
+      "Chord of Calling"
+    ],
+    "q": "If I transmute my <span class=\"autocard\">Drift of Phantasms</span>, can I search my library for <span class=\"autocard\">Chord of Calling</span>?",
+    "a": "Yep, you can. Anywhere but the stack, an X in the cost is 0. The mana value of the Chord of Calling in your library is 3, and Drift of Phantasms' mana value is also 3, so you can transmute your Drift of Phantasms into a Chord of Calling.\n<br>"
+  },
+  {
+    "imgs": [
+      "Truefire Captain",
+      "Wojek Bodyguard",
+      "Tajic, Legion's Edge"
+    ],
+    "q": "I attack with <span class=\"autocard\">Truefire Captain</span>, <span class=\"autocard\">Wojek Bodyguard</span>, and <span class=\"autocard\">Tajic, Legion's Edge</span>. Can I stack my mentor triggers so the Bodyguard gets a +1/+1 counter from the Captain's mentor trigger, then my Bodyguard can target and give Tajic a +1/+1 counter with its mentor trigger?",
+    "a": "Sorry, that won't work. When you attack with your creatures with mentor, you have to choose a target creature with a lesser power than the creature with mentor as you're putting the trigger on the stack. The 4 powered Truefire Captain can target either the Bodyguard or Tajic with its mentor trigger, but since both the Bodyguard and Tajic both have a power of 3, they can't target each other with their mentor trigger. The Captain would be able to give a counter to Wojek Bodyguard, but the Bodyguard won't be able to target Tajic with its mentor trigger and won't be able to give Tajic a counter.\n<br>"
+  },
+  {
+    "imgs": [
+      "Wasteland Viper",
+      "Gather Courage"
+    ],
+    "q": "If I just cast a <span class=\"autocard\">Wasteland Viper</span>, could I tap it for convoke to cast <span class=\"autocard\">Gather Courage</span>?",
+    "a": "Yes you can! \"Summoning sickness\" only prevents the creature from attacking and using abilities with the tap symbol. It can still be tapped in other ways, like convoke. Even if you just cast the Viper, you can tap it to help pay for a convoke spell.\n<br>"
+  },
+  {
+    "imgs": [
+      "Ghostway",
+      "Crocanura",
+      "Drudge Beetle"
+    ],
+    "q": "I cast <span class=\"autocard\">Ghostway</span>, and at the end of my turn, I have <span class=\"autocard\">Crocanura</span> and two <span class=\"autocard\">Drudge Beetle</span> entering the battlefield. How many counters will Crocanura get?",
+    "a": "Only one counter. Crocanura will see the two Beetles entering the battlefield at the same time as itself, and since they both have a greater power than Crocanura, its evolve ability will trigger two times. However, when the evolve trigger goes to resolve, it checks again to make sure that new creature still has a greater power than Crocanura. \nWhen the first trigger resolves, the 1/3 Crocanura sees the 2/2 Drudge  Beetle has a greater power, so Crocanura gets a +1/+1 counter and becomes a 2/4. But when the second evolve trigger resolves, the 2/4 Crocanura sees the 2/2 Beetle doesn't have a greater power or toughness than Crocanura anymore, so the second trigger does nothing, and Crocanura does not get a second +1/+1 counter.\n<br>"
+  },
+  {
+    "imgs": [
+      "Sharktocrab",
+      "Simic Guildmage"
+    ],
+    "q": "I have a <span class=\"autocard\">Sharktocrab</span> with a +1/+1 counter on it. If I use <span class=\"autocard\">Simic Guildmage</span> to remove that counter, could I activate the adapt ability of Sharktocrab again and give it a new counter?",
+    "a": "Sure, you can do that. For the adapt ability to add a +1/+1 counter when it resolves, Sharktocrab can't have any +1/+1 counters on it. If you move the counter from Sharktocrab to another creature, or remove the counter from Sharktocrab in another way, since it has no +1/+1 counters on it, you're free to adapt it again and give it another +1/+1 counter (and trigger its ability again)."
+  },
+  {
+    "imgs": [
+      "Simic Guildmage"
+    ],
+    "q": "What if I use <span class=\"autocard\">Simic Guildmage</span> to move a counter from something else to Sharktocrab? Will I get to tap an opponent's creature?",
+    "a": "Yep, that also works. Sharktocrab's ability works any time you put one or more +1/+1 counters on it, not just from its adapt ability. If you put counters on it in other ways, like moving a counter from another creature to Sharktocrab with the Guildmage's ability, you'll trigger the last ability of Sharktocrab.\n<br>"
+  },
+  {
+    "imgs": [
+      "Eyes in the Skies"
+    ],
+    "q": "If I cast <span class=\"autocard\">Eyes in the Skies</span>, can I populate the Bird token I just created?",
+    "a": "Yep, you can do that. Populate doesn't target the token you copy - you just choose a creature token you control that you want to copy when you're instructed to populate. Since you create the Bird token first, that Bird token can be chosen for populate and you can create a second Bird token (or copy any other creature token you control).\n<br>"
+  },
+  {
+    "imgs": [
+      "Bruvac the Grandiloquent",
+      "Greater Mossdog"
+    ],
+    "q": "If I control <span class=\"autocard\">Bruvac the Grandiloquent</span> and my opponent has a <span class=\"autocard\">Greater Mossdog</span> in their graveyard, if they want to dredge it back to their hand, how many cards will they mill?",
+    "a": "Six cards. Bruvac applies anytime an opponent would mill from their library, and dredge has the player mill that many cards from their library to put the dredge card into their hand. Greater Mossdog has dredge 3, so to return the Mossdog to their hand, they would mill three cards, but because of your Bruvac, they'll end up having to mill six cards instead.\n<br>"
+  },
+  {
+    "imgs": [
+      "Rhythm of the Wild",
+      "Burning-Tree Vandal"
+    ],
+    "q": "If I have <span class=\"autocard\">Rhythm of the Wild</span> in play and cast <span class=\"autocard\">Burning-Tree Vandal</span>, what happens? Can I have it enter with a +1/+1 counter and haste?",
+    "a": "Yep, you can do that. Since the Vandal has multiple instances of riot, each will apply as it enters, and you can make different choices each time. You can choose for the Vandal to enter with a +1/+1 and haste, or two +1/+1 counters, or even two instances of haste. That last choice probably isn't worth it though - two instances of haste are redundant and don't do anything useful.\n<br>"
+  },
+  {
+    "imgs": [
+      "Plaguecrafter",
+      "Liliana, Dreadhorde General"
+    ],
+    "q": "If my opponent plays a <span class=\"autocard\">Plaguecrafter</span>, can I choose to discard instead of sacrificing my <span class=\"autocard\">Liliana, Dreadhorde General</span>?",
+    "a": "You cannot. You have to sacrifice a creature or planeswalker if able. You only discard if you don't have a creature or planeswalker to sacrifice. If Liliana is the only creature or planeswalker you control, you must choose to sacrifice it - you can't discard a card instead of sacrificing Liliana.\n<br>"
+  },
+  {
+    "imgs": [
+      "Basilica Guards",
+      "Arrester's Zeal"
+    ],
+    "q": "If I control <span class=\"autocard\">Basilica Guards</span> and cast a spell, can I pay the extort cost multiple times? For example, if I have four white mana, can I cast <span class=\"autocard\">Arrester's Zeal</span> and extort three times to make my opponent lose 3 life and I gain 3 life?",
+    "a": "No, that doesn't work. Extort is triggered ability, and when that trigger resolves, you can choose to pay <img src=\"/ci-reader/images/symbols/B.png\" class=\"mana\"> or <img src=\"/ci-reader/images/symbols/W.png\" class=\"mana\"> once. You can't choose to pay multiple times since you can only pay once per extort trigger. If you want to be able to drain your opponent for more, you'll need to either cast multiple spells or have multiple permanents with extort in play.\n<br>"
+  },
+  {
+    "imgs": [
+      "Leapfrog",
+      "Mausoleum Turnkey",
+      "Radical Idea"
+    ],
+    "q": "I attack with <span class=\"autocard\">Leapfrog</span> and my opponent blocks with a <span class=\"autocard\">Mausoleum Turnkey</span>. If I cast <span class=\"autocard\">Radical Idea</span> so my Leapfrog gains flying, what happens?",
+    "a": "Both Leapfrog and the Turnkey will die. Giving your Leapfrog flying after blockers are declared won't undo a block that's already been made, so even though Leapfrog now has flying, it's still blocked by the Turnkey and they'll still deal damage to each other like normal. They'll each deal 3 damage to each other and both creatures will die.\n<br>"
+  },
+  {
+    "imgs": [
+      "Dark Confidant",
+      "Bedeck // Bedazzle"
+    ],
+    "q": "If I have a <span class=\"autocard\">Dark Confidant</span> in play, and I reveal <span class=\"autocard\">Bedeck // Bedazzle</span>, how much life will I lose?",
+    "a": "You're going to lose a very painful 8 life. Anywhere but the stack, the mana value of a split card is the sum of the two sides. The sum of the two sides of Bedeck // Bedazzle  is 8 (2+6), so revealing it to the Confidant trigger means you'll lose 8 life.\n<br>"
+  },
+  {
+    "imgs": [
+      "Concoct",
+      "Deathrite Shaman"
+    ],
+    "q": "I cast <span class=\"autocard\">Concoct</span>. Can my opponent wait to see what creature I target to return, then exile it with <span class=\"autocard\">Deathrite Shaman</span>'s ability?",
+    "a": "They cannot, for one important reason - Concoct doesn't target the creature card in your graveyard. You choose a creature to return in the middle of the spell resolving, after you've surveilled 3. Your opponent can respond to the spell by removing a possible choice, but they can't interact in the middle of the spell resolving (which also means that you can surveil a creature card into the graveyard, then return that creature to the battlefield as part of Concoct resolving).\n<br>"
+  },
+  {
+    "imgs": [
+      "Izzet Charm",
+      "Izzet Guildmage"
+    ],
+    "q": "If I cast <span class=\"autocard\">Izzet Charm</span> with the first mode chosen, can I copy it with <span class=\"autocard\">Izzet Guildmage</span> and choose the second mode for the copy?",
+    "a": "Copy it? Sure. Choose a different mode? No, that doesn't work. The copy has the same mode chosen as the original spell. You can't choose a different mode for the copy. Since the original spell was cast with the first mode chosen, the copy will also have the first mode chosen.\n<br>"
+  },
+  {
+    "imgs": [
+      "Izzet Charm",
+      "Arclight Phoenix"
+    ],
+    "q": "I cast two instants, then I cast <span class=\"autocard\">Izzet Charm</span> with the last mode chosen, and one of the cards I discarded is <span class=\"autocard\">Arclight Phoenix</span>. If I move to combat, will my Phoenix return to the battlefield?",
+    "a": "Yep, you'll get it back. The Phoenix doesn't need to be in the graveyard when you cast all three instant and/or sorcery spells. It will know about spells that were cast before it entered the graveyard. So you can start casting your instant and sorcery spells, and as long as the Phoenix ends up in the graveyard before your combat phase begins, it will trigger as long as you've cast three or more instant and/or sorcery spells that turn.\n<br>"
+  },
+  {
+    "imgs": [
+      "Revival // Revenge",
+      "Karlov of the Ghost Council"
+    ],
+    "q": "If I cast the Revenge half of <span class=\"autocard\">Revival // Revenge</span> and double my life total, will that cause my <span class=\"autocard\">Karlov of the Ghost Council</span> to trigger?",
+    "a": "Yes it will! Assuming you have a positive life total, doubling your life total counts as you gaining life. Doubling your life total will cause Karlov to trigger. But no matter how much life you gained, Karlov will only get two +1/+1 counters, not counters for each point of life you gained.\n<br>"
+  },
+  {
+    "imgs": [
+      "Midnight Reaper",
+      "Orzhov Enforcer"
+    ],
+    "q": "I have a <span class=\"autocard\">Midnight Reaper</span> in play along with <span class=\"autocard\">Orzhov Enforcer</span>. My opponent attacks, and I block with both of my creatures and both die. How many Midnight Reaper triggers do I get?",
+    "a": "You get two triggers. The Reaper sees itself and Orzhov Enforcer both dying, and it will trigger for both creature. It doesn't matter that the Reaper is dying at the same time as the Enforcer, it sees the Enforcer dying alongside the Reaper and you'll draw two cards and lose two life.\n<br>"
+  },
+  {
+    "imgs": [
+      "Azorius Arrester",
+      "Golgari Guildmage"
+    ],
+    "q": "I'm in a multiplayer game, and I cast <span class=\"autocard\">Azorius Arrester</span> to detain my opponent's <span class=\"autocard\">Golgari Guildmage</span>. But before my next turn, I lose the game. What happens to my opponent's Guildmage? Is it detained forever? Or can they activate the Guildmage's ability as soon as I leave the game?",
+    "a": "Neither. The detain effect from your Arrester doesn't end immediately when you leave the game. The effect will continue to apply until when your next turn would have started, then the effect ends and the Guildmage is no longer detained. Your opponent is going to have to wait for a little bit longer before they're able to activate the Guildmage's ability again, but they will get that chance.\n<br>"
+  },
+  {
+    "imgs": [
+      "Sinister Sabotage"
+    ],
+    "q": "I'm in a draft at my local store, and I countered my opponent's spell on their turn with <span class=\"autocard\">Sinister Sabotage</span>. On my next upkeep, I realize I forgot to surveil. Do I get to surveil now?",
+    "a": "Nope. We actually have a tournament shortcut set up for this kind of situation. If you're instructed to scry or surveil but forgot to, we assume that you did, but choose not to look at the card and left the card on top of your library. You don't get to surveil now. So the fix is that nothing happens since we assumed you did surveil at the proper time and choose to leave it on top of your library."
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "imgs": [],
+    "q": "Judge, where is my event?",
+    "a": "This was by far the question I was asked the most over the weekend. Each time I was asked this question I would do two things, ask the player to load up the event on their <b>Magic</b> Companion app, and check if a color was in the name of the event. This indicated what color zone they would need to be in, and I would verify on a Google document I had for the zone and time of the event. I would direct them to that zone and tell them to regularly check the app, as once the event started it would give them a table number to sit at."
+  },
+  {
+    "imgs": [
+      "Street Wraith"
+    ],
+    "q": "Judge, can my opponents block my attacking <span class=\"autocard\">Street Wraith</span> if only one of them has a Swamp?",
+    "a": "Depends if you want them to have the option. In Two-Headed Giant, when you attack with a creature, you do have to choose which player you are attacking. Normally, either player can block, but with swampwalk (or any other landwalk ability) if you choose to attack the player that controls a Swamp, then neither player can block. If you choose to attack a player that doesn't have a Swamp, then either player can block. Yes, that does mean a creature controlled by an opponent controlling a Swamp can block a swampwalk creature if you choose to attack the player that has no Swamps."
+  },
+  {
+    "imgs": [
+      "No Mercy",
+      "Windborn Muse",
+      "Crawlspace"
+    ],
+    "q": "Judge, I have  <span class=\"autocard\">No Mercy</span> (or <span class=\"autocard\">Windborn Muse</span> or <span class=\"autocard\">Crawlspace</span>) in my Two-Headed Giant sealed pool. Are these cards good or really bad in this format?",
+    "a": "All three of these are rather bad in Two-Headed Giant. Opponents can choose to attack the player that doesn't control these to avoid their negative effects. Windborn Muse is a 2/3 flyer for four mana, so that's at least OK in Limited."
+  },
+  {
+    "imgs": [
+      "Cloud of Faeries"
+    ],
+    "q": "Judge, if I cast <span class=\"autocard\">Cloud of Faeries</span>, can I untap two of my partner's lands?",
+    "a": "Yes, you can. Not only that, if you really wanted to, you could untap two lands controlled by an opponent."
+  },
+  {
+    "imgs": [
+      "Time Stretch"
+    ],
+    "q": "Judge, how does <span class=\"autocard\">Time Stretch</span> work in Two-Headed Giant?",
+    "a": "Terrifyingly. Because the two players on a team share a turn, if one gets an extra turn, the other one gains the benefit of that extra turn at the same time."
+  },
+  {
+    "imgs": [],
+    "q": "Judge, I just played a Sort of _____ and _____, how does it work?",
+    "a": "At the event we had a sheet that listed the first abilities of each Sword numbered 1-9, then listed the second abilities of each Sword numbered 1-9. A player would roll a D10 for first ability, rerolling results of 10, then roll a second D10 for second ability. An example result would be Sword of Light and Steel: When equipped creature deals combat damage to a player, you gain 3 life and destroy up to one artifact.\nThis can easily be simulated by searching in Gatherer by searching \"Sword of and\" in the name field. This will put out only the nine Swords of Blank and Blank in alphabetical order."
+  },
+  {
+    "imgs": [],
+    "q": "Judge, how does Poison Resistance 2 work?",
+    "a": "While you control a permanent with Poison Resistance 2, it takes 2 more poison counters than normal for you to lose the game. In this case you only lose the game if you have 12 or more poison counters, until that permanent is destroyed, then it returns to the normal 10 or more poison counters to lose the game."
+  },
+  {
+    "imgs": [],
+    "q": "Judge, can I play with any of these playtest cards in my Commander deck?",
+    "a": "Normally, no. You can however ask for permission to use them with people you play with. They may tell you no. This is similar to playing with silver-bordered cards, many groups will tell you no. However, some people will be OK with this, as your local play group is free to modify the rules of Commander, so long as the change in rules is clear to all playing and hopefully is aimed towards making the games more fun."
+  },
+  {
+    "imgs": [
+      "Graceful Restoration",
+      "Constable of the Realm",
+      "Academy Manufactor"
+    ],
+    "q": "Judge, if I use <span class=\"autocard\">Graceful Restoration</span> to reanimate <span class=\"autocard\">Constable of the Realm</span>, can it exile my opponent's <span class=\"autocard\">Academy Manufactor</span> without becoming renowned?",
+    "a": "Yes, it can. Constable will enter the battlefield with a +1/+1 counter. This will trigger Constable's last ability. Additionally, if the Constable becomes renowned from going unblocked, it can exile yet another nonland permanent. <br>"
+  },
+  {
+    "imgs": [
+      "Gruesome Realization"
+    ],
+    "q": "Judge, I was at 1 life and then resolved <span class=\"autocard\">Gruesome Realization</span> choosing the first mode. Do I get tickets for defeating myself?",
+    "a": "Yes, yes you do. We had announced at the beginning of the event that defeating yourself would count for winning tickets. Forfeits wouldn't count, and forfeiting before an opponent killed you wouldn't prevent them from getting tickets."
+  },
+  {
+    "imgs": [],
+    "q": "Judge, I just finished my turn and passed the turn marker to my left. I then almost immediately got another turn marker, can I start my next turn now?",
+    "a": "Most likely no. In Grand Melee, you can only start your turn if the nearest turn marker to your left is more than three players away. Once the turn marker to your left has moved to four players away, then you may begin your turn."
+  },
+  {
+    "imgs": [
+      "Urza's Sylex"
+    ],
+    "q": "Judge, if I activate this <span class=\"autocard\">Urza's Sylex</span>'s first ability, do I destroy permanents for all 52 players in this game?",
+    "a": "No, you do not. Because of the Range of Influence of 1, you only destroy permanents for the player to your left, yourself, and the player to your right."
+  },
+  {
+    "imgs": [
+      "Powerstone Fracture",
+      "Air Marshal"
+    ],
+    "q": "Judge, I just defeated the player to my left with combat damage, can I now cast <span class=\"autocard\">Powerstone Fracture</span> during my second main phase to destroy the <span class=\"autocard\">Air Marshal</span> controlled by the new opponent who is directly to my left?",
+    "a": "You can not. The players in your range of influence are set at the start of the turn, and killing one player won't bring a new player into your range of influence until the next turn starts."
+  },
+  {
+    "imgs": [
+      "Disrupt Decorum",
+      "Chardalyn Dragon"
+    ],
+    "q": "Judge, in this three-player game since my last turn, both of my opponents have <span class=\"autocard\">Disrupt Decorum</span> my <span class=\"autocard\">Chardalyn Dragon</span>. Can I attack? Do I have to attack? Who can I attack?",
+    "a": "You have to attack with the Dragon if it's untapped during your combat step, but you may choose which opponent to attack since all opponents have goaded it."
+  },
+  {
+    "imgs": [
+      "Abdel Adrian, Gorion's Ward",
+      "Agent of the Iron Throne",
+      "Arcane Signet"
+    ],
+    "q": "Judge, my commander is <span class=\"autocard\">Abdel Adrian, Gorion's Ward</span> and the background I chose for him is <span class=\"autocard\">Agent of the Iron Throne</span>. Can my <span class=\"autocard\">Arcane Signet</span> tap for only <img src=\"/ci-reader/images/symbols/W.png\" class=\"mana\">? Or can it tap for <img src=\"/ci-reader/images/symbols/W.png\" class=\"mana\"> or <img src=\"/ci-reader/images/symbols/B.png\" class=\"mana\">?",
+    "a": "As Agent of Iron Throne counts as one of your commanders, the Signet can tap for <img src=\"/ci-reader/images/symbols/W.png\" class=\"mana\"> or <img src=\"/ci-reader/images/symbols/B.png\" class=\"mana\">."
+  },
+  {
+    "imgs": [],
+    "q": "Judge, during sideboarding the player in the game next to me had a pile of at least thirty cards. It looked like he may have only looked through the top fifteen or so, but is this an issue?",
+    "a": "This is definitely an issue that should be investigated. Upon investigating, all cards in the pile could be played in his deck. But the top fifteen were faced one way, while the rest were faced the other direction. After talking with the player with the extra large sideboard and his opponent, it was clear to both which cards were his actual side board. I warned the player, since at Regular rules enforcement like this event this is only a warning, but at Competitive rules enforcement or higher, storing cards with your sideboard that could be played in your deck would usually be a Game Loss and that keeping them separated was the best way to avoid issues."
+  },
+  {
+    "imgs": [],
+    "q": "Judge, do I have time to go to the bathroom before the next round starts?",
+    "a": "If you can make it to that bathroom and back in ten minutes, you should be good.\nBathroom breaks is likely the second most common question I got all weekend. Followed closely by \"Judge, how long is left in this round?\""
+  },
+  {
+    "imgs": [
+      "Fiery Temper",
+      "Faithless Looting"
+    ],
+    "q": "Judge, my opponent discarded two <span class=\"autocard\">Fiery Temper</span>s to his <span class=\"autocard\">Faithless Looting</span>, can he cast both for their madness cost or only one?",
+    "a": "As long as the opponent has enough mana, he can cast both Fiery Tempers for their madness cost."
+  },
+  {
+    "imgs": [
+      "Squadron Hawk",
+      "Prismatic Strands"
+    ],
+    "q": "Judge, can my opponent tap a <span class=\"autocard\">Squadron Hawk</span> that just entered the battlefield this turn to pay the flashback cost of the <span class=\"autocard\">Prismatic Strands</span> currently in her graveyard?",
+    "a": "Yes, she can. The Hawk doesn't need haste to be used to pay this cost. Haste is only necessary to attack or to use an ability the creature has with the tap symbol in its cost."
+  }
+]
