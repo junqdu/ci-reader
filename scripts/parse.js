@@ -30,7 +30,9 @@ const get = async (id) => {
         let foundA = res.match(aRegex);
 
         if (foundQ.length !== foundA.length) {
-            foundA = res.match(aRegexB);
+            let foundA2 = res.match(aRegexB);
+            foundA2.push(foundA[foundA.length - 1]);
+            foundA = foundA2;
         }
 
         foundQ.forEach((q) => {

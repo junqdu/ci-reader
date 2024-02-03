@@ -147,8 +147,10 @@
   },
   {
     "imgs": [
-      "Marshland Bloodcaster"
+      "Marshland Bloodcaster",
+      "Rith, Liberated Primeval"
     ],
-    "q": "Can I activate <span class=\"autocard\">Marshland Bloodcaster</span> and cast my commander from the command zone? Will I be able to pay life instead of mana for the commander tax?"
+    "q": "Can I activate <span class=\"autocard\">Marshland Bloodcaster</span> and cast my commander from the command zone? Will I be able to pay life instead of mana for the commander tax?",
+    "a": "Yes, you can cast it, but you'll still have to pay for the commander tax with mana like normal. The Bloodcaster lets you cast the spell by paying life equal to its mana value instead of the normal mana cost, but the Bloodcaster's ability only covers the mana cost of the spell. Any additional costs the spell has, like the commander tax, have to be paid for like normal, and not by paying life. So if you're casting your commander for the third time (for example, <span class=\"autocard\">Rith, Liberated Primeval</span>) with the Bloodcaster's ability, you'll be paying 5 life and four mana."
   }
 ]
