@@ -1,7 +1,7 @@
 const jsdom = require('jsdom');
 const { JSDOM } = jsdom;
 const fs = require('node:fs');
-const data = require('./2023.json');
+const data = require('./2024.json');
 
 const args = process.argv.slice(2);
 const id = args[0] || 4160;
