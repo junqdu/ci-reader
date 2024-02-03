@@ -31,7 +31,7 @@
       "Drudge Beetle"
     ],
     "q": "I cast <span class=\"autocard\">Ghostway</span>, and at the end of my turn, I have <span class=\"autocard\">Crocanura</span> and two <span class=\"autocard\">Drudge Beetle</span> entering the battlefield. How many counters will Crocanura get?",
-    "a": "Only one counter. Crocanura will see the two Beetles entering the battlefield at the same time as itself, and since they both have a greater power than Crocanura, its evolve ability will trigger two times. However, when the evolve trigger goes to resolve, it checks again to make sure that new creature still has a greater power than Crocanura."
+    "a": "Only one counter. Crocanura will see the two Beetles entering the battlefield at the same time as itself, and since they both have a greater power than Crocanura, its evolve ability will trigger two times. However, when the evolve trigger goes to resolve, it checks again to make sure that new creature still has a greater power than Crocanura. \nWhen the first trigger resolves, the 1/3 Crocanura sees the 2/2 Drudge  Beetle has a greater power, so Crocanura gets a +1/+1 counter and becomes a 2/4. But when the second evolve trigger resolves, the 2/4 Crocanura sees the 2/2 Beetle doesn't have a greater power or toughness than Crocanura anymore, so the second trigger does nothing, and Crocanura does not get a second +1/+1 counter."
   },
   {
     "imgs": [

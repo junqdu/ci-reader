@@ -24,7 +24,8 @@ const get = async (id) => {
         // const qRegex = /Q:.+/g;
         // const aRegex = /A:.+/g;
         const qRegex = /Q:.+/g;
-        const aRegex = /A:.+/g;
+        // const aRegex = /A:.+/g;
+        const aRegex = /A:([\s\S]*?)<hr/g;
 
         const foundQ = res.match(qRegex);
         const foundA = res.match(aRegex);
@@ -54,9 +55,6 @@ const get = async (id) => {
             const [_, ...rest] = dom.window.document.body.innerHTML.split(':');
             item.q = rest.join(':').replace('<br>', '').trim();
 
-            // dedup images
-            item.imgs = [...new Set(item.imgs)];
-
             output.push(item);
         });
 
@@ -80,9 +78,16 @@ const get = async (id) => {
                 link.outerHTML = `<span class="autocard">${cardName}</span>`;
             });
 
+            const extra = dom.window.document.querySelectorAll('div');
+            extra.forEach((el) => (el.outerHTML = ''));
+            const extra2 = dom.window.document.querySelectorAll('hr');
+            extra2.forEach((el) => (el.outerHTML = ''));
+
             const [_, ...rest] = dom.window.document.body.innerHTML.split(':');
 
-            output[idx].a = rest.join(':').replace('<br>', '').trim();
+            // dedup images
+            output[idx].imgs = [...new Set(output[idx].imgs)];
+            output[idx].a = rest.join(':').replaceAll('<br>\n<br>', '').trim();
         });
 
         fs.writeFile(
