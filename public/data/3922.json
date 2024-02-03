@@ -11,7 +11,7 @@
       "Kjeldoran Gargoyle"
     ],
     "q": "Why doesn't <span class=\"autocard\">Kjeldoran Gargoyle</span> just say \"lifelink\"?",
-    "a": "It's not quite lifelink. The main difference is that with lifelink, you gain life at the same time the creature is dealing damage. But with the Gargoyle, you gain the life due to a triggered ability. This is an important distinction if you're otherwise taking lethal damage - the life from lifelink can be enough to save you from dying, but with the Gargoyle, you may lose the game before the trigger can resolve."
+    "a": "It's not quite lifelink. The main difference is that with lifelink, you gain life at the same time the creature is dealing damage. But with the Gargoyle, you gain the life due to a triggered ability. This is an important distinction if you're otherwise taking lethal damage - the life from lifelink can be enough to save you from dying, but with the Gargoyle, you may lose the game before the trigger can resolve.\nFor example, let's say I'm at 3 life, and you attack with two 3/3 creatures with first strike. If I block with the Gargoyle, I'll lose the game since I'll be at 0 life after combat damage is dealt and before the Gargoyle's trigger can go on the stack. But if I had blocked with a 3/3 with first strike and lifelink, I would gain 3 life at the same time I'm taking 3 damage from the unblocked attacker, so I would survive if my blocking creature had lifelink."
   },
   {
     "imgs": [
@@ -131,26 +131,25 @@
       "Chance Encounter"
     ],
     "q": "What's the difference between <span class=\"autocard\">Frenetic Sliver</span> and <span class=\"autocard\">Frenetic Efreet</span>? They seem like very similar cards.",
-    "a": "They are similar, which makes sense because the Sliver's design was based on the Efreet, but they aren't quite the same. The Efreet's ability will let you flip a coin even if the Efreet is no longer on the battlefield. But Frenetic Sliver requires the Sliver to be on the battlefield when the ability resolves to flip a coin. If the Sliver isn't on the battlefield when the ability resolves, then you don't flip at all. This is relevant if you have a <span class=\"autocard\">Chance Encounter</span> or something else in play that cares about how many coin flips you've won. The Sliver will only let you get one counter on the Encounter, but the Efreet can let you flip a bunch of coins (by repeatedly activating its ability without letting an activation resolve) to get enough counters on the Encounter to win you the game."
+    "a": "They are similar, which makes sense because the Sliver's design was based on the Efreet, but they aren't quite the same. The Efreet's ability will let you flip a coin even if the Efreet is no longer on the battlefield. But Frenetic Sliver requires the Sliver to be on the battlefield when the ability resolves to flip a coin. If the Sliver isn't on the battlefield when the ability resolves, then you don't flip at all. This is relevant if you have a <span class=\"autocard\">Chance Encounter</span> or something else in play that cares about how many coin flips you've won. The Sliver will only let you get one counter on the Encounter, but the Efreet can let you flip a bunch of coins (by repeatedly activating its ability without letting an activation resolve) to get enough counters on the Encounter to win you the game.\n<span id=\"q18\" class=\"artanchor\" title=\"q18\"><b>Q:</b></span>  If the Sliver is based on the Efreet's text, then why are they worded slightly differently?\n<b>A:</b> At the time of Frenetic Sliver's printing, the Efreet had power-level errata, so you'd only flip coins if it was on the battlefield. Since the Sliver was based on the Efreet, the Sliver's wording is similar to the Efreet's wording at the time. But a few years after the Sliver was printed, the Efreet lost its power-level errata and now lets you flip multiple coins, to match its printed text. But since the Sliver was printed with the restriction on it, it kept that restriction, even though the card that inspired its text lost that text."
   },
   {
     "imgs": [],
     "q": "If the Sliver is based on the Efreet's text, then why are they worded slightly differently?",
-    "a": "At the time of Frenetic Sliver's printing, the Efreet had power-level errata, so you'd only flip coins if it was on the battlefield. Since the Sliver was based on the Efreet, the Sliver's wording is similar to the Efreet's wording at the time. But a few years after the Sliver was printed, the Efreet lost its power-level errata and now lets you flip multiple coins, to match its printed text. But since the Sliver was printed with the restriction on it, it kept that restriction, even though the card that inspired its text lost that text."
-  },
-  {
-    "imgs": [
-      "Entrapment Maneuver"
-    ],
-    "q": "If my opponent attacks me, can I cast <span class=\"autocard\">Entrapment Maneuver</span> and block with the tokens I created?",
     "a": "Sure, as long as you cast the Maneuver during the declare attackers step. If you do that, then you'll get the tokens during the declare attackers step, and when you move to the declare blockers step, you'll be able to block with your new Soldier tokens."
   },
   {
     "imgs": [
-      "Marshland Bloodcaster",
+      "Entrapment Maneuver",
       "Rith, Liberated Primeval"
     ],
-    "q": "Can I activate <span class=\"autocard\">Marshland Bloodcaster</span> and cast my commander from the command zone? Will I be able to pay life instead of mana for the commander tax?",
+    "q": "If my opponent attacks me, can I cast <span class=\"autocard\">Entrapment Maneuver</span> and block with the tokens I created?",
     "a": "Yes, you can cast it, but you'll still have to pay for the commander tax with mana like normal. The Bloodcaster lets you cast the spell by paying life equal to its mana value instead of the normal mana cost, but the Bloodcaster's ability only covers the mana cost of the spell. Any additional costs the spell has, like the commander tax, have to be paid for like normal, and not by paying life. So if you're casting your commander for the third time (for example, <span class=\"autocard\">Rith, Liberated Primeval</span>) with the Bloodcaster's ability, you'll be paying 5 life and four mana."
+  },
+  {
+    "imgs": [
+      "Marshland Bloodcaster"
+    ],
+    "q": "Can I activate <span class=\"autocard\">Marshland Bloodcaster</span> and cast my commander from the command zone? Will I be able to pay life instead of mana for the commander tax?"
   }
 ]

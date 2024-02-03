@@ -37,7 +37,7 @@
   {
     "imgs": [],
     "q": "Judge, I just played a Sort of _____ and _____, how does it work?",
-    "a": "At the event we had a sheet that listed the first abilities of each Sword numbered 1-9, then listed the second abilities of each Sword numbered 1-9. A player would roll a D10 for first ability, rerolling results of 10, then roll a second D10 for second ability. An example result would be Sword of Light and Steel: When equipped creature deals combat damage to a player, you gain 3 life and destroy up to one artifact."
+    "a": "At the event we had a sheet that listed the first abilities of each Sword numbered 1-9, then listed the second abilities of each Sword numbered 1-9. A player would roll a D10 for first ability, rerolling results of 10, then roll a second D10 for second ability. An example result would be Sword of Light and Steel: When equipped creature deals combat damage to a player, you gain 3 life and destroy up to one artifact.\nThis can easily be simulated by searching in Gatherer by searching \"Sword of and\" in the name field. This will put out only the nine Swords of Blank and Blank in alphabetical order."
   },
   {
     "imgs": [],
@@ -56,7 +56,7 @@
       "Academy Manufactor"
     ],
     "q": "Judge, if I use <span class=\"autocard\">Graceful Restoration</span> to reanimate <span class=\"autocard\">Constable of the Realm</span>, can it exile my opponent's <span class=\"autocard\">Academy Manufactor</span> without becoming renowned?",
-    "a": "Yes, it can. Constable will enter the battlefield with a +1/+1 counter. This will trigger Constable's last ability. Additionally, if the Constable becomes renowned from going unblocked, it can exile yet another nonland permanent."
+    "a": "Yes, it can. Constable will enter the battlefield with a +1/+1 counter. This will trigger Constable's last ability. Additionally, if the Constable becomes renowned from going unblocked, it can exile yet another nonland permanent. <br>"
   },
   {
     "imgs": [
@@ -110,7 +110,7 @@
   {
     "imgs": [],
     "q": "Judge, do I have time to go to the bathroom before the next round starts?",
-    "a": "If you can make it to that bathroom and back in ten minutes, you should be good."
+    "a": "If you can make it to that bathroom and back in ten minutes, you should be good.\nBathroom breaks is likely the second most common question I got all weekend. Followed closely by \"Judge, how long is left in this round?\""
   },
   {
     "imgs": [

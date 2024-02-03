@@ -12,7 +12,7 @@
       "Join the Maestros"
     ],
     "q": "I control <span class=\"autocard\">Baral and Kari Zev</span> with no other creatures in play. If I cast <span class=\"autocard\">Join the Maestros</span>, can I create the First Mate Ragavan token and sacrifice it to casualty and get a copy of Join the Maestros?",
-    "a": "No you can't. You have to sacrifice the creature as part of the cost of casting the original spell. You don't have the token from Baral and Kari Zev yet — since you have to complete announcement of the spell before that ability can even trigger — so you can't cast the spell and create the token to be sacrificed to the casualty spell."
+    "a": "No you can't. You have to sacrifice the creature as part of the cost of casting the original spell. You don't have the token from Baral and Kari Zev yet — since you have to complete announcement of the spell before that ability can even trigger — so you can't cast the spell and create the token to be sacrificed to the casualty spell. \nIf you already had a Ragavan token in play, you could sacrifice it to cast Join the Maestros, and then get a new Ragavan token to replace the old token you just sacrificed with the Baral and Kari Zev trigger. But the other way does not work."
   },
   {
     "imgs": [
@@ -75,10 +75,12 @@
     "imgs": [
       "Ruin Ghost",
       "Kazandu Valley",
-      "Kazanda Mammoth"
+      "Kazanda Mammoth",
+      "Kazuul's Fury",
+      "Kazuul's Cliffs"
     ],
     "q": "What happens if I use the ability of <span class=\"autocard\">Ruin Ghost</span> targeting a modal double-faced land like <span class=\"autocard\">Kazandu Valley</span>?",
-    "a": "When you exile it, the Valley will go back to its front face of <span class=\"autocard\">Kazanda Mammoth</span>. And when the Ghost's ability returns it, it's returning as its front face, so it will return as the Mammoth, not as the land. You don't even have the option of returning it as the back face. So you'll be able to use the Ghost's ability to effectively transform your Valley from a land into a creature."
+    "a": "When you exile it, the Valley will go back to its front face of <span class=\"autocard\">Kazanda Mammoth</span>. And when the Ghost's ability returns it, it's returning as its front face, so it will return as the Mammoth, not as the land. You don't even have the option of returning it as the back face. So you'll be able to use the Ghost's ability to effectively transform your Valley from a land into a creature.\nDo note this trick only works if the front face is a permanent card. If the front face is an instant or sorcery card (like <span class=\"autocard\">Kazuul's Fury</span>/<span class=\"autocard\">Kazuul's Cliffs</span>), since an instant or sorcery card can't enter the battlefield, it stays in the previous zone, so using the Ghost's ability targeting the Cliffs means that the Fury is stuck in exile and won't return to the battlefield."
   },
   {
     "imgs": [

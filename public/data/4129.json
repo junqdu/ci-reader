@@ -1,10 +1,11 @@
 [
   {
     "imgs": [
-      "Dire Flail"
+      "Dire Flail",
+      "Dire Blunderbuss"
     ],
     "q": "What does it mean to craft?",
-    "a": "Craft is a new keyword ability. It's written out as \"Craft with [object with a specific characteristic] [cost]\". We can see this on the card <span class=\"autocard\">Dire Flail</span>. To craft with Dire Flail, you must pay the costs and have the \"materials\" necessary to craft. The materials are the Dire Flail (card with craft) and another artifact you control or a artifact card in your graveyard (control a permanent with the appropriate characteristic or have a card in your graveyard with the appropriate characteristic). To craft you pay the cost and exile the materials."
+    "a": "Craft is a new keyword ability. It's written out as \"Craft with [object with a specific characteristic] [cost]\". We can see this on the card <span class=\"autocard\">Dire Flail</span>. To craft with Dire Flail, you must pay the costs and have the \"materials\" necessary to craft. The materials are the Dire Flail (card with craft) and another artifact you control or a artifact card in your graveyard (control a permanent with the appropriate characteristic or have a card in your graveyard with the appropriate characteristic). To craft you pay the cost and exile the materials.\nAfter the costs are paid, if the craft ability resolves, you return the Dire Flail to the battlefield transformed as <span class=\"autocard\">Dire Blunderbuss</span>  (return the card with Craft with {object with characteristic} to the battlefield transformed). Crafting is restricted to sorcery speed."
   },
   {
     "imgs": [
@@ -19,7 +20,7 @@
       "Shardless Agent"
     ],
     "q": "What is discover?",
-    "a": "<span class=\"autocard\">Walk with the Ancestors</span> is very similar to <span class=\"autocard\">Shardless Agent</span>. When you discover N, you reveal cards from the top of your library until you find a nonland card with mana value N or less. Then you must either cast that spell for free or you must put that card into your hand. All other cards are shuffled to the bottom of your library."
+    "a": "<span class=\"autocard\">Walk with the Ancestors</span> is very similar to <span class=\"autocard\">Shardless Agent</span>. When you discover N, you reveal cards from the top of your library until you find a nonland card with mana value N or less. Then you must either cast that spell for free or you must put that card into your hand. All other cards are shuffled to the bottom of your library.\nThis has some important differences from cascade. Probably the coolest part being, if you hit a card you can't cast, you must put it into your hand instead of it getting shuffled away. Next, cascade always searches for a value based on the value of the card it triggered from, whereas discover has a value of N that changes from card to card. The last major difference is that discover can happen under a myriad of conditions, whereas cascade is always a cast trigger."
   },
   {
     "imgs": [
@@ -30,9 +31,15 @@
     "a": "You can not. Discover casting a spell without paying its mana cost is an alternative cost, as is overload. You may only ever use one alternative cost when casting a spell. However, you can choose to put the Rift into your hand, and then if you have enough mana left over, can manually overload it."
   },
   {
-    "imgs": [],
+    "imgs": [
+      "Stalactite Stalker",
+      "The Mycotyrant",
+      "Didact Echo",
+      "Wail of the Forgotten",
+      "Terror Tide"
+    ],
     "q": "Am I crazy or is descend more than one ability?",
-    "a": "Descend has five variations in this set, but all of them care about permanent cards either being in your graveyard or having gone to your graveyard this turn."
+    "a": "Descend has five variations in this set, but all of them care about permanent cards either being in your graveyard or having gone to your graveyard this turn.\n<span class=\"autocard\">Stalactite Stalker</span> You have descended if one or more permanent cards went to your graveyard this turn.<br>\n<span class=\"autocard\">The Mycotyrant</span> Some cards care how many times you have descended. This will count how many permanent cards have been put into your graveyard this turn.<br>\n<span class=\"autocard\">Didact Echo</span> Descend 4 is met if you have four or more permanent cards in your graveyard. If descend 4 is met, the card it's on will be boosted in some way.<br>\n<span class=\"autocard\">Wail of the Forgotten</span> Descend 8 is met if you have eight or more permanent cards in your graveyard. If descend 8 is met, the card it's on will be boosted in some way.<br>\n<span class=\"autocard\">Terror Tide</span> Fathomless Descent will count the number of permanent cards in your graveyard and use that number in a way specified by the card it's on.\n<br>"
   },
   {
     "imgs": [
@@ -113,7 +120,6 @@
   {
     "imgs": [
       "Throne of the Grim Captain",
-      "Crib Swap",
       "Crib Swap"
     ],
     "q": "I noticed <span class=\"autocard\">Throne of the Grim Captain</span> doesn't require creatures as part of its crafting cost. Can I use a <span class=\"autocard\">Crib Swap</span> to help pay the crafting cost?",
@@ -141,7 +147,7 @@
       "Basilisk Collar"
     ],
     "q": "I'm attacking with a <span class=\"autocard\">Bloodletter of Aclazotz</span> which is wearing a <span class=\"autocard\">Basilisk Collar</span>. Will I gain 2 life or 4 life since the life loss is doubled?",
-    "a": "You will gain only 2 life. Damage dealt to players, if not prevented, turns into life loss. Lifelink is based on how much damage is dealt, not how much life is lost."
+    "a": "You will gain only 2 life. Damage dealt to players, if not prevented, turns into life loss. Lifelink is based on how much damage is dealt, not how much life is lost.\nThis is also true with commander damage. If you double the life loss from a commander, that doesn't double the amount of commander damage that player has taken."
   },
   {
     "imgs": [

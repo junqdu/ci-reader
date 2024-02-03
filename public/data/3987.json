@@ -111,9 +111,7 @@
     "imgs": [
       "Hidetsugu and Kairi",
       "Murder",
-      "Cyclonic Rift",
-      "Hidetsugu and Kairi",
-      "Hidetsugu and Kairi"
+      "Cyclonic Rift"
     ],
     "q": "My <span class=\"autocard\">Hidetsugu and Kairi</span> was just <span class=\"autocard\">Murder</span>ed and revealed the top card of my library to be <span class=\"autocard\">Cyclonic Rift</span>. Can I chose to overload it, and if I do, does that cause my opponent to lose 2 or 7 life?",
     "a": "You can't overload the Rift. <span class=\"autocard\">Hidetsugu and Kairi</span> cast the revealed instant or sorcery without paying its mana cost, which is an alternative cost. Overload is also an alternative cost. You can't use more than one alternative cost at a time. The mana value of Cyclonic Rift is always 2 even when it's overloaded, so your opponent will lose only 2 life. Additionally, the life loss from <span class=\"autocard\">Hidetsugu and Kairi</span> is determined when it's revealed, before it's even cast."

@@ -61,10 +61,12 @@
   {
     "imgs": [
       "Eldrazi Monument",
-      "Vedalken Humiliator"
+      "Vedalken Humiliator",
+      "Glorious Anthem",
+      "Giant Growth"
     ],
     "q": "My opponent controls five 1/1 Squirrel tokens and an <span class=\"autocard\">Eldrazi Monument</span>. If I attack with <span class=\"autocard\">Vedalken Humiliator</span> while I have  three or more artifacts, how big are my opponent's Squirrels and what abilities do they have?",
-    "a": "Short answer, your opponent will have 2/2 Squirrel tokens with no abilities."
+    "a": "Short answer, your opponent will have 2/2 Squirrel tokens with no abilities. \nLonger answer showing the Layers:<br>\nSince the Eldrazi Monument has an older time stamp than Humiliator's ability does, the Squirrels gain flying and indestructible in layer 6 and then, still in layer 6, they lose all abilities. In layer 7b, the base size of the Squirrels gets set to 1/1 (which is what it was to start with), then in layer 7c they get +1/+1 from the Monument. Setting a creature's P/T to a specific number never overrides bonuses from cards like <span class=\"autocard\">Glorious Anthem</span> or <span class=\"autocard\">Giant Growth</span>."
   },
   {
     "imgs": [
@@ -81,7 +83,7 @@
       "Blaze"
     ],
     "q": "I control both <span class=\"autocard\">Magus Lucea Kane</span> and <span class=\"autocard\">Harmonic Prodigy</span>. If I use the Psychic Stimulus ability to cast <span class=\"autocard\">Blaze</span> with <img src=\"/ci-reader/images/symbols/X.png\" class=\"mana\"> equal to <img src=\"/ci-reader/images/symbols/5.png\" class=\"mana\">, do I get one or two copies of Blaze?",
-    "a": "So short answer is just one."
+    "a": "So short answer is just one.\nThe specific rule that shows us this is:<br>\n603.2e. Some effects refer to a triggered ability of an object. Such effects refer only to triggered abilities the object has, not any delayed triggered abilities (see rule 603.7) that may be created by abilities the object has."
   },
   {
     "imgs": [
@@ -113,7 +115,7 @@
       "Founding the Third Path"
     ],
     "q": "My opponent is trying to cast <span class=\"autocard\">Fatal Push</span> using the last chapter of <span class=\"autocard\">Founding the Third Path</span>. We aren't sure if her Fatal Push will have Revolt or not. Will Fatal Push resolve before or after Founding the Third Path is put into the graveyard?",
-    "a": "Short answer, yes, Fatal Push will have revolt."
+    "a": "Short answer, yes, Fatal Push will have revolt.\nFatal Push gets cast and put on the stack in the middle of resolving Founding the Third Path's last chapter ability. But before Fatal Push can resolve, the Saga will be put into the graveyard, turning on revolt."
   },
   {
     "imgs": [
@@ -128,7 +130,7 @@
       "Staff of Titania"
     ],
     "q": "I control <span class=\"autocard\">Staff of Titania</span> and on my last turn the Staff created a 1/1 green Forest Dryad land creature token. Can the token be tapped to make a <img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"> mana?",
-    "a": "Yes, it can."
+    "a": "Yes, it can. \nAny land with the subtype forest has the ability \"<img src=\"/ci-reader/images/symbols/T.png\" class=\"mana\">: Add <img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\">.\" \nSince this token is also a creature it will be affected by summoning sickness, but since it was created last turn, it's fine to use tap abilities this turn."
   },
   {
     "imgs": [
@@ -149,12 +151,11 @@
   {
     "imgs": [
       "Lore Drakkis",
-      "Lore Drakkis",
       "Ivy, Gleeful Spellthief",
       "Brainstorm",
       "Dreamtail Heron"
     ],
     "q": "Similar to the last question, I have one mutate stack that has <span class=\"autocard\">Lore Drakkis</span> on top and Bear Cub on bottom and a second mutate stack that has a token copy of <span class=\"autocard\">Lore Drakkis</span> on top and <span class=\"autocard\">Ivy, Gleeful Spellthief</span> on bottom. The only instant or sorcery in my graveyard is <span class=\"autocard\">Brainstorm</span>. If I mutate <span class=\"autocard\">Dreamtail Heron</span> on top of the \"Bear Cub\" mutate stack, I know I get a Dreamtail Heron copy to mutate onto the \"Ivy\" mutate stack, but can I stack it so I can get back the Brainstorm, cast it, let it go to the graveyard and return the same Brainstorm to my hand?",
-    "a": "Short answer, YES!"
+    "a": "Short answer, YES!\nWhen you cast the Dreamtail Heron for its mutate cost, Ivy copies it before it resolves or actually \"mutates\". The Ivy copy of Dreamtail Heron will resolve and mutate, causing the Drakkis to trigger so you can put the Brainstorm into your hand and to draw a card for the Heron copy. So long as you have the mana to cast the Brainstorm, you can cast it while the original Dreamtail Heron is still on the stack, still waiting to resolve. Once the Brainstorm resolves, it returns to the graveyard. Then the original Dreamtail Heron finally resolves, causing a card draw trigger and the Lore Drakkis trigger to each resolve one at a time. By this time the Brainstorm is back in the graveyard and is a legitimate target for the Lore Drakkis trigger."
   }
 ]

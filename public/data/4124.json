@@ -151,6 +151,6 @@
       "Harvesttide Infiltrator"
     ],
     "q": "How does <span class=\"autocard\">Harvesttide Infiltrator</span> work in a game of Two-Headed giant?",
-    "a": "It's a bit harder to make it night, and probably a bit easier to make it day."
+    "a": "It's a bit harder to make it night, and probably a bit easier to make it day. \nIf you're in a game with shared turns, like Two-Headed Giant, the rules for day/night are slightly modified. If it's day and you want to turn it to night, neither player on the active team on the previous turn can cast a spell. That means that you and your teammate can't cast any spells, not just one player on the team. And to make night into day, at least one player on the active team on the previous turn has to cast two spells. Each player casting one spell won't count, but if at least one player on the team casts two spells, then night will turn to day."
   }
 ]

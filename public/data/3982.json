@@ -38,7 +38,8 @@
   {
     "imgs": [
       "Will Kenrith",
-      "Rowan Kenrith"
+      "Rowan Kenrith",
+      "Lightning Bolt"
     ],
     "q": "How does partner work in Oathbreaker?",
     "a": "With partner, you can have two Oathbreakers. But since you have two Oathbreakers, you can have two signature spells, one for each of your Oathbreakers. For example, if you have <span class=\"autocard\">Will Kenrith</span> and <span class=\"autocard\">Rowan Kenrith</span> as your Oathbreakers, you can have a red signature spell and a blue signature spell."
@@ -74,15 +75,15 @@
   },
   {
     "imgs": [
-      "Karn, The Great Creator"
+      "Karn, The Great Creator",
+      "Saheeli, Sublime Artificer"
     ],
     "q": "I know \"wish\" effects don't work in commander, but do they work in Oathbreaker? Can I use <span class=\"autocard\">Karn, The Great Creator</span>'s -2 to get cards from outside the game?",
     "a": "Nope, that also doesn't work here. There's no outside the game to reference, just like in Commander. While Karn's -2 will let you get an exiled artifact card back into your hand, it won't let you get an artifact card from outside the game."
   },
   {
     "imgs": [
-      "Command Tower",
-      "Saheeli, Sublime Artificer"
+      "Command Tower"
     ],
     "q": "Does a card like <span class=\"autocard\">Command Tower</span> work in Oathbreaker?",
     "a": "It does! In a game of Oathbreaker, if a card refers to your \"commander\", it's referring to your \"oathbreaker\" instead. For example, if your Oathbreaker is <span class=\"autocard\">Saheeli, Sublime Artificer</span>, then your Command Tower can tap for red or blue mana."

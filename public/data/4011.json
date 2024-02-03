@@ -59,7 +59,7 @@
       "The Kenriths' Royal Funeral"
     ],
     "q": "What happens if I cast <span class=\"autocard\">The Kenriths' Royal Funeral</span> and exile my commander from my graveyard, but move it to the command zone? Do I still get to draw and lose life? Will I still get a discount on my legendary spells?",
-    "a": "The first effect will still work like normal. You can't move your commander to the command zone until after the Funeral's trigger is done resolving, so the Funeral will still count your commander to determine how many cards you should draw and how much life you should lose."
+    "a": "The first effect will still work like normal. You can't move your commander to the command zone until after the Funeral's trigger is done resolving, so the Funeral will still count your commander to determine how many cards you should draw and how much life you should lose. \nBut the static ability will only count cards that are currently exiled by the Funeral to determine how big of a discount your legendary spells get. If your commander leaves exile, then it's no longer exiled by the Funeral and won't count for the discount."
   },
   {
     "imgs": [

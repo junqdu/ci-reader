@@ -18,7 +18,8 @@
   {
     "imgs": [
       "General's Enforcer",
-      "Chromium, the Mutable"
+      "Chromium, the Mutable",
+      "General Kudro of Drannith"
     ],
     "q": "I control <span class=\"autocard\">General's Enforcer</span> and activate <span class=\"autocard\">Chromium, the Mutable</span>'s ability. Does Chromium have indestructible from General's Enforcer?",
     "a": "No. To see why, we have to go through the <a href=\"ooo\">layers</a>. The effect from Chromium's ability is applied in layers 4, 6, and 7b, as well as the \"not actually a layer\" layer where changes to the game rules are applied, namely its \"can't be blocked this turn\" effect. The crucial bit is in layer 6, where Chromium's own effect removes all its abilities and adds hexproof, while General's Enforcer's effect wants to adds indestructible. This effect applies to Chromium because it's a Human since the type-changing effect happened in layer 4. The two effects in layer 6 don't depend on each other, so they're applied in timestamp order. Chromium's effect has the more recent timestamp, so General's Enforcer's effect is applied first and gives Chromium indestructicle, but then Chromium's own effect applies and removes all its abilities, including indestructible."

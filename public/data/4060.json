@@ -2,7 +2,7 @@
   {
     "imgs": [],
     "q": "One of my local players said you can play mono-colored commanders as though they have \"partner\" now. Is this true?",
-    "a": "So, only while drafting Commander Masters, all legendary creatures (or planeswalkers that have \"this can be your commander\") with one or fewer colors are considered to have partner until the draft is finished."
+    "a": "So, only while drafting Commander Masters, all legendary creatures (or planeswalkers that have \"this can be your commander\") with one or fewer colors are considered to have partner until the draft is finished.\nMy son created a Commander Cube, where he implemented this rule like three years ago. It is a lot of fun.\n<br>"
   },
   {
     "imgs": [
@@ -56,7 +56,7 @@
       "Hex"
     ],
     "q": "There are currently seven creatures on the battlefield, and I control two of them. I cast <span class=\"autocard\">Aether Gale</span> targeting all the creatures I don't control, my opponent claims that's not legal, I have to choose at least one creature I control. Is this true?",
-    "a": "Your opponent is correct. Aether Gale, much like <span class=\"autocard\">Hex</span>, does not say \"up to six\" targets, meaning there must be that many targets to even cast the spell. If you want to cast Aether Gale with the current board state, you must target one of your own creatures."
+    "a": "Your opponent is correct. Aether Gale, much like <span class=\"autocard\">Hex</span>, does not say \"up to six\" targets, meaning there must be that many targets to even cast the spell. If you want to cast Aether Gale with the current board state, you must target one of your own creatures.\nJust as a side note, if you cast Aether Gale with six targets, but some number of them leave the battlefield before it resolves, Aether Gale will still resolve as best it can so long as at least one of the original targets still remains."
   },
   {
     "imgs": [
@@ -72,7 +72,7 @@
       "Baird, Steward of Argive"
     ],
     "q": "I control <span class=\"autocard\">Avatar of Slaughter</span> and <span class=\"autocard\">Baird, Steward of Argive</span>. Are my opponents forced to pay Baird's tax to attack me?",
-    "a": "In a two player game, no. Your opponent can choose not to attack you even if they have the mana to pay for Baird's tax."
+    "a": "In a two player game, no. Your opponent can choose not to attack you even if they have the mana to pay for Baird's tax. \nHowever, if you are in a multiplayer game, your opponents are still forced to attack with each creature they have. These creatures must attack one of your shared opponents, or pay <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\"> for each creature they attack you with."
   },
   {
     "imgs": [
@@ -89,7 +89,7 @@
       "Deflecting Swat"
     ],
     "q": "My opponent is trying to <span class=\"autocard\">Counterspell</span> my <span class=\"autocard\">Avacyn, Angel of Hope</span> and I have a <span class=\"autocard\">Deflecting Swat</span> in my hand. Can I cast the Deflecting Swat making the Counterspell target itself, to save my Avacyn?",
-    "a": "You can not make a spell target itself. This is rule 115.5, a spell or ability on the stack is an illegal target for itself."
+    "a": "You can not make a spell target itself. This is rule 115.5, a spell or ability on the stack is an illegal target for itself.\nHowever, you could cast the Deflecting Swat and make the Counterspell target the Deflecting Swat. The Deflecting Swat will resolve, and be placed in the graveyard. Then the Counterspell will attempt to resolve, but its target (the Deflecting Swat) is no longer legal and the Counterspell can't resolve, is removed from the stack, and put into its owner's graveyard."
   },
   {
     "imgs": [
@@ -97,7 +97,7 @@
       "Freyalise, Llanowar's Fury"
     ],
     "q": "I control <span class=\"autocard\">Doubling Season</span> and cast <span class=\"autocard\">Freyalise, Llanowar's Fury</span>. If I use her +2 loyalty ability immediately, how much loyalty will she have?",
-    "a": "If you use her +2 loyalty ability immediately, she will end up at 8 loyalty. This probably seems unintuitive."
+    "a": "If you use her +2 loyalty ability immediately, she will end up at 8 loyalty. This probably seems unintuitive.\nDoubling Season says \"If an effect would put one or more counters on a permanent you control\". Effect is the important word here. Effects include things like abilities and spells. \nThe starting loyalty of a planeswalker is an ability of the card. So it will enter the battlefield with twice as many loyalty as normal.\nHowever, a cost is not an effect in the game of Magic. The loyalty ability's +2, -2, or -6 are each costs, then the ability resolving is an effect (i.e. Cost : Effect). Doubling Season does not increase the amount of loyalty counters that are gained from paying loyalty costs.\nSo Freyalise tries to enter with 3 loyalty, but Doubling Season doubles that to 6 instead. Then Freyalise pays the cost of adding 2 loyalty (Doubling Season ignores this as it's a cost, not an effect), so Freyalise ends up at 8 loyalty."
   },
   {
     "imgs": [
@@ -142,10 +142,11 @@
   {
     "imgs": [
       "Meteoric Mace",
-      "Toxic Deluge"
+      "Toxic Deluge",
+      "Fling"
     ],
     "q": "If I cast <span class=\"autocard\">Meteoric Mace</span> and cascade into <span class=\"autocard\">Toxic Deluge</span> can I still pay life into Toxic Deluge even though I'm casting it for free?",
-    "a": "Yes, you can. It's true you can't pay mana into <img src=\"/ci-reader/images/symbols/X.png\" class=\"mana\"> if <img src=\"/ci-reader/images/symbols/X.png\" class=\"mana\"> is in the mana cost of a spell you are casting for no mana. That is not what is happening here. The life loss for Toxic Deluge is an additional cost. When you cast a spell without paying its mana cost you may choose to pay optional additional costs."
+    "a": "Yes, you can. It's true you can't pay mana into <img src=\"/ci-reader/images/symbols/X.png\" class=\"mana\"> if <img src=\"/ci-reader/images/symbols/X.png\" class=\"mana\"> is in the mana cost of a spell you are casting for no mana. That is not what is happening here. The life loss for Toxic Deluge is an additional cost. When you cast a spell without paying its mana cost you may choose to pay optional additional costs. \nSome additional costs are mandatory and if you can't pay them, then you can't cast the spell at all. This is also true when casting the same spell without paying its mana cost. A good example of a mandatory additional cost is sacrificing a creature to <span class=\"autocard\">Fling</span>. If you cascade into <span class=\"autocard\">Fling</span> and you have no creatures, you <i>can't</i> cast it. If you cascade into Fling and have one or more creatures, you can only cast it if you sacrifice a creature for its additional cost."
   },
   {
     "imgs": [
@@ -154,6 +155,6 @@
       "Decision Paralysis"
     ],
     "q": "My opponent controls <span class=\"autocard\">Ondu Spiritdancer</span>, three other creatures, and is casting <span class=\"autocard\">Spectra Ward</span>. I know which creature is being targeted by the original Spectra Ward, and I assume my opponent will copy Spectra Ward with Spiritdancer. Is there any time between when I'll know the target of the copy of Spectra Ward but before it gains protection from all colors so I can tap it down with <span class=\"autocard\">Decision Paralysis</span>?",
-    "a": "There is not. Auras put directly on to the battlefield don't have targets like Auras that are cast. The owner of such Auras just chooses to attach them to a legal target without using the stack."
+    "a": "There is not. Auras put directly on to the battlefield don't have targets like Auras that are cast. The owner of such Auras just chooses to attach them to a legal target without using the stack.\nYou could guaranteed tap down the target of the original Spectra Ward and simultaneously tap down the scariest creature that could end up with the Spectra Ward. This will likely mean the opponent will put it on a different creature as they likely don't want it on a creature that's stuck tapped down for two turns."
   }
 ]

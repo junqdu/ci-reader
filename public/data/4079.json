@@ -135,9 +135,10 @@
   {
     "imgs": [
       "The One Ring",
-      "Ragavan, Nimble Pilferer"
+      "Ragavan, Nimble Pilferer",
+      "Fireball"
     ],
     "q": "If I cast <span class=\"autocard\">The One Ring</span> and don't announce that I gain protection from everything until my next turn, do I have protection? Let's say on the following turn my opponent attacks me with <span class=\"autocard\">Ragavan, Nimble Pilferer</span>, can they exile the top card of my library?",
-    "a": "As long as you point out the Ring's ability once it becomes relevant, you have protection. Triggered abilities are intended to happen automatically, so once the game reaches a point at which an ability should have resolved, it's assumed to have resolved unless there's a visible indication that it was missed. With abilities that create a visible effect or require a choice, it's easy to tell whether it was missed, but abilities whose effect is invisible can create an ambiguous game state. However, even with invisible abilities, the assumption is that it resolved until proven otherwise."
+    "a": "As long as you point out the Ring's ability once it becomes relevant, you have protection. Triggered abilities are intended to happen automatically, so once the game reaches a point at which an ability should have resolved, it's assumed to have resolved unless there's a visible indication that it was missed. With abilities that create a visible effect or require a choice, it's easy to tell whether it was missed, but abilities whose effect is invisible can create an ambiguous game state. However, even with invisible abilities, the assumption is that it resolved until proven otherwise.\nYou only need to point out that you have protection once your opponent attempts to do something that's illegal while you have protection, such as cast a <span class=\"autocard\">Fireball</span> at you or deal combat damage to you with an attacking Ragavan. If you allow this to happen, that would be the indication that you missed the ability and you don't have protection. Note that you don't even have to say anything about protection while your opponent declares attackers, since attacking you is perfectly legal while you have protection. You only have to point it out once the game gets to the combat damage step."
   }
 ]

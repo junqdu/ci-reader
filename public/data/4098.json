@@ -53,7 +53,7 @@
       "Unruly Catapult"
     ],
     "q": "If I put <span class=\"autocard\">Curiosity</span> on my <span class=\"autocard\">Unruly Catapult</span>, will I get to draw a card each time I activate the Catapult's ability?",
-    "a": "Yes you will! Curiosity doesn't trigger only on combat damage, it triggers off of any damage the enchanted creature deals. Using the Catapult's ability will cause Curiosity to trigger, and you'll get to draw a card."
+    "a": "Yes you will! Curiosity doesn't trigger only on combat damage, it triggers off of any damage the enchanted creature deals. Using the Catapult's ability will cause Curiosity to trigger, and you'll get to draw a card.\nIf you're in a multiplayer game, you'll get to draw multiple cards each time you activate the Catapult's ability, since it will trigger off of each opponent dealt damage by the ability. If you damaged three opponents with the Catapult's ability, Curiosity will trigger three times and you'll draw three cards."
   },
   {
     "imgs": [

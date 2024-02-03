@@ -115,7 +115,7 @@
       "Ovinize"
     ],
     "q": "I have a <span class=\"autocard\">Graaz, Unstoppable Juggernaut</span> and some other creatures in play. My opponent casts <span class=\"autocard\">Ovinize</span> targeting Graaz. What happens to my other creatures?",
-    "a": "Surprisingly, they're still 5/3 Juggernauts, and this comes down to everyone's favorite Magic rules topic, layers!"
+    "a": "Surprisingly, they're still 5/3 Juggernauts, and this comes down to everyone's favorite Magic rules topic, layers! \nWe have a rule that says if an effect begins to apply in one layer, it will continue to apply in later layers, even if its source loses the ability in a later layer. The last ability of Graaz affects the subtypes of your creatures and it affects their power and toughness, so the ability applies in layer 4 and in layer 7. The removing abilities part of Ovinize applies in layer 6. Since Graaz's ability starts to apply in layer 4, it will continue to apply in layer 7, even though it loses its abilities in layer 6, so your other creatures will still be 5/3 Juggernauts. However, since Graaz lost its other abilities, they will not be forced to attack, and they can be blocked by Walls."
   },
   {
     "imgs": [

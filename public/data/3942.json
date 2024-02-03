@@ -5,7 +5,7 @@
       "Archfiend of the Dross"
     ],
     "q": "If I <span class=\"autocard\">murder</span> my opponent's <span class=\"autocard\">Archfiend of the Dross</span> while the Archfiend's upkeep trigger is on the stack, does my opponent lose the game when that trigger resolves?",
-    "a": "If the Archfiend has one or more oil counters when it died, then no, the game will use last known information to determine how many counters it had."
+    "a": "If the Archfiend has one or more oil counters when it died, then no, the game will use last known information to determine how many counters it had. \nIn the unlikely situation that it had zero oil counters when it died, then yes, the opponent will lose the game."
   },
   {
     "imgs": [

@@ -48,7 +48,6 @@
   },
   {
     "imgs": [
-      "Lava Spike",
       "Lava Spike"
     ],
     "q": "I have three <span class=\"autocard\">Lava Spike</span>s from <i>Modern Masters</i> that say \"target player\" and one <span class=\"autocard\">Lava Spike</span> from <i>Time Spiral Remastered</i> that says \"target player or planeswalker.\" Can I play all four cards in the same deck, and if so, which wording is correct?",
@@ -113,7 +112,7 @@
       "Havoc Festival"
     ],
     "q": "I've heard that <span class=\"autocard\">Heartless Hidetsugu</span> can kill a Two-Headed Giant team with one activation, but <span class=\"autocard\">Havoc Festival</span> doesn't. What's the difference?",
-    "a": "Let's look at Havoc Festival first. It has a triggered ability that triggers at the beginning of each player's upkeep. The team plays a shared turn, so two instances of this ability go on the stack, one for each player. Let's say the team is at 30 life when this happens. The first trigger resolves and asks the game what the player's life total is. The game uses the team's life total, which is 30. The effect halves that to 15, so the player loses 15 life, which reduces their team's life total to 15. Now, the second trigger resolves, and it asks the game for the second player's life total. This trigger sees a life total of 15 and halves that, rounding up, so the second player loses 8 life and the team is left with 7 life."
+    "a": "Let's look at Havoc Festival first. It has a triggered ability that triggers at the beginning of each player's upkeep. The team plays a shared turn, so two instances of this ability go on the stack, one for each player. Let's say the team is at 30 life when this happens. The first trigger resolves and asks the game what the player's life total is. The game uses the team's life total, which is 30. The effect halves that to 15, so the player loses 15 life, which reduces their team's life total to 15. Now, the second trigger resolves, and it asks the game for the second player's life total. This trigger sees a life total of 15 and halves that, rounding up, so the second player loses 8 life and the team is left with 7 life.\nHeartless Hidetsugu's activated ability first asks the game what each player's life total is, calculates how much damage to deal to each player, and then all that damage is dealt simultaneously. If the team starts out at 30 life, each player is dealt 15 life, so the team is left with 0 life. (If the team starts at an odd number, the team is left with 1 life because Hidetsugu's ability rounds down.)"
   },
   {
     "imgs": [
@@ -129,7 +128,7 @@
       "Ponder"
     ],
     "q": "I control <span class=\"autocard\">Field of Dreams</span> and my opponent plays <span class=\"autocard\">Ponder</span>. Do I get to see the three cards that my opponent is looking at, and maybe even the fourth card?",
-    "a": "No. At each point in time, you only get to see the one card that is the top card of your opponent's library. While your opponent is looking at the top three cards of their library, those cards are still considered to be in the library in their original order even though your opponent is physically holding them in their hand and looking at them. The card that was on top of their library at the time Ponder started to resolve is still the top card of their library, and that's the one card that's known to you. You have no reason to see any of the cards that are in the library below it."
+    "a": "No. At each point in time, you only get to see the one card that is the top card of your opponent's library. While your opponent is looking at the top three cards of their library, those cards are still considered to be in the library in their original order even though your opponent is physically holding them in their hand and looking at them. The card that was on top of their library at the time Ponder started to resolve is still the top card of their library, and that's the one card that's known to you. You have no reason to see any of the cards that are in the library below it.\nWhen your opponent puts the cards back in any order, this happens in one simultaneous action, and it may result in the order of the top three cards being changed. You get to see the new top card, but you don't get to see the other two cards as they're being put back."
   },
   {
     "imgs": [

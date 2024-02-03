@@ -4,7 +4,7 @@
       "Frodo Baggins"
     ],
     "q": "On <span class=\"autocard\">Frodo Baggins</span>, what does it mean by \"the Ring tempts you\"? And what does it mean to be the \"Ring-bearer\"?",
-    "a": "The <i>Lord of the Rings</i> set is introducing a new mechanic called \"The Ring\". It's not fully explained on the cards, but fear not, the set has a \"tip\" card that explains nearly all the nuances. This tip card can be seen to the right, the top part being the front and the bottom part being the back."
+    "a": "The <i>Lord of the Rings</i> set is introducing a new mechanic called \"The Ring\". It's not fully explained on the cards, but fear not, the set has a \"tip\" card that explains nearly all the nuances. This tip card can be seen to the right, the top part being the front and the bottom part being the back.\nMany cards say \"the Ring tempts you\". Each time it does, you must select a creature to be your Ring-bearer, if you control one. You may only ever have one Ring-bearer, but you can change it each time you are tempted.\n\"The Ring\" is an emblem that you can have at most one of. Each time you are tempted, it gains a new ability, and each of these abilities makes your Ring-bearer better. Once your \"The Ring\" has all four abilities, it can't get better, but you still count as being tempted for abilities that care."
   },
   {
     "imgs": [
@@ -152,6 +152,6 @@
       "Runeclaw Bear"
     ],
     "q": "Bryan Prillaman asks \"If my <span class=\"autocard\">Sauron, the Necromancer</span> attacks and exiles <span class=\"autocard\">Clone</span> from my graveyard with his attack trigger, and I have it copy my opponent's <span class=\"autocard\">Runeclaw Bear</span>, what characteristics will the token I create have?\"",
-    "a": "Short answer: 2/2 green Bear creature with a mana cost of <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"> named \"Runeclaw Bear\"."
+    "a": "Short answer: 2/2 green Bear creature with a mana cost of <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"> named \"Runeclaw Bear\".\nLonger answer: Sauron tries to make a Clone that is 3/3, black, and has menace, but as it enters the battlefield, Clone's ability copies all the characteristics of the Runeclaw Bear, overriding the 3/3, black, and menace. To help visualize this, I've created a mock-up of the three steps: Step 1: Clone in graveyard. Step 2: What Sauron is trying to create. Step 3: What the Clone looks like on the battlefield.\n<img src=\"images/article/clonewraith2.png\"><br>\n \n<br>"
   }
 ]

@@ -1,7 +1,7 @@
 const jsdom = require('jsdom');
 const { JSDOM } = jsdom;
 const fs = require('node:fs');
-const data = require('./2024.json');
+const data = require('./2023.json');
 
 const args = process.argv.slice(2);
 const id = args[0] || 4160;
@@ -13,6 +13,7 @@ const requestOptions = {
 
 const get = async (id) => {
     const output = [];
+    const outputMCList = [];
 
     console.log(`${id} started.`);
     try {
@@ -58,6 +59,8 @@ const get = async (id) => {
             output.push(item);
         });
 
+        let isMC = false;
+
         foundA.forEach((ans, idx) => {
             const dom = new JSDOM(ans);
 
@@ -78,16 +81,26 @@ const get = async (id) => {
                 link.outerHTML = `<span class="autocard">${cardName}</span>`;
             });
 
+            isMC =
+                isMC ||
+                !!dom.window.document.querySelectorAll('.specialbox').length;
+
             const extra = dom.window.document.querySelectorAll('div');
             extra.forEach((el) => (el.outerHTML = ''));
             const extra2 = dom.window.document.querySelectorAll('hr');
             extra2.forEach((el) => (el.outerHTML = ''));
+            // const extra3 = dom.window.document.querySelectorAll('input');
+            // extra3.forEach((el) => (el.outerHTML = ''));
 
             const [_, ...rest] = dom.window.document.body.innerHTML.split(':');
 
             // dedup images
             output[idx].imgs = [...new Set(output[idx].imgs)];
-            output[idx].a = rest.join(':').replaceAll('<br>\n<br>', '').trim();
+            output[idx].a = rest
+                .join(':')
+                .replaceAll('<br>\n<br>', '')
+                // .replaceAll('display: none;', '')
+                .trim();
         });
 
         fs.writeFile(
@@ -95,6 +108,10 @@ const get = async (id) => {
             JSON.stringify(output, null, '  '),
             (err) => {}
         );
+        if (isMC) {
+            fs.appendFile(`./mcs.json`, `${id}\n`, (err) => {});
+        }
+
         console.log(`${id} ended.`);
     } catch (e) {
         console.log(`${id} failed to fetch`);
@@ -111,5 +128,5 @@ const getBatch = async () => {
     // });
 };
 
-// get(4170);
+// get(4157);
 getBatch();

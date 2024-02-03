@@ -15,7 +15,7 @@
       "Invasion of Dominaria"
     ],
     "q": "How does <span class=\"autocard\">Vorinclex, Monstrous Raider</span> interact with <span class=\"autocard\">Invasion of Dominaria</span>? Does the interaction change if I have Vorinclex and my opponent plays the battle?",
-    "a": "If you control Vorinclex, he will not like your battles. Since your battle is entering the battlefield with defense counters on it, your Vorinclex is going to apply, and your battles are going to enter with twice as many counters on them, making them that much harder to defeat. For example, Invasion of Dominaria will enter with ten defense counters instead of five. But on the other hand, your opponent is going to love your Vorinclex. Their battles are going to enter with half as many counters, making it that much easier for them to defeat. So if you have Vorinclex in play and your opponent plays Invasion of Dominaria, it'll enter with two defense counters instead of five."
+    "a": "If you control Vorinclex, he will not like your battles. Since your battle is entering the battlefield with defense counters on it, your Vorinclex is going to apply, and your battles are going to enter with twice as many counters on them, making them that much harder to defeat. For example, Invasion of Dominaria will enter with ten defense counters instead of five. But on the other hand, your opponent is going to love your Vorinclex. Their battles are going to enter with half as many counters, making it that much easier for them to defeat. So if you have Vorinclex in play and your opponent plays Invasion of Dominaria, it'll enter with two defense counters instead of five.\nPerhaps you should leave Vorinclex, Monstrous Raider out of your battle deck."
   },
   {
     "imgs": [
@@ -77,7 +77,6 @@
   },
   {
     "imgs": [
-      "Hidetsugu and Kairi",
       "Hidetsugu and Kairi"
     ],
     "q": "I control <span class=\"autocard\">Hidetsugu and Kairi</span>, and I play a second <span class=\"autocard\">Hidetsugu and Kairi</span>. What happens?",
@@ -85,10 +84,11 @@
   },
   {
     "imgs": [
-      "Tribute to the World Tree"
+      "Tribute to the World Tree",
+      "Birds of Paradise"
     ],
     "q": "If I have two copies of <span class=\"autocard\">Tribute to the World Tree</span> in play, what happens when I cast a creature?",
-    "a": "When the creature enters, both Tributes will trigger. But each trigger will check the power of the creature only when the trigger resolves - it doesn't matter what the creature's power was when it entered the battlefield."
+    "a": "When the creature enters, both Tributes will trigger. But each trigger will check the power of the creature only when the trigger resolves - it doesn't matter what the creature's power was when it entered the battlefield. \nIf the creature's power is 3 or greater when each trigger resolves, then both Tribute triggers will have you draw a card. If the creature's power is 1 or 2 as it entered, when the first trigger resolves, the creature gets two +1/+1 counters, and the second trigger will have you draw a card (since it now has a power of 3 or more). Finally, if the creature had a power of 0 or less — I'm looking at you, <span class=\"autocard\">Birds of Paradise</span> — it will end up getting a total of four +1/+1 counters, two from each trigger."
   },
   {
     "imgs": [

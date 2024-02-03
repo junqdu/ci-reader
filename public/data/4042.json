@@ -103,7 +103,7 @@
       "Chatterfang, Squirrel General"
     ],
     "q": "If I have <span class=\"autocard\">Peregrin Took</span> and <span class=\"autocard\">Chatterfang, Squirrel General</span>, will creating a token means that I get infinite Peregrin and infinite Chatterfang triggers?",
-    "a": "No, because there are no triggers here. Both Peregrin and Chatterfang have replacement effects, not triggered abilities. Each one can only apply to the token-creation event once. They're not triggered abilities, so they don't \"trigger\" off of each other."
+    "a": "No, because there are no triggers here. Both Peregrin and Chatterfang have replacement effects, not triggered abilities. Each one can only apply to the token-creation event once. They're not triggered abilities, so they don't \"trigger\" off of each other. \nAssuming you want the most tokens, you want to apply Peregrin first - Peregrin will add one Food token to the total number of tokens created, but Chatterfang makes a Squirrel for each token you would create. For example, if you would create one Treasure token, you could apply Peregrin first, then Chatterfang, and ultimately create one Treasure, one Food, and two Squirrel tokens. If you applied Chatterfang first, you'd end up with one fewer Squirrel, because Peregrin only adds one Food to the total number of tokens being created, while Chatterfang adds a Squirrel for each token that would be created."
   },
   {
     "imgs": [

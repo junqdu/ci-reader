@@ -105,9 +105,15 @@ const get = async (id) => {
     }
 };
 
-// 4157
-// 4102
-// 4052
-// 3998
-// 3912
-get(3912);
+const getBatch = async () => {
+    const arr = [4157, 4102, 4052, 3998, 3912];
+    for (const datum of arr) {
+        await get(datum);
+    }
+    // data.forEach((datum) => {
+    //     await get(datum.id);
+    // });
+};
+
+// get(3912);
+getBatch();

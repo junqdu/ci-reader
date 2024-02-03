@@ -10,7 +10,6 @@
   },
   {
     "imgs": [
-      "Council of Echoes",
       "Council of Echoes"
     ],
     "q": "If my opponent controls a <span class=\"autocard\">Council of Echoes</span>, can I play my own copy of <span class=\"autocard\">Council of Echoes</span> with descend active and bounce my opponent's Council of Echoes?",
@@ -43,7 +42,7 @@
       "Geological Appraiser"
     ],
     "q": "What happens if I resolve <span class=\"autocard\">Geological Appraiser</span>'s discover 3 trigger but I don't have any cards with a mana value of 3 or less left in my library?",
-    "a": "Eventually, the discover trigger will have exiled all of the cards in your library. Once you're out of cards in your library, we can't exile any more cards, so we move on to the next step of resolving the trigger. You didn't exile anything castable with the discover trigger, so you won't cast a spell or put anything into your hand. Then all of those cards you just exiled will be put onto the library in a random order."
+    "a": "Eventually, the discover trigger will have exiled all of the cards in your library. Once you're out of cards in your library, we can't exile any more cards, so we move on to the next step of resolving the trigger. You didn't exile anything castable with the discover trigger, so you won't cast a spell or put anything into your hand. Then all of those cards you just exiled will be put onto the library in a random order.\nIn short - you don't get to cast anything with the trigger, and you effectively \"shuffled\" your library."
   },
   {
     "imgs": [
@@ -51,7 +50,7 @@
       "Virtue of Loyalty // Ardenvale Fealty"
     ],
     "q": "I control <span class=\"autocard\">Ojer Pakpatiq, Deepest Epoch</span>. If I cast <span class=\"autocard\">Virtue of Loyalty // Ardenvale Fealty</span> from my hand (the adventure part of Virtue of Loyalty), what happens when it resolves?",
-    "a": "Since the Fealty was cast from your hand, it will have rebound from Ojer Pakpatiq's effect. What happens when it resolves depends on which effect you let exile the Fealty when it resolves. The less exciting answer is letting adventure exile the spell. You won't be able to use rebound on your next upkeep, since it wasn't exiled to rebound, but you will be able to cast Virtue of Loyalty from exile later on."
+    "a": "Since the Fealty was cast from your hand, it will have rebound from Ojer Pakpatiq's effect. What happens when it resolves depends on which effect you let exile the Fealty when it resolves. The less exciting answer is letting adventure exile the spell. You won't be able to use rebound on your next upkeep, since it wasn't exiled to rebound, but you will be able to cast Virtue of Loyalty from exile later on.\nThe more interesting answer is letting rebound exile the spell. During your next upkeep, when the rebound trigger resolves, you can cast either Ardenvale Fealty again (in which case you'll exile it to adventure when it resolves), or you can cast it normally and cast Virtue of Loyalty. Rebound just says to cast the exiled card, there's nothing that says you have to cast an instant or sorcery with the rebound trigger, so you're free to cast it normally and cast the Virtue itself."
   },
   {
     "imgs": [
@@ -92,7 +91,7 @@
       "Sandswirl Wanderglyph"
     ],
     "q": "If I remove my opponent's <span class=\"autocard\">Sandswirl Wanderglyph</span>, am I free to cast spells and attack like normal?",
-    "a": "That depends on what you've done this turn. The Wanderglyph has two abilities - the first ability is a triggered ability that triggers when you cast a spell and will prevent you from attacking that turn. That effect will continue to apply, even if the Wanderglyph leaves play. But the last ability is a static ability, and that static ability only works for as long as the Wanderglyph is on the battlefield."
+    "a": "That depends on what you've done this turn. The Wanderglyph has two abilities - the first ability is a triggered ability that triggers when you cast a spell and will prevent you from attacking that turn. That effect will continue to apply, even if the Wanderglyph leaves play. But the last ability is a static ability, and that static ability only works for as long as the Wanderglyph is on the battlefield.\nIf you cast a spell to remove the Wanderglyph, you still won't be able to attack that turn since you're still affected by the effect of the triggered ability. But if you attack, then the Wanderglyph leaves play, the static ability preventing you from casting spells doesn't exist anymore, so you're free to cast spells."
   },
   {
     "imgs": [

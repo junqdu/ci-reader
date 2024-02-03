@@ -139,8 +139,7 @@
   {
     "imgs": [
       "Mesmeric Orb",
-      "Filter Out",
-      "Mesmeric Orb"
+      "Filter Out"
     ],
     "q": "My opponent just played a <span class=\"autocard\">Mesmeric Orb</span> and passed the turn. I have a whole bunch of permanents to untap. Can I play <span class=\"autocard\">Filter Out</span> in my upkeep in response to the <span class=\"autocard\">Mesmeric Orb</span> triggers?",
     "a": "Sure, but that won't stop the mill triggers from Mesmeric Orb. Once an ability has triggered, it exists independent from its source, and getting rid of the source won't counter the ability or stop it from resolving. If you want to stop the Orb from milling you, you'll have to bounce it before its ability even triggers, which means you'd have to bounce it at the end of your opponent's turn."

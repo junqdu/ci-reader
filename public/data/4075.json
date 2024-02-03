@@ -30,7 +30,7 @@
       "See Double"
     ],
     "q": "My opponent cast <span class=\"autocard\">Vraska, Betrayal's Sting</span> paying the 2 life for the Phyrexian hybrid mana symbol. While Vraska is still on the stack I copied it using <span class=\"autocard\">See Double</span>. Will my Vraska enter the battlefield with 4 or 6 loyalty?",
-    "a": "Your Vraska will enter with 6 loyalty, even though it was a copy of a Vraska that will enter with only 4 loyalty."
+    "a": "Your Vraska will enter with 6 loyalty, even though it was a copy of a Vraska that will enter with only 4 loyalty.\nThe full text for compleated can be found here:\n702.150a Compleated is a static ability found on some planeswalker cards. Compleated means \"If this permanent would enter the battlefield with one or more loyalty counters on it and the player who cast it chose to pay life for any part of its cost represented by Phyrexian mana symbols, it instead enters the battlefield with that many loyalty counters minus two for each of those mana symbols.\"\nYou did not choose to pay 2 life as part of casting Vraska, in fact you paid no mana at all for Vraska as she was just a copy of a spell."
   },
   {
     "imgs": [
@@ -38,7 +38,7 @@
       "March of Souls"
     ],
     "q": "In a four-player Commander game, each player (including me) controls two creatures and one opponent controls <span class=\"autocard\">Dictate of Erebos</span>. If I cast <span class=\"autocard\">March of Souls</span>, how many Spirits will each player have when the turn ends?",
-    "a": "The opponent who controls Dictate will have two Spirit tokens, and every one else will have no Spirits."
+    "a": "The opponent who controls Dictate will have two Spirit tokens, and every one else will have no Spirits.\nMarch of Souls destroys all creatures and creates the Spirit tokens as part of resolving. Then each player other than the Dictate player will have to sacrifice two creatures. This will leave the Dictate player as the only player with surviving tokens.\n<br>"
   },
   {
     "imgs": [
@@ -46,21 +46,21 @@
       "Threaten"
     ],
     "q": "My opponent controls <span class=\"autocard\">Frodo Baggins</span> and Frodo is currently their Ring-bearer. If I temporarily steal Frodo using <span class=\"autocard\">Threaten</span>, is Frodo still a Ring-bearer on my side? Is Frodo a Ring-bearer for my opponent when he returns to their control?",
-    "a": "Frodo stops being a Ring-bearer as you gain control of him and will not regain that status upon returning to the opponent's control."
+    "a": "Frodo stops being a Ring-bearer as you gain control of him and will not regain that status upon returning to the opponent's control.\nThe following rule helps clarify this:\n701.52a Certain spells and abilities have the text \"the Ring tempts you.\" Each time the Ring tempts you, choose a creature you control. That creature becomes your Ring-bearer until another creature becomes your Ring-bearer or another player gains control of it.\nSo a Ring-bearer loses its status as soon an another player gains control of it. Frodo can become the Ring-bearer again if his controller becomes tempted by the Ring again.\n<br>"
   },
   {
     "imgs": [
       "Rivendell"
     ],
     "q": "During a Competitive Sealed event, I activate <span class=\"autocard\">Rivendell</span> at the end of my opponents turn to scry 2. I choose to leave both cards on top. It then becomes my turn and I draw a card. I then notice I could not have activated Rivendell last turn as I control no legendary creatures, so I call a judge. What should happen next?",
-    "a": "The judge has three main options. 1) investigate for cheating. As you called this on yourself, it seems unlikely to go too deep down this path; 2) back up to just before the point of the mistake, undoing any actions taken; 3) leave the game state as is, as backing up might be too disruptive."
+    "a": "The judge has three main options. 1) investigate for cheating. As you called this on yourself, it seems unlikely to go too deep down this path; 2) back up to just before the point of the mistake, undoing any actions taken; 3) leave the game state as is, as backing up might be too disruptive.\nPersonally, I feel not a lot has happened, so I would back up to before the error. This means randomly placing a card from your hand on top of your library, then shuffling the random portion of the library. (If some cards were legally scried to the bottom keeping those where they belong and keeping the card returned to the top of the library on top). You would continue the game from the end of the opponent's last turn, with you not having used the Rivendell."
   },
   {
     "imgs": [
       "Descendants' Fury"
     ],
     "q": "Does <span class=\"autocard\">Descendants' Fury</span> trigger for each of my creatures that dealt damage to an opponent?",
-    "a": "It only triggers once if you have multiple creatures hit the same opponent with combat damage. So at most you can sacrifice one of them."
+    "a": "It only triggers once if you have multiple creatures hit the same opponent with combat damage. So at most you can sacrifice one of them.\nHowever, if you have more than one creature hit more than one opponent with combat damage, it will trigger once per opponent. This will allow you to sacrifice one creature per opponent, but each sacrificed creature must have hit a different opponent."
   },
   {
     "imgs": [
@@ -117,7 +117,7 @@
       "Ugin, the Spirit Dragon"
     ],
     "q": "<span class=\"autocard\">Ugin's Mastery</span> manifested my <span class=\"autocard\">Ugin, the Spirit Dragon</span> last turn. This turn I attacked with three manifested creatures, including the Spirit Dragon. Can I use Ugin's Mastery's trigger to flip my Spirit Dragon face up in the middle of combat?",
-    "a": "You can. However, it's worth noting that Ugin, the Spirit Dragon will be immediately be placed in the graveyard as it has no loyalty counters."
+    "a": "You can. However, it's worth noting that Ugin, the Spirit Dragon will be immediately be placed in the graveyard as it has no loyalty counters.\nWhen a face-down permanent becomes face up, it doesn't trigger enter the battlefield triggers or suddenly get affected by replacement effects that should have happened when they were first manifested, those things simply don't happen. In the case of any planeswalkers, they won't get the loyalty counters they should have entered with."
   },
   {
     "imgs": [
@@ -139,10 +139,11 @@
     "imgs": [
       "Edgar, Charmed Groom",
       "Sludge Monster",
-      "Edgar Markov's Coffin"
+      "Edgar Markov's Coffin",
+      "Kozilek, Butcher of Truth"
     ],
     "q": "My <span class=\"autocard\">Edgar, Charmed Groom</span> has a slime counter on it from my opponent's <span class=\"autocard\">Sludge Monster</span> that they still control. If Edgar dies, does he return to the battlefield as his <span class=\"autocard\">Edgar Markov's Coffin</span>?",
-    "a": "He does not. Dies triggers (and triggers that happen from being put into the graveyard from the battlefield) trigger from the battlefield, not from the graveyard. Edgar had no abilities on the battlefield when he died, so nothing happens."
+    "a": "He does not. Dies triggers (and triggers that happen from being put into the graveyard from the battlefield) trigger from the battlefield, not from the graveyard. Edgar had no abilities on the battlefield when he died, so nothing happens.\nWeirdly, triggers that happen from a card being put into the graveyard from anywhere, do trigger from the graveyard and so would happen to such a creature with a slime counter on them. So if <span class=\"autocard\">Kozilek, Butcher of Truth</span> has a slime counter and dies, it would cause your graveyard to get shuffled into your library.<br>"
   },
   {
     "imgs": [
@@ -150,7 +151,7 @@
       "Isareth the Awakener"
     ],
     "q": "During a <i>Commander Masters</i> draft, can <span class=\"autocard\">Ulamog, the Ceaseless Hunger</span> and <span class=\"autocard\">Isareth the Awakener</span> both be my commanders by using the partner rule?",
-    "a": "Yes, they can. During a <i>Commander Masters</i> draft any legendary creature (or any card with the \"this can be your commander\" ability) that has one or fewer colors in its color identity gains the partner ability."
+    "a": "Yes, they can. During a <i>Commander Masters</i> draft any legendary creature (or any card with the \"this can be your commander\" ability) that has one or fewer colors in its color identity gains the partner ability.\nThis includes colorless legendary creatures like Ulamog. It's important to note, it may be hard to draft enough black cards to hit the necessary sixty card minimum (though you do have access to any number of basic Swamps)."
   },
   {
     "imgs": [
@@ -159,6 +160,6 @@
       "Forest"
     ],
     "q": "I'm playing in the Gavin Unknown Event and have chosen Arvad of the Weatherlight to be my commander. Can I add <span class=\"autocard\">Mountain</span>s, <span class=\"autocard\">Island</span>s, or <span class=\"autocard\">Forest</span>s to my deck?",
-    "a": "You can not. Arvad only helps you sneak only legendary permanents into your deck. However, you can sneak legendary lands that tap for <img src=\"/ci-reader/images/symbols/R.png\" class=\"mana\">, <img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\">, or <img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"> into your deck, since Arvad allows you to sneak not just legendary creatures but any legendary permanent into your deck."
+    "a": "You can not. Arvad only helps you sneak only legendary permanents into your deck. However, you can sneak legendary lands that tap for <img src=\"/ci-reader/images/symbols/R.png\" class=\"mana\">, <img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\">, or <img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"> into your deck, since Arvad allows you to sneak not just legendary creatures but any legendary permanent into your deck.<br>"
   }
 ]

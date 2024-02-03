@@ -38,7 +38,7 @@
       "Heroic Intervention"
     ],
     "q": "Earlier this turn, my opponent resolved <span class=\"autocard\">Dress Down</span>. Can I use <span class=\"autocard\">Heroic Intervention</span> to give my creatures hexproof and indestructible?",
-    "a": "You can. Adding and removing abilities happens in the same layer, layer 6. Since they both apply in the same layer, we do them in time stamp order: apply the oldest first, then the next oldest, until we get to the youngest happening last. Dress Down happened first, so we remove all abilities, then Intervention adds some abilities."
+    "a": "You can. Adding and removing abilities happens in the same layer, layer 6. Since they both apply in the same layer, we do them in time stamp order: apply the oldest first, then the next oldest, until we get to the youngest happening last. Dress Down happened first, so we remove all abilities, then Intervention adds some abilities.\nTo be super technical, when applying multiple effects in the same layer you apply any C.D.A.s first, and then apply remaining continuous effects in time stamp order and even this order can be forced to re-arrange if there are any dependencies. None of these exceptions are relevant to this question, but if you would like to learn more about Layers, you can go to <a href=\"/article/3327\">this article.</a>"
   },
   {
     "imgs": [
@@ -66,7 +66,7 @@
       "Aether Channeler"
     ],
     "q": "I was told that controlling <span class=\"autocard\">Brago, King Eternal</span>, <span class=\"autocard\">Sol Ring</span> and <span class=\"autocard\">Strionic Resonator</span> was an infinite combo. I don't understand how it works, could you explain it?",
-    "a": "This is an infinite combo, however without at least one more card, all it allows you to do is \"blink\" Brago, Sol Ring, and Resonator any number of times you like during the damage step of the combat phase. If you add <span class=\"autocard\">Soul Warden</span> you gain any amount of life you like, or if you add <span class=\"autocard\">Corpse Knight</span> you can have each opponent lose any amount of life. <span class=\"autocard\">Aether Channeler</span> would be quite good in this combo, but be careful not to deck yourself."
+    "a": "This is an infinite combo, however without at least one more card, all it allows you to do is \"blink\" Brago, Sol Ring, and Resonator any number of times you like during the damage step of the combat phase. If you add <span class=\"autocard\">Soul Warden</span> you gain any amount of life you like, or if you add <span class=\"autocard\">Corpse Knight</span> you can have each opponent lose any amount of life. <span class=\"autocard\">Aether Channeler</span> would be quite good in this combo, but be careful not to deck yourself.\nHow the combo works is you have to deal combat damage to an opponent with Brago. Before the Brago's combat damage triggered ability resolves, you want to copy it by using Strionic Resonator and tapping Sol Ring for <img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\">. You want the copy at minimum to blink Sol Ring and Resonator, and it can't hurt to blink Brago as well. After the copy resolves, you can now copy the original trigger again because the original still hasn't resolved and both Sol Ring and Resonator are untapped. Rinse and repeat as many times as you like."
   },
   {
     "imgs": [
@@ -74,7 +74,7 @@
       "Jon Irenicus, Shattered One"
     ],
     "q": "If I give an opponent my <span class=\"autocard\">Phylactery Lich</span> with <span class=\"autocard\">Jon Irenicus, Shattered One</span>'s ability, what happens to the Lich since the opponent doesn't control a permanent with a phylactery counter on it and can't sacrifice the Lich?",
-    "a": "The game ends in a draw if someone can't get Phylactery Lich off of the battlefield at instant speed or, I suppose, give the same opponent a permanent with a phylactery counter at instant speed."
+    "a": "The game ends in a draw if someone can't get Phylactery Lich off of the battlefield at instant speed or, I suppose, give the same opponent a permanent with a phylactery counter at instant speed.\nThe reason for this that the Lich has what's called a \"state trigger.\" These can only trigger if a copy of the same trigger isn't already on the stack. Immediately after the opponent gains control of the Lich, the game goes, \"hey, you don't have a permanent with a phylactery counter, so you have to sacrifice that Lich.\" But because the opponent can't sacrifice the Lich, the trigger resolves without anything happening. Then the state trigger triggers again. With the same result. This now happens at infinitum and the game is stuck in an endless loop of mandatory actions. If a player can get the Lich off the battlefield at instant speed, they can do so while the Lich's state trigger is on the stack, ending the infinite loop."
   },
   {
     "imgs": [
@@ -93,7 +93,7 @@
       "Brazen Cannonade"
     ],
     "q": "Does <span class=\"autocard\">Isshin, Two Heavens as One</span>'s ability double either of <span class=\"autocard\">Brazen Cannonade</span>'s triggered abilities?",
-    "a": "Isshin will not double either trigger from Cannonade. Isshin's ability only doubles triggers that trigger from a creature becoming an attacking creature. Brazen Cannonade's first trigger is triggered by creatures (that happen to be attackers) dying. Cannonade's second trigger triggers at the beginning of each postcombat main phase, if you attacked with a creature this turn."
+    "a": "Isshin will not double either trigger from Cannonade. Isshin's ability only doubles triggers that trigger from a creature becoming an attacking creature. Brazen Cannonade's first trigger is triggered by creatures (that happen to be attackers) dying. Cannonade's second trigger triggers at the beginning of each postcombat main phase, if you attacked with a creature this turn.\n<br>"
   },
   {
     "imgs": [
@@ -145,7 +145,7 @@
       "Control Magic"
     ],
     "q": "My opponent has controlled <span class=\"autocard\">Scion of Darkness</span> for several turns. This turn I stole it by enchanting it with <span class=\"autocard\">Control Magic</span> and then tried to attack with it. My opponent says I can't attack with it, because it has summoning sickness. Is my opponent correct?",
-    "a": "Your opponent is correct. In simple terms, a creature that changes control is \"re-summon sicked\"."
+    "a": "Your opponent is correct. In simple terms, a creature that changes control is \"re-summon sicked\". \nThe full rule is:<br>\n302.6. A creature's activated ability with the tap symbol or the untap symbol in its activation cost can't be activated unless the creature has been under its controller's control continuously since their most recent turn began. A creature can't attack unless it has been under its controller's control continuously since their most recent turn began. This rule is informally called the \"summoning sickness\" rule.\n<br>"
   },
   {
     "imgs": [

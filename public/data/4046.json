@@ -10,11 +10,10 @@
   {
     "imgs": [
       "The First Sliver",
-      "The First Sliver",
       "Battering Sliver"
     ],
     "q": "My commander is <span class=\"autocard\">The First Sliver</span> and every nonland in my deck is a Sliver. When I cast <span class=\"autocard\">The First Sliver</span> it cascades. If I cascade into another Sliver, let's say <span class=\"autocard\">Battering Sliver</span>, do I get to cascade again?",
-    "a": "You do not. The First Sliver is still on the stack when you cascaded into Battering Sliver. The First Sliver's ability that gives Slivers you cast cascade only functions while The First Sliver is on the battlefield."
+    "a": "You do not. The First Sliver is still on the stack when you cascaded into Battering Sliver. The First Sliver's ability that gives Slivers you cast cascade only functions while The First Sliver is on the battlefield.\nOnce The First Sliver is on the battlefield, you can start chaining Slivers that cascade into smaller Slivers, but when you cast The First Sliver itself, usually the best it can do is get you one Sliver."
   },
   {
     "imgs": [
@@ -23,7 +22,7 @@
       "Day of Judgment"
     ],
     "q": "I control <span class=\"autocard\">Elenda, the Dusk Rose</span>, two <span class=\"autocard\">Barony Vampire</span>s, and two 1/1 Vampire tokens. Elenda currently has two +1/+1 counters on her. If my opponent casts <span class=\"autocard\">Day of Judgment</span>, how many Vampire tokens does her death trigger make?",
-    "a": "The short answer is three. Elenda died with 3 power, so her trigger makes three Vampires."
+    "a": "The short answer is three. Elenda died with 3 power, so her trigger makes three Vampires.\nLong answer, when Elenda dies to the Day of Judgment, she triggers five times. Four triggers to give her a +1/+1 counter and one to make Vampires based on her power. As you control all of these triggers, you can put them on the stack in any order you like, though it will make no difference. Each ability that tries to put a +1/+1 counter on her will fail to do anything as she is now in the graveyard. Her own death trigger will check the power she had as she died, not as she exists in the graveyard, and see she had two +1/+1 counters when she died and makes a total of three Vampires."
   },
   {
     "imgs": [
@@ -44,10 +43,11 @@
     "imgs": [
       "Auntie Blyte, Bad Influence",
       "Mana Confluence",
-      "Soulgorger Orgg"
+      "Soulgorger Orgg",
+      "City of Brass"
     ],
     "q": "I control <span class=\"autocard\">Auntie Blyte, Bad Influence</span> and use <span class=\"autocard\">Mana Confluence</span> to make a <img src=\"/ci-reader/images/symbols/R.png\" class=\"mana\">. Does this put a +1/+1 counter on Auntie Blyte?",
-    "a": "It does not. Auntie Blyte is looking for damage dealt to you by your permanents. Mana Confluence is paying life as a cost. Paying life as a cost or <span class=\"autocard\">Soulgorger Orgg</span> do not count as being dealt damage."
+    "a": "It does not. Auntie Blyte is looking for damage dealt to you by your permanents. Mana Confluence is paying life as a cost. Paying life as a cost or <span class=\"autocard\">Soulgorger Orgg</span> do not count as being dealt damage. \nYou could use <span class=\"autocard\">City of Brass</span> and that would work as the City deals 1 damage to you when it becomes tapped."
   },
   {
     "imgs": [
@@ -80,7 +80,7 @@
       "Questing Beast"
     ],
     "q": "My opponent cast <span class=\"autocard\">The One Ring</span> and this turn I'm attacking my opponent with <span class=\"autocard\">Questing Beast</span>. Does my opponent take damage this turn?",
-    "a": "Your opponent does take combat damage from the Questing Beast. Protection is four abilities in one:"
+    "a": "Your opponent does take combat damage from the Questing Beast. Protection is four abilities in one:<br>\n1) Prevent all damage from sources it has protection from<br>\n2) Can't have things attached to it that it has protection from<br>\n3) Can't be blocked by things it has protection from<br>\n4) Can't be targeted by things it has protection from\nQuesting Beast by virtue of being on the battlefields makes it so your combat damage can't be prevented."
   },
   {
     "imgs": [
@@ -106,10 +106,11 @@
   },
   {
     "imgs": [
-      "Urabrask's Forge"
+      "Urabrask's Forge",
+      "Moment of Silence"
     ],
     "q": "If I have an <span class=\"autocard\">Urabrask's Forge</span> and choose not to attack with any creatures this turn, does the Forge still trigger?",
-    "a": "Yes, it will. Each of your turns will have a combat phase even if you chose not to attack or can't use it because you have no creatures that can attack."
+    "a": "Yes, it will. Each of your turns will have a combat phase even if you chose not to attack or can't use it because you have no creatures that can attack.\n(Yes, it's possible to not have a combat phase because of cards like <span class=\"autocard\">Moment of Silence</span>, but the above answer is about usual turns.)\n<br>"
   },
   {
     "imgs": [
@@ -139,7 +140,7 @@
       "Robe of Stars"
     ],
     "q": "I have a 0/0 Germ token wearing a <span class=\"autocard\">Robe of Stars</span>. If I use the Robes ability to phase out the token, what happens to both of them now and as I start my next turn?",
-    "a": "Both permanents phase out. The token continues to exist. Phasing a token out doesn't eliminate the token. As your next turn begins, before you untap, both the Germ token and the Robe of Stars phase back in and the Robe of Stars will still be attached to the Germ token."
+    "a": "Both permanents phase out. The token continues to exist. Phasing a token out doesn't eliminate the token. As your next turn begins, before you untap, both the Germ token and the Robe of Stars phase back in and the Robe of Stars will still be attached to the Germ token.\nIf the Germ had any other equipment or Auras attached to it, those too would phase out with it, and then phase back in as your next turn begins, all still attached to the Germ."
   },
   {
     "imgs": [

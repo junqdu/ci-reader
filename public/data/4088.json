@@ -5,11 +5,10 @@
       "Granitic Titan"
     ],
     "q": "I control <span class=\"autocard\">Agatha of the Vile Cauldron</span> and have a <span class=\"autocard\">Granitic Titan</span> in my hand. Does Agatha reduce the cost to cycle the Titan out of my hand?",
-    "a": "Agatha does not. By default, abilities of permanents only work on things also on the battlefield, unless those abilities either:"
+    "a": "Agatha does not. By default, abilities of permanents only work on things also on the battlefield, unless those abilities either: \nA) could only work on things in other zones.<br>\nand/or<br>\nB) specify which zones they work in."
   },
   {
     "imgs": [
-      "Aquatic Alchemist // Bubble Up",
       "Aquatic Alchemist // Bubble Up"
     ],
     "q": "I have an <span class=\"autocard\">Aquatic Alchemist // Bubble Up</span> in my graveyard and a second copy of Aquatic Alchemist in my hand. Can I use the Adventure side of the one in my hand (<span class=\"autocard\">Aquatic Alchemist // Bubble Up</span>) to put the Aquatic Alchemist in my graveyard on top of my library?",
@@ -27,10 +26,11 @@
   {
     "imgs": [
       "Ashiok's Reaper",
-      "Murder"
+      "Murder",
+      "Nevinyrral's Disk"
     ],
     "q": "Cool. If the Wicked Role was enchanting my <span class=\"autocard\">Ashiok's Reaper</span> instead and then it got <span class=\"autocard\">Murder</span>ed, would I still draw a card?",
-    "a": "You would not. The Reaper can only see enchantments \"die\" while it's still alive or that \"die\" simultaneously with itself. In the scenario you proposed, the Reaper died, then a moment later Wicked Role \"dies\" for not being attached to anything."
+    "a": "You would not. The Reaper can only see enchantments \"die\" while it's still alive or that \"die\" simultaneously with itself. In the scenario you proposed, the Reaper died, then a moment later Wicked Role \"dies\" for not being attached to anything.\nHowever, if the Reaper and the Wicked Role died at the same time, say to an exploding <span class=\"autocard\">Nevinyrral's Disk</span>, then yes, you would get to still draw the card."
   },
   {
     "imgs": [
@@ -65,8 +65,7 @@
     "imgs": [
       "The End",
       "Savage Packmate",
-      "Child of the Pack",
-      "The End"
+      "Child of the Pack"
     ],
     "q": "I used <span class=\"autocard\">The End</span> to exile my opponent's <span class=\"autocard\">Savage Packmate</span>. When I search the opponent's graveyard, library, and hand, do I exile cards named Savage Packmate or <span class=\"autocard\">Child of the Pack</span>?",
     "a": "You only can find Savage Packmates during the search, which means you fail as that is never a name that will show up in those zones. <span class=\"autocard\">The End</span> asks to find cards with the same name as the \"permanent\" that was exiled, this means \"what it had for a name when it was on the battlefield\"."
@@ -120,7 +119,7 @@
       "Rankle's Prank"
     ],
     "q": "My opponent casts <span class=\"autocard\">Rankle's Prank</span> choosing all three modes. Do I get to see what cards my opponent discards before I have to decide what I will discard? Do I get to know what creatures my opponent will sacrifice before I choose what creatures I sacrifice?",
-    "a": "Let's assume Rankle's Prank was cast in your opponent's turn, since it's a sorcery. Your opponent does decide what two cards they will be discarding before you do, but this is indicated by putting them off to the side without revealing what they are. Then you will do the same (indicate two cards you will discard). Then, after all players have chosen the cards they will discard, they all get discarded simultaneously. This means for the discard mode, you will not know what your opponent is discarding before you make your choices."
+    "a": "Let's assume Rankle's Prank was cast in your opponent's turn, since it's a sorcery. Your opponent does decide what two cards they will be discarding before you do, but this is indicated by putting them off to the side without revealing what they are. Then you will do the same (indicate two cards you will discard). Then, after all players have chosen the cards they will discard, they all get discarded simultaneously. This means for the discard mode, you will not know what your opponent is discarding before you make your choices. \nHowever, during the third mode, the opponent will choose the creatures they will sacrifice, and then you get to make your choice fully knowing which creatures your opponent will sacrifice. Then, after all players have chosen the creatures are all sacrificed simultaneously.\nIn both modes, the choices are made in player turn order, starting with the player whose turn it is. If the opponent somehow cast this spell during your turn, the order would be reversed (you choose first, then the opponent)."
   },
   {
     "imgs": [

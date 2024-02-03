@@ -76,7 +76,7 @@
       "Dark-Dweller Oracle"
     ],
     "q": "While I have three opponents, if I attacked with <span class=\"autocard\">Genasi Enforcers</span>, and assuming each went unblocked, can I sacrifice the tokens after they deal damage but before they get exiled with a card like <span class=\"autocard\">Dark-Dweller Oracle</span>?",
-    "a": "Short answer: Yes, you can."
+    "a": "Short answer: Yes, you can. \nLong answer: In a normal combat phase there are five steps: Beginning of Combat Step, Declare Attackers Step, Declare Blockers Step, Combat Damage Step, and End of Combat Step. Combat damage is dealt as the Combat Damage Step begins without using the stack, then each player gets a chance to cast spells and activate abilities. This is a place where you could sacrifice the tokens to Dark-Dweller before they get exiled. When the End of Combat step begins, triggered abilities for \"at end of combat\" get put on the stack. This is another time and the last chance to sacrifice the tokens before they get exiled as their exile trigger is on the stack waiting to resolve."
   },
   {
     "imgs": [
@@ -133,7 +133,7 @@
       "Boomerang"
     ],
     "q": "My commander, <span class=\"autocard\">Skullbriar, the Walking Grave</span>, is on the battlefield with three +1/+1 counters on him. My opponent <span class=\"autocard\">Boomerang</span>s Skullbriar. Can I choose to move him to the command zone so he doesn't lose his counters?",
-    "a": "You can! There are two different rules that get your commander back to the command zone. 1) A state based action that moves your commander after it moved to a public zone (graveyard or exile). 2) a replacement effect that moves your commander to the command zone instead of it moving to a private zone (hand, library). This works quite well for Skullbriar as he never wants to go to a private zone for even a second."
+    "a": "You can! There are two different rules that get your commander back to the command zone. 1) A state based action that moves your commander after it moved to a public zone (graveyard or exile). 2) a replacement effect that moves your commander to the command zone instead of it moving to a private zone (hand, library). This works quite well for Skullbriar as he never wants to go to a private zone for even a second. \n<br>"
   },
   {
     "imgs": [
@@ -146,7 +146,7 @@
   {
     "imgs": [],
     "q": "If I'm in a tournament and my opponent and I draw the third game of a match, like in the situation of the last question, what happens next? Do we play another game? Is the whole match a draw?",
-    "a": "Depends on how much time is left in round. If time hasn't been called for the round yet, you do play another game. Most Constructed matches will have only fifty minutes to complete. You keep playing games until one player has won two games or until time is called. It is possible to draw more than one game in a match."
+    "a": "Depends on how much time is left in round. If time hasn't been called for the round yet, you do play another game. Most Constructed matches will have only fifty minutes to complete. You keep playing games until one player has won two games or until time is called. It is possible to draw more than one game in a match. \nBy the way, the <b>Magic</b> Companion App doesn't have a way to enter drawn games. If you have a game or match that ends in draw, you will want to call a judge to see how the Tournament Organizer for the event wants those reported.\nIf you are reporting your matches on paper match slips, you should note the number of drawn games in the draw field.\nNote that if Alex and Nancy played a match that ended with Nancy wining one game and the two of them drawing three games, Nancy wins the match as she won more games than Alex. If they both have the same number of game wins and any number of drawn games, then the whole match ends in draw.\n<br>"
   },
   {
     "imgs": [
@@ -155,7 +155,7 @@
       "Zuran Orb"
     ],
     "q": "My opponent controls <span class=\"autocard\">Embodiment of Insight</span>, <span class=\"autocard\">Yedora, Grave Gardener</span>, and <span class=\"autocard\">Zuran Orb</span>. He says he can make infinite mana and infinite life. I don't understand the combo, can you explain it?",
-    "a": ""
+    "a": "<br>\nThe steps are:<br>\n1) Put a land on to battlefield.<br>\n2) Trigger Embodiment, turn a land into a land creature.<br>\n3) Tap that land creature for mana.<br>\n4) Sacrifice the land creature for 2 life using Zuran Orb.<br>\n5) Yedora reanimates that land (or creature) as a face-down Forest.<br>\n6) Go back to step 2, repeat.\nThe combo can also start in step 5 if a creature card other than Embodiment or Yedora dies."
   },
   {
     "imgs": [

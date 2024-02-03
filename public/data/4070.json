@@ -110,7 +110,7 @@
       "Tainted Remedy"
     ],
     "q": "I control <span class=\"autocard\">Sheoldred, the Apocalypse</span> along with an <span class=\"autocard\">Alhammarret's Archive</span>. However, my opponent has anticipated my combo and has a <span class=\"autocard\">Tainted Remedy</span> in play. When I draw a card, how much life will I lose, 2 life or 4 life?",
-    "a": "You'll get to choose how much life you want to lose. When you draw a card and Sheoldred's trigger resolves, you would gain 2 life. But we have two replacement effects that want to apply - the Archive wants to double the life gained, and the Remedy wants you to lose that much life instead. You choose the order the replacement effects are applied in. If you apply the Archive first, the life gained would be doubled to 4, and then the Remedy applies after that and you lose 4 life instead. But if you apply the Remedy first, you lose 2 life, and the Archive won't apply anymore since you're no longer gaining life."
+    "a": "You'll get to choose how much life you want to lose. When you draw a card and Sheoldred's trigger resolves, you would gain 2 life. But we have two replacement effects that want to apply - the Archive wants to double the life gained, and the Remedy wants you to lose that much life instead. You choose the order the replacement effects are applied in. If you apply the Archive first, the life gained would be doubled to 4, and then the Remedy applies after that and you lose 4 life instead. But if you apply the Remedy first, you lose 2 life, and the Archive won't apply anymore since you're no longer gaining life.\nIf it was up to me, I'd choose to lose 2 life instead of losing 4 life."
   },
   {
     "imgs": [

@@ -27,7 +27,7 @@
       "Lier, Disciple of the Drowned"
     ],
     "q": "Will <span class=\"autocard\">Return the Past</span> let me cast an adventure spell from my graveyard like <span class=\"autocard\">Karvanista, Loyal Lupari // Lupari Shield</span> from my graveyard?",
-    "a": "Surprisingly, yes! This works the same way as <span class=\"autocard\">Lier, Disciple of the Drowned</span> works with adventure spells. Before we put the spell on the stack when we begin casting it, we use its alternative characteristics to see if we're allowed to cast it. If you're casting Lupari Shield, you're casting an instant or sorcery spell, which means that the Return gives it flashback, and that means you can cast it for its flashback cost."
+    "a": "Surprisingly, yes! This works the same way as <span class=\"autocard\">Lier, Disciple of the Drowned</span> works with adventure spells. Before we put the spell on the stack when we begin casting it, we use its alternative characteristics to see if we're allowed to cast it. If you're casting Lupari Shield, you're casting an instant or sorcery spell, which means that the Return gives it flashback, and that means you can cast it for its flashback cost.\nAnd, as an added bonus, when it resolves, you can choose to exile it to adventure, and can cast Karvanista from exile later on!"
   },
   {
     "imgs": [
@@ -42,14 +42,14 @@
       "Assault Suit"
     ],
     "q": "If I crew <span class=\"autocard\">RMS Titanic</span> and equip it with <span class=\"autocard\">Assault Suit</span>, what happens if it deals combat damage to a player?",
-    "a": "You get your Treasures, and you get to keep the RMS Titanic around. You're not required to sacrifice the RMS Titanic when its trigger resolves in order to get the Treasures. Because of Assault Suit, you can't sacrifice the RMS Titanic when the trigger resolves, but you'll still get the Treasures, and you'll be able to keep the RMS Titanic around for another attack on your next turn."
+    "a": "You get your Treasures, and you get to keep the RMS Titanic around. You're not required to sacrifice the RMS Titanic when its trigger resolves in order to get the Treasures. Because of Assault Suit, you can't sacrifice the RMS Titanic when the trigger resolves, but you'll still get the Treasures, and you'll be able to keep the RMS Titanic around for another attack on your next turn.\n<br>"
   },
   {
     "imgs": [
       "Blink"
     ],
     "q": "How exactly does <span class=\"autocard\">Blink</span> work?",
-    "a": "We're used to Sagas that list their chapters in a normal progression. The first chapter is followed by the second, which is followed by the third, and so on. But Blink works a little differently than what you're used to. The first ability is the first and third chapters, not the second chapter, and the last ability is the second and fourth chapters."
+    "a": "We're used to Sagas that list their chapters in a normal progression. The first chapter is followed by the second, which is followed by the third, and so on. But Blink works a little differently than what you're used to. The first ability is the first and third chapters, not the second chapter, and the last ability is the second and fourth chapters. \nWhen it enters, you'll do chapter I, and can shuffle a creature into its owner's library and its controller investigates. Then the second chapter happens, and you makes the 2/2 Alien Angel token. The third chapter is a repeat of the first chapter, so you shuffle a creature into the library and its controller investigates again. Then the fourth chapter happens, and you make another 2/2 Alien Angel token."
   },
   {
     "imgs": [
@@ -63,7 +63,6 @@
     "imgs": [
       "Amy Pond",
       "Rory Williams",
-      "Rory Williams",
       "The Eleventh Doctor"
     ],
     "q": "Since <span class=\"autocard\">Amy Pond</span> has both Partner With <span class=\"autocard\">Rory Williams</span> and Doctor's Companion, does that mean I'm allowed to have three commanders?",
@@ -76,7 +75,7 @@
       "Laelia, the Blade Reforged"
     ],
     "q": "I have <span class=\"autocard\">The War Doctor</span> in play. I attack with <span class=\"autocard\">Ryan Sinclair</span>, and I exile four lands and a nonland card to his trigger. How many counters does The War Doctor get?",
-    "a": "The surprising answer here is that The War Doctor gets five counters, not one counter. Those of you who have encountered <span class=\"autocard\">Laelia, the Blade Reforged</span>/cascade probably understand why."
+    "a": "The surprising answer here is that The War Doctor gets five counters, not one counter. Those of you who have encountered <span class=\"autocard\">Laelia, the Blade Reforged</span>/cascade probably understand why.\nWhen we're resolving Ryan's trigger, we don't know how many cards we need to exile ahead of time, since we're exiling until we exile a nonland card. That means we have to exile the top card of the library card, stop, look to see what that card is, and if it's a land card, exile another card (and if it's a nonland card, proceed with the rest of the ability). Because we are exiling until we exile a card of a certain type, we exile those cards one at a time, not all at the same time, and that means The War Doctor triggers for each card exiled with Ryan's attack trigger. In this example, The War Doctor ends up with five time counters and not one time counter, since Ryan's trigger ended up exiling five cards before we found a nonland card."
   },
   {
     "imgs": [
