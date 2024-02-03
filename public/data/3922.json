@@ -4,14 +4,14 @@
       "Decimate"
     ],
     "q": "Can I cast <span class=\"autocard\">Decimate</span> even if there are no artifacts in play?",
-    "a": "You cannot. In order to cast Decimate, you need four targets: an artifact, a creature, an enchantment, and a land. That means you need to have all four types in play to be able to cast it. If there are no artifacts on the battlefield, then you can't choose legal targets for Decimate and you won't be able to cast it.\n<br>"
+    "a": "You cannot. In order to cast Decimate, you need four targets: an artifact, a creature, an enchantment, and a land. That means you need to have all four types in play to be able to cast it. If there are no artifacts on the battlefield, then you can't choose legal targets for Decimate and you won't be able to cast it.<br>"
   },
   {
     "imgs": [
       "Kjeldoran Gargoyle"
     ],
     "q": "Why doesn't <span class=\"autocard\">Kjeldoran Gargoyle</span> just say \"lifelink\"?",
-    "a": "It's not quite lifelink. The main difference is that with lifelink, you gain life at the same time the creature is dealing damage. But with the Gargoyle, you gain the life due to a triggered ability. This is an important distinction if you're otherwise taking lethal damage - the life from lifelink can be enough to save you from dying, but with the Gargoyle, you may lose the game before the trigger can resolve.\nFor example, let's say I'm at 3 life, and you attack with two 3/3 creatures with first strike. If I block with the Gargoyle, I'll lose the game since I'll be at 0 life after combat damage is dealt and before the Gargoyle's trigger can go on the stack. But if I had blocked with a 3/3 with first strike and lifelink, I would gain 3 life at the same time I'm taking 3 damage from the unblocked attacker, so I would survive if my blocking creature had lifelink.\n<br>"
+    "a": "It's not quite lifelink. The main difference is that with lifelink, you gain life at the same time the creature is dealing damage. But with the Gargoyle, you gain the life due to a triggered ability. This is an important distinction if you're otherwise taking lethal damage - the life from lifelink can be enough to save you from dying, but with the Gargoyle, you may lose the game before the trigger can resolve.<br>\nFor example, let's say I'm at 3 life, and you attack with two 3/3 creatures with first strike. If I block with the Gargoyle, I'll lose the game since I'll be at 0 life after combat damage is dealt and before the Gargoyle's trigger can go on the stack. But if I had blocked with a 3/3 with first strike and lifelink, I would gain 3 life at the same time I'm taking 3 damage from the unblocked attacker, so I would survive if my blocking creature had lifelink.<br>"
   },
   {
     "imgs": [
@@ -19,7 +19,7 @@
       "Macetail Hystrodon"
     ],
     "q": "I have two <span class=\"autocard\">Spirit Link</span>s on my <span class=\"autocard\">Macetail Hystrodon</span>. If I attack with the Hystrodon and it's unblocked, how much life will I gain?",
-    "a": "You'll gain a total of 8 life, since it dealt 4 damage in combat. Spirit Link is very similar to the lifelink ability, but it doesn't actually grant lifelink - it has a triggered ability that gives you life when it deals damage. Since it's a triggered ability, having multiple Spirit Links attached to the same creature isn't redundant, so both Spirit Links would trigger when it deals damage and you'll gain 4 life twice, for a total of 8 life.\n<br>"
+    "a": "You'll gain a total of 8 life, since it dealt 4 damage in combat. Spirit Link is very similar to the lifelink ability, but it doesn't actually grant lifelink - it has a triggered ability that gives you life when it deals damage. Since it's a triggered ability, having multiple Spirit Links attached to the same creature isn't redundant, so both Spirit Links would trigger when it deals damage and you'll gain 4 life twice, for a total of 8 life.<br>"
   },
   {
     "imgs": [
@@ -27,14 +27,14 @@
       "Terror"
     ],
     "q": "If I cast <span class=\"autocard\">Voice of All</span>, can my opponent <span class=\"autocard\">Terror</span> it before I can give it protection from black?",
-    "a": "Nope, they can't do that. You choose a color for the Voice as it's entering the battlefield. It's not a triggered ability, so it doesn't use the stack and can't be responded to. There's never a point where the Voice is on the battlefield and doesn't have protection from the chosen color, so if you choose \"black\", it won't be a legal target for your opponent's Terror.\n<br>"
+    "a": "Nope, they can't do that. You choose a color for the Voice as it's entering the battlefield. It's not a triggered ability, so it doesn't use the stack and can't be responded to. There's never a point where the Voice is on the battlefield and doesn't have protection from the chosen color, so if you choose \"black\", it won't be a legal target for your opponent's Terror.<br>"
   },
   {
     "imgs": [
       "Aquamoeba"
     ],
     "q": "Can I attack with a 3/1 <span class=\"autocard\">Aquamoeba</span>, and if my opponent blocks it with a 2/2, put damage on the stack, then activate its ability and make it a 1/3 before damage is dealt?",
-    "a": "While that trick worked when Aquamoeba was first printed back in Torment, that trick doesn't work anymore. It used to be that combat damage \"went on the stack\" - you'd lock in how much damage would be dealt by attacking and blocking creatures, then players would get a chance to respond before damage was dealt. But \"damage on the stack\" went away many years ago. Now, we no longer get priority between combat damage being assigned and combat damage being dealt. So you can either leave your Aquamoeba as a 3/1 so it trades with the 2/2, or make it into a 1/3 so they bounce off of each other.\n<br>"
+    "a": "While that trick worked when Aquamoeba was first printed back in Torment, that trick doesn't work anymore. It used to be that combat damage \"went on the stack\" - you'd lock in how much damage would be dealt by attacking and blocking creatures, then players would get a chance to respond before damage was dealt. But \"damage on the stack\" went away many years ago. Now, we no longer get priority between combat damage being assigned and combat damage being dealt. So you can either leave your Aquamoeba as a 3/1 so it trades with the 2/2, or make it into a 1/3 so they bounce off of each other.<br>"
   },
   {
     "imgs": [
@@ -42,7 +42,7 @@
       "Break Asunder"
     ],
     "q": "I control a <span class=\"autocard\">Veiled Serpent</span> that's currently just an enchantment. If my opponent casts <span class=\"autocard\">Break Asunder</span> targeting the Serpent, what happens?",
-    "a": "When your opponent cast Break Asunder, that caused the Serpent's ability to trigger. When that trigger resolves, the Serpent becomes a creature and is no longer an enchantment, since nothing says that it's still an enchantment or that it retains its previous types. Then, when Break Asunder goes to resolve, it's targeting a creature, not an artifact or enchantment, so its target is illegal and the Serpent will not be destroyed.\n<br>"
+    "a": "When your opponent cast Break Asunder, that caused the Serpent's ability to trigger. When that trigger resolves, the Serpent becomes a creature and is no longer an enchantment, since nothing says that it's still an enchantment or that it retains its previous types. Then, when Break Asunder goes to resolve, it's targeting a creature, not an artifact or enchantment, so its target is illegal and the Serpent will not be destroyed.<br>"
   },
   {
     "imgs": [
@@ -50,7 +50,7 @@
       "Kavu Primarch"
     ],
     "q": "Can <span class=\"autocard\">Helm of Awakening</span> reduce additional costs like kicker?",
-    "a": "Sure. The Helm applies to the total cost of the spell, which includes additional costs to cast the spell like kicker. For example, if you want to cast <span class=\"autocard\">Kavu Primarch</span> kicked, the base cost would be <img src=\"/ci-reader/images/symbols/7.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\">. The Helm reduces the cost by <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\">, and you'll pay <img src=\"/ci-reader/images/symbols/6.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"> to cast it kicked.\n<br>"
+    "a": "Sure. The Helm applies to the total cost of the spell, which includes additional costs to cast the spell like kicker. For example, if you want to cast <span class=\"autocard\">Kavu Primarch</span> kicked, the base cost would be <img src=\"/ci-reader/images/symbols/7.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\">. The Helm reduces the cost by <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\">, and you'll pay <img src=\"/ci-reader/images/symbols/6.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"> to cast it kicked.<br>"
   },
   {
     "imgs": [
@@ -58,21 +58,21 @@
       "Opposition"
     ],
     "q": "If I tap <span class=\"autocard\">Goblin Medics</span> to activate <span class=\"autocard\">Opposition</span>, do I also get to deal 1 damage to a target?",
-    "a": "You do! The Medic's ability will trigger any time it becomes tapped, not just if it attacks. When you tap it to activate the ability of Opposition, that will cause the Medic's ability to trigger as well and you'll tap an opponent's permanent with Opposition and deal 1 damage to a target due to the Medic's trigger.\n<br>"
+    "a": "You do! The Medic's ability will trigger any time it becomes tapped, not just if it attacks. When you tap it to activate the ability of Opposition, that will cause the Medic's ability to trigger as well and you'll tap an opponent's permanent with Opposition and deal 1 damage to a target due to the Medic's trigger.<br>"
   },
   {
     "imgs": [
       "Flesh Reaver"
     ],
     "q": "My opponent and I are both at 4 life. I attack with a <span class=\"autocard\">Flesh Reaver</span> and it's not blocked. Do I win the game or is the game a draw?",
-    "a": "You win the game! Your Reaver deals 4 damage to your opponent, which causes its ability to trigger. But before we put that trigger on the stack, we check state-based actions. The game sees your opponent is at 0 life, and they'll lose the game, before the Reaver's trigger can go on the stack or resolve (and before you would go to 0 life yourself).\n<br>"
+    "a": "You win the game! Your Reaver deals 4 damage to your opponent, which causes its ability to trigger. But before we put that trigger on the stack, we check state-based actions. The game sees your opponent is at 0 life, and they'll lose the game, before the Reaver's trigger can go on the stack or resolve (and before you would go to 0 life yourself).<br>"
   },
   {
     "imgs": [
       "Ichor Slick"
     ],
     "q": "If I cycle <span class=\"autocard\">Ichor Slick</span>, can I cast it for its madness cost?",
-    "a": "You sure can! Madness will trigger any time you discard the card, including when you cycle the Slick. If you have six mana available, you can cycle the Slick, then cast it via madness to give a creature -3/-3 for the turn and draw a card.\n<br>"
+    "a": "You sure can! Madness will trigger any time you discard the card, including when you cycle the Slick. If you have six mana available, you can cycle the Slick, then cast it via madness to give a creature -3/-3 for the turn and draw a card.<br>"
   },
   {
     "imgs": [
@@ -81,7 +81,7 @@
       "The Chain Veil"
     ],
     "q": "If I have an <span class=\"autocard\">Urza, Planeswalker</span> in play, along with an <span class=\"autocard\">Oath of Teferi</span>, how many loyalty abilities of Urza can I activate on my turn?",
-    "a": "The Oath won't do anything here - you can still only activate two of Urza's abilities on your turn. You have two effects that let you activate Urza's abilities twice each turn rather than once each turn. But they aren't like <span class=\"autocard\">The Chain Veil</span>, which adds a permission. They both just let you activate Urza's abilities twice.\n<br>"
+    "a": "The Oath won't do anything here - you can still only activate two of Urza's abilities on your turn. You have two effects that let you activate Urza's abilities twice each turn rather than once each turn. But they aren't like <span class=\"autocard\">The Chain Veil</span>, which adds a permission. They both just let you activate Urza's abilities twice.<br>"
   },
   {
     "imgs": [
@@ -89,7 +89,7 @@
       "Writhing Necromass"
     ],
     "q": "I control <span class=\"autocard\">Karador, Ghost Chieftain</span> and there are four creature cards in my graveyard, including <span class=\"autocard\">Writhing Necromass</span>. If I want to cast the Necromass from my graveyard, how much will it cost me?",
-    "a": "It will cost <img src=\"/ci-reader/images/symbols/3.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/B.png\" class=\"mana\">. The first step of casting the Necromass is moving it from your graveyard to the stack. When we're figuring out the cost to cast the Necromass and looking at how many creature cards are in your graveyard, you only have three creature cards in your graveyard, since the Necromass is on the stack, so you'll get a three mana discount, not a four mana discount.\n<br>"
+    "a": "It will cost <img src=\"/ci-reader/images/symbols/3.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/B.png\" class=\"mana\">. The first step of casting the Necromass is moving it from your graveyard to the stack. When we're figuring out the cost to cast the Necromass and looking at how many creature cards are in your graveyard, you only have three creature cards in your graveyard, since the Necromass is on the stack, so you'll get a three mana discount, not a four mana discount.<br>"
   },
   {
     "imgs": [
@@ -98,7 +98,7 @@
       "Lay Down Arms"
     ],
     "q": "I have an <span class=\"autocard\">Audacity</span> attached to my <span class=\"autocard\">Blanchwood Prowler</span>, but then my Prowler gets exiled by <span class=\"autocard\">Lay Down Arms</span>. What happens to Audacity? Do I get to draw a card?",
-    "a": "Audacity goes to the graveyard and you'll draw a card. Audacity won't follow the Prowler to exile, so after Lay Down Arms is done resolving, Audacity goes to the graveyard since it's not attached to anything. Since Audacity went to the graveyard, Audacity will trigger and you will draw a card.\n<br>"
+    "a": "Audacity goes to the graveyard and you'll draw a card. Audacity won't follow the Prowler to exile, so after Lay Down Arms is done resolving, Audacity goes to the graveyard since it's not attached to anything. Since Audacity went to the graveyard, Audacity will trigger and you will draw a card.<br>"
   },
   {
     "imgs": [
@@ -106,7 +106,7 @@
       "Bloodchief Ascension"
     ],
     "q": "I have <span class=\"autocard\">Braids, Arisen Nightmare</span> and a <span class=\"autocard\">Bloodchief Ascension</span> in play, but my opponent hasn't lost any life this turn. During my end step, I sacrifice an artifact to Braids' trigger, and my opponent doesn't sacrifice, so they lose 2 life and I draw a card. Does my Ascension also get a counter?",
-    "a": "It will not. The Ascension only triggers if an opponent has lost 2 or more life as the end step begins. If no opponent has, the Ascension's ability won't trigger at all. Even if your opponent loses life during your end step, it's too late for the Ascension to go back and trigger, so you can't rely on your Braids trigger to get a counter on Bloodchief Ascension.\n<br>"
+    "a": "It will not. The Ascension only triggers if an opponent has lost 2 or more life as the end step begins. If no opponent has, the Ascension's ability won't trigger at all. Even if your opponent loses life during your end step, it's too late for the Ascension to go back and trigger, so you can't rely on your Braids trigger to get a counter on Bloodchief Ascension.<br>"
   },
   {
     "imgs": [
@@ -114,7 +114,7 @@
       "Titania's Command"
     ],
     "q": "I have a <span class=\"autocard\">Dina, Soul Steeper</span> in play and my opponent has ten cards in their graveyard. I cast <span class=\"autocard\">Titania's Command</span> choosing the first mode targeting my opponent and the last mode. How many times does Dina trigger?",
-    "a": "Only once. Even though you're exiling multiple cards, you're only gaining life once. Since it's one instance of life gain, Dina is going to trigger one time, not ten times.\n<br>"
+    "a": "Only once. Even though you're exiling multiple cards, you're only gaining life once. Since it's one instance of life gain, Dina is going to trigger one time, not ten times.<br>"
   },
   {
     "imgs": [
@@ -122,7 +122,7 @@
       "Dina, Soul Steeper"
     ],
     "q": "I have a <span class=\"autocard\">Prosperous Innkeeper</span> on the battlefield. If I play <span class=\"autocard\">Dina, Soul Steeper</span>, will Dina trigger from the life gain from the Innkeeper?",
-    "a": "Yep, Dina will trigger. The Innkeeper triggers when Dina enters the battlefield. Because Dina is on the battlefield when the Innkeeper's trigger resolves, Dina will see the life gain and will trigger.\n<br>"
+    "a": "Yep, Dina will trigger. The Innkeeper triggers when Dina enters the battlefield. Because Dina is on the battlefield when the Innkeeper's trigger resolves, Dina will see the life gain and will trigger.<br>"
   },
   {
     "imgs": [
@@ -131,19 +131,19 @@
       "Chance Encounter"
     ],
     "q": "What's the difference between <span class=\"autocard\">Frenetic Sliver</span> and <span class=\"autocard\">Frenetic Efreet</span>? They seem like very similar cards.",
-    "a": "They are similar, which makes sense because the Sliver's design was based on the Efreet, but they aren't quite the same. The Efreet's ability will let you flip a coin even if the Efreet is no longer on the battlefield. But Frenetic Sliver requires the Sliver to be on the battlefield when the ability resolves to flip a coin. If the Sliver isn't on the battlefield when the ability resolves, then you don't flip at all. This is relevant if you have a <span class=\"autocard\">Chance Encounter</span> or something else in play that cares about how many coin flips you've won. The Sliver will only let you get one counter on the Encounter, but the Efreet can let you flip a bunch of coins (by repeatedly activating its ability without letting an activation resolve) to get enough counters on the Encounter to win you the game."
+    "a": "They are similar, which makes sense because the Sliver's design was based on the Efreet, but they aren't quite the same. The Efreet's ability will let you flip a coin even if the Efreet is no longer on the battlefield. But Frenetic Sliver requires the Sliver to be on the battlefield when the ability resolves to flip a coin. If the Sliver isn't on the battlefield when the ability resolves, then you don't flip at all. This is relevant if you have a <span class=\"autocard\">Chance Encounter</span> or something else in play that cares about how many coin flips you've won. The Sliver will only let you get one counter on the Encounter, but the Efreet can let you flip a bunch of coins (by repeatedly activating its ability without letting an activation resolve) to get enough counters on the Encounter to win you the game.<br>"
   },
   {
     "imgs": [],
     "q": "If the Sliver is based on the Efreet's text, then why are they worded slightly differently?",
-    "a": "At the time of Frenetic Sliver's printing, the Efreet had power-level errata, so you'd only flip coins if it was on the battlefield. Since the Sliver was based on the Efreet, the Sliver's wording is similar to the Efreet's wording at the time. But a few years after the Sliver was printed, the Efreet lost its power-level errata and now lets you flip multiple coins, to match its printed text. But since the Sliver was printed with the restriction on it, it kept that restriction, even though the card that inspired its text lost that text.\n<br>"
+    "a": "At the time of Frenetic Sliver's printing, the Efreet had power-level errata, so you'd only flip coins if it was on the battlefield. Since the Sliver was based on the Efreet, the Sliver's wording is similar to the Efreet's wording at the time. But a few years after the Sliver was printed, the Efreet lost its power-level errata and now lets you flip multiple coins, to match its printed text. But since the Sliver was printed with the restriction on it, it kept that restriction, even though the card that inspired its text lost that text.<br>"
   },
   {
     "imgs": [
       "Entrapment Maneuver"
     ],
     "q": "If my opponent attacks me, can I cast <span class=\"autocard\">Entrapment Maneuver</span> and block with the tokens I created?",
-    "a": "Sure, as long as you cast the Maneuver during the declare attackers step. If you do that, then you'll get the tokens during the declare attackers step, and when you move to the declare blockers step, you'll be able to block with your new Soldier tokens.\n<br>"
+    "a": "Sure, as long as you cast the Maneuver during the declare attackers step. If you do that, then you'll get the tokens during the declare attackers step, and when you move to the declare blockers step, you'll be able to block with your new Soldier tokens.<br>"
   },
   {
     "imgs": [
@@ -151,6 +151,6 @@
       "Rith, Liberated Primeval"
     ],
     "q": "Can I activate <span class=\"autocard\">Marshland Bloodcaster</span> and cast my commander from the command zone? Will I be able to pay life instead of mana for the commander tax?",
-    "a": "Yes, you can cast it, but you'll still have to pay for the commander tax with mana like normal. The Bloodcaster lets you cast the spell by paying life equal to its mana value instead of the normal mana cost, but the Bloodcaster's ability only covers the mana cost of the spell. Any additional costs the spell has, like the commander tax, have to be paid for like normal, and not by paying life. So if you're casting your commander for the third time (for example, <span class=\"autocard\">Rith, Liberated Primeval</span>) with the Bloodcaster's ability, you'll be paying 5 life and four mana."
+    "a": "Yes, you can cast it, but you'll still have to pay for the commander tax with mana like normal. The Bloodcaster lets you cast the spell by paying life equal to its mana value instead of the normal mana cost, but the Bloodcaster's ability only covers the mana cost of the spell. Any additional costs the spell has, like the commander tax, have to be paid for like normal, and not by paying life. So if you're casting your commander for the third time (for example, <span class=\"autocard\">Rith, Liberated Primeval</span>) with the Bloodcaster's ability, you'll be paying 5 life and four mana.<br>"
   }
 ]

@@ -5,7 +5,7 @@
       "Bonescythe Sliver"
     ],
     "q": "I attack with <span class=\"autocard\">Tempered Sliver</span> and <span class=\"autocard\">Bonescythe Sliver</span>. Both go unblocked this turn. Assuming they had no counters on them at the start of this turn, how many counters will each have at end of turn and how much damage did each deal to my opponent this turn?",
-    "a": "Each Sliver will deal 2 damage during first strike damage, then gain a +1/+1 counter. Then each Sliver will deal 3 damage during normal strike damage and gain another +1/+1 counter. Each Sliver will deal a total of 5 damage and gain two +1/+1 counters."
+    "a": "Each Sliver will deal 2 damage during first strike damage, then gain a +1/+1 counter. Then each Sliver will deal 3 damage during normal strike damage and gain another +1/+1 counter. Each Sliver will deal a total of 5 damage and gain two +1/+1 counters.<br>"
   },
   {
     "imgs": [
@@ -14,7 +14,7 @@
       "Bear Cub"
     ],
     "q": "If I <span class=\"autocard\">Saw in Half</span> my <span class=\"autocard\">Sakashima the Impostor</span> that is currently copying a <span class=\"autocard\">Bear Cub</span>, do I get two Bear Cubs, or do I get two Sakashimas that can copy different creatures?",
-    "a": "Saw in Half will make two 1/1 legendary Bear Cub copies named Sakashima the Impostor that each have the ability \"<img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\">: Return this creature to its owner's hand at the beginning of the next end step.\" Before any player can get priority, you will have to put one of them into your graveyard because of the legend rule. These tokens will be \"bear\"ly recognizable as Bear Cubs, for the most part the only thing that's still Bear Cub is their mana cost and that they are green."
+    "a": "Saw in Half will make two 1/1 legendary Bear Cub copies named Sakashima the Impostor that each have the ability \"<img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\">: Return this creature to its owner's hand at the beginning of the next end step.\" Before any player can get priority, you will have to put one of them into your graveyard because of the legend rule. These tokens will be \"bear\"ly recognizable as Bear Cubs, for the most part the only thing that's still Bear Cub is their mana cost and that they are green.<br>"
   },
   {
     "imgs": [
@@ -22,7 +22,7 @@
       "Sakashima the Impostor"
     ],
     "q": "What happens if I <span class=\"autocard\">Saw in Half</span> my <span class=\"autocard\">Sakashima the Impostor</span> that is currently copying nothing?",
-    "a": "Each Sakashima token can copy the same creature, a different creature, and/or choose to copy nothing. Each Sakashima that copies a creature will have the full power and toughness of the chosen creature and will have the self-bounce ability. Each Sakashima that doesn't copy anything will be a 2/1 and won't have the self-bounce ability. However, before any player can get priority, you will have to put one of them into your graveyard because of the legend rule."
+    "a": "Each Sakashima token can copy the same creature, a different creature, and/or choose to copy nothing. Each Sakashima that copies a creature will have the full power and toughness of the chosen creature and will have the self-bounce ability. Each Sakashima that doesn't copy anything will be a 2/1 and won't have the self-bounce ability. However, before any player can get priority, you will have to put one of them into your graveyard because of the legend rule. <br>"
   },
   {
     "imgs": [
@@ -31,7 +31,7 @@
       "Simic Guildgate"
     ],
     "q": "My opponent controls <span class=\"autocard\">Thalia, Heretic Cathar</span> and I control <span class=\"autocard\">Gond Gate</span>. If I play <span class=\"autocard\">Simic Guildgate</span> will it enter the battlefield tapped or untapped?",
-    "a": "Three replacement effects are trying to modify how the Guildgate enters the battlefield. There is the Simic Guildgate itself, Thalia, and Gond Gate. Since you control the land, you get to choose the order these effects happen in. Which ever one effects is last in this case wins, so if you make Gond Gate apply last, you get an untapped Guildgate. If you choose either of the other two to be last, it enters tapped."
+    "a": "Three replacement effects are trying to modify how the Guildgate enters the battlefield. There is the Simic Guildgate itself, Thalia, and Gond Gate. Since you control the land, you get to choose the order these effects happen in. Which ever one effects is last in this case wins, so if you make Gond Gate apply last, you get an untapped Guildgate. If you choose either of the other two to be last, it enters tapped.<br>"
   },
   {
     "imgs": [
@@ -39,7 +39,7 @@
       "Nacatl War-Pride"
     ],
     "q": "My opponent has ten 3/3 Beast tokens and I control <span class=\"autocard\">Goblin War Drums</span>. If I attack with <span class=\"autocard\">Nacatl War-Pride</span>, can my opponent block any of the War-Prides?",
-    "a": "Yes, they can. The opponent can choose to block as many as they want, so long each creature they block is blocked by at least two creatures. They could have all ten Beast tokens block just one War-Pride, or they could block five of them each with two Beasts, or they could choose to let all the War-Prides go unblocked. Because Menace makes it impossible to block them with just one creature, it frees the opponent up to choose whether or not to block, but to block them the opponent does have to fulfill the menace requirement."
+    "a": "Yes, they can. The opponent can choose to block as many as they want, so long each creature they block is blocked by at least two creatures. They could have all ten Beast tokens block just one War-Pride, or they could block five of them each with two Beasts, or they could choose to let all the War-Prides go unblocked. Because Menace makes it impossible to block them with just one creature, it frees the opponent up to choose whether or not to block, but to block them the opponent does have to fulfill the menace requirement. <br>"
   },
   {
     "imgs": [
@@ -48,7 +48,7 @@
       "Faerie Macabre"
     ],
     "q": "My opponent and I each control an <span class=\"autocard\">It that Betrays</span>. If I play a <span class=\"autocard\">Maestros Theater</span>, do we each gain infinite life?",
-    "a": "So most likely, the game ends in draw. This sets up an infinite loop and the game ends with no winner. However, if you could respond to one of the triggers that returns the Theater to the battlefield by exiling it from the graveyard (say by discarding <span class=\"autocard\">Faerie Macabre</span> from your hand), then you could choose to stop the loop after however many iteration you choose. For example you could wait until you had gained 10,000 life from this and your opponent had only gained 9,999 life and then stop the loop."
+    "a": "So most likely, the game ends in draw. This sets up an infinite loop and the game ends with no winner. However, if you could respond to one of the triggers that returns the Theater to the battlefield by exiling it from the graveyard (say by discarding <span class=\"autocard\">Faerie Macabre</span> from your hand), then you could choose to stop the loop after however many iteration you choose. For example you could wait until you had gained 10,000 life from this and your opponent had only gained 9,999 life and then stop the loop.<br>"
   },
   {
     "imgs": [
@@ -56,7 +56,7 @@
       "Cyclonic Rift"
     ],
     "q": "I control <span class=\"autocard\">Ovika, Enigma Goliath</span> and overload <span class=\"autocard\">Cyclonic Rift</span>, how many Phyrexian Goblin tokens do I get?",
-    "a": "You only get two Phyrexian Goblin tokens. Paying an alternative cost like overload doesn't change the mana value of the card cast."
+    "a": "You only get two Phyrexian Goblin tokens. Paying an alternative cost like overload doesn't change the mana value of the card cast.<br>"
   },
   {
     "imgs": [
@@ -66,7 +66,7 @@
       "Giant Growth"
     ],
     "q": "My opponent controls five 1/1 Squirrel tokens and an <span class=\"autocard\">Eldrazi Monument</span>. If I attack with <span class=\"autocard\">Vedalken Humiliator</span> while I have  three or more artifacts, how big are my opponent's Squirrels and what abilities do they have?",
-    "a": "Short answer, your opponent will have 2/2 Squirrel tokens with no abilities. \nLonger answer showing the Layers:<br>\nSince the Eldrazi Monument has an older time stamp than Humiliator's ability does, the Squirrels gain flying and indestructible in layer 6 and then, still in layer 6, they lose all abilities. In layer 7b, the base size of the Squirrels gets set to 1/1 (which is what it was to start with), then in layer 7c they get +1/+1 from the Monument. Setting a creature's P/T to a specific number never overrides bonuses from cards like <span class=\"autocard\">Glorious Anthem</span> or <span class=\"autocard\">Giant Growth</span>."
+    "a": "Short answer, your opponent will have 2/2 Squirrel tokens with no abilities. <br>\nLonger answer showing the Layers:<br>\nSince the Eldrazi Monument has an older time stamp than Humiliator's ability does, the Squirrels gain flying and indestructible in layer 6 and then, still in layer 6, they lose all abilities. In layer 7b, the base size of the Squirrels gets set to 1/1 (which is what it was to start with), then in layer 7c they get +1/+1 from the Monument. Setting a creature's P/T to a specific number never overrides bonuses from cards like <span class=\"autocard\">Glorious Anthem</span> or <span class=\"autocard\">Giant Growth</span>. <br>"
   },
   {
     "imgs": [
@@ -74,7 +74,7 @@
       "Soothing Balm"
     ],
     "q": "My opponent controls <span class=\"autocard\">Ob Nixilis, the Hate-Twisted</span> and passes the turn to me. I'm currently at 1 life and the card I draw for the turn is <span class=\"autocard\">Soothing Balm</span>. Can I cast it, targeting myself, in time not to die to Ob Nixilis?",
-    "a": "Yes, you can. When you draw the Soothing Balm, the trigger for Ob Nixilis is put on the stack, and you have a chance to cast instants and activate abilities before it resolves. This gives you time to cast the Balm, causing you to gain 5 life (putting you at 6 life), then when Ob Nixilis's ability resolves you lose 1 life and end up at 5 life."
+    "a": "Yes, you can. When you draw the Soothing Balm, the trigger for Ob Nixilis is put on the stack, and you have a chance to cast instants and activate abilities before it resolves. This gives you time to cast the Balm, causing you to gain 5 life (putting you at 6 life), then when Ob Nixilis's ability resolves you lose 1 life and end up at 5 life. <br>"
   },
   {
     "imgs": [
@@ -83,7 +83,7 @@
       "Blaze"
     ],
     "q": "I control both <span class=\"autocard\">Magus Lucea Kane</span> and <span class=\"autocard\">Harmonic Prodigy</span>. If I use the Psychic Stimulus ability to cast <span class=\"autocard\">Blaze</span> with <img src=\"/ci-reader/images/symbols/X.png\" class=\"mana\"> equal to <img src=\"/ci-reader/images/symbols/5.png\" class=\"mana\">, do I get one or two copies of Blaze?",
-    "a": "So short answer is just one.\nThe specific rule that shows us this is:<br>\n603.2e. Some effects refer to a triggered ability of an object. Such effects refer only to triggered abilities the object has, not any delayed triggered abilities (see rule 603.7) that may be created by abilities the object has."
+    "a": "So short answer is just one.<br>\nThe specific rule that shows us this is:<br>\n603.2e. Some effects refer to a triggered ability of an object. Such effects refer only to triggered abilities the object has, not any delayed triggered abilities (see rule 603.7) that may be created by abilities the object has.<br>"
   },
   {
     "imgs": [
@@ -91,7 +91,7 @@
       "Mana Vault"
     ],
     "q": "I control <span class=\"autocard\">Unwinding Clock</span> and a tapped <span class=\"autocard\">Mana Vault</span>, do I get to untap the Mana Vault for free during opponent's turns, or does it stay tapped?",
-    "a": "It does untap for free during each opponent's untap step. Mana Vault's first ability only stops it from untapping during your untap step."
+    "a": "It does untap for free during each opponent's untap step. Mana Vault's first ability only stops it from untapping during your untap step.<br>"
   },
   {
     "imgs": [
@@ -99,7 +99,7 @@
       "Pili-Pala"
     ],
     "q": "Can I use <span class=\"autocard\">Moonsilver Key</span> to find <span class=\"autocard\">Pili-Pala</span> from my library?",
-    "a": "Yes, Pila-Pala is an artifact and it has a mana ability. The untap symbol on Pila-Pala doesn't stop it from having a mana ability."
+    "a": "Yes, Pila-Pala is an artifact and it has a mana ability. The untap symbol on Pila-Pala doesn't stop it from having a mana ability.<br>"
   },
   {
     "imgs": [
@@ -107,7 +107,7 @@
       "Goblin Bombardment"
     ],
     "q": "If I cast <span class=\"autocard\">Cruel Edict</span> targeting my opponent, can they respond by sacrificing the creature to <span class=\"autocard\">Goblin Bombardment</span> to deal 1 damage to me?",
-    "a": "They can do so, but the consequences depend on if they have any other creatures. If they only had one creature, they get to deal 1 damage to you, and when the Edict resolves they don't have anything to sacrifice, good move for them. If they had more than one creature, they will still need to sacrifice a creature to Edict when it resolves. In this second scenario it likely doesn't help the opponent to sacrifice one creature in response to the Edict."
+    "a": "They can do so, but the consequences depend on if they have any other creatures. If they only had one creature, they get to deal 1 damage to you, and when the Edict resolves they don't have anything to sacrifice, good move for them. If they had more than one creature, they will still need to sacrifice a creature to Edict when it resolves. In this second scenario it likely doesn't help the opponent to sacrifice one creature in response to the Edict.<br>"
   },
   {
     "imgs": [
@@ -115,7 +115,7 @@
       "Founding the Third Path"
     ],
     "q": "My opponent is trying to cast <span class=\"autocard\">Fatal Push</span> using the last chapter of <span class=\"autocard\">Founding the Third Path</span>. We aren't sure if her Fatal Push will have Revolt or not. Will Fatal Push resolve before or after Founding the Third Path is put into the graveyard?",
-    "a": "Short answer, yes, Fatal Push will have revolt.\nFatal Push gets cast and put on the stack in the middle of resolving Founding the Third Path's last chapter ability. But before Fatal Push can resolve, the Saga will be put into the graveyard, turning on revolt."
+    "a": "Short answer, yes, Fatal Push will have revolt.<br>\nFatal Push gets cast and put on the stack in the middle of resolving Founding the Third Path's last chapter ability. But before Fatal Push can resolve, the Saga will be put into the graveyard, turning on revolt.<br>"
   },
   {
     "imgs": [
@@ -123,21 +123,21 @@
       "Crucible of Worlds"
     ],
     "q": "I control <span class=\"autocard\">Wrenn and Seven</span> and <span class=\"autocard\">Crucible of Worlds</span>. If I use Wrenn's second ability, can I now put all the lands in my graveyard onto the battlefield?",
-    "a": "This won't work. Wrenn doesn't let you play lands, Wrenn just puts lands onto the battlefield. Wrenn also specifies those lands come from your hand. The last bit of confusion may be that you are looking at an older version of Crucible that has the wording \"You may play lands in your graveyard as though they were in your hand.\" That's not the current Oracle text. Instead treat all copies of Crucible as reading as \"You may play lands from your graveyard.\""
+    "a": "This won't work. Wrenn doesn't let you play lands, Wrenn just puts lands onto the battlefield. Wrenn also specifies those lands come from your hand. The last bit of confusion may be that you are looking at an older version of Crucible that has the wording \"You may play lands in your graveyard as though they were in your hand.\" That's not the current Oracle text. Instead treat all copies of Crucible as reading as \"You may play lands from your graveyard.\"<br>"
   },
   {
     "imgs": [
       "Staff of Titania"
     ],
     "q": "I control <span class=\"autocard\">Staff of Titania</span> and on my last turn the Staff created a 1/1 green Forest Dryad land creature token. Can the token be tapped to make a <img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"> mana?",
-    "a": "Yes, it can. \nAny land with the subtype forest has the ability \"<img src=\"/ci-reader/images/symbols/T.png\" class=\"mana\">: Add <img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\">.\" \nSince this token is also a creature it will be affected by summoning sickness, but since it was created last turn, it's fine to use tap abilities this turn."
+    "a": "Yes, it can. <br>\nAny land with the subtype forest has the ability \"<img src=\"/ci-reader/images/symbols/T.png\" class=\"mana\">: Add <img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\">.\" <br>\nSince this token is also a creature it will be affected by summoning sickness, but since it was created last turn, it's fine to use tap abilities this turn.<br>"
   },
   {
     "imgs": [
       "Dragon Throne of Tarkir"
     ],
     "q": "On my last turn I created nine 1/1 Squirrel tokens. One Squirrel currently has <span class=\"autocard\">Dragon Throne of Tarkir</span> equipped. If I tap that Squirrel to activate the ability it got from the Throne, can I then equip it to a second Squirrel and activate it again to buff all my Squirrels again?",
-    "a": "You can! If you do this, you will have seven untapped 4/4 trample squirrels, one tapped 3/3 trample Squirrel, and one tapped 2/2 trample defender Squirrel."
+    "a": "You can! If you do this, you will have seven untapped 4/4 trample squirrels, one tapped 3/3 trample Squirrel, and one tapped 2/2 trample defender Squirrel.<br>"
   },
   {
     "imgs": [
@@ -146,7 +146,7 @@
       "Dreamtail Heron"
     ],
     "q": "I control <span class=\"autocard\">Ivy, Gleeful Spellthief</span> and <span class=\"autocard\">Bear Cub</span>. If I  mutate <span class=\"autocard\">Dreamtail Heron</span> on top of Bear Cub, does Ivy copy it?",
-    "a": "Yes, this does work. You will get a copy of Dreamtail Heron that you can have either mutate on top of or below Ivy. This is in addition to the one you get for the Bear Cub. This will cause a draw trigger for Ivy and another draw trigger for Bear Cub."
+    "a": "Yes, this does work. You will get a copy of Dreamtail Heron that you can have either mutate on top of or below Ivy. This is in addition to the one you get for the Bear Cub. This will cause a draw trigger for Ivy and another draw trigger for Bear Cub.<br>"
   },
   {
     "imgs": [
@@ -156,6 +156,6 @@
       "Dreamtail Heron"
     ],
     "q": "Similar to the last question, I have one mutate stack that has <span class=\"autocard\">Lore Drakkis</span> on top and Bear Cub on bottom and a second mutate stack that has a token copy of <span class=\"autocard\">Lore Drakkis</span> on top and <span class=\"autocard\">Ivy, Gleeful Spellthief</span> on bottom. The only instant or sorcery in my graveyard is <span class=\"autocard\">Brainstorm</span>. If I mutate <span class=\"autocard\">Dreamtail Heron</span> on top of the \"Bear Cub\" mutate stack, I know I get a Dreamtail Heron copy to mutate onto the \"Ivy\" mutate stack, but can I stack it so I can get back the Brainstorm, cast it, let it go to the graveyard and return the same Brainstorm to my hand?",
-    "a": "Short answer, YES!\nWhen you cast the Dreamtail Heron for its mutate cost, Ivy copies it before it resolves or actually \"mutates\". The Ivy copy of Dreamtail Heron will resolve and mutate, causing the Drakkis to trigger so you can put the Brainstorm into your hand and to draw a card for the Heron copy. So long as you have the mana to cast the Brainstorm, you can cast it while the original Dreamtail Heron is still on the stack, still waiting to resolve. Once the Brainstorm resolves, it returns to the graveyard. Then the original Dreamtail Heron finally resolves, causing a card draw trigger and the Lore Drakkis trigger to each resolve one at a time. By this time the Brainstorm is back in the graveyard and is a legitimate target for the Lore Drakkis trigger."
+    "a": "Short answer, YES!<br>\nWhen you cast the Dreamtail Heron for its mutate cost, Ivy copies it before it resolves or actually \"mutates\". The Ivy copy of Dreamtail Heron will resolve and mutate, causing the Drakkis to trigger so you can put the Brainstorm into your hand and to draw a card for the Heron copy. So long as you have the mana to cast the Brainstorm, you can cast it while the original Dreamtail Heron is still on the stack, still waiting to resolve. Once the Brainstorm resolves, it returns to the graveyard. Then the original Dreamtail Heron finally resolves, causing a card draw trigger and the Lore Drakkis trigger to each resolve one at a time. By this time the Brainstorm is back in the graveyard and is a legitimate target for the Lore Drakkis trigger.<br>"
   }
 ]

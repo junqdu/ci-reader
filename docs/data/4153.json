@@ -4,7 +4,7 @@
       "Poison Dart Frog"
     ],
     "q": "I control a <span class=\"autocard\">Poison Dart Frog</span> that I've had in play for a few turns and one untapped land. My opponent attacks me with a 7/7 creature. Can I block with the Frog, then tap it for mana and activate the Frog's ability to give it deathtouch?",
-    "a": "Yep, you can do that. Tapping the Frog after it's been declared as a blocker won't remove it from combat or prevent any damage from being dealt, so you're free to block with the Frog, then tap the Frog for mana and use that mana to activate its ability and give the Frog deathtouch."
+    "a": "Yep, you can do that. Tapping the Frog after it's been declared as a blocker won't remove it from combat or prevent any damage from being dealt, so you're free to block with the Frog, then tap the Frog for mana and use that mana to activate its ability and give the Frog deathtouch.<br>"
   },
   {
     "imgs": [
@@ -12,7 +12,7 @@
       "Tishana's Tidebinder"
     ],
     "q": "My opponents controls <span class=\"autocard\">Adeline, Resplendent Cathar</span> and attacks with it. I counter Adeline's attack trigger with <span class=\"autocard\">Tishana's Tidebinder</span>. What happens to Adeline?",
-    "a": "Since Adeline is a creature, when the Tidebinder's trigger resolves and counters the ability, that will also cause Adeline to lose all of its abilities for as long as the Tidebinder is on the battlefield. That includes Adeline's characteristic-defining ability that sets its power (before it can apply). Since Adeline's power is undefined, it becomes 0, and Adeline will end up as a 0/4 creature for as long as the Tidebinder is in play, no matter how many creatures they control."
+    "a": "Since Adeline is a creature, when the Tidebinder's trigger resolves and counters the ability, that will also cause Adeline to lose all of its abilities for as long as the Tidebinder is on the battlefield. That includes Adeline's characteristic-defining ability that sets its power (before it can apply). Since Adeline's power is undefined, it becomes 0, and Adeline will end up as a 0/4 creature for as long as the Tidebinder is in play, no matter how many creatures they control.<br>"
   },
   {
     "imgs": [
@@ -20,7 +20,7 @@
       "Tishana's Tidebinder"
     ],
     "q": "My opponent turns their <span class=\"autocard\">Restless Anchorage</span> into a creature and attacks with it. In response to its attack trigger, I cast <span class=\"autocard\">Tishana's Tidebinder</span> and target the attack trigger. What happens to my opponent's land?",
-    "a": "When the Tidebender's trigger resolves, the attack trigger is countered. And since the Anchorage is currently a creature, the Tidebender will make the Anchorage lose all of its abilities for as long as the Tidebender is on the battlefield. It will still be a 2/3 creature for the turn, but once the turn is over, it goes back to just being a land - but still with none of its abilities, since it's still affected by the Tidebender's ability. So your opponent will have a Restless Anchorage that can't tap for mana or turn itself into a creature."
+    "a": "When the Tidebender's trigger resolves, the attack trigger is countered. And since the Anchorage is currently a creature, the Tidebender will make the Anchorage lose all of its abilities for as long as the Tidebender is on the battlefield. It will still be a 2/3 creature for the turn, but once the turn is over, it goes back to just being a land - but still with none of its abilities, since it's still affected by the Tidebender's ability. So your opponent will have a Restless Anchorage that can't tap for mana or turn itself into a creature.<br>"
   },
   {
     "imgs": [
@@ -28,7 +28,7 @@
       "Bloodletter of Aclazotz"
     ],
     "q": "I have a <span class=\"autocard\">Kingpin's Pet</span> in play, along with a <span class=\"autocard\">Bloodletter of Aclazotz</span>. If I cast a spell on my turn and pay for the extort trigger, assuming I have three opponents, how much life do I gain?",
-    "a": "You'll gain 6 life. Since an opponent is losing life on your turn, that loss of life from the extort trigger is doubled, so each opponent loses 2 life. And extort cares about how much life your opponents just lost from the extort trigger. Each opponent lost 2 life, and you have three opponents, so your opponents have lost a total of 6 life and you'll gain 6 life."
+    "a": "You'll gain 6 life. Since an opponent is losing life on your turn, that loss of life from the extort trigger is doubled, so each opponent loses 2 life. And extort cares about how much life your opponents just lost from the extort trigger. Each opponent lost 2 life, and you have three opponents, so your opponents have lost a total of 6 life and you'll gain 6 life.<br>"
   },
   {
     "imgs": [
@@ -36,7 +36,7 @@
       "Blood Moon"
     ],
     "q": "If I have <span class=\"autocard\">Wrenn and Realmbreaker</span> in play along with a <span class=\"autocard\">Blood Moon</span>, will my nonbasic lands still have the ability to tap for mana of any color? Does the order the Blood Moon and Wrenn and Realmbreaker entered the battlefield matter?",
-    "a": "The order they entered the battlefield in doesn't matter - your lands can tap for a mana of any color. Blood Moon makes nonbasic lands into Mountains in layer 4, but Wrenn and Realmbreaker doesn't give your lands the activated ability until later, in layer 6. Since it gains the ability after Blood Moon has applied, your nonbasic lands will still have the ability from Wrenn and Realmbreaker and can still tap for a mana of any color."
+    "a": "The order they entered the battlefield in doesn't matter - your lands can tap for a mana of any color. Blood Moon makes nonbasic lands into Mountains in layer 4, but Wrenn and Realmbreaker doesn't give your lands the activated ability until later, in layer 6. Since it gains the ability after Blood Moon has applied, your nonbasic lands will still have the ability from Wrenn and Realmbreaker and can still tap for a mana of any color.<br>"
   },
   {
     "imgs": [
@@ -45,14 +45,14 @@
       "Gigantosaurus"
     ],
     "q": "I control a 4/4 <span class=\"autocard\">Yorvo, Lord of Garenbrig</span> and a <span class=\"autocard\">Hardened Scales</span>. I cast <span class=\"autocard\">Gigantosaurus</span>. How big is my Yorvo once its trigger is done resolving?",
-    "a": "Yorvo ends up as an 8/8 creature. When Yorvo's trigger resolves, it gets one +1/+1 counter, which is actually two +1/+1 counters because of the Scales. Now the 6/6 Yorvo sees its power is still less than the 10/10 Gigantosaurus, so it would get another +1/+1 counter, which becomes two +1/+1 counters because of Hardened Scales again, and Yorvo ends up as a 8/8. The Scales will get to apply again since it's a new instance of adding a +1/+1 counter, even if it's due to the same triggered ability resolving."
+    "a": "Yorvo ends up as an 8/8 creature. When Yorvo's trigger resolves, it gets one +1/+1 counter, which is actually two +1/+1 counters because of the Scales. Now the 6/6 Yorvo sees its power is still less than the 10/10 Gigantosaurus, so it would get another +1/+1 counter, which becomes two +1/+1 counters because of Hardened Scales again, and Yorvo ends up as a 8/8. The Scales will get to apply again since it's a new instance of adding a +1/+1 counter, even if it's due to the same triggered ability resolving.<br>"
   },
   {
     "imgs": [
       "Rust Elemental"
     ],
     "q": "I have a <span class=\"autocard\">Rust Elemental</span> and another artifact in play. During my upkeep, can I choose not to sacrifice the other artifact and just take the damage from the Elemental?",
-    "a": "No you cannot. Sacrificing another artifact is not optional - you must do so if able. Even if you'd rather just take the damage, if you have another artifact under your control, you must sacrifice the other artifact to the Elemental's trigger."
+    "a": "No you cannot. Sacrificing another artifact is not optional - you must do so if able. Even if you'd rather just take the damage, if you have another artifact under your control, you must sacrifice the other artifact to the Elemental's trigger.<br>"
   },
   {
     "imgs": [
@@ -60,7 +60,7 @@
       "Cut Down"
     ],
     "q": "I have a 2/3 <span class=\"autocard\">Tarmogoyf</span>, thanks to the land and creature card in my graveyard. If my opponent casts <span class=\"autocard\">Cut Down</span> targeting Tarmogoyf, will it die?",
-    "a": "Yep, your Tarmogoyf will die. When Cut Down resolves, the total power and toughness of Tarmogoyf is 5, so it's a legal target for Cut Down and it's destroyed. Then Cut Down goes to the graveyard, and while the Tarmogyf in the graveyard will become a 3/4, it has already been destroyed by Cut Down."
+    "a": "Yep, your Tarmogoyf will die. When Cut Down resolves, the total power and toughness of Tarmogoyf is 5, so it's a legal target for Cut Down and it's destroyed. Then Cut Down goes to the graveyard, and while the Tarmogyf in the graveyard will become a 3/4, it has already been destroyed by Cut Down.<br>"
   },
   {
     "imgs": [
@@ -68,7 +68,7 @@
       "Blazing Rootwalla"
     ],
     "q": "Will my opponent's <span class=\"autocard\">Drannith Magistrate</span> prevent me from casting <span class=\"autocard\">Blazing Rootwalla</span> for its madness cost when I discard it?",
-    "a": "It will. When the madness trigger resolves, you would try to cast the Rootwalla from exile. However, since your opponent's Magistrate says you can only cast spells from your hand, you won't be able to cast the Rootwalla from exile via the madness trigger, and it will go to the graveyard."
+    "a": "It will. When the madness trigger resolves, you would try to cast the Rootwalla from exile. However, since your opponent's Magistrate says you can only cast spells from your hand, you won't be able to cast the Rootwalla from exile via the madness trigger, and it will go to the graveyard.<br>"
   },
   {
     "imgs": [
@@ -76,7 +76,7 @@
       "Trail of Crumbs"
     ],
     "q": "If I sacrifice a Food token to activate <span class=\"autocard\">Gilded Goose</span>'s ability, can I use that mana to pay for the <span class=\"autocard\">Trail of Crumbs</span> trigger that happened when I sacrificed the Food?",
-    "a": "Yep, that's a valid play. The Goose has a mana ability, so it resolves immediately after you activate it. By the time you're putting the trigger from Trail of Crumbs on the stack, you already have that mana from the Goose, so you'll be able to pay for the Trail's trigger by using the mana you got from the Goose to pay for it."
+    "a": "Yep, that's a valid play. The Goose has a mana ability, so it resolves immediately after you activate it. By the time you're putting the trigger from Trail of Crumbs on the stack, you already have that mana from the Goose, so you'll be able to pay for the Trail's trigger by using the mana you got from the Goose to pay for it.<br>"
   },
   {
     "imgs": [
@@ -85,7 +85,7 @@
       "Doom Blade"
     ],
     "q": "I control a <span class=\"autocard\">Charming Scoundrel</span> enchanted with my Wicked Role token, as well as a <span class=\"autocard\">Karmic Justice</span>. If my opponent <span class=\"autocard\">Doom Blade</span>s my Scoundrel, since my Wicked Role token is going to the graveyard as well, do I get a Karmic Justice trigger?",
-    "a": "No you do not. The creature is destroyed by your opponent's Doom Blade, and when state-based actions are checked, the game sees the Wicked Role token isn't attached to anything and it goes to the graveyard. This is a state-based action, not a spell or ability controlled by an opponent, so Karmic Justice won't trigger and you won't get to destroy an opponent's permanent in return."
+    "a": "No you do not. The creature is destroyed by your opponent's Doom Blade, and when state-based actions are checked, the game sees the Wicked Role token isn't attached to anything and it goes to the graveyard. This is a state-based action, not a spell or ability controlled by an opponent, so Karmic Justice won't trigger and you won't get to destroy an opponent's permanent in return.<br>"
   },
   {
     "imgs": [
@@ -93,7 +93,7 @@
       "Shatterskull Smashing"
     ],
     "q": "If I cast a <span class=\"autocard\">Mox Diamond</span>, can I discard <span class=\"autocard\">Shatterskull Smashing</span> when it resolves so the Diamond enters the battlefield?",
-    "a": "No you cannot. You need to discard a land card as the Diamond enters for the Diamond to enter the battlefield. But a modal double-faced card like Shatterskull Smashing only has the characteristics of the front face unless you're playing or casting it. In your hand, it's a sorcery card, not a land card, so you cannot discard it to the Diamond's ability."
+    "a": "No you cannot. You need to discard a land card as the Diamond enters for the Diamond to enter the battlefield. But a modal double-faced card like Shatterskull Smashing only has the characteristics of the front face unless you're playing or casting it. In your hand, it's a sorcery card, not a land card, so you cannot discard it to the Diamond's ability.<br>"
   },
   {
     "imgs": [
@@ -101,14 +101,14 @@
       "Dragon Fodder"
     ],
     "q": "I control a <span class=\"autocard\">Mogg Bombers</span>. If I cast <span class=\"autocard\">Dragon Fodder</span>, what happens with my Bomber and how much damage does my opponent take?",
-    "a": "You'll have a dead Mogg Bombers, but your opponent will take 6 damage. The Bombers will trigger twice, since two creatures entered the battlefield. But you don't need to sacrifice the Bombers when the trigger resolves to deal the damage. When the first trigger resolves, you'll sacrifice the Bombers and deal 3 damage to your opponent. When the second trigger resolves, you won't sacrifice the Bombers, but your opponent will take another 3 damage anyways, for a total of 6 damage dealt."
+    "a": "You'll have a dead Mogg Bombers, but your opponent will take 6 damage. The Bombers will trigger twice, since two creatures entered the battlefield. But you don't need to sacrifice the Bombers when the trigger resolves to deal the damage. When the first trigger resolves, you'll sacrifice the Bombers and deal 3 damage to your opponent. When the second trigger resolves, you won't sacrifice the Bombers, but your opponent will take another 3 damage anyways, for a total of 6 damage dealt.<br>"
   },
   {
     "imgs": [
       "Gurmag Angler"
     ],
     "q": "I have five Swamps, a Treasure token, and an empty graveyard. Can I cast <span class=\"autocard\">Gurmag Angler</span> by tapping my five Swamps for mana, sacrificing my Treasure, and then exiling the Treasure token to delve?",
-    "a": "No, that doesn't work. While you can sacrifice the Treasure token during announcement of the Angler before you pay costs, delve only lets you exile <i>cards</i> to help pay for the spell, and a token is not a card. While the token is in the graveyard when you're paying costs, you won't be able to exile it to delve, and you won't be able to pay for the Angler in this case."
+    "a": "No, that doesn't work. While you can sacrifice the Treasure token during announcement of the Angler before you pay costs, delve only lets you exile <i>cards</i> to help pay for the spell, and a token is not a card. While the token is in the graveyard when you're paying costs, you won't be able to exile it to delve, and you won't be able to pay for the Angler in this case.<br>"
   },
   {
     "imgs": [
@@ -116,7 +116,7 @@
       "Tinybones, Trinket Thief"
     ],
     "q": "If I cast <span class=\"autocard\">Mind Rot</span> to make my opponent discard the last two cards in their hand, then cast <span class=\"autocard\">Tinybones, Trinket Thief</span>, will Tinybones trigger at the end of turn?",
-    "a": "Yes it will. Tinybones doesn't need to be on the battlefield when the opponent discards in order to trigger. It will know if an opponent discarded before Tinybones entered, so Tinybones would trigger at the end of turn, even if it didn't see the cards being discarded."
+    "a": "Yes it will. Tinybones doesn't need to be on the battlefield when the opponent discards in order to trigger. It will know if an opponent discarded before Tinybones entered, so Tinybones would trigger at the end of turn, even if it didn't see the cards being discarded.<br>"
   },
   {
     "imgs": [
@@ -125,7 +125,7 @@
       "Klauth's Will"
     ],
     "q": "My commander <span class=\"autocard\">Vrondiss, Rage of Ancients</span> is enchanted with my opponent's <span class=\"autocard\">Kenrith's Transformation</span>. If I cast <span class=\"autocard\">Klauth's Will</span>, choosing both modes and to deal 1 damage to each creature without flying and destroying the Transformation, will I get a Vrondiss trigger?",
-    "a": "No you will not. When resolving the Will, we follow the instructions in the order they're listed on the card. First, we deal the damage to creature, but Vrondiss still has the Transformation attached to it, so it's a 3/3 Elk. Then we destroy the Transformation. But since it didn't have its abilities when the damage was dealt, Vrondiss won't trigger and you won't get the token."
+    "a": "No you will not. When resolving the Will, we follow the instructions in the order they're listed on the card. First, we deal the damage to creature, but Vrondiss still has the Transformation attached to it, so it's a 3/3 Elk. Then we destroy the Transformation. But since it didn't have its abilities when the damage was dealt, Vrondiss won't trigger and you won't get the token.<br>"
   },
   {
     "imgs": [
@@ -134,14 +134,14 @@
       "Undying Evil"
     ],
     "q": "I control <span class=\"autocard\">Nevinyrral, Urborg Tyrant</span> and a <span class=\"autocard\">Carrion Feeder</span>. I cast <span class=\"autocard\">Undying Evil</span> targeting Nevinyrral, then sacrifice Nevinyrral to Carrion Feeder. Will my Nevinyrral return before or after Nevinyrral's dies trigger resolves?",
-    "a": "That's up to you. After you sacrifice Nevinyrral to the Feeder's ability, there's two triggers waiting to go on the stack - the undying trigger from Nevinyrral and Nevinyrral's dies trigger. Since you control both of those triggers, you choose the order they're put on the stack. For the best results, you probably want to resolve the dies trigger first, and destroy all artifacts, creatures, and enchantments, then resolve the undying trigger (and return Nevinyrral to an empty battlefield, along with some Zombie tokens from its enter the battlefield trigger)."
+    "a": "That's up to you. After you sacrifice Nevinyrral to the Feeder's ability, there's two triggers waiting to go on the stack - the undying trigger from Nevinyrral and Nevinyrral's dies trigger. Since you control both of those triggers, you choose the order they're put on the stack. For the best results, you probably want to resolve the dies trigger first, and destroy all artifacts, creatures, and enchantments, then resolve the undying trigger (and return Nevinyrral to an empty battlefield, along with some Zombie tokens from its enter the battlefield trigger).<br>"
   },
   {
     "imgs": [
       "Sygg, River Cutthroat"
     ],
     "q": "I control a <span class=\"autocard\">Sygg, River Cutthroat</span>. I have three opponents, and each one has lost 3 life this turn. How many cards do I draw during my end step?",
-    "a": "Just one card. Sygg will look to see if an opponent has lost 3 or more life as your end step begins, but Sygg doesn't care if multiple opponents have lost 3 or more life. In this case, you'll only get one Sygg trigger, even if all three opponents have lost 3 life, and you'll draw a single card."
+    "a": "Just one card. Sygg will look to see if an opponent has lost 3 or more life as your end step begins, but Sygg doesn't care if multiple opponents have lost 3 or more life. In this case, you'll only get one Sygg trigger, even if all three opponents have lost 3 life, and you'll draw a single card.<br>"
   },
   {
     "imgs": [
@@ -150,7 +150,7 @@
       "Panicked Altisaur"
     ],
     "q": "I have a <span class=\"autocard\">Pantlaza, Sun-Favored</span> in play, and I'm setting up for a big turn, but I need to play <span class=\"autocard\">Belligerent Yearling</span> as my first Dinosaur of the turn. Do I have to use Pantlaza's trigger when the Yearling enters, or can I save it for a larger Dinosaur?",
-    "a": "You can be patient and wait for another Dinosaur. Using Pantlaza's trigger is a \"may\", so you don't have to use it unless you want to. It's only when you've chosen to use its trigger that you won't be able to use it anymore that turn. If you know you're going to play multiple Dinosaurs in a turn, you can wait until you cast one with a large toughness to use for Pantlaza's discover trigger. You'll be able to play the Yearling, not use Pantlaza's trigger off of the Yearling entering, but then choose to use it when you cast your <span class=\"autocard\">Panicked Altisaur</span> later in the turn and discover 5."
+    "a": "You can be patient and wait for another Dinosaur. Using Pantlaza's trigger is a \"may\", so you don't have to use it unless you want to. It's only when you've chosen to use its trigger that you won't be able to use it anymore that turn. If you know you're going to play multiple Dinosaurs in a turn, you can wait until you cast one with a large toughness to use for Pantlaza's discover trigger. You'll be able to play the Yearling, not use Pantlaza's trigger off of the Yearling entering, but then choose to use it when you cast your <span class=\"autocard\">Panicked Altisaur</span> later in the turn and discover 5.<br>"
   },
   {
     "imgs": [
@@ -158,6 +158,6 @@
       "Cloudshift"
     ],
     "q": "I have a <span class=\"autocard\">Pantlaza, Sun-Favored</span> in play and I've already used its trigger to discover this turn. If I cast <span class=\"autocard\">Cloudshift</span> targeting Pantlaza, will it trigger again when it returns to the battlefield?",
-    "a": "Yes, you'll get another trigger. When Pantlaza leaves the battlefield and returns, it's a new object with no link to its previous life on the battlefield. This new Pantlaza has not discovered with its triggered ability yet this turn, so when it enters, its ability will trigger and you'll be able to discover again."
+    "a": "Yes, you'll get another trigger. When Pantlaza leaves the battlefield and returns, it's a new object with no link to its previous life on the battlefield. This new Pantlaza has not discovered with its triggered ability yet this turn, so when it enters, its ability will trigger and you'll be able to discover again.<br>"
   }
 ]

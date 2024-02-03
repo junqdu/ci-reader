@@ -2,35 +2,35 @@
   {
     "imgs": [],
     "q": "One of my local players said you can play mono-colored commanders as though they have \"partner\" now. Is this true?",
-    "a": "So, only while drafting Commander Masters, all legendary creatures (or planeswalkers that have \"this can be your commander\") with one or fewer colors are considered to have partner until the draft is finished.\nMy son created a Commander Cube, where he implemented this rule like three years ago. It is a lot of fun.\n<br>"
+    "a": "So, only while drafting Commander Masters, all legendary creatures (or planeswalkers that have \"this can be your commander\") with one or fewer colors are considered to have partner until the draft is finished.<br>\nMy son created a Commander Cube, where he implemented this rule like three years ago. It is a lot of fun.<br>"
   },
   {
     "imgs": [
       "The Prismatic Piper"
     ],
     "q": "If I draft a red/green deck in <i>Commander Masters</i>, but failed to get a red/green commander (or one mono red commander and one mono green commander and use the partner rule from above), what do I do?",
-    "a": "You can choose to add up to two <span class=\"autocard\">The Prismatic Piper</span>s to your pool after drafting. These can be your commander(s) if you need them. This is similar to how you can add any number of basic lands to your pool after drafting."
+    "a": "You can choose to add up to two <span class=\"autocard\">The Prismatic Piper</span>s to your pool after drafting. These can be your commander(s) if you need them. This is similar to how you can add any number of basic lands to your pool after drafting.<br>"
   },
   {
     "imgs": [
       "The Prismatic Piper"
     ],
     "q": "In the last answer you said I can add two <span class=\"autocard\">The Prismatic Piper</span>s to my deck. They can both be my commander?",
-    "a": "During a <i>Commander Masters</i> draft, if you draft the same mono-colored legend, or the same colorless legend, both can be your commander. You will have to keep track of their \"commander tax\" separately for each one, the same way you do if you have two different commanders with partner. The same is true with commander damage, which you must track separately for each commander even if they have the same name."
+    "a": "During a <i>Commander Masters</i> draft, if you draft the same mono-colored legend, or the same colorless legend, both can be your commander. You will have to keep track of their \"commander tax\" separately for each one, the same way you do if you have two different commanders with partner. The same is true with commander damage, which you must track separately for each commander even if they have the same name. <br>"
   },
   {
     "imgs": [
       "Wanderer's Strike"
     ],
     "q": "If I draft four copies of <span class=\"autocard\">Wanderer's Strike</span>, can I play them all, or like Commander decks am I restricted to playing at most one?",
-    "a": "During all drafts, you are not limited by the maximum number for most constructed formats (four) or maximum number of for Commander (one). You can play every copy of a card you draft in <i>Commander Masters</i> draft."
+    "a": "During all drafts, you are not limited by the maximum number for most constructed formats (four) or maximum number of for Commander (one). You can play every copy of a card you draft in <i>Commander Masters</i> draft.<br>"
   },
   {
     "imgs": [
       "Entourage of Trest"
     ],
     "q": "Since <i>Commander Masters</i> is played multiplayer, if I kill the <span class=\"autocard\">Entourage of Trest</span> during a player's turn that is neither mine nor the monarch's turn, do I become the monarch?",
-    "a": "Nope. When a Monarch dies (or forfeits), the player whose turn it currently is becomes the monarch. If it's currently the monarch's turn, then instead the next player in turn order becomes the monarch. So in a four-player game you want to kill the monarch during your own turn or during the monarch's turn if your turn is after theirs."
+    "a": "Nope. When a Monarch dies (or forfeits), the player whose turn it currently is becomes the monarch. If it's currently the monarch's turn, then instead the next player in turn order becomes the monarch. So in a four-player game you want to kill the monarch during your own turn or during the monarch's turn if your turn is after theirs. <br>"
   },
   {
     "imgs": [
@@ -40,7 +40,7 @@
       "control magic"
     ],
     "q": "My opponent's commander is <span class=\"autocard\">Sidisi, Brood Tyrant</span> and I have <span class=\"autocard\">Clone</span> copying her. Can I cast <span class=\"autocard\">Deadly Rollick</span> for free since I have a copy of a commander?",
-    "a": "You can not. \"Commanderness\" is not a copiable value. You have to control your own commander or <span class=\"autocard\">control magic</span> your opponent's commander to be able to cast Deadly Rollick for free."
+    "a": "You can not. \"Commanderness\" is not a copiable value. You have to control your own commander or <span class=\"autocard\">control magic</span> your opponent's commander to be able to cast Deadly Rollick for free.<br>"
   },
   {
     "imgs": [
@@ -48,7 +48,7 @@
       "Thelon of Havenwood"
     ],
     "q": "If I control <span class=\"autocard\">Emerald Medallion</span>, will it help me cast my commander <span class=\"autocard\">Thelon of Havenwood</span>?",
-    "a": "Maybe. Emerald Medallion can't reduce the <img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"> of Thelon's mana cost. However, it can reduce the \"commander tax\". So the Medallion won't help reduce the cost the first time you cast Thelon, but each time after that it will help."
+    "a": "Maybe. Emerald Medallion can't reduce the <img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"> of Thelon's mana cost. However, it can reduce the \"commander tax\". So the Medallion won't help reduce the cost the first time you cast Thelon, but each time after that it will help.<br>"
   },
   {
     "imgs": [
@@ -56,7 +56,7 @@
       "Hex"
     ],
     "q": "There are currently seven creatures on the battlefield, and I control two of them. I cast <span class=\"autocard\">Aether Gale</span> targeting all the creatures I don't control, my opponent claims that's not legal, I have to choose at least one creature I control. Is this true?",
-    "a": "Your opponent is correct. Aether Gale, much like <span class=\"autocard\">Hex</span>, does not say \"up to six\" targets, meaning there must be that many targets to even cast the spell. If you want to cast Aether Gale with the current board state, you must target one of your own creatures.\nJust as a side note, if you cast Aether Gale with six targets, but some number of them leave the battlefield before it resolves, Aether Gale will still resolve as best it can so long as at least one of the original targets still remains."
+    "a": "Your opponent is correct. Aether Gale, much like <span class=\"autocard\">Hex</span>, does not say \"up to six\" targets, meaning there must be that many targets to even cast the spell. If you want to cast Aether Gale with the current board state, you must target one of your own creatures.<br>\nJust as a side note, if you cast Aether Gale with six targets, but some number of them leave the battlefield before it resolves, Aether Gale will still resolve as best it can so long as at least one of the original targets still remains.<br>"
   },
   {
     "imgs": [
@@ -64,7 +64,7 @@
       "Archfiend of Despair"
     ],
     "q": "In a four-player game, my opponent Nathan has <span class=\"autocard\">Clone</span>d my <span class=\"autocard\">Archfiend of Despair</span> and it's currently my turn. Assuming Susie lost 3 life this turn, how much life will she lose to there being two Archfiends when my turn ends?",
-    "a": "Susie will lose 9 life between the two triggers. The first trigger will cause Susie to lose 3 life, then the second trigger will see the original 3 life lost and the 3 life lose from the first trigger and cause Susie to lose 6 life, for a total of 9 life lost from the Archfiend triggers."
+    "a": "Susie will lose 9 life between the two triggers. The first trigger will cause Susie to lose 3 life, then the second trigger will see the original 3 life lost and the 3 life lose from the first trigger and cause Susie to lose 6 life, for a total of 9 life lost from the Archfiend triggers.<br>"
   },
   {
     "imgs": [
@@ -72,7 +72,7 @@
       "Baird, Steward of Argive"
     ],
     "q": "I control <span class=\"autocard\">Avatar of Slaughter</span> and <span class=\"autocard\">Baird, Steward of Argive</span>. Are my opponents forced to pay Baird's tax to attack me?",
-    "a": "In a two player game, no. Your opponent can choose not to attack you even if they have the mana to pay for Baird's tax. \nHowever, if you are in a multiplayer game, your opponents are still forced to attack with each creature they have. These creatures must attack one of your shared opponents, or pay <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\"> for each creature they attack you with."
+    "a": "In a two player game, no. Your opponent can choose not to attack you even if they have the mana to pay for Baird's tax. <br>\nHowever, if you are in a multiplayer game, your opponents are still forced to attack with each creature they have. These creatures must attack one of your shared opponents, or pay <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\"> for each creature they attack you with.<br>"
   },
   {
     "imgs": [
@@ -80,7 +80,7 @@
       "Darksteel Mutation"
     ],
     "q": "My opponent's Commander is <span class=\"autocard\">Mikaeus, the Lunarch</span> which currently has four +1/+1 counters on it. If I enchant it with <span class=\"autocard\">Darksteel Mutation</span> does it still deal commander damage?",
-    "a": "It does. \"Commanderness\" can't be lost, even if the commander loses all its abilities. Mikaeus being turned into a 0/1 by the Darksteel Mutation will not override the +1/+1 counters, but will make him a 4/5 instead of the 4/4 he just was."
+    "a": "It does. \"Commanderness\" can't be lost, even if the commander loses all its abilities. Mikaeus being turned into a 0/1 by the Darksteel Mutation will not override the +1/+1 counters, but will make him a 4/5 instead of the 4/4 he just was.<br>"
   },
   {
     "imgs": [
@@ -89,7 +89,7 @@
       "Deflecting Swat"
     ],
     "q": "My opponent is trying to <span class=\"autocard\">Counterspell</span> my <span class=\"autocard\">Avacyn, Angel of Hope</span> and I have a <span class=\"autocard\">Deflecting Swat</span> in my hand. Can I cast the Deflecting Swat making the Counterspell target itself, to save my Avacyn?",
-    "a": "You can not make a spell target itself. This is rule 115.5, a spell or ability on the stack is an illegal target for itself.\nHowever, you could cast the Deflecting Swat and make the Counterspell target the Deflecting Swat. The Deflecting Swat will resolve, and be placed in the graveyard. Then the Counterspell will attempt to resolve, but its target (the Deflecting Swat) is no longer legal and the Counterspell can't resolve, is removed from the stack, and put into its owner's graveyard."
+    "a": "You can not make a spell target itself. This is rule 115.5, a spell or ability on the stack is an illegal target for itself.<br>\nHowever, you could cast the Deflecting Swat and make the Counterspell target the Deflecting Swat. The Deflecting Swat will resolve, and be placed in the graveyard. Then the Counterspell will attempt to resolve, but its target (the Deflecting Swat) is no longer legal and the Counterspell can't resolve, is removed from the stack, and put into its owner's graveyard.<br>"
   },
   {
     "imgs": [
@@ -97,7 +97,7 @@
       "Freyalise, Llanowar's Fury"
     ],
     "q": "I control <span class=\"autocard\">Doubling Season</span> and cast <span class=\"autocard\">Freyalise, Llanowar's Fury</span>. If I use her +2 loyalty ability immediately, how much loyalty will she have?",
-    "a": "If you use her +2 loyalty ability immediately, she will end up at 8 loyalty. This probably seems unintuitive.\nDoubling Season says \"If an effect would put one or more counters on a permanent you control\". Effect is the important word here. Effects include things like abilities and spells. \nThe starting loyalty of a planeswalker is an ability of the card. So it will enter the battlefield with twice as many loyalty as normal.\nHowever, a cost is not an effect in the game of Magic. The loyalty ability's +2, -2, or -6 are each costs, then the ability resolving is an effect (i.e. Cost : Effect). Doubling Season does not increase the amount of loyalty counters that are gained from paying loyalty costs.\nSo Freyalise tries to enter with 3 loyalty, but Doubling Season doubles that to 6 instead. Then Freyalise pays the cost of adding 2 loyalty (Doubling Season ignores this as it's a cost, not an effect), so Freyalise ends up at 8 loyalty."
+    "a": "If you use her +2 loyalty ability immediately, she will end up at 8 loyalty. This probably seems unintuitive.<br>\nDoubling Season says \"If an effect would put one or more counters on a permanent you control\". Effect is the important word here. Effects include things like abilities and spells. <br>\nThe starting loyalty of a planeswalker is an ability of the card. So it will enter the battlefield with twice as many loyalty as normal.<br>\nHowever, a cost is not an effect in the game of Magic. The loyalty ability's +2, -2, or -6 are each costs, then the ability resolving is an effect (i.e. Cost : Effect). Doubling Season does not increase the amount of loyalty counters that are gained from paying loyalty costs.<br>\nSo Freyalise tries to enter with 3 loyalty, but Doubling Season doubles that to 6 instead. Then Freyalise pays the cost of adding 2 loyalty (Doubling Season ignores this as it's a cost, not an effect), so Freyalise ends up at 8 loyalty.<br>"
   },
   {
     "imgs": [
@@ -106,7 +106,7 @@
       "Feed the Swarm"
     ],
     "q": "My opponent controls a <span class=\"autocard\">Body Double</span> that is currently copying the <span class=\"autocard\">Brinelin, the Moon Kraken</span> in my graveyard. If I destroy it using <span class=\"autocard\">Feed the Swarm</span> do I lose 5 life or 8 life?",
-    "a": "You lose 8 life. You complete the actions written on Feed the Swarm in the order they are written, so the Body Double will be in the graveyard and will no longer be copying Brinelin by the time you lose life, but the game will use \"last known information\" to determine the Body Double's stats, Feed the Swarm will see the last time it was on the battlefield that it was Brinelin, making you lose 8 life."
+    "a": "You lose 8 life. You complete the actions written on Feed the Swarm in the order they are written, so the Body Double will be in the graveyard and will no longer be copying Brinelin by the time you lose life, but the game will use \"last known information\" to determine the Body Double's stats, Feed the Swarm will see the last time it was on the battlefield that it was Brinelin, making you lose 8 life.<br>"
   },
   {
     "imgs": [
@@ -114,7 +114,7 @@
       "The Great Henge"
     ],
     "q": "The only creature I control is <span class=\"autocard\">Multani, Maro-Sorcerer</span> and there are a total of six cards among all players' hands. One of the cards in my hand is <span class=\"autocard\">The Great Henge</span>. If I try to cast it, how much mana will it cost me?",
-    "a": "If will cost <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\">. The first part of casting a spell is to take it from whichever zone you are casting it from (usually your hand) and place it on the stack. Costs are then determined (including reductions), then costs are paid. By the time you determine the cost of The Great Henge it's no longer in your hand, making Multani a little smaller."
+    "a": "If will cost <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\">. The first part of casting a spell is to take it from whichever zone you are casting it from (usually your hand) and place it on the stack. Costs are then determined (including reductions), then costs are paid. By the time you determine the cost of The Great Henge it's no longer in your hand, making Multani a little smaller.<br>"
   },
   {
     "imgs": [
@@ -122,14 +122,14 @@
       "Cyclonic Rift"
     ],
     "q": "I control <span class=\"autocard\">Kozilek, the Great Distortion</span> and my opponent has overloaded <span class=\"autocard\">Cyclonic Rift</span>. What mana value card do I have to discard through Kozilek to counter the rift?",
-    "a": "You need to discard a card with mana value 2. Even though Cyclonic Rift cost the opponent <img src=\"/ci-reader/images/symbols/6.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\">, its mana value is still 2."
+    "a": "You need to discard a card with mana value 2. Even though Cyclonic Rift cost the opponent <img src=\"/ci-reader/images/symbols/6.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\">, its mana value is still 2.<br>"
   },
   {
     "imgs": [
       "Lightning Greaves"
     ],
     "q": "I just put ten 2/2 Soldier tokens on the battlefield. Can I use my <span class=\"autocard\">Lightning Greaves</span> to give each one haste and then attack with all ten?",
-    "a": "You can not. A creature has to have haste at the time you want them to attack or use an ability with <img src=\"/ci-reader/images/symbols/T.png\" class=\"mana\"> in its cost. Since only one creature can wear the boots at a time, only one of the tokens can benefit from the haste and attack this turn."
+    "a": "You can not. A creature has to have haste at the time you want them to attack or use an ability with <img src=\"/ci-reader/images/symbols/T.png\" class=\"mana\"> in its cost. Since only one creature can wear the boots at a time, only one of the tokens can benefit from the haste and attack this turn.<br>"
   },
   {
     "imgs": [
@@ -137,7 +137,7 @@
       "Deadly Rollick"
     ],
     "q": "My opponent Alice controls <span class=\"autocard\">Pathrazer of Ulamog</span> and it's currently her turn. I have a <span class=\"autocard\">Deadly Rollick</span> in hand. I'm not sure if she is going to attack me or not, and if she doesn't, I want to save the Rollick for something else. Is it possible to kill the Pathrazer after it attacks me and not have to sacrifice permanents to it's annihilator ability?",
-    "a": "Once Alice decides if and whom the Pathrazer is attacking, the annihilator trigger will be on the stack and exist independently of the Pathrazer. Killing the Pathrazer will not stop the annihilation. The only way to guarantee you won't have to sacrifice to the annihilator trigger is to kill the Pathrazer before it attacks."
+    "a": "Once Alice decides if and whom the Pathrazer is attacking, the annihilator trigger will be on the stack and exist independently of the Pathrazer. Killing the Pathrazer will not stop the annihilation. The only way to guarantee you won't have to sacrifice to the annihilator trigger is to kill the Pathrazer before it attacks. <br>"
   },
   {
     "imgs": [
@@ -146,7 +146,7 @@
       "Fling"
     ],
     "q": "If I cast <span class=\"autocard\">Meteoric Mace</span> and cascade into <span class=\"autocard\">Toxic Deluge</span> can I still pay life into Toxic Deluge even though I'm casting it for free?",
-    "a": "Yes, you can. It's true you can't pay mana into <img src=\"/ci-reader/images/symbols/X.png\" class=\"mana\"> if <img src=\"/ci-reader/images/symbols/X.png\" class=\"mana\"> is in the mana cost of a spell you are casting for no mana. That is not what is happening here. The life loss for Toxic Deluge is an additional cost. When you cast a spell without paying its mana cost you may choose to pay optional additional costs. \nSome additional costs are mandatory and if you can't pay them, then you can't cast the spell at all. This is also true when casting the same spell without paying its mana cost. A good example of a mandatory additional cost is sacrificing a creature to <span class=\"autocard\">Fling</span>. If you cascade into <span class=\"autocard\">Fling</span> and you have no creatures, you <i>can't</i> cast it. If you cascade into Fling and have one or more creatures, you can only cast it if you sacrifice a creature for its additional cost."
+    "a": "Yes, you can. It's true you can't pay mana into <img src=\"/ci-reader/images/symbols/X.png\" class=\"mana\"> if <img src=\"/ci-reader/images/symbols/X.png\" class=\"mana\"> is in the mana cost of a spell you are casting for no mana. That is not what is happening here. The life loss for Toxic Deluge is an additional cost. When you cast a spell without paying its mana cost you may choose to pay optional additional costs. <br>\nSome additional costs are mandatory and if you can't pay them, then you can't cast the spell at all. This is also true when casting the same spell without paying its mana cost. A good example of a mandatory additional cost is sacrificing a creature to <span class=\"autocard\">Fling</span>. If you cascade into <span class=\"autocard\">Fling</span> and you have no creatures, you <i>can't</i> cast it. If you cascade into Fling and have one or more creatures, you can only cast it if you sacrifice a creature for its additional cost.<br>"
   },
   {
     "imgs": [
@@ -155,6 +155,6 @@
       "Decision Paralysis"
     ],
     "q": "My opponent controls <span class=\"autocard\">Ondu Spiritdancer</span>, three other creatures, and is casting <span class=\"autocard\">Spectra Ward</span>. I know which creature is being targeted by the original Spectra Ward, and I assume my opponent will copy Spectra Ward with Spiritdancer. Is there any time between when I'll know the target of the copy of Spectra Ward but before it gains protection from all colors so I can tap it down with <span class=\"autocard\">Decision Paralysis</span>?",
-    "a": "There is not. Auras put directly on to the battlefield don't have targets like Auras that are cast. The owner of such Auras just chooses to attach them to a legal target without using the stack.\nYou could guaranteed tap down the target of the original Spectra Ward and simultaneously tap down the scariest creature that could end up with the Spectra Ward. This will likely mean the opponent will put it on a different creature as they likely don't want it on a creature that's stuck tapped down for two turns."
+    "a": "There is not. Auras put directly on to the battlefield don't have targets like Auras that are cast. The owner of such Auras just chooses to attach them to a legal target without using the stack.<br>\nYou could guaranteed tap down the target of the original Spectra Ward and simultaneously tap down the scariest creature that could end up with the Spectra Ward. This will likely mean the opponent will put it on a different creature as they likely don't want it on a creature that's stuck tapped down for two turns.<br>"
   }
 ]

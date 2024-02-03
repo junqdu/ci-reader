@@ -6,14 +6,14 @@
       "counterspell"
     ],
     "q": "I control <span class=\"autocard\">Thousand-Year Storm</span> and my current storm count is four. If I cast <span class=\"autocard\">Overmaster</span> and it and all four storm copies resolve, does that mean the next five instant and/or sorcery spells I cast can't be <span class=\"autocard\">counterspell</span>ed?",
-    "a": "Only the next one. Each of the five Overmasters resolved and are still waiting to make the next instant or sorcery uncounterable. The copies made by Thousand-Year Storm didn't use up any of the uncounterable effects, as those were not cast, and although the original won't resolve until after all the copies, it was already cast. All five effects will affect the next instant or sorcery, you can't use just one effect to help the next spell and save the other four effects for spells after it."
+    "a": "Only the next one. Each of the five Overmasters resolved and are still waiting to make the next instant or sorcery uncounterable. The copies made by Thousand-Year Storm didn't use up any of the uncounterable effects, as those were not cast, and although the original won't resolve until after all the copies, it was already cast. All five effects will affect the next instant or sorcery, you can't use just one effect to help the next spell and save the other four effects for spells after it.  <br>"
   },
   {
     "imgs": [
       "Fading Hope"
     ],
     "q": "If I <span class=\"autocard\">Fading Hope</span> my opponent's 3/3 Beast token, do I still get to scry 1?",
-    "a": "You do get to scry! The token does go to the opponent's hand, and then it stops existing quite quickly after that, and it does have a mana value of 3 or less because its mana value is 0."
+    "a": "You do get to scry! The token does go to the opponent's hand, and then it stops existing quite quickly after that, and it does have a mana value of 3 or less because its mana value is 0. <br>"
   },
   {
     "imgs": [
@@ -22,7 +22,7 @@
       "Incinerate"
     ],
     "q": "If I tap <span class=\"autocard\">Pyromancer's Goggles</span> to make <img src=\"/ci-reader/images/symbols/R.png\" class=\"mana\">, then I untap it using <span class=\"autocard\">Voltaic Key</span>, then use Goggles to make another <img src=\"/ci-reader/images/symbols/R.png\" class=\"mana\">, can I use both <img src=\"/ci-reader/images/symbols/R.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/R.png\" class=\"mana\"> to cast <span class=\"autocard\">Incinerate</span>, getting two copies, to deal a total of 9 damage?",
-    "a": "Yes. Whether it's used to pay red or colorless portions of a spell's mana cost, each <img src=\"/ci-reader/images/symbols/R.png\" class=\"mana\"> from a Pyromancer's Goggles will generate a copy of a red instant or red sorcery it helped to cast."
+    "a": "Yes. Whether it's used to pay red or colorless portions of a spell's mana cost, each <img src=\"/ci-reader/images/symbols/R.png\" class=\"mana\"> from a Pyromancer's Goggles will generate a copy of a red instant or red sorcery it helped to cast.<br>"
   },
   {
     "imgs": [
@@ -30,7 +30,7 @@
       "Ajani, Sleeper Agent"
     ],
     "q": "If I want <span class=\"autocard\">Jegantha, the Wellspring</span> to be my companion, can I include <span class=\"autocard\">Ajani, Sleeper Agent</span> in my deck?",
-    "a": "Yes, Jegantha can be the companion to a deck containing Ajani, Sleeper Agent. There are four mana symbols in Ajani's mana cost, and each is a different mana symbol as far as Jegantha is concerned."
+    "a": "Yes, Jegantha can be the companion to a deck containing Ajani, Sleeper Agent. There are four mana symbols in Ajani's mana cost, and each is a different mana symbol as far as Jegantha is concerned.<br>"
   },
   {
     "imgs": [
@@ -38,7 +38,7 @@
       "Heroic Intervention"
     ],
     "q": "Earlier this turn, my opponent resolved <span class=\"autocard\">Dress Down</span>. Can I use <span class=\"autocard\">Heroic Intervention</span> to give my creatures hexproof and indestructible?",
-    "a": "You can. Adding and removing abilities happens in the same layer, layer 6. Since they both apply in the same layer, we do them in time stamp order: apply the oldest first, then the next oldest, until we get to the youngest happening last. Dress Down happened first, so we remove all abilities, then Intervention adds some abilities.\nTo be super technical, when applying multiple effects in the same layer you apply any C.D.A.s first, and then apply remaining continuous effects in time stamp order and even this order can be forced to re-arrange if there are any dependencies. None of these exceptions are relevant to this question, but if you would like to learn more about Layers, you can go to <a href=\"/article/3327\">this article.</a>"
+    "a": "You can. Adding and removing abilities happens in the same layer, layer 6. Since they both apply in the same layer, we do them in time stamp order: apply the oldest first, then the next oldest, until we get to the youngest happening last. Dress Down happened first, so we remove all abilities, then Intervention adds some abilities.<br>\nTo be super technical, when applying multiple effects in the same layer you apply any C.D.A.s first, and then apply remaining continuous effects in time stamp order and even this order can be forced to re-arrange if there are any dependencies. None of these exceptions are relevant to this question, but if you would like to learn more about Layers, you can go to <a href=\"/article/3327\">this article.</a><br>"
   },
   {
     "imgs": [
@@ -46,7 +46,7 @@
       "Jeering Homunculus"
     ],
     "q": "My opponent controls five 2/2 Soldier token and one is enchanted with <span class=\"autocard\">Errantry</span>, and I have goaded it with my <span class=\"autocard\">Jeering Homunculus</span>'s enter the battlefield trigger. When my opponent goes to attack, what happens?",
-    "a": "The opponent must attack with the goaded Soldier and can't attack with any other creatures. If you aren't that player's only opponent, then the Soldier must attack an opponent other than you. If you are the only opponent, then it must attack you. When determining a legal attack, you must fulfill all restrictions and then fulfill as many requirements as possible."
+    "a": "The opponent must attack with the goaded Soldier and can't attack with any other creatures. If you aren't that player's only opponent, then the Soldier must attack an opponent other than you. If you are the only opponent, then it must attack you. When determining a legal attack, you must fulfill all restrictions and then fulfill as many requirements as possible.<br>"
   },
   {
     "imgs": [
@@ -54,7 +54,7 @@
       "Spark Double"
     ],
     "q": "I control a tapped <span class=\"autocard\">Archelos, Lagoon Mystic</span> and an untapped <span class=\"autocard\">Spark Double</span> that is copying Archelos. What happens to stuff entering the battlefield now?",
-    "a": "For each permanent, its controller may choose for it to enter the battlefield tapped or untapped. This is because if multiple replacement effects try to affect the same permanent, its controller chooses the order they are applied in."
+    "a": "For each permanent, its controller may choose for it to enter the battlefield tapped or untapped. This is because if multiple replacement effects try to affect the same permanent, its controller chooses the order they are applied in. <br>"
   },
   {
     "imgs": [
@@ -66,7 +66,7 @@
       "Aether Channeler"
     ],
     "q": "I was told that controlling <span class=\"autocard\">Brago, King Eternal</span>, <span class=\"autocard\">Sol Ring</span> and <span class=\"autocard\">Strionic Resonator</span> was an infinite combo. I don't understand how it works, could you explain it?",
-    "a": "This is an infinite combo, however without at least one more card, all it allows you to do is \"blink\" Brago, Sol Ring, and Resonator any number of times you like during the damage step of the combat phase. If you add <span class=\"autocard\">Soul Warden</span> you gain any amount of life you like, or if you add <span class=\"autocard\">Corpse Knight</span> you can have each opponent lose any amount of life. <span class=\"autocard\">Aether Channeler</span> would be quite good in this combo, but be careful not to deck yourself.\nHow the combo works is you have to deal combat damage to an opponent with Brago. Before the Brago's combat damage triggered ability resolves, you want to copy it by using Strionic Resonator and tapping Sol Ring for <img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\">. You want the copy at minimum to blink Sol Ring and Resonator, and it can't hurt to blink Brago as well. After the copy resolves, you can now copy the original trigger again because the original still hasn't resolved and both Sol Ring and Resonator are untapped. Rinse and repeat as many times as you like."
+    "a": "This is an infinite combo, however without at least one more card, all it allows you to do is \"blink\" Brago, Sol Ring, and Resonator any number of times you like during the damage step of the combat phase. If you add <span class=\"autocard\">Soul Warden</span> you gain any amount of life you like, or if you add <span class=\"autocard\">Corpse Knight</span> you can have each opponent lose any amount of life. <span class=\"autocard\">Aether Channeler</span> would be quite good in this combo, but be careful not to deck yourself.<br>\nHow the combo works is you have to deal combat damage to an opponent with Brago. Before the Brago's combat damage triggered ability resolves, you want to copy it by using Strionic Resonator and tapping Sol Ring for <img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/C.png\" class=\"mana\">. You want the copy at minimum to blink Sol Ring and Resonator, and it can't hurt to blink Brago as well. After the copy resolves, you can now copy the original trigger again because the original still hasn't resolved and both Sol Ring and Resonator are untapped. Rinse and repeat as many times as you like. <br>"
   },
   {
     "imgs": [
@@ -74,7 +74,7 @@
       "Jon Irenicus, Shattered One"
     ],
     "q": "If I give an opponent my <span class=\"autocard\">Phylactery Lich</span> with <span class=\"autocard\">Jon Irenicus, Shattered One</span>'s ability, what happens to the Lich since the opponent doesn't control a permanent with a phylactery counter on it and can't sacrifice the Lich?",
-    "a": "The game ends in a draw if someone can't get Phylactery Lich off of the battlefield at instant speed or, I suppose, give the same opponent a permanent with a phylactery counter at instant speed.\nThe reason for this that the Lich has what's called a \"state trigger.\" These can only trigger if a copy of the same trigger isn't already on the stack. Immediately after the opponent gains control of the Lich, the game goes, \"hey, you don't have a permanent with a phylactery counter, so you have to sacrifice that Lich.\" But because the opponent can't sacrifice the Lich, the trigger resolves without anything happening. Then the state trigger triggers again. With the same result. This now happens at infinitum and the game is stuck in an endless loop of mandatory actions. If a player can get the Lich off the battlefield at instant speed, they can do so while the Lich's state trigger is on the stack, ending the infinite loop."
+    "a": "The game ends in a draw if someone can't get Phylactery Lich off of the battlefield at instant speed or, I suppose, give the same opponent a permanent with a phylactery counter at instant speed.<br>\nThe reason for this that the Lich has what's called a \"state trigger.\" These can only trigger if a copy of the same trigger isn't already on the stack. Immediately after the opponent gains control of the Lich, the game goes, \"hey, you don't have a permanent with a phylactery counter, so you have to sacrifice that Lich.\" But because the opponent can't sacrifice the Lich, the trigger resolves without anything happening. Then the state trigger triggers again. With the same result. This now happens at infinitum and the game is stuck in an endless loop of mandatory actions. If a player can get the Lich off the battlefield at instant speed, they can do so while the Lich's state trigger is on the stack, ending the infinite loop.<br>"
   },
   {
     "imgs": [
@@ -85,7 +85,7 @@
       "Fencing Ace"
     ],
     "q": "During a fight with cards like <span class=\"autocard\">Savage Punch</span>, does first strike let my creature deal its damage first?",
-    "a": "Many evergreen abilities like <span class=\"autocard\">Ajani's Sunstriker</span> and <span class=\"autocard\">Daggerback Basilisk</span> do work during a fight, because they function no matter how the creature deals damage. However, <span class=\"autocard\">Battle Hurda</span> and <span class=\"autocard\">Fencing Ace</span> don't because they only function in combat, which is different from a fight."
+    "a": "Many evergreen abilities like <span class=\"autocard\">Ajani's Sunstriker</span> and <span class=\"autocard\">Daggerback Basilisk</span> do work during a fight, because they function no matter how the creature deals damage. However, <span class=\"autocard\">Battle Hurda</span> and <span class=\"autocard\">Fencing Ace</span> don't because they only function in combat, which is different from a fight.<br>"
   },
   {
     "imgs": [
@@ -93,7 +93,7 @@
       "Brazen Cannonade"
     ],
     "q": "Does <span class=\"autocard\">Isshin, Two Heavens as One</span>'s ability double either of <span class=\"autocard\">Brazen Cannonade</span>'s triggered abilities?",
-    "a": "Isshin will not double either trigger from Cannonade. Isshin's ability only doubles triggers that trigger from a creature becoming an attacking creature. Brazen Cannonade's first trigger is triggered by creatures (that happen to be attackers) dying. Cannonade's second trigger triggers at the beginning of each postcombat main phase, if you attacked with a creature this turn.\n<br>"
+    "a": "Isshin will not double either trigger from Cannonade. Isshin's ability only doubles triggers that trigger from a creature becoming an attacking creature. Brazen Cannonade's first trigger is triggered by creatures (that happen to be attackers) dying. Cannonade's second trigger triggers at the beginning of each postcombat main phase, if you attacked with a creature this turn.<br>"
   },
   {
     "imgs": [
@@ -102,7 +102,7 @@
       "Bant Battlemage"
     ],
     "q": "If I target <span class=\"autocard\">Agrus Kos, Eternal Soldier</span> with a card like <span class=\"autocard\">Jump</span>, does his ability trigger to give all my creatures flying?",
-    "a": "This doesn't work. Agrus only copies abilities, not spells. Jump is a spell, so you get no copies. You would need something like the second activated ability of <span class=\"autocard\">Bant Battlemage</span> to give all your creatures flying."
+    "a": "This doesn't work. Agrus only copies abilities, not spells. Jump is a spell, so you get no copies. You would need something like the second activated ability of <span class=\"autocard\">Bant Battlemage</span> to give all your creatures flying.<br>"
   },
   {
     "imgs": [
@@ -112,7 +112,7 @@
       "Showdown of the Skalds"
     ],
     "q": "During my opponent's turn, if I cycle a card like <span class=\"autocard\">Boon of the Wish-Giver</span>, will the <span class=\"autocard\">Oskar, Rubbish Reclaimer</span> I control allow me to cast it even though it's a sorcery and it's my opponent's turn?",
-    "a": "Yes. Good job drawing five cards for seven mana during an opponent's turn. If a spell or ability lets you cast a card and <span class=\"autocard\">Bring to Light</span>, you can only cast it while that spell or ability is resolving, and you can ignore the normal timing restrictions. If a spell or ability lets you cast a card <span class=\"autocard\">Showdown of the Skalds</span>, you must follow normal timing restrictions."
+    "a": "Yes. Good job drawing five cards for seven mana during an opponent's turn. If a spell or ability lets you cast a card and <span class=\"autocard\">Bring to Light</span>, you can only cast it while that spell or ability is resolving, and you can ignore the normal timing restrictions. If a spell or ability lets you cast a card <span class=\"autocard\">Showdown of the Skalds</span>, you must follow normal timing restrictions.<br>"
   },
   {
     "imgs": [
@@ -120,7 +120,7 @@
       "Glimpse the Unthinkable"
     ],
     "q": "I only have six cards left in my library. I happen to know that three of those cards are <span class=\"autocard\">Blightsteel Colossus</span>es. My opponent has just cast <span class=\"autocard\">Glimpse the Unthinkable</span> targeting me. What happens when the Glimpse resolves?",
-    "a": "You will attempt to put all six cards in your graveyard at once, but before the Colossi hit the graveyard, you will reveal them and shuffle all three back into an otherwise empty library. You won't need to mill four more cards, the excess mill was just wasted."
+    "a": "You will attempt to put all six cards in your graveyard at once, but before the Colossi hit the graveyard, you will reveal them and shuffle all three back into an otherwise empty library. You won't need to mill four more cards, the excess mill was just wasted.<br>"
   },
   {
     "imgs": [
@@ -128,7 +128,7 @@
       "Metallic Mimic"
     ],
     "q": "Does my <span class=\"autocard\">Hushbringer</span> stop my opponent's <span class=\"autocard\">Metallic Mimic</span> from putting +1/+1 counters on creatures of the chosen type?",
-    "a": "Hushbringer does not interact with Metallic Mimic in any way. Hushbringer is looking for triggers (these usually start with \"when\", \"whenever\", or \"at\"). Metallic Mimic's ability is a static ability that creates a replacement effect, not a triggered ability."
+    "a": "Hushbringer does not interact with Metallic Mimic in any way. Hushbringer is looking for triggers (these usually start with \"when\", \"whenever\", or \"at\"). Metallic Mimic's ability is a static ability that creates a replacement effect, not a triggered ability. <br>"
   },
   {
     "imgs": [
@@ -137,7 +137,7 @@
       "Cyberdrive Awakener"
     ],
     "q": "Last turn I played <span class=\"autocard\">Mirage Mirror</span> and my opponent currently controls a <span class=\"autocard\">Darksteel Forge</span>. Earlier this turn I cast <span class=\"autocard\">Cyberdrive Awakener</span>, turning the Mirage Mirror into a creature. If I now attack with the Mirage Mirror and before blocks use its ability to become a copy of the Darksteel Forge, will it still be a creature when it comes to the combat damage step?",
-    "a": "It will still be a creature. Copy effects do not override type changing effects. It's a Darksteel Forge, still being animated by the effect from Cyberdrive's ability."
+    "a": "It will still be a creature. Copy effects do not override type changing effects. It's a Darksteel Forge, still being animated by the effect from Cyberdrive's ability. <br>"
   },
   {
     "imgs": [
@@ -145,7 +145,7 @@
       "Control Magic"
     ],
     "q": "My opponent has controlled <span class=\"autocard\">Scion of Darkness</span> for several turns. This turn I stole it by enchanting it with <span class=\"autocard\">Control Magic</span> and then tried to attack with it. My opponent says I can't attack with it, because it has summoning sickness. Is my opponent correct?",
-    "a": "Your opponent is correct. In simple terms, a creature that changes control is \"re-summon sicked\". \nThe full rule is:<br>\n302.6. A creature's activated ability with the tap symbol or the untap symbol in its activation cost can't be activated unless the creature has been under its controller's control continuously since their most recent turn began. A creature can't attack unless it has been under its controller's control continuously since their most recent turn began. This rule is informally called the \"summoning sickness\" rule.\n<br>"
+    "a": "Your opponent is correct. In simple terms, a creature that changes control is \"re-summon sicked\". <br>\nThe full rule is:<br>\n302.6. A creature's activated ability with the tap symbol or the untap symbol in its activation cost can't be activated unless the creature has been under its controller's control continuously since their most recent turn began. A creature can't attack unless it has been under its controller's control continuously since their most recent turn began. This rule is informally called the \"summoning sickness\" rule.<br>"
   },
   {
     "imgs": [
@@ -153,7 +153,7 @@
       "Altar of Dementia"
     ],
     "q": "If I sacrifice my <span class=\"autocard\">Bruvac the Grandiloquent</span> to <span class=\"autocard\">Altar of Dementia</span> will Bruvac still double the mill from the Altar?",
-    "a": "Bruvac will not double the mill. Bruvac stops being on the battlefield when you pay the cost to activate the Altar's ability. Then later the ability will resolve, by which time Bruvac is long gone."
+    "a": "Bruvac will not double the mill. Bruvac stops being on the battlefield when you pay the cost to activate the Altar's ability. Then later the ability will resolve, by which time Bruvac is long gone.<br>"
   },
   {
     "imgs": [
@@ -161,7 +161,7 @@
       "Maro"
     ],
     "q": "If I <span class=\"autocard\">Saw in Half</span> my own <span class=\"autocard\">Maro</span> while I have six cards in hand, how big will the token copies be?",
-    "a": "The Mari (is that the plural of Maro?) will be 3/3 tokens and their P/T will not change even if the number of cards in your hand does. If a copy of a creature is made and the copy effect defines the power and toughness of the creature, then any abilities that define the P/T will not be copied."
+    "a": "The Mari (is that the plural of Maro?) will be 3/3 tokens and their P/T will not change even if the number of cards in your hand does. If a copy of a creature is made and the copy effect defines the power and toughness of the creature, then any abilities that define the P/T will not be copied.<br>"
   },
   {
     "imgs": [
@@ -169,6 +169,6 @@
       "The Stasis Coffin"
     ],
     "q": "I control <span class=\"autocard\">Mishra, Eminent One</span> and <span class=\"autocard\">The Stasis Coffin</span>.  Each combat on my turn, could I copy the Coffin and sacrifice the copy for protection, keeping myself safe from opponents for the most part?",
-    "a": "You can! You are not required to attack with the token Mishra makes, and most conveniently in this example Mishra changes the name of the token, so you don't have to worry about the legend rule ruining one of your copies of the Stasis Coffin."
+    "a": "You can! You are not required to attack with the token Mishra makes, and most conveniently in this example Mishra changes the name of the token, so you don't have to worry about the legend rule ruining one of your copies of the Stasis Coffin.<br>"
   }
 ]

@@ -1,7 +1,7 @@
 const jsdom = require('jsdom');
 const { JSDOM } = jsdom;
 const fs = require('node:fs');
-const data = require('./2024.json');
+const data = require('./2023.json');
 
 const args = process.argv.slice(2);
 const id = args[0] || 4160;
@@ -98,7 +98,7 @@ const get = async (id) => {
 
             // dedup images
             output[idx].imgs = [...new Set(output[idx].imgs)];
-            output[idx].a = rest.join(':').replaceAll('<br>\n<br>', '').trim();
+            output[idx].a = rest.join(':').replaceAll('\n<br>', '').trim();
         });
 
         fs.writeFile(

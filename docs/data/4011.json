@@ -5,14 +5,14 @@
       "Arni Metalbrow"
     ],
     "q": "I have a <span class=\"autocard\">Lightshield Array</span> under my control. Will a creature that's put onto the battlefield attacking, like the creature from <span class=\"autocard\">Arni Metalbrow</span>'s activated ability, get a counter at the end of turn?",
-    "a": "It will not get the counter. The Array will give a +1/+1 counter for any creature that attacked that turn. But that only counts creatures that were declared as an attacker - creatures that were put onto the battlefield attacking will not count. The creature put onto the battlefield attacking won't get the counter from the Array at the end of turn."
+    "a": "It will not get the counter. The Array will give a +1/+1 counter for any creature that attacked that turn. But that only counts creatures that were declared as an attacker - creatures that were put onto the battlefield attacking will not count. The creature put onto the battlefield attacking won't get the counter from the Array at the end of turn.<br>"
   },
   {
     "imgs": [
       "Ghalta and Mavren"
     ],
     "q": "Do I have to attack with <span class=\"autocard\">Ghalta and Mavren</span> to get its attack trigger?",
-    "a": "Nope, Ghalta and Mavren can stay on the sidelines and watch your other creatures attack and you'll still get their trigger. Ghalta and Mavren trigger whenever you attack, not when it attacks, so even if Ghalta and Mavren didn't attack (perhaps because you just cast them that turn), as long as you attack with at least one creature, you'll get their trigger and get a big Dinosaur token or some Vampire tokens."
+    "a": "Nope, Ghalta and Mavren can stay on the sidelines and watch your other creatures attack and you'll still get their trigger. Ghalta and Mavren trigger whenever you attack, not when it attacks, so even if Ghalta and Mavren didn't attack (perhaps because you just cast them that turn), as long as you attack with at least one creature, you'll get their trigger and get a big Dinosaur token or some Vampire tokens.<br>"
   },
   {
     "imgs": [
@@ -20,7 +20,7 @@
       "Consuming Aetherborn"
     ],
     "q": "My only nonland permanent in play is a <span class=\"autocard\">Flywheel Racer</span>. If I cast <span class=\"autocard\">Consuming Aetherborn</span>, can I crew the Racer with the Aetherborn and target it with the Aetherborn's backup trigger?",
-    "a": "Nope, that doesn't work. After the Aetherborn enters, before you get a chance to do anything, we have to put the Aetherborn's trigger on the stack. The Racer isn't a creature yet, so it can't be targeted, and the Aetherborn is the only legal target for the trigger. You're free to crew the Racer later on, but too late to target with the Aetherborn's backup trigger."
+    "a": "Nope, that doesn't work. After the Aetherborn enters, before you get a chance to do anything, we have to put the Aetherborn's trigger on the stack. The Racer isn't a creature yet, so it can't be targeted, and the Aetherborn is the only legal target for the trigger. You're free to crew the Racer later on, but too late to target with the Aetherborn's backup trigger.<br>"
   },
   {
     "imgs": [
@@ -28,7 +28,7 @@
       "Tribute to the World Tree"
     ],
     "q": "I have <span class=\"autocard\">Omnath, Locus of All</span> in play. If I reveal <span class=\"autocard\">Tribute to the World Tree</span>, will I get three mana from Omnath's trigger?",
-    "a": "You will! Omnath will look to see if the revealed card has at least three colored mana symbols in its mana cost. There's no requirement that those mana symbols have to be different colors. The Tribute's mana cost is <img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\">, which is three colored mana symbols, so you'll get three green mana from Omnath's trigger (which will be handy if you want to cast the Tribute)."
+    "a": "You will! Omnath will look to see if the revealed card has at least three colored mana symbols in its mana cost. There's no requirement that those mana symbols have to be different colors. The Tribute's mana cost is <img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\">, which is three colored mana symbols, so you'll get three green mana from Omnath's trigger (which will be handy if you want to cast the Tribute).<br>"
   },
   {
     "imgs": [
@@ -36,7 +36,7 @@
       "Elesh Norn, Mother of Machines"
     ],
     "q": "How does <span class=\"autocard\">Omnath, Locus of Creation</span> interact with my own <span class=\"autocard\">Elesh Norn, Mother of Machines</span>? If I haven't played a land yet this turn and I play a land, what happens?",
-    "a": "Because of Elesh Norn, Omnath's ability will trigger twice instead of once. But Omnath's trigger checks the number of times it's resolved, so those triggers won't do the same thing. The first trigger to resolve will give you life. The second trigger will give you mana. It doesn't matter that they're both triggering because of the same land entering, so you'll get two different effects from Omnath's trigger - you don't gain 4 life twice."
+    "a": "Because of Elesh Norn, Omnath's ability will trigger twice instead of once. But Omnath's trigger checks the number of times it's resolved, so those triggers won't do the same thing. The first trigger to resolve will give you life. The second trigger will give you mana. It doesn't matter that they're both triggering because of the same land entering, so you'll get two different effects from Omnath's trigger - you don't gain 4 life twice.<br>"
   },
   {
     "imgs": [
@@ -44,7 +44,7 @@
       "Towering Gibbon"
     ],
     "q": "I have no creatures in play, but I have a <span class=\"autocard\">Garruk's Uprising</span> in play. If I cast <span class=\"autocard\">Towering Gibbon</span>, will the Uprising trigger?",
-    "a": "Yep, you'll get an Uprising trigger. Once the Gibbon is on the battlefield, it's going to be at least a 4/4 - the Gibbon will count its own mana value among creatures you control. When we're checking for enter the battlefield triggers, the Gibbon is a 4/4, so the Uprising sees that a creature with a power of 4 or greater has entered the battlefield and the Uprising will trigger."
+    "a": "Yep, you'll get an Uprising trigger. Once the Gibbon is on the battlefield, it's going to be at least a 4/4 - the Gibbon will count its own mana value among creatures you control. When we're checking for enter the battlefield triggers, the Gibbon is a 4/4, so the Uprising sees that a creature with a power of 4 or greater has entered the battlefield and the Uprising will trigger.<br>"
   },
   {
     "imgs": [
@@ -52,14 +52,14 @@
       "Dance with Calamity"
     ],
     "q": "I have an <span class=\"autocard\">Errant and Giada</span> in play, letting me look at the top card of my library. If I cast <span class=\"autocard\">Dance with Calamity</span>, can I look at the new top card each time before I decide if I want to exile another card?",
-    "a": "Yes you can. If the top card of your library changes in the middle of a spell or ability resolving, you can see the new top card. Each time you exile another card to the Dance, you'll be able to see what the next top card is before you decide if you want to exile another card, and you'll have full knowledge of when you want to stop exiling cards with the Dance and start casting spells."
+    "a": "Yes you can. If the top card of your library changes in the middle of a spell or ability resolving, you can see the new top card. Each time you exile another card to the Dance, you'll be able to see what the next top card is before you decide if you want to exile another card, and you'll have full knowledge of when you want to stop exiling cards with the Dance and start casting spells.<br>"
   },
   {
     "imgs": [
       "The Kenriths' Royal Funeral"
     ],
     "q": "What happens if I cast <span class=\"autocard\">The Kenriths' Royal Funeral</span> and exile my commander from my graveyard, but move it to the command zone? Do I still get to draw and lose life? Will I still get a discount on my legendary spells?",
-    "a": "The first effect will still work like normal. You can't move your commander to the command zone until after the Funeral's trigger is done resolving, so the Funeral will still count your commander to determine how many cards you should draw and how much life you should lose. \nBut the static ability will only count cards that are currently exiled by the Funeral to determine how big of a discount your legendary spells get. If your commander leaves exile, then it's no longer exiled by the Funeral and won't count for the discount."
+    "a": "The first effect will still work like normal. You can't move your commander to the command zone until after the Funeral's trigger is done resolving, so the Funeral will still count your commander to determine how many cards you should draw and how much life you should lose. <br>\nBut the static ability will only count cards that are currently exiled by the Funeral to determine how big of a discount your legendary spells get. If your commander leaves exile, then it's no longer exiled by the Funeral and won't count for the discount.<br>"
   },
   {
     "imgs": [
@@ -67,7 +67,7 @@
       "Blackcleave Goblin"
     ],
     "q": "What happens if I attack <span class=\"autocard\">Invasion of Ulgrotha</span> with a creature with <span class=\"autocard\">Blackcleave Goblin</span>?",
-    "a": "Nothing special. Infect matters if it deals damage to a creature or player. It won't do anything special if it deals damage to a battle. In this case, the Goblin deals 2 damage to the battle, so the battle will lose two defense counters. There's no -1/-1 counters or poison counters put on anything here, since the battle is not a player or creature."
+    "a": "Nothing special. Infect matters if it deals damage to a creature or player. It won't do anything special if it deals damage to a battle. In this case, the Goblin deals 2 damage to the battle, so the battle will lose two defense counters. There's no -1/-1 counters or poison counters put on anything here, since the battle is not a player or creature.<br>"
   },
   {
     "imgs": [
@@ -75,7 +75,7 @@
       "Amoeboid Changeling"
     ],
     "q": "My opponent casts <span class=\"autocard\">Nethroi, Apex of Death</span> via mutate targeting a creature they control. In response, I activate the ability of <span class=\"autocard\">Amoeboid Changeling</span> targeting their creature on the battlefield and give it all creature types. What happens when Nethroi goes to resolve?",
-    "a": "A mutate spell can only target a non-Human creature. Since the target for Nethroi is a Human (since it has all creatures types) when it goes to resolve, Nethroi has an illegal target. Instead of resolving merged with the creature on the battlefield, it just resolves as a normal creature, not merged with anything. So while your opponent will still end up with Nethroi on the battlefield, they won't get its mutate trigger since it didn't merge with anything."
+    "a": "A mutate spell can only target a non-Human creature. Since the target for Nethroi is a Human (since it has all creatures types) when it goes to resolve, Nethroi has an illegal target. Instead of resolving merged with the creature on the battlefield, it just resolves as a normal creature, not merged with anything. So while your opponent will still end up with Nethroi on the battlefield, they won't get its mutate trigger since it didn't merge with anything.<br>"
   },
   {
     "imgs": [
@@ -83,14 +83,14 @@
       "Zedruu, the Greathearted"
     ],
     "q": "I cast <span class=\"autocard\">Psychic Possession</span> targeting my opponent. Then I use the ability of <span class=\"autocard\">Zedruu, the Greathearted</span> to give my opponent control of the Possession. What happens?",
-    "a": "The Possession ends up in the graveyard. The Possession can only be attached to an opponent, so attaching the Possession to your opponent, then giving that opponent control of the Possession means that the Possession is no longer attached to a legal player (since your opponent can't be their own opponent), and the Possession ends up going to the graveyard."
+    "a": "The Possession ends up in the graveyard. The Possession can only be attached to an opponent, so attaching the Possession to your opponent, then giving that opponent control of the Possession means that the Possession is no longer attached to a legal player (since your opponent can't be their own opponent), and the Possession ends up going to the graveyard.<br>"
   },
   {
     "imgs": [
       "Underworld Connections"
     ],
     "q": "If I put <span class=\"autocard\">Underworld Connections</span> on my opponent's land, can I tap their land to draw a card and lose 1 life?",
-    "a": "Nope, you can't. The Connections gives the activated ability to the land. It doesn't matter who controls the Connections, what matters is who controls the land. While you can play the Connections on your opponent's land, since your opponent controls the land, they're the one that can activate the ability, not you."
+    "a": "Nope, you can't. The Connections gives the activated ability to the land. It doesn't matter who controls the Connections, what matters is who controls the land. While you can play the Connections on your opponent's land, since your opponent controls the land, they're the one that can activate the ability, not you.<br>"
   },
   {
     "imgs": [
@@ -98,7 +98,7 @@
       "Urborg, Tomb of Yawgmoth"
     ],
     "q": "I cast <span class=\"autocard\">Strata Scythe</span>, choosing to exile my Swamp. Then I play <span class=\"autocard\">Urborg, Tomb of Yawgmoth</span>. Since all lands are now Swamps, will the Scythe give a bonus based on the number of lands in play?",
-    "a": "No, it will not. Strata Scythe cares about the name of the lands, not what land types the land has. While Urborg will give all lands on the battlefield the Swamp type, it doesn't change the name of the land and the Scythe will continue to only count lands with the name \"Swamp\"."
+    "a": "No, it will not. Strata Scythe cares about the name of the lands, not what land types the land has. While Urborg will give all lands on the battlefield the Swamp type, it doesn't change the name of the land and the Scythe will continue to only count lands with the name \"Swamp\".<br>"
   },
   {
     "imgs": [
@@ -106,7 +106,7 @@
       "Urza's Saga"
     ],
     "q": "My opponent controls a <span class=\"autocard\">Possibility Storm</span>, and I cast an enchantment from my hand. The Storm triggers, and the card I exile is an <span class=\"autocard\">Urza's Saga</span>. Can I play it?",
-    "a": "No, you won't be able to play it. The Storm only lets you \"cast\" the exiled card, and since Urza's Saga is a land, it can only be played, it can't be cast. Since you can't cast Urza's Saga, you won't cast anything via the Possibility Storm trigger, and the Saga (along with anything else you exiled to the Storm trigger) ends up on the bottom of your library."
+    "a": "No, you won't be able to play it. The Storm only lets you \"cast\" the exiled card, and since Urza's Saga is a land, it can only be played, it can't be cast. Since you can't cast Urza's Saga, you won't cast anything via the Possibility Storm trigger, and the Saga (along with anything else you exiled to the Storm trigger) ends up on the bottom of your library.<br>"
   },
   {
     "imgs": [
@@ -114,7 +114,7 @@
       "Lazotep Plating"
     ],
     "q": "I activate the ability of <span class=\"autocard\">Witch Engine</span>, targeting my opponent. In response, my opponent casts <span class=\"autocard\">Lazotep Plating</span>, giving themself hexproof. What happens?",
-    "a": "The Engine's ability targets, which makes the ability not a mana ability, so it can be responded to. But since the only target for the ability (your opponent) isn't legal when the ability goes to resolve, the entire ability does nothing. So while you'll retain control of the Engine, you will also not get any mana from the Engine's ability since it won't resolve."
+    "a": "The Engine's ability targets, which makes the ability not a mana ability, so it can be responded to. But since the only target for the ability (your opponent) isn't legal when the ability goes to resolve, the entire ability does nothing. So while you'll retain control of the Engine, you will also not get any mana from the Engine's ability since it won't resolve.<br>"
   },
   {
     "imgs": [
@@ -122,7 +122,7 @@
       "Slicer, High-Speed Antagonist"
     ],
     "q": "Can I use mana from the last ability of <span class=\"autocard\">Cavern of Souls</span> to cast <span class=\"autocard\">Slicer, High-Speed Antagonist</span>?",
-    "a": "No you cannot. If you're casting the back face of Slicer, you're casting a Vehicle spell, not a creature spell. Since the mana from the Cavern's last ability can only be used to cast a creature spell of the chosen type, you can't use that mana to cast the back face of Slicer. If you want Slicer to be uncounterable, you'll have to cast the front face, not the back face."
+    "a": "No you cannot. If you're casting the back face of Slicer, you're casting a Vehicle spell, not a creature spell. Since the mana from the Cavern's last ability can only be used to cast a creature spell of the chosen type, you can't use that mana to cast the back face of Slicer. If you want Slicer to be uncounterable, you'll have to cast the front face, not the back face.<br>"
   },
   {
     "imgs": [
@@ -131,7 +131,7 @@
       "Plea for Power"
     ],
     "q": "I control <span class=\"autocard\">Tivit, Seller of Secrets</span> and <span class=\"autocard\">Grudge Keeper</span>. If I cast <span class=\"autocard\">Plea for Power</span>, since I have two votes, can I just vote for \"time\" and \"knowledge\" to make sure my opponents always lose 2 life from Grudge Keeper's ability?",
-    "a": "Nope, you just ensured that none of your opponents will lose any life. After you're done voting, Grudge Keeper will compare your votes to what each opponent voted for. You voted for both options for Plea of Power, so it's not possible for an opponent to vote for a choice that you didn't vote for, so the Keeper's ability won't do anything when it resolves."
+    "a": "Nope, you just ensured that none of your opponents will lose any life. After you're done voting, Grudge Keeper will compare your votes to what each opponent voted for. You voted for both options for Plea of Power, so it's not possible for an opponent to vote for a choice that you didn't vote for, so the Keeper's ability won't do anything when it resolves.<br>"
   },
   {
     "imgs": [
@@ -139,7 +139,7 @@
       "Boros Swiftblade"
     ],
     "q": "If I have an original <span class=\"autocard\">Urborg</span> in play, can I use it to remove double strike from my opponent's <span class=\"autocard\">Boros Swiftblade</span>?",
-    "a": "Nope. Urborg can only remove first strike from a creature. Double strike lets it deal damage during the first strike and normal combat damage step, but that doesn't mean that double strike is first strike. Since the Swiftblade doesn't have first strike, Urborg's ability won't do anything to it, and it will still have double strike."
+    "a": "Nope. Urborg can only remove first strike from a creature. Double strike lets it deal damage during the first strike and normal combat damage step, but that doesn't mean that double strike is first strike. Since the Swiftblade doesn't have first strike, Urborg's ability won't do anything to it, and it will still have double strike.<br>"
   },
   {
     "imgs": [
@@ -147,7 +147,7 @@
       "Tasha, the Witch Queen"
     ],
     "q": "If I cast <span class=\"autocard\">Flawless Forgery</span> targeting a card in my opponent's graveyard, will casting the copy trigger my <span class=\"autocard\">Tasha, the Witch Queen</span>?",
-    "a": "You don't get a trigger. While the original card is owned by your opponent, you're not casting the card - you're casting a copy. And the Forgery is telling you to create the copy of the card, so you're casting a spell that you own and Tasha will not trigger from the copy."
+    "a": "You don't get a trigger. While the original card is owned by your opponent, you're not casting the card - you're casting a copy. And the Forgery is telling you to create the copy of the card, so you're casting a spell that you own and Tasha will not trigger from the copy.<br>"
   },
   {
     "imgs": [
@@ -156,6 +156,6 @@
       "Path of Ancestry"
     ],
     "q": "I have my commander <span class=\"autocard\">Sliver Legion</span> in play that's enchanted by my opponent's <span class=\"autocard\">Darksteel Mutation</span>. If I tap my <span class=\"autocard\">Path of Ancestry</span> for mana and cast a Sliver spell, will I get to scry 1?",
-    "a": "You will not get to scry. What creature types your commander is isn't set as the game begins. If it's in a public zone (like the battlefield), we'll look at what creature types it currently has and see if it matches the creature type of the spell you cast with the Path of Ancestry mana. Because of the Mutation, your commander is an Insect, which does not share a type with the Sliver spell you just cast, so you will not get to scry 1 from the Path."
+    "a": "You will not get to scry. What creature types your commander is isn't set as the game begins. If it's in a public zone (like the battlefield), we'll look at what creature types it currently has and see if it matches the creature type of the spell you cast with the Path of Ancestry mana. Because of the Mutation, your commander is an Insect, which does not share a type with the Sliver spell you just cast, so you will not get to scry 1 from the Path.<br>"
   }
 ]

@@ -4,14 +4,14 @@
       "Ego Drain"
     ],
     "q": "Am I allowed to cast <span class=\"autocard\">Ego Drain</span> even if my hand is empty?",
-    "a": "Sure, that's fine. When Ego Drain resolves, you'll look at the opponent's hand and make them discard a card. Then, if you don't control a Faerie, you'll exile a card from your hand. But if your hand is empty, you'll just ignore that part of the instruction since you have no cards to exile, and the Drain finishes resolving."
+    "a": "Sure, that's fine. When Ego Drain resolves, you'll look at the opponent's hand and make them discard a card. Then, if you don't control a Faerie, you'll exile a card from your hand. But if your hand is empty, you'll just ignore that part of the instruction since you have no cards to exile, and the Drain finishes resolving.<br>"
   },
   {
     "imgs": [
       "Gruff Triplets"
     ],
     "q": "I control <span class=\"autocard\">Gruff Triplets</span> and its two token copies. I attack with all three, and my opponent blocks each one with a 3/3 of their own. Is there a way to stack the triggers so one Triplets dies first, pumping the other two to save them?",
-    "a": "Short of giving one of the defending 3/3s first strike, no. All combat damage is dealt at the same time, not one at a time. All three of your Triplets will take lethal damage at the same time, and they will all die before they can get counters from another Triplets dying."
+    "a": "Short of giving one of the defending 3/3s first strike, no. All combat damage is dealt at the same time, not one at a time. All three of your Triplets will take lethal damage at the same time, and they will all die before they can get counters from another Triplets dying.<br>"
   },
   {
     "imgs": [
@@ -19,7 +19,7 @@
       "Cooped Up"
     ],
     "q": "I control a 4/4 creature and a <span class=\"autocard\">Greater Auramancy</span>. My opponent enchants my 4/4 with <span class=\"autocard\">Cooped Up</span>. Can they still use Cooped Up's activated ability to exile my creature?",
-    "a": "Yes, they can do that. Cooped Up's activated ability does not target the creature it's attached to, so your creature having shroud because of Greater Auramancy won't matter. Your opponent will still be able to exile your 4/4 with Cooped Up's activated ability."
+    "a": "Yes, they can do that. Cooped Up's activated ability does not target the creature it's attached to, so your creature having shroud because of Greater Auramancy won't matter. Your opponent will still be able to exile your 4/4 with Cooped Up's activated ability.<br>"
   },
   {
     "imgs": [
@@ -27,7 +27,7 @@
       "Smuggler's Copter"
     ],
     "q": "I have <span class=\"autocard\">Talion, the Kindly Lord</span> in play, with the number \"3\" chosen. If my opponent casts a <span class=\"autocard\">Smuggler's Copter</span>, will Talion trigger?",
-    "a": "Surprisingly, yes! Even though Smuggler's Copter isn't a creature spell while it's on the stack, since it has a printed power and toughness on it, it has a power and toughness as long as it's not on the battlefield. Smuggler's Copter on the stack has a printed power and toughness of 3/3, so Talion will trigger when your opponent casts the Smuggler's Copter."
+    "a": "Surprisingly, yes! Even though Smuggler's Copter isn't a creature spell while it's on the stack, since it has a printed power and toughness on it, it has a power and toughness as long as it's not on the battlefield. Smuggler's Copter on the stack has a printed power and toughness of 3/3, so Talion will trigger when your opponent casts the Smuggler's Copter.<br>"
   },
   {
     "imgs": [
@@ -35,7 +35,7 @@
       "Doubling Season"
     ],
     "q": "I control an <span class=\"autocard\">Elvish Vatkeeper</span>, a <span class=\"autocard\">Doubling Season</span>, and an Incubator token with four +1/+1 counters on it. I activate the Vatkeeper's ability, targeting my Incubator tokens. How many +1/+1 counters does it end up with?",
-    "a": "It ends up with twelve +1/+1 counters on it. The Vatkeeper transforms the token and tries to add four more +1/+1 counters to it. The Season sees that you're trying to add four +1/+1 counters to the token, so the Season applies and it gets eight +1/+1 counters instead. Those eight counters, plus the four it originally had on it, means that the token ends up with twelve +1/+1 counters on it after the ability resolves."
+    "a": "It ends up with twelve +1/+1 counters on it. The Vatkeeper transforms the token and tries to add four more +1/+1 counters to it. The Season sees that you're trying to add four +1/+1 counters to the token, so the Season applies and it gets eight +1/+1 counters instead. Those eight counters, plus the four it originally had on it, means that the token ends up with twelve +1/+1 counters on it after the ability resolves.<br>"
   },
   {
     "imgs": [
@@ -43,7 +43,7 @@
       "Fear, Fire, Foes!"
     ],
     "q": "I have <span class=\"autocard\">Imodane, the Pyrohammer</span> in play. If I cast <span class=\"autocard\">Fear, Fire, Foes!</span> with X=4 targeting my opponent's 4/4 while they have three 1/1s in play, will I get an Imodan trigger? If so, how much damage will be dealt?",
-    "a": "Yes, you'll get an Imodane trigger, dealing 4 damage, but that's it. Fear, Fire, Foes! has a single target, so Immodane will trigger. But Imodane will only cares about damage dealt to the targeted creature, not damage dealt to any other creatures, so you'll get one trigger from Fear, Fire, Foes! dealing 4 damage to the 4/4, but you won't get any triggers from the spell dealing damage to their other 1/1s."
+    "a": "Yes, you'll get an Imodane trigger, dealing 4 damage, but that's it. Fear, Fire, Foes! has a single target, so Immodane will trigger. But Imodane will only cares about damage dealt to the targeted creature, not damage dealt to any other creatures, so you'll get one trigger from Fear, Fire, Foes! dealing 4 damage to the 4/4, but you won't get any triggers from the spell dealing damage to their other 1/1s.<br>"
   },
   {
     "imgs": [
@@ -53,7 +53,7 @@
       "Leyline Binding"
     ],
     "q": "My opponent just cast <span class=\"autocard\">Breach the Multiverse</span>, putting an <span class=\"autocard\">Archangel of Wrath</span> and a <span class=\"autocard\">Jace, the Perfected Mind</span> in play. Even though it wasn't kicked, will the Archangel's triggers still go on the stack, giving me a chance to cast <span class=\"autocard\">Leyline Binding</span> to exile Jace before they can activate one of Jace's loyalty abilities?",
-    "a": "Nope, there's no Archangel triggers here. The triggers from the Archangel will only trigger if the Archangel was kicked. If the Archangel wasn't kicked, or if it was put onto the battlefield without being cast, its enter the battlefield abilities don't trigger. Once the Breach is done resolving, your opponent is free to activate one of Jace's abilities before you get priority to cast the Binding."
+    "a": "Nope, there's no Archangel triggers here. The triggers from the Archangel will only trigger if the Archangel was kicked. If the Archangel wasn't kicked, or if it was put onto the battlefield without being cast, its enter the battlefield abilities don't trigger. Once the Breach is done resolving, your opponent is free to activate one of Jace's abilities before you get priority to cast the Binding.<br>"
   },
   {
     "imgs": [
@@ -61,7 +61,7 @@
       "Arbalest Elite"
     ],
     "q": "I control <span class=\"autocard\">Ohabi Caleria</span> and an <span class=\"autocard\">Arbalest Elite</span>. I had to activate the Elite's ability during combat on my turn. Will the Elite untap during my opponent's untap step?",
-    "a": "Yes it will. The Elite won't untap during your next untap step, but it can still untap at other times. The effect from the Elite will stop it from untapping during your next untap step, but it can still untap at other times, like during an opponent's untap step thanks to Ohabi Caleria's static ability."
+    "a": "Yes it will. The Elite won't untap during your next untap step, but it can still untap at other times. The effect from the Elite will stop it from untapping during your next untap step, but it can still untap at other times, like during an opponent's untap step thanks to Ohabi Caleria's static ability.<br>"
   },
   {
     "imgs": [
@@ -69,7 +69,7 @@
       "Eye of the Storm"
     ],
     "q": "What happens if I cast <span class=\"autocard\">Aquatic Alchemist // Bubble Up</span> with an <span class=\"autocard\">Eye of the Storm</span> in play? Do I get to cast a copy of Aquatic Alchemist?",
-    "a": "Since you cast an instant or sorcery card, the Eye will trigger, and when that trigger resolves, you'll exile Bubble Up. Then the Eye creates copies of all of the instant and sorcery cards exiled by it. However, once it's no longer on the stack, it's back to its normal self - the Alchemist. Aquatic Alchemist isn't an instant or sorcery card while in exile, so you won't create a copy of it (but you do get a copy of the other instant and sorcery cards exiled by the Eye). So a card with adventure will let you trigger Eye of the Storm, but it won't let you cast a copy of the card with adventure."
+    "a": "Since you cast an instant or sorcery card, the Eye will trigger, and when that trigger resolves, you'll exile Bubble Up. Then the Eye creates copies of all of the instant and sorcery cards exiled by it. However, once it's no longer on the stack, it's back to its normal self - the Alchemist. Aquatic Alchemist isn't an instant or sorcery card while in exile, so you won't create a copy of it (but you do get a copy of the other instant and sorcery cards exiled by the Eye). So a card with adventure will let you trigger Eye of the Storm, but it won't let you cast a copy of the card with adventure.<br>"
   },
   {
     "imgs": [
@@ -77,7 +77,7 @@
       "Undying Evil"
     ],
     "q": "If I target <span class=\"autocard\">Worldspine Wurm</span> with <span class=\"autocard\">Undying Evil</span>, what happens when my Wurm dies?",
-    "a": "Your choice - either it gets shuffled into your library or returned to the battlefield. When the Wurm dies, there's multiple triggers that need to go on the stack - the undying trigger, the trigger from the Wurm to shuffle it into your library, and the trigger from the Wurm to create three 5/5 tokens. You control all of those triggers, so you'll choose the order they're put on the stack, and thus the order they resolve in. If you put the undying trigger on the stack last, it will resolve first, and you'll return the Wurm to the battlefield and it won't get shuffled into your library."
+    "a": "Your choice - either it gets shuffled into your library or returned to the battlefield. When the Wurm dies, there's multiple triggers that need to go on the stack - the undying trigger, the trigger from the Wurm to shuffle it into your library, and the trigger from the Wurm to create three 5/5 tokens. You control all of those triggers, so you'll choose the order they're put on the stack, and thus the order they resolve in. If you put the undying trigger on the stack last, it will resolve first, and you'll return the Wurm to the battlefield and it won't get shuffled into your library.<br>"
   },
   {
     "imgs": [
@@ -85,35 +85,35 @@
       "Gideon Jura"
     ],
     "q": "My opponent controls an <span class=\"autocard\">Onakke Oathkeeper</span> and a <span class=\"autocard\">Gideon Jura</span>. My opponent activated the +2 ability of Gideon, targeting me. What happens on my next turn? Am I forced to pay to attack Gideon?",
-    "a": "Nope, you're free to attack however you want to. You're never forced to pay a cost to enable a creature to attack. Because your opponent controls the Oathkeeper, there's a tax to attacking Gideon, which you're not forced to pay if you don't want to. You can pay to attack Gideon if you want, or you can not pay and attack other players or planeswalkers, and you can even choose not to have your creatures attack at all."
+    "a": "Nope, you're free to attack however you want to. You're never forced to pay a cost to enable a creature to attack. Because your opponent controls the Oathkeeper, there's a tax to attacking Gideon, which you're not forced to pay if you don't want to. You can pay to attack Gideon if you want, or you can not pay and attack other players or planeswalkers, and you can even choose not to have your creatures attack at all.<br>"
   },
   {
     "imgs": [
       "Bladegriff Prototype"
     ],
     "q": "I'm in a multiplayer game, and I have two <span class=\"autocard\">Bladegriff Prototype</span>s in play. If I attack the same player with both and they both deal damage, are they forced to destroy two permanents?",
-    "a": "Not if they don't want to. While choosing a target for the trigger isn't optional, there's nothing stopping them from choosing the same target for both triggers, since both triggers will go on the stack after combat damage is dealt. If the damaged opponent wants to help out the third opponent and not destroy two of their permanents, they can choose the same target for both triggers, so only one permanent is ultimately destroyed."
+    "a": "Not if they don't want to. While choosing a target for the trigger isn't optional, there's nothing stopping them from choosing the same target for both triggers, since both triggers will go on the stack after combat damage is dealt. If the damaged opponent wants to help out the third opponent and not destroy two of their permanents, they can choose the same target for both triggers, so only one permanent is ultimately destroyed.<br>"
   },
   {
     "imgs": [
       "Trial of a Time Lord"
     ],
     "q": "What happens if the vote that happens during chapter IV of <span class=\"autocard\">Trial of a Time Lord</span> is tied?",
-    "a": "Not much. In order for the exiled cards to go on the bottom of the library, \"guilty\" has to have more votes than \"innocent\". If they both have an equal number of votes, then guilty didn't receive more votes, so the exiled cards stay in exile. They will return to the battlefield shortly, since Trial of a Time Lord is about to leave the battlefield since its final chapter trigger will leave the stack."
+    "a": "Not much. In order for the exiled cards to go on the bottom of the library, \"guilty\" has to have more votes than \"innocent\". If they both have an equal number of votes, then guilty didn't receive more votes, so the exiled cards stay in exile. They will return to the battlefield shortly, since Trial of a Time Lord is about to leave the battlefield since its final chapter trigger will leave the stack.<br>"
   },
   {
     "imgs": [
       "Vislor Turlough"
     ],
     "q": "I'm in a multiplayer game, and I cast <span class=\"autocard\">Vislor Turlough</span>, and I gave it to one of my opponents. But then that opponent lost the game. What happens with Vislor Turlough?",
-    "a": "You get Vislor Turlough back under your control, for better or for worse. Vislor Turlough doesn't enter under an opponent's control. It enters under your control, and when its enter the battlefield trigger resolves, you can give control of it to an opponent. If that chosen opponent leaves the game, the change of control effect ends, and you regain control of Vislor Turlough, but hey, at least it's no longer goaded since they don't control it anymore."
+    "a": "You get Vislor Turlough back under your control, for better or for worse. Vislor Turlough doesn't enter under an opponent's control. It enters under your control, and when its enter the battlefield trigger resolves, you can give control of it to an opponent. If that chosen opponent leaves the game, the change of control effect ends, and you regain control of Vislor Turlough, but hey, at least it's no longer goaded since they don't control it anymore.<br>"
   },
   {
     "imgs": [
       "Psychic Paper"
     ],
     "q": "If I attach <span class=\"autocard\">Psychic Paper</span> to a creature, can I choose \"changeling\" as its creature type so it has all creature types?",
-    "a": "No you may not. \"Changeling\" is not a creature type - it is a characteristic-defining ability that gives it all creature types. But that doesn't make changeling itself a creature type you can name. You can choose a single creature type as the Paper becomes attached, but you can't give it all creature types by trying to name \"changeling\"."
+    "a": "No you may not. \"Changeling\" is not a creature type - it is a characteristic-defining ability that gives it all creature types. But that doesn't make changeling itself a creature type you can name. You can choose a single creature type as the Paper becomes attached, but you can't give it all creature types by trying to name \"changeling\".<br>"
   },
   {
     "imgs": [
@@ -121,14 +121,14 @@
       "Dinosaurs on a Spaceship"
     ],
     "q": "If I have an <span class=\"autocard\">All Will Be One</span> in play, will suspending <span class=\"autocard\">Dinosaurs on a Spaceship</span> let me deal 4 damage to a target?",
-    "a": "No, All Will Be One won't trigger. All Will Be One only triggers if you put counters on a permanent on the battlefield or on a player. It won't trigger if you put counters on a permanent card in another zone, like exile. Suspending Dinosaurs on a Spaceship does put four time counters on it, but since it's not a permanent or a player, All Will Be One will not trigger."
+    "a": "No, All Will Be One won't trigger. All Will Be One only triggers if you put counters on a permanent on the battlefield or on a player. It won't trigger if you put counters on a permanent card in another zone, like exile. Suspending Dinosaurs on a Spaceship does put four time counters on it, but since it's not a permanent or a player, All Will Be One will not trigger.<br>"
   },
   {
     "imgs": [
       "Rassilon, the War President"
     ],
     "q": "How does <span class=\"autocard\">Rassilon, the War President</span> work with casting a colorless spell from exile? Am I allowed to tap two colorless creatures to conspire the spell?",
-    "a": "Nope, you won't be able to conspire the spell. A colorless spell doesn't have any colors, so nothing can share a color with it, not even another colorless card. While your colorless spell would technically have conspire, you won't be able to take advantage of conspire since you can't tap two colorless creatures to use conspire."
+    "a": "Nope, you won't be able to conspire the spell. A colorless spell doesn't have any colors, so nothing can share a color with it, not even another colorless card. While your colorless spell would technically have conspire, you won't be able to take advantage of conspire since you can't tap two colorless creatures to use conspire.<br>"
   },
   {
     "imgs": [
@@ -136,7 +136,7 @@
       "Ad Nauseam"
     ],
     "q": "If <span class=\"autocard\">Everybody Lives!</span> has resolved, what happens if I cast <span class=\"autocard\">Ad Nauseam</span>?",
-    "a": "This is going to be a very good Ad Nauseam for you. You can't pay life as a cost once Everybody Lives! has resolved, but Ad Nauseam doesn't have you paying life as a cost - you lose life as you reveal cards and put them into your hand when Ad Nauseam resolves. But since you can't lose life this turn, you won't lose life from the cards you put into your hand with Ad Nauseam. You won't be able to win the game this turn, but you can set yourself up for a win on the next turn by putting as many cards as you want from the top of your library into your hand."
+    "a": "This is going to be a very good Ad Nauseam for you. You can't pay life as a cost once Everybody Lives! has resolved, but Ad Nauseam doesn't have you paying life as a cost - you lose life as you reveal cards and put them into your hand when Ad Nauseam resolves. But since you can't lose life this turn, you won't lose life from the cards you put into your hand with Ad Nauseam. You won't be able to win the game this turn, but you can set yourself up for a win on the next turn by putting as many cards as you want from the top of your library into your hand.<br>"
   },
   {
     "imgs": [
@@ -144,13 +144,13 @@
       "Sizzle"
     ],
     "q": "I'm in a four player game, and I have <span class=\"autocard\">Davros, Dalek Creator</span>. During my main phase, I cast <span class=\"autocard\">Sizzle</span> to deal three damage to each opponent. During my end step, how many Dalek tokens do I create?",
-    "a": "Only a single token. Davros is just looking to see if an opponent has lost three or more life this turn. Davros doesn't care if multiple opponents have lost three or more life. So while all three of your opponents have lost at least three life this turn, this doesn't result in multiple Dalek tokens from Davros - you still only make one token."
+    "a": "Only a single token. Davros is just looking to see if an opponent has lost three or more life this turn. Davros doesn't care if multiple opponents have lost three or more life. So while all three of your opponents have lost at least three life this turn, this doesn't result in multiple Dalek tokens from Davros - you still only make one token.<br>"
   },
   {
     "imgs": [
       "Harvesttide Infiltrator"
     ],
     "q": "How does <span class=\"autocard\">Harvesttide Infiltrator</span> work in a game of Two-Headed giant?",
-    "a": "It's a bit harder to make it night, and probably a bit easier to make it day. \nIf you're in a game with shared turns, like Two-Headed Giant, the rules for day/night are slightly modified. If it's day and you want to turn it to night, neither player on the active team on the previous turn can cast a spell. That means that you and your teammate can't cast any spells, not just one player on the team. And to make night into day, at least one player on the active team on the previous turn has to cast two spells. Each player casting one spell won't count, but if at least one player on the team casts two spells, then night will turn to day."
+    "a": "It's a bit harder to make it night, and probably a bit easier to make it day. <br>\nIf you're in a game with shared turns, like Two-Headed Giant, the rules for day/night are slightly modified. If it's day and you want to turn it to night, neither player on the active team on the previous turn can cast a spell. That means that you and your teammate can't cast any spells, not just one player on the team. And to make night into day, at least one player on the active team on the previous turn has to cast two spells. Each player casting one spell won't count, but if at least one player on the team casts two spells, then night will turn to day.<br>"
   }
 ]

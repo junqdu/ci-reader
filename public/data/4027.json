@@ -4,7 +4,7 @@
       "Umori, the Collector"
     ],
     "q": "I just drafted <span class=\"autocard\">Umori, the Collector</span>, but I just want to play it in my deck. Do I still have to obey the companion restriction?",
-    "a": "Nope, you can ignore it. The companion restriction only applies if you want to use Umori as your companion. If you just want to play Umori in your deck, then you can ignore its companion restriction and you can play whatever cards you want in your deck."
+    "a": "Nope, you can ignore it. The companion restriction only applies if you want to use Umori as your companion. If you just want to play Umori in your deck, then you can ignore its companion restriction and you can play whatever cards you want in your deck.<br>"
   },
   {
     "imgs": [
@@ -12,7 +12,7 @@
       "Join the Maestros"
     ],
     "q": "I control <span class=\"autocard\">Baral and Kari Zev</span> with no other creatures in play. If I cast <span class=\"autocard\">Join the Maestros</span>, can I create the First Mate Ragavan token and sacrifice it to casualty and get a copy of Join the Maestros?",
-    "a": "No you can't. You have to sacrifice the creature as part of the cost of casting the original spell. You don't have the token from Baral and Kari Zev yet — since you have to complete announcement of the spell before that ability can even trigger — so you can't cast the spell and create the token to be sacrificed to the casualty spell. \nIf you already had a Ragavan token in play, you could sacrifice it to cast Join the Maestros, and then get a new Ragavan token to replace the old token you just sacrificed with the Baral and Kari Zev trigger. But the other way does not work."
+    "a": "No you can't. You have to sacrifice the creature as part of the cost of casting the original spell. You don't have the token from Baral and Kari Zev yet — since you have to complete announcement of the spell before that ability can even trigger — so you can't cast the spell and create the token to be sacrificed to the casualty spell. <br>\nIf you already had a Ragavan token in play, you could sacrifice it to cast Join the Maestros, and then get a new Ragavan token to replace the old token you just sacrificed with the Baral and Kari Zev trigger. But the other way does not work.<br>"
   },
   {
     "imgs": [
@@ -20,7 +20,7 @@
       "Blightsteel Colossus"
     ],
     "q": "<span class=\"autocard\">The Grand Evolution</span> just entered the battlefield, and one of the milled cards is a <span class=\"autocard\">Blightsteel Colossus</span>. Can I put the Colossus onto the battlefield?",
-    "a": "You cannot. The Colossus has a replacement effect, so instead of going to the graveyard, it's shuffled into your library. While the chapter I trigger can find the milled cards if they ended up in a public zone, since the library is a hidden zone, the effect can't find the Colossus that was shuffled into your library, and you won't be able to put the Colossus onto the battlefield."
+    "a": "You cannot. The Colossus has a replacement effect, so instead of going to the graveyard, it's shuffled into your library. While the chapter I trigger can find the milled cards if they ended up in a public zone, since the library is a hidden zone, the effect can't find the Colossus that was shuffled into your library, and you won't be able to put the Colossus onto the battlefield.<br>"
   },
   {
     "imgs": [
@@ -28,7 +28,7 @@
       "Ertai Resurrected"
     ],
     "q": "My opponent controls <span class=\"autocard\">Sheoldred, the Apocalypse</span>. If I target it with <span class=\"autocard\">Ertai Resurrected</span>'s ability, will my opponent gain two life from drawing a card or not?",
-    "a": "They will not gain any life. When we resolve Ertai's ability, we follow the instructions in the order they're listed on the card. The first thing we do is destroy Sheoldred. Once Sheoldred has been destroyed, your opponent draws a card, but since Sheoldred is not on the battlefield anymore, Sheoldred won't trigger when they draw the card."
+    "a": "They will not gain any life. When we resolve Ertai's ability, we follow the instructions in the order they're listed on the card. The first thing we do is destroy Sheoldred. Once Sheoldred has been destroyed, your opponent draws a card, but since Sheoldred is not on the battlefield anymore, Sheoldred won't trigger when they draw the card.<br>"
   },
   {
     "imgs": [
@@ -37,7 +37,7 @@
       "Explosive Impact"
     ],
     "q": "I'm at 5 life, but I have a <span class=\"autocard\">Sheoldred, the Apocalypse</span> and a <span class=\"autocard\">Vilis, Broker of Blood</span> in play. But then my opponent casts <span class=\"autocard\">Explosive Impact</span> targeting me. Will I be able to draw from Vilis' trigger (and gain life from Sheoldred's triggers) and not die?",
-    "a": "Nope, you are dead. After the Impact has resolved, before we can put the Vilis trigger on the stack, we check state-based actions. You are at 0 life, so you lose the game before you can put Vilis' trigger on the stack."
+    "a": "Nope, you are dead. After the Impact has resolved, before we can put the Vilis trigger on the stack, we check state-based actions. You are at 0 life, so you lose the game before you can put Vilis' trigger on the stack.<br>"
   },
   {
     "imgs": [
@@ -45,7 +45,7 @@
       "Bloodbraid Elf"
     ],
     "q": "I activate the ability of <span class=\"autocard\">Conduit of Worlds</span>, targeting my <span class=\"autocard\">Bloodbraid Elf</span>. If I cast the Elf, what happens with my cascade trigger?",
-    "a": "Your cascade trigger won't do very much. Cascade will trigger, because you did cast the Elf. However, because of the effect of the Conduit, since you cast the Elf from your graveyard with its ability, you can't cast spells for the rest of the turn. You won't be able to cast the card you reveal with the cascade trigger, and it'll go on the bottom of the library with the rest of the revealed cards."
+    "a": "Your cascade trigger won't do very much. Cascade will trigger, because you did cast the Elf. However, because of the effect of the Conduit, since you cast the Elf from your graveyard with its ability, you can't cast spells for the rest of the turn. You won't be able to cast the card you reveal with the cascade trigger, and it'll go on the bottom of the library with the rest of the revealed cards.<br>"
   },
   {
     "imgs": [
@@ -53,7 +53,7 @@
       "Skirk Prospector"
     ],
     "q": "My only Goblin in play is a <span class=\"autocard\">Conspicuous Snoop</span>. The top card of my library is a <span class=\"autocard\">Skirk Prospector</span>. Can I cast the Prospector from the top of my library, sacrificing the Snoop itself to generate the mana to cast it?",
-    "a": "Nope, you can't cast the Prospector here. If you sacrifice the Snoop for mana first, then the Snoop leaves play and there's nothing giving you permission to cast it from the top of your library anymore. If you announce the Prospector spell from the top of your library, the first thing you do when you cast it is move it from where you're casting it from (the library, in this case) to the stack. Since the Prospector is no longer on top of your library, the Snoop doesn't have its activated ability anymore, so when you get to the step where you can activate mana abilities, you can't sacrifice the Snoop and you won't be able to pay for the Prospector."
+    "a": "Nope, you can't cast the Prospector here. If you sacrifice the Snoop for mana first, then the Snoop leaves play and there's nothing giving you permission to cast it from the top of your library anymore. If you announce the Prospector spell from the top of your library, the first thing you do when you cast it is move it from where you're casting it from (the library, in this case) to the stack. Since the Prospector is no longer on top of your library, the Snoop doesn't have its activated ability anymore, so when you get to the step where you can activate mana abilities, you can't sacrifice the Snoop and you won't be able to pay for the Prospector.<br>"
   },
   {
     "imgs": [
@@ -61,7 +61,7 @@
       "Sword of War and Peace"
     ],
     "q": "How does a <span class=\"autocard\">Shifting Sky</span> on red affect <span class=\"autocard\">Sword of War and Peace</span>?",
-    "a": "It effectively stops the Sword from being attached. If the Sword is already attached to a creature, the Sword will unattach since protection from red will cause any red equipment attached to it to unattach. And while you're free to activate the Sword's ability, once the Sword becomes attached, it's once again a red Sword attached to a creature with protection from red, and will immediately unattach from the creature."
+    "a": "It effectively stops the Sword from being attached. If the Sword is already attached to a creature, the Sword will unattach since protection from red will cause any red equipment attached to it to unattach. And while you're free to activate the Sword's ability, once the Sword becomes attached, it's once again a red Sword attached to a creature with protection from red, and will immediately unattach from the creature.<br>"
   },
   {
     "imgs": [
@@ -69,7 +69,7 @@
       "Elite Spellbinder"
     ],
     "q": "If I exile a <span class=\"autocard\">Misthollow Griffin</span> from my opponent's hand with my <span class=\"autocard\">Elite Spellbinder</span> trigger, will they have to pay an additional <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"> to cast it?",
-    "a": "That's up to your opponent. The Spellbinder will only tax the spell if they're using the Spellbinder's effect to cast it from exile. But since the Griffin has its own ability that lets them cast it from exile, they'll be able to use the Griffin's own ability to let them cast it from exile. Since it's not being cast via the Spellbinder's ability, they won't have to pay an additional <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"> to cast it."
+    "a": "That's up to your opponent. The Spellbinder will only tax the spell if they're using the Spellbinder's effect to cast it from exile. But since the Griffin has its own ability that lets them cast it from exile, they'll be able to use the Griffin's own ability to let them cast it from exile. Since it's not being cast via the Spellbinder's ability, they won't have to pay an additional <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"> to cast it.<br>"
   },
   {
     "imgs": [
@@ -80,7 +80,7 @@
       "Kazuul's Cliffs"
     ],
     "q": "What happens if I use the ability of <span class=\"autocard\">Ruin Ghost</span> targeting a modal double-faced land like <span class=\"autocard\">Kazandu Valley</span>?",
-    "a": "When you exile it, the Valley will go back to its front face of <span class=\"autocard\">Kazanda Mammoth</span>. And when the Ghost's ability returns it, it's returning as its front face, so it will return as the Mammoth, not as the land. You don't even have the option of returning it as the back face. So you'll be able to use the Ghost's ability to effectively transform your Valley from a land into a creature.\nDo note this trick only works if the front face is a permanent card. If the front face is an instant or sorcery card (like <span class=\"autocard\">Kazuul's Fury</span>/<span class=\"autocard\">Kazuul's Cliffs</span>), since an instant or sorcery card can't enter the battlefield, it stays in the previous zone, so using the Ghost's ability targeting the Cliffs means that the Fury is stuck in exile and won't return to the battlefield."
+    "a": "When you exile it, the Valley will go back to its front face of <span class=\"autocard\">Kazanda Mammoth</span>. And when the Ghost's ability returns it, it's returning as its front face, so it will return as the Mammoth, not as the land. You don't even have the option of returning it as the back face. So you'll be able to use the Ghost's ability to effectively transform your Valley from a land into a creature.<br>\nDo note this trick only works if the front face is a permanent card. If the front face is an instant or sorcery card (like <span class=\"autocard\">Kazuul's Fury</span>/<span class=\"autocard\">Kazuul's Cliffs</span>), since an instant or sorcery card can't enter the battlefield, it stays in the previous zone, so using the Ghost's ability targeting the Cliffs means that the Fury is stuck in exile and won't return to the battlefield.<br>"
   },
   {
     "imgs": [
@@ -88,7 +88,7 @@
       "Propaganda"
     ],
     "q": "Can I use mana from <span class=\"autocard\">Eladamri's Vineyard</span> to pay for my opponent's <span class=\"autocard\">Propaganda</span> when I attack?",
-    "a": "You can't, since that mana has been lost by the time you get to the declare attackers step. The mana pool empties when each step or phase ends. You get the mana from the Vineyard during your precombat main phase, so when you leave your main phase and go to the combat phase, if you haven't used the mana from the Vineyard yet, the mana is lost and won't be available when you're declaring attackers."
+    "a": "You can't, since that mana has been lost by the time you get to the declare attackers step. The mana pool empties when each step or phase ends. You get the mana from the Vineyard during your precombat main phase, so when you leave your main phase and go to the combat phase, if you haven't used the mana from the Vineyard yet, the mana is lost and won't be available when you're declaring attackers.<br>"
   },
   {
     "imgs": [
@@ -96,7 +96,7 @@
       "Touch the Spirit Realm"
     ],
     "q": "Will my opponent's <span class=\"autocard\">Gloom</span> increase what I have to pay when I channel <span class=\"autocard\">Touch the Spirit Realm</span>?",
-    "a": "Nope, you'll still only pay <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/W.png\" class=\"mana\"> to channel it. Gloom says that activated abilities of white \"enchantments\" cost three more to activate. Since it doesn't say \"card\" or mention another zone, that means it only taxes abilities of white enchantments on the battlefield, not cards in other zones like the hand. Your opponent's Gloom will not make you pay more to channel Touch the Spirit Realm from your hand."
+    "a": "Nope, you'll still only pay <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/W.png\" class=\"mana\"> to channel it. Gloom says that activated abilities of white \"enchantments\" cost three more to activate. Since it doesn't say \"card\" or mention another zone, that means it only taxes abilities of white enchantments on the battlefield, not cards in other zones like the hand. Your opponent's Gloom will not make you pay more to channel Touch the Spirit Realm from your hand.<br>"
   },
   {
     "imgs": [
@@ -104,7 +104,7 @@
       "Slicer, Hired Muscle"
     ],
     "q": "My opponent controls <span class=\"autocard\">The Tabernacle at Pendrell Vale</span>. If I give control of my <span class=\"autocard\">Slicer, Hired Muscle</span> to my opponent at the beginning of their upkeep, do they also have to deal with the Tabernacle trigger?",
-    "a": "No, they won't have to pay. The ability will only trigger if the creature starts their upkeep under their control. They'll gain control of Slicer during their upkeep, but since it didn't start their upkeep under their control, the ability from the Tabernacle will not trigger and they won't have to pay."
+    "a": "No, they won't have to pay. The ability will only trigger if the creature starts their upkeep under their control. They'll gain control of Slicer during their upkeep, but since it didn't start their upkeep under their control, the ability from the Tabernacle will not trigger and they won't have to pay.<br>"
   },
   {
     "imgs": [
@@ -112,7 +112,7 @@
       "Temporal Extortion"
     ],
     "q": "Can I cast and resolve <span class=\"autocard\">Overmaster</span>, then cast <span class=\"autocard\">Temporal Extortion</span> without having to worry about my opponent paying half of their life to counter it?",
-    "a": "Yep, you can do that. Overmaster makes it so the next sorcery you cast can't be countered. So while the Extortion's ability would trigger and players could pay half of their life, since the Extortion can't be countered, it won't be countered by its triggered ability, and it will still resolve."
+    "a": "Yep, you can do that. Overmaster makes it so the next sorcery you cast can't be countered. So while the Extortion's ability would trigger and players could pay half of their life, since the Extortion can't be countered, it won't be countered by its triggered ability, and it will still resolve.<br>"
   },
   {
     "imgs": [
@@ -120,7 +120,7 @@
       "Najeela, the Blade-Blossom"
     ],
     "q": "If I control a <span class=\"autocard\">Bloom Tender</span> and a <span class=\"autocard\">Najeela, the Blade-Blossom</span>, if I tap Bloom Tender for mana, do I get all five colors of mana?",
-    "a": "No, you only get red and green mana. Bloom Tender cares about the card's color, not its color identity. While Najeela's color identity is all five colors, Najeela is only a red creature. Since you control a red permanent (Najeela) and a green permanent (Bloom  Tender), you'll get one red and one green mana when you tap the Tender for mana."
+    "a": "No, you only get red and green mana. Bloom Tender cares about the card's color, not its color identity. While Najeela's color identity is all five colors, Najeela is only a red creature. Since you control a red permanent (Najeela) and a green permanent (Bloom  Tender), you'll get one red and one green mana when you tap the Tender for mana.<br>"
   },
   {
     "imgs": [
@@ -128,7 +128,7 @@
       "Narset, Enlightened Exile"
     ],
     "q": "I have a <span class=\"autocard\">Delayed Blast Fireball</span> in my graveyard. If I attack with a four power <span class=\"autocard\">Narset, Enlightened Exile</span> and target Delayed Blast Fireball, do I get to deal the bonus damage?",
-    "a": "You do! Narset exiles the Fireball and you create a copy in exile and can cast it. Since the copy is created and cast from exile, that means the bonus condition of the Fireball is fulfilled, and it will deal 5 damage to each opponent and each creature they control instead of 2 damage."
+    "a": "You do! Narset exiles the Fireball and you create a copy in exile and can cast it. Since the copy is created and cast from exile, that means the bonus condition of the Fireball is fulfilled, and it will deal 5 damage to each opponent and each creature they control instead of 2 damage.<br>"
   },
   {
     "imgs": [
@@ -136,7 +136,7 @@
       "Maarika, Brutal Gladiator"
     ],
     "q": "Can I have a Commander deck with <span class=\"autocard\">Zangief, the Red Cyclone</span> as its commander and <span class=\"autocard\">Maarika, Brutal Gladiator</span> in the main deck?",
-    "a": "Nope, you cannot. For the purposes of deck construction, Zangief and Maarika are the same card. If you look in the lower left hand corner of Maarika, right above the artist's name, you'll see it has \"= SLD 435\", which means that it's the equivalent card to Zangief. So you could run Zangief or Maarika in your Commander deck, but never both at the same time."
+    "a": "Nope, you cannot. For the purposes of deck construction, Zangief and Maarika are the same card. If you look in the lower left hand corner of Maarika, right above the artist's name, you'll see it has \"= SLD 435\", which means that it's the equivalent card to Zangief. So you could run Zangief or Maarika in your Commander deck, but never both at the same time.<br>"
   },
   {
     "imgs": [
@@ -145,14 +145,14 @@
       "Deflecting Swat"
     ],
     "q": "If my opponent tries to use the ability of <span class=\"autocard\">The Beamtown Bullies</span> to give me a <span class=\"autocard\">Leveler</span> during my upkeep, can I use <span class=\"autocard\">Deflecting Swat</span> on the Bullies' ability and give Leveler to someone else?",
-    "a": "You cannot. The Bullies' ability targets a creature card in their graveyard and an opponent whose turn it is. You could change the target from Leveler to another creature card in the graveyard, but since it's your turn, you can't change the target to a different opponent, since it's not that opponent's turn."
+    "a": "You cannot. The Bullies' ability targets a creature card in their graveyard and an opponent whose turn it is. You could change the target from Leveler to another creature card in the graveyard, but since it's your turn, you can't change the target to a different opponent, since it's not that opponent's turn.<br>"
   },
   {
     "imgs": [
       "Icon of Ancestry"
     ],
     "q": "If I cast <span class=\"autocard\">Icon of Ancestry</span>, can I choose \"legendary\" as my creature type?",
-    "a": "No you may not. \"Legendary\" is not a creature type. It's a supertype a card can have. Creature types are listed to the right of the hyphen on the type line, so something like \"Wizard\" or \"Cat\" would be a creature type, but not \"legendary\"."
+    "a": "No you may not. \"Legendary\" is not a creature type. It's a supertype a card can have. Creature types are listed to the right of the hyphen on the type line, so something like \"Wizard\" or \"Cat\" would be a creature type, but not \"legendary\".<br>"
   },
   {
     "imgs": [
@@ -160,6 +160,6 @@
       "Utvara Hellkite"
     ],
     "q": "If I attack with <span class=\"autocard\">Nogi, Draco-Zealot</span> with at least three Dragons in play, will I also get an <span class=\"autocard\">Utvara Hellkite</span> trigger?",
-    "a": "You don't get the Hellkite trigger. Nogi isn't a Dragon when it's declared as an attacker - it won't become a Dragon until its attack trigger resolves. Since it's not a Dragon when attackers are declared, the Hellkite won't trigger."
+    "a": "You don't get the Hellkite trigger. Nogi isn't a Dragon when it's declared as an attacker - it won't become a Dragon until its attack trigger resolves. Since it's not a Dragon when attackers are declared, the Hellkite won't trigger.<br>"
   }
 ]

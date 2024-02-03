@@ -5,14 +5,14 @@
       "Granitic Titan"
     ],
     "q": "I control <span class=\"autocard\">Agatha of the Vile Cauldron</span> and have a <span class=\"autocard\">Granitic Titan</span> in my hand. Does Agatha reduce the cost to cycle the Titan out of my hand?",
-    "a": "Agatha does not. By default, abilities of permanents only work on things also on the battlefield, unless those abilities either: \nA) could only work on things in other zones.<br>\nand/or<br>\nB) specify which zones they work in."
+    "a": "Agatha does not. By default, abilities of permanents only work on things also on the battlefield, unless those abilities either: <br>\nA) could only work on things in other zones.<br>\nand/or<br>\nB) specify which zones they work in.<br>"
   },
   {
     "imgs": [
       "Aquatic Alchemist // Bubble Up"
     ],
     "q": "I have an <span class=\"autocard\">Aquatic Alchemist // Bubble Up</span> in my graveyard and a second copy of Aquatic Alchemist in my hand. Can I use the Adventure side of the one in my hand (<span class=\"autocard\">Aquatic Alchemist // Bubble Up</span>) to put the Aquatic Alchemist in my graveyard on top of my library?",
-    "a": "You can not. Bubble Up requires you \"target\" an instant or sorcery in your graveyard. Aquatic Alchemist is not a instant or sorcery in any zone other than the stack (and only if you cast it for its Adventure side and then it's called Bubble Up)."
+    "a": "You can not. Bubble Up requires you \"target\" an instant or sorcery in your graveyard. Aquatic Alchemist is not a instant or sorcery in any zone other than the stack (and only if you cast it for its Adventure side and then it's called Bubble Up).<br>"
   },
   {
     "imgs": [
@@ -21,7 +21,7 @@
       "Murder"
     ],
     "q": "I control a <span class=\"autocard\">Ashiok's Reaper</span> and a 2/2 Zombie token enchanted with a Wicked Role (from the spell <span class=\"autocard\">Conceited Witch // Price of Beauty</span>). If my opponent <span class=\"autocard\">Murder</span>s the Zombie, does the Wicked Role go to the graveyard and cause Ashiok's Reaper to draw me a card?",
-    "a": "Yes and yes. Tokens go to the graveyard, then cease to exist. This is long enough for \"go to the graveyard\" triggers to see them and function."
+    "a": "Yes and yes. Tokens go to the graveyard, then cease to exist. This is long enough for \"go to the graveyard\" triggers to see them and function.<br>"
   },
   {
     "imgs": [
@@ -30,7 +30,7 @@
       "Nevinyrral's Disk"
     ],
     "q": "Cool. If the Wicked Role was enchanting my <span class=\"autocard\">Ashiok's Reaper</span> instead and then it got <span class=\"autocard\">Murder</span>ed, would I still draw a card?",
-    "a": "You would not. The Reaper can only see enchantments \"die\" while it's still alive or that \"die\" simultaneously with itself. In the scenario you proposed, the Reaper died, then a moment later Wicked Role \"dies\" for not being attached to anything.\nHowever, if the Reaper and the Wicked Role died at the same time, say to an exploding <span class=\"autocard\">Nevinyrral's Disk</span>, then yes, you would get to still draw the card."
+    "a": "You would not. The Reaper can only see enchantments \"die\" while it's still alive or that \"die\" simultaneously with itself. In the scenario you proposed, the Reaper died, then a moment later Wicked Role \"dies\" for not being attached to anything.<br>\nHowever, if the Reaper and the Wicked Role died at the same time, say to an exploding <span class=\"autocard\">Nevinyrral's Disk</span>, then yes, you would get to still draw the card.<br>"
   },
   {
     "imgs": [
@@ -40,7 +40,7 @@
       "Break the Spell"
     ],
     "q": "My opponent controls <span class=\"autocard\">Leyline of the Void</span> and I control a <span class=\"autocard\">Bear Cub</span> enchanted with my <span class=\"autocard\">Knightly Valor</span>. If I target my own Valor with <span class=\"autocard\">Break the Spell</span>, will I draw a card? Or will Leyline exiling it prevent the card draw?",
-    "a": "You will still draw a card from Break the Spell. Break the Spell only cares whether the enchantment was destroyed, not whether or not it ended up in the graveyard."
+    "a": "You will still draw a card from Break the Spell. Break the Spell only cares whether the enchantment was destroyed, not whether or not it ended up in the graveyard.<br>"
   },
   {
     "imgs": [
@@ -50,7 +50,7 @@
       "Corrupted Conviction"
     ],
     "q": "I cast <span class=\"autocard\">Callous Sell-Sword // Burn Together</span> to have my <span class=\"autocard\">Bear Cub</span> deal damage to my opponent's <span class=\"autocard\">Dark Confidant</span>. My opponent responded by sacrificing the Dark Confidant to <span class=\"autocard\">Corrupted Conviction</span>. Do I still have to sacrifice my Bear Cub even though there is no creature for it to deal its damage to?",
-    "a": "Yes you do. The spell Burn Together still has at least one target, so it will complete as many actions as it can. No damage will be dealt and then you must sacrifice your Bear Cub."
+    "a": "Yes you do. The spell Burn Together still has at least one target, so it will complete as many actions as it can. No damage will be dealt and then you must sacrifice your Bear Cub.<br>"
   },
   {
     "imgs": [
@@ -59,7 +59,7 @@
       "Disdainful Stroke"
     ],
     "q": "My opponent casts <span class=\"autocard\">Faerie Fencing</span> targeting my <span class=\"autocard\">Hill Giant</span>. The <img src=\"/ci-reader/images/symbols/X.png\" class=\"mana\"> for Faerie Fencing was 3, so it would kill my Giant. Can I counter the Faerie Fencing with <span class=\"autocard\">Disdainful Stroke</span>?",
-    "a": "You can! <img src=\"/ci-reader/images/symbols/X.png\" class=\"mana\"> in the mana value of a spell on the stack is equal to what was chosen for it. In this case, Faerie Fencing has a mana value of 4 (3 for the <img src=\"/ci-reader/images/symbols/X.png\" class=\"mana\"> and 1 for the <img src=\"/ci-reader/images/symbols/B.png\" class=\"mana\">)."
+    "a": "You can! <img src=\"/ci-reader/images/symbols/X.png\" class=\"mana\"> in the mana value of a spell on the stack is equal to what was chosen for it. In this case, Faerie Fencing has a mana value of 4 (3 for the <img src=\"/ci-reader/images/symbols/X.png\" class=\"mana\"> and 1 for the <img src=\"/ci-reader/images/symbols/B.png\" class=\"mana\">).<br>"
   },
   {
     "imgs": [
@@ -68,14 +68,14 @@
       "Child of the Pack"
     ],
     "q": "I used <span class=\"autocard\">The End</span> to exile my opponent's <span class=\"autocard\">Savage Packmate</span>. When I search the opponent's graveyard, library, and hand, do I exile cards named Savage Packmate or <span class=\"autocard\">Child of the Pack</span>?",
-    "a": "You only can find Savage Packmates during the search, which means you fail as that is never a name that will show up in those zones. <span class=\"autocard\">The End</span> asks to find cards with the same name as the \"permanent\" that was exiled, this means \"what it had for a name when it was on the battlefield\"."
+    "a": "You only can find Savage Packmates during the search, which means you fail as that is never a name that will show up in those zones. <span class=\"autocard\">The End</span> asks to find cards with the same name as the \"permanent\" that was exiled, this means \"what it had for a name when it was on the battlefield\".<br>"
   },
   {
     "imgs": [
       "Expel the Interlopers"
     ],
     "q": "<span class=\"autocard\">Expel the Interlopers</span> says choose a number between 0 and 10. Can I choose 0? Or must I only choose numbers that appear between 0 and 10?",
-    "a": "This wording may be confusing for some people, but when a <b>Magic</b> card says to choose between 0 and 10, it allows you to choose 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, or 10."
+    "a": "This wording may be confusing for some people, but when a <b>Magic</b> card says to choose between 0 and 10, it allows you to choose 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, or 10.<br>"
   },
   {
     "imgs": [
@@ -83,7 +83,7 @@
       "Disenchant"
     ],
     "q": "I cast <span class=\"autocard\">Glass Casket</span> and have its enter-the-battlefield trigger target my opponent's 1/1 Soldier token. If my opponent responds to the trigger by <span class=\"autocard\">Disenchant</span>ing my Glass Casket, do I still get to exile the Soldier token?",
-    "a": "You do not. Cards like Glass Casket that exile a creature until they leave the battlefield have a limited duration. If the duration ends before it begins, then the effect won't happen at all. In this case, since Glass Casket is destroyed before it exiles a creature, it won't exile the targeted creature at all."
+    "a": "You do not. Cards like Glass Casket that exile a creature until they leave the battlefield have a limited duration. If the duration ends before it begins, then the effect won't happen at all. In this case, since Glass Casket is destroyed before it exiles a creature, it won't exile the targeted creature at all.<br>"
   },
   {
     "imgs": [
@@ -93,7 +93,7 @@
       "Mishra, Claimed by Gix"
     ],
     "q": "If my opponent controls an attacking <span class=\"autocard\">Mishra, Lost to Phyrexia</span> and I target it with <span class=\"autocard\">Horned Loch-Whale // Lagoon Breach</span>, what happens?",
-    "a": "Mishra, Lost to Phyrexia is the melding of two cards: <span class=\"autocard\">Phyrexian Dragon Engine</span> and <span class=\"autocard\">Mishra, Claimed by Gix</span>. If you \"Lagoon Breach\" Mishra, Lost to Phyrexia, the owner chooses to put both cards its comprised of either on top of their library or both on the bottom of the their library. They do not need to reveal the order they are placed in and can place them in any order. However, they can not split it so one card goes to the top and the other goes to the bottom."
+    "a": "Mishra, Lost to Phyrexia is the melding of two cards: <span class=\"autocard\">Phyrexian Dragon Engine</span> and <span class=\"autocard\">Mishra, Claimed by Gix</span>. If you \"Lagoon Breach\" Mishra, Lost to Phyrexia, the owner chooses to put both cards its comprised of either on top of their library or both on the bottom of the their library. They do not need to reveal the order they are placed in and can place them in any order. However, they can not split it so one card goes to the top and the other goes to the bottom.<br>"
   },
   {
     "imgs": [
@@ -104,7 +104,7 @@
       "Mishra, Claimed by Gix"
     ],
     "q": "If my opponent tries to <span class=\"autocard\">Murder</span> my <span class=\"autocard\">Mishra, Lost to Phyrexia</span> and I respond with <span class=\"autocard\">Not Dead After All</span>, what happens?",
-    "a": "After Mishra, Lost to Phyrexia dies, both <span class=\"autocard\">Phyrexian Dragon Engine</span> and <span class=\"autocard\">Mishra, Claimed by Gix</span> will return to the battlefield under their owner's control un-melded and each will get their own Wicked Role Aura token."
+    "a": "After Mishra, Lost to Phyrexia dies, both <span class=\"autocard\">Phyrexian Dragon Engine</span> and <span class=\"autocard\">Mishra, Claimed by Gix</span> will return to the battlefield under their owner's control un-melded and each will get their own Wicked Role Aura token.<br>"
   },
   {
     "imgs": [
@@ -112,14 +112,14 @@
       "Questing Druid // Seek the Beast"
     ],
     "q": "If I cast <span class=\"autocard\">Niv-Mizzet, Supreme</span> while I control <span class=\"autocard\">Questing Druid // Seek the Beast</span>, does the Druid get four +1/+1 counters?",
-    "a": "It does not. It will only get one +1/+1 counter. Questing Druid checks if a spell has one or more of the listed colors, and if it does, the Druid gets a single +1/+1 counter."
+    "a": "It does not. It will only get one +1/+1 counter. Questing Druid checks if a spell has one or more of the listed colors, and if it does, the Druid gets a single +1/+1 counter.<br>"
   },
   {
     "imgs": [
       "Rankle's Prank"
     ],
     "q": "My opponent casts <span class=\"autocard\">Rankle's Prank</span> choosing all three modes. Do I get to see what cards my opponent discards before I have to decide what I will discard? Do I get to know what creatures my opponent will sacrifice before I choose what creatures I sacrifice?",
-    "a": "Let's assume Rankle's Prank was cast in your opponent's turn, since it's a sorcery. Your opponent does decide what two cards they will be discarding before you do, but this is indicated by putting them off to the side without revealing what they are. Then you will do the same (indicate two cards you will discard). Then, after all players have chosen the cards they will discard, they all get discarded simultaneously. This means for the discard mode, you will not know what your opponent is discarding before you make your choices. \nHowever, during the third mode, the opponent will choose the creatures they will sacrifice, and then you get to make your choice fully knowing which creatures your opponent will sacrifice. Then, after all players have chosen the creatures are all sacrificed simultaneously.\nIn both modes, the choices are made in player turn order, starting with the player whose turn it is. If the opponent somehow cast this spell during your turn, the order would be reversed (you choose first, then the opponent)."
+    "a": "Let's assume Rankle's Prank was cast in your opponent's turn, since it's a sorcery. Your opponent does decide what two cards they will be discarding before you do, but this is indicated by putting them off to the side without revealing what they are. Then you will do the same (indicate two cards you will discard). Then, after all players have chosen the cards they will discard, they all get discarded simultaneously. This means for the discard mode, you will not know what your opponent is discarding before you make your choices. <br>\nHowever, during the third mode, the opponent will choose the creatures they will sacrifice, and then you get to make your choice fully knowing which creatures your opponent will sacrifice. Then, after all players have chosen the creatures are all sacrificed simultaneously.<br>\nIn both modes, the choices are made in player turn order, starting with the player whose turn it is. If the opponent somehow cast this spell during your turn, the order would be reversed (you choose first, then the opponent). <br>"
   },
   {
     "imgs": [
@@ -127,14 +127,14 @@
       "Imperial Recruiter"
     ],
     "q": "Can I find <span class=\"autocard\">Regal Bunnicorn</span> with the enter-the-battlefield trigger of <span class=\"autocard\">Imperial Recruiter</span>?",
-    "a": "Maybe? This depends on how many nonland permanents you control as the ability resolves. Regal Bunnicorn's power and toughness defining ability works in all zones, so if you have two or fewer nonland permanents, then yes. If you have three or more nonland permanents, then no. As you likely still control the Recruiter, this means only if you have at most one nonland permanent other than the Recruiter."
+    "a": "Maybe? This depends on how many nonland permanents you control as the ability resolves. Regal Bunnicorn's power and toughness defining ability works in all zones, so if you have two or fewer nonland permanents, then yes. If you have three or more nonland permanents, then no. As you likely still control the Recruiter, this means only if you have at most one nonland permanent other than the Recruiter.<br>"
   },
   {
     "imgs": [
       "Restless Bivouac"
     ],
     "q": "If I attack with an animated <span class=\"autocard\">Restless Bivouac</span> and place the +1/+1 counter it makes on itself, does the counter fall off at the end of turn when it stops being a creature?",
-    "a": "It does not. +1/+1 counters can stay on any permanent even if that permanent is no longer a creature. It's true that Auras with \"encgant creature\" fall off into the graveyard if attached to a permanent that is no longer a creature and that Equipment stop being attached in the same case, but +1/+1 counters (and counters of any kind) can cling on just fine."
+    "a": "It does not. +1/+1 counters can stay on any permanent even if that permanent is no longer a creature. It's true that Auras with \"encgant creature\" fall off into the graveyard if attached to a permanent that is no longer a creature and that Equipment stop being attached in the same case, but +1/+1 counters (and counters of any kind) can cling on just fine. <br>"
   },
   {
     "imgs": [
@@ -142,21 +142,21 @@
       "Likeness Looter"
     ],
     "q": "<span class=\"autocard\">Sharae of Numbing Depths</span> is in my graveyard and is currently being copied by <span class=\"autocard\">Likeness Looter</span>. I've already drawn one card from the copied Sharae's ability by tapping down an opponent's creature. If I have Sharae activate its X ability to become a copy of Sharae again, can I trigger the draw a card ability a second time this turn if I tap down another creature?",
-    "a": "So as strange as it sounds, yes you can. When Sharae becomes a copy of Sharae, the abilities it has are new and therefore haven't triggered yet this turn even though they are identical to the previous versions of the ability."
+    "a": "So as strange as it sounds, yes you can. When Sharae becomes a copy of Sharae, the abilities it has are new and therefore haven't triggered yet this turn even though they are identical to the previous versions of the ability.<br>"
   },
   {
     "imgs": [
       "Skewer Slinger"
     ],
     "q": "My attacking <span class=\"autocard\">Skewer Slinger</span> was blocked by a single 1/1 Soldier token. The Soldier died to Slinger's triggered ability before combat damage. Does my Slinger deal its combat damage to my opponent now?",
-    "a": "It does not. A blocked creature can only deal combat damage to creatures that are currently blocking it. Once a creature becomes blocked, it stays blocked until the end of this combat phase. If there are no creatures currently blocking it when it goes to deal combat damage, then it deals no combat damage at all this combat phase."
+    "a": "It does not. A blocked creature can only deal combat damage to creatures that are currently blocking it. Once a creature becomes blocked, it stays blocked until the end of this combat phase. If there are no creatures currently blocking it when it goes to deal combat damage, then it deals no combat damage at all this combat phase. <br>"
   },
   {
     "imgs": [
       "Skewer Slinger"
     ],
     "q": "What happens if we have the same question as that last one, but this time my <span class=\"autocard\">Skewer Slinger</span> has a Monster Role attached to it?",
-    "a": "Trample changes the rules of combat damage when a creature with trample gets blocked. The Skewer Slinger will deal 3 damage to your opponent. A blocked creature with trample must assign lethal combat damage to each creature blocking it, and then any excess combat damage after that can be dealt to the defending player. If there are no creatures currently blocking it when it goes to deal combat damage, then all of its combat damage will be dealt to the defending player."
+    "a": "Trample changes the rules of combat damage when a creature with trample gets blocked. The Skewer Slinger will deal 3 damage to your opponent. A blocked creature with trample must assign lethal combat damage to each creature blocking it, and then any excess combat damage after that can be dealt to the defending player. If there are no creatures currently blocking it when it goes to deal combat damage, then all of its combat damage will be dealt to the defending player. <br>"
   },
   {
     "imgs": [
@@ -166,6 +166,6 @@
       "Murder"
     ],
     "q": "I control <span class=\"autocard\">Court of Garenbrig</span> and I'm not currently the monarch. As my upkeep began, I put Court of Garenbrig's trigger on the stack targeting my <span class=\"autocard\">Bear Cub</span> and my <span class=\"autocard\">Hill Giant</span>, wanting to put a +1/+1 counter on each. Before the trigger resolved, my opponent <span class=\"autocard\">Murder</span>ed my Hill Giant. When Garenbrig's trigger resolves, I'm convinced I get to put two +1/+1 counters on my Bear Cub, but my opponent thinks it only gets one +1/+1 counter. Who is correct?",
-    "a": "Your opponent is correct. Whenever you distribute multiple counters amongst multiple creatures, you decide how many creatures and how those counters will be distributed as you put the spell or ability on the stack. If you lose any of those creatures before the spell/ability resolves, you can't reselect the distribution and any counters that were selected for the now missing creatures won't be created at all."
+    "a": "Your opponent is correct. Whenever you distribute multiple counters amongst multiple creatures, you decide how many creatures and how those counters will be distributed as you put the spell or ability on the stack. If you lose any of those creatures before the spell/ability resolves, you can't reselect the distribution and any counters that were selected for the now missing creatures won't be created at all.  <br>"
   }
 ]

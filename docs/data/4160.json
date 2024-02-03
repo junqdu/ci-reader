@@ -5,7 +5,7 @@
       "Wizard's Rockets"
     ],
     "q": "If I control <span class=\"autocard\">Unbound Flourishing</span> and activate <span class=\"autocard\">Wizard's Rockets</span>, does Unbound Flourishing double the amount of mana I get from the Rockets?",
-    "a": "No. While activating Wizard's Rockets' ability triggers Unbound Flourishing's triggered ability, the resolution of that triggered ability does nothing. To copy an ability, you make a copy of an object on the stack. Since mana abilities don't use the stack, there is nothing to copy in the first place."
+    "a": "No. While activating Wizard's Rockets' ability triggers Unbound Flourishing's triggered ability, the resolution of that triggered ability does nothing. To copy an ability, you make a copy of an object on the stack. Since mana abilities don't use the stack, there is nothing to copy in the first place. <br>"
   },
   {
     "imgs": [
@@ -13,7 +13,7 @@
       "Momentary Blink"
     ],
     "q": "I play <span class=\"autocard\">Wrath of God</span> and my opponent used <span class=\"autocard\">Momentary Blink</span> on their only creature. Does it survive the Wrath of God?",
-    "a": "It does not. Blinking the creature exiles it and returns it to the battlefield as a new creature, so it resets its identity, but this would only matter to a spell that targets it. Wrath of God doesn't target anything or otherwise \"lock in\" what it will destroy. It simply destroys all creatures that are on the battlefield at the time it resolves, which includes your opponent's newly returned creature."
+    "a": "It does not. Blinking the creature exiles it and returns it to the battlefield as a new creature, so it resets its identity, but this would only matter to a spell that targets it. Wrath of God doesn't target anything or otherwise \"lock in\" what it will destroy. It simply destroys all creatures that are on the battlefield at the time it resolves, which includes your opponent's newly returned creature. <br>"
   },
   {
     "imgs": [
@@ -21,21 +21,21 @@
       "Mossbridge Troll"
     ],
     "q": "Let's say I control <span class=\"autocard\">Mayael's Aria</span>, <span class=\"autocard\">Mossbridge Troll</span>, and five 1/1 creature tokens. Mayael's Aria triggers and its first part puts +1/+1 counters on the Troll and the five tokens. Can I activate the Troll's ability before the third part resolves so I then win the game?",
-    "a": "No, that doesn't work. Mayael's Aria has one triggered ability that goes on the stack as a whole. When the ability resolves, you follow all its instructions in order, and nobody gets priority to activate any other abilities in between those instructions. After you put the +1/+1 counters on your creatures, you don't gain 10 life because you don't control a creature with power 10 or greater, and you don't win the game because you don't control a creature with power 20 or greater."
+    "a": "No, that doesn't work. Mayael's Aria has one triggered ability that goes on the stack as a whole. When the ability resolves, you follow all its instructions in order, and nobody gets priority to activate any other abilities in between those instructions. After you put the +1/+1 counters on your creatures, you don't gain 10 life because you don't control a creature with power 10 or greater, and you don't win the game because you don't control a creature with power 20 or greater. <br>"
   },
   {
     "imgs": [
       "Deflecting Palm"
     ],
     "q": "How does <span class=\"autocard\">Deflecting Palm</span> work? If I'm being attacked by ten white 4/4 Angel tokens, can I choose \"white\" or \"Angel\" as the source of damage?",
-    "a": "No, a source of damage is a single object, so you can choose one of the Angels as the source whose damage to deflect, but the other nine Angels will still give you a righteous beating."
+    "a": "No, a source of damage is a single object, so you can choose one of the Angels as the source whose damage to deflect, but the other nine Angels will still give you a righteous beating. <br>"
   },
   {
     "imgs": [
       "Deflecting Palm"
     ],
     "q": "Let's say I'm getting attacked by two 10/10 creatures with infect, and I <span class=\"autocard\">Deflecting Palm</span> the damage from one of them to my opponent. Do we both die from poison counters?",
-    "a": "No. The 10/10 that goes through to you deals ten poison counters to you, while the damage from the other 10/10 is prevented, and Deflecting Palm deals 10 damage to your opponent. Since Deflecting Palm deals that damage itself and it doesn't have infect, your opponent simply loses 10 life. If your opponent had 10 or less life before all this, both of you lose the game at the same time and the game is a draw, but otherwise your opponent wins the game."
+    "a": "No. The 10/10 that goes through to you deals ten poison counters to you, while the damage from the other 10/10 is prevented, and Deflecting Palm deals 10 damage to your opponent. Since Deflecting Palm deals that damage itself and it doesn't have infect, your opponent simply loses 10 life. If your opponent had 10 or less life before all this, both of you lose the game at the same time and the game is a draw, but otherwise your opponent wins the game. <br>"
   },
   {
     "imgs": [
@@ -43,7 +43,7 @@
       "Fervent Champion"
     ],
     "q": "Does <span class=\"autocard\">Acquisition Octopus</span> count as an equip ability for <span class=\"autocard\">Fervent Champion</span>?",
-    "a": "No, only abilities with the keyword \"equip\" in them are equip abilities. Reconfigure does something very similar, but it's different enough to not be an equip ability."
+    "a": "No, only abilities with the keyword \"equip\" in them are equip abilities. Reconfigure does something very similar, but it's different enough to not be an equip ability. <br>"
   },
   {
     "imgs": [
@@ -51,7 +51,7 @@
       "Serra's Emissary"
     ],
     "q": "My opponent has cursed me with <span class=\"autocard\">Overwhelming Splendor</span>. If I cast <span class=\"autocard\">Serra's Emissary</span> and choose enchantment for it, what happens?",
-    "a": "Not much happens. You'll have a 1/1 Serra's Emissary that has no abilities. Since it has no abilities, you don't have protection from enchantments, so Overwhelming Splendor remains attached to you. Also note that you don't even get to choose a card type for Serra's Emissary at all. As Serra's Emissary enters the battlefield, the game takes into account that the Emissary won't have the ability that asks you to choose a card type, so this replacement effect doesn't apply and the Emissary enters without a chosen card type. This means that even if you subsequently get rid of Overwhelming Splendor somehow, Serra's Emissary still won't give you protection from anything."
+    "a": "Not much happens. You'll have a 1/1 Serra's Emissary that has no abilities. Since it has no abilities, you don't have protection from enchantments, so Overwhelming Splendor remains attached to you. Also note that you don't even get to choose a card type for Serra's Emissary at all. As Serra's Emissary enters the battlefield, the game takes into account that the Emissary won't have the ability that asks you to choose a card type, so this replacement effect doesn't apply and the Emissary enters without a chosen card type. This means that even if you subsequently get rid of Overwhelming Splendor somehow, Serra's Emissary still won't give you protection from anything.<br>"
   },
   {
     "imgs": [
@@ -59,7 +59,7 @@
       "Awoken Horror"
     ],
     "q": "When <span class=\"autocard\">Thing in the Ice</span> transforms into <span class=\"autocard\">Awoken Horror</span>, does it get summoning sickness again?",
-    "a": "Nope. When a transforming double-faced card transforms, it doesn't leave and re-enter the battlefield. It stays the same permanent, just with different characteristics. If Thing in the Ice didn't have summoning sickness anymore, then neither does Awoken Horror."
+    "a": "Nope. When a transforming double-faced card transforms, it doesn't leave and re-enter the battlefield. It stays the same permanent, just with different characteristics. If Thing in the Ice didn't have summoning sickness anymore, then neither does Awoken Horror. <br>"
   },
   {
     "imgs": [
@@ -67,7 +67,7 @@
       "Zacama, Primal Calamity"
     ],
     "q": "If I cast <span class=\"autocard\">Cursed Mirror</span> and have it copy my opponent's <span class=\"autocard\">Zacama, Primal Calamity</span>, do I get to untap my lands?",
-    "a": "Yes! Cursed Mirror acquires all abilities of Zacama, Primal Calamity, including its enter-the-battlefield ability. When that ability triggers, it checks whether you cast the creature that is now Zacama, Primal Calamity. You did cast the Cursed Mirror, so the condition is fulfilled even though you didn't cast a spell named Zacama, Primal Calamity."
+    "a": "Yes! Cursed Mirror acquires all abilities of Zacama, Primal Calamity, including its enter-the-battlefield ability. When that ability triggers, it checks whether you cast the creature that is now Zacama, Primal Calamity. You did cast the Cursed Mirror, so the condition is fulfilled even though you didn't cast a spell named Zacama, Primal Calamity. <br>"
   },
   {
     "imgs": [
@@ -76,21 +76,21 @@
       "Copy Enchantment"
     ],
     "q": "If I copy <span class=\"autocard\">Fiery Emancipation</span>'s ability with <span class=\"autocard\">Lithoform Engine</span>, does the source deal six times normal damage, or nine times normal damage?",
-    "a": "Well, first off, you can't copy this ability with Lithoform Engine. The ability is neither a triggered ability nor an activated ability. It's a static ability that creates a replacement effect. You could copy the spell Fiery Emancipation when you originally cast it, which would give you a second Fiery Emancipation in the form of a token, but you'd have to be able to come up with the 10 mana to do that all in the same turn. If you do control two Fiery Emancipations, either by having copied the spell with Lithoform Engine, or copying the enchantment with <span class=\"autocard\">Copy Enchantment</span>, or even just by casting a second Fiery Emancipation, then you have two replacement effects that each multiply damage times three. Both effects get to apply, and the second effect triples the result from the first effect, so in the end the damage will be multiplied by nine."
+    "a": "Well, first off, you can't copy this ability with Lithoform Engine. The ability is neither a triggered ability nor an activated ability. It's a static ability that creates a replacement effect. You could copy the spell Fiery Emancipation when you originally cast it, which would give you a second Fiery Emancipation in the form of a token, but you'd have to be able to come up with the 10 mana to do that all in the same turn. If you do control two Fiery Emancipations, either by having copied the spell with Lithoform Engine, or copying the enchantment with <span class=\"autocard\">Copy Enchantment</span>, or even just by casting a second Fiery Emancipation, then you have two replacement effects that each multiply damage times three. Both effects get to apply, and the second effect triples the result from the first effect, so in the end the damage will be multiplied by nine.<br>"
   },
   {
     "imgs": [
       "Goro-Goro and Satoru"
     ],
     "q": "I control <span class=\"autocard\">Goro-Goro and Satoru</span> and manage to deal combat damage to three different players with creatures that entered the battlefield this turn. How many Dragon Spirit tokens do I create?",
-    "a": "You create three tokens. Goro-Goro and Satoru's ability looks for the event \"one or more creatures you control that entered the battlefield this turn deal combat damage to <i>a player</i>\", which means you get one trigger for each player that is dealt damage by one or more such creatures."
+    "a": "You create three tokens. Goro-Goro and Satoru's ability looks for the event \"one or more creatures you control that entered the battlefield this turn deal combat damage to <i>a player</i>\", which means you get one trigger for each player that is dealt damage by one or more such creatures. <br>"
   },
   {
     "imgs": [
       "Huatli, the Sun's Heart"
     ],
     "q": "I control a 5/5 that was dealt 3 damage this turn, and I activate <span class=\"autocard\">Huatli, the Sun's Heart</span>'s ability. Do I gain 5 life or 2 life?",
-    "a": "Assuming that the creature was just dealt regular damage, i.e. not something like wither or infect that is dealt in the form of -1/-1 counters, the damage does not reduce the creature's toughness. The creature is a 5/5 that has 3 damage marked on it, so its toughness is still 5, and you gain 5 life with Huatli's ability."
+    "a": "Assuming that the creature was just dealt regular damage, i.e. not something like wither or infect that is dealt in the form of -1/-1 counters, the damage does not reduce the creature's toughness. The creature is a 5/5 that has 3 damage marked on it, so its toughness is still 5, and you gain 5 life with Huatli's ability.<br>"
   },
   {
     "imgs": [
@@ -98,14 +98,14 @@
       "Skyshroud Claim"
     ],
     "q": "My opponent controls five lands and <span class=\"autocard\">Land Equilibrium</span> and I control four lands. If I play <span class=\"autocard\">Skyshroud Claim</span>, do I have to sacrifice one of my lands?",
-    "a": "No, you'll be at six lands. Land Equilibrium creates a replacement effect that changes how your lands enter the battlefield, but only if you control at least as many lands as your opponent. Both Forests from Skyshroud Claim enter the battlefield at the same time, and at that time the condition for Land Equilibrium's replacement effect is not true, so the effect doesn't apply to either of the two lands, so both lands enter the battlefield normally."
+    "a": "No, you'll be at six lands. Land Equilibrium creates a replacement effect that changes how your lands enter the battlefield, but only if you control at least as many lands as your opponent. Both Forests from Skyshroud Claim enter the battlefield at the same time, and at that time the condition for Land Equilibrium's replacement effect is not true, so the effect doesn't apply to either of the two lands, so both lands enter the battlefield normally. <br>"
   },
   {
     "imgs": [
       "Avacyn's Judgment"
     ],
     "q": "Can I cast a <span class=\"autocard\">Avacyn's Judgment</span> for its madness cost during my opponent's turn?",
-    "a": "If something causes you to discard it during your opponent's turn, sure. Discarding it triggers a triggered ability that gives you the option of casting it for its madness cost, and since it's not giving a duration for this permission, it means \"right now, during the resolution of this triggered ability,\" which is a time at which you normally couldn't even cast an instant because you don't have priority at that time. The only thing that normally keeps you from casting a sorcery during your opponent's turn is that normally there is nothing giving you permission to do so. Madness gives you this permission, so you can cast the sorcery at that time."
+    "a": "If something causes you to discard it during your opponent's turn, sure. Discarding it triggers a triggered ability that gives you the option of casting it for its madness cost, and since it's not giving a duration for this permission, it means \"right now, during the resolution of this triggered ability,\" which is a time at which you normally couldn't even cast an instant because you don't have priority at that time. The only thing that normally keeps you from casting a sorcery during your opponent's turn is that normally there is nothing giving you permission to do so. Madness gives you this permission, so you can cast the sorcery at that time. <br>"
   },
   {
     "imgs": [
@@ -113,14 +113,14 @@
       "Doubling Season"
     ],
     "q": "I've been told that <span class=\"autocard\">Lae'zel, Vlaakith's Champion</span> works for activating a planeswalker ability, but <span class=\"autocard\">Doubling Season</span> does not. How come?",
-    "a": "You've been told correctly. Doubling Season only applies if an <i>effect</i> puts counters on a permanent, while Lae'zel applies if <i>you</i> put counters on something. Adding loyalty counters to a planeswalker to activate its ability is a cost, and costs are not effects, so Doubling Season doesn't apply to it. Amusingly enough, though, if you control both Lae'zel and Doubling Season, they will both apply. This is because Lae'zel's replacement <i>effect</i> changes the number of counters, so Doubling Season recognizes that the counters are being put on by an effect in that scenario."
+    "a": "You've been told correctly. Doubling Season only applies if an <i>effect</i> puts counters on a permanent, while Lae'zel applies if <i>you</i> put counters on something. Adding loyalty counters to a planeswalker to activate its ability is a cost, and costs are not effects, so Doubling Season doesn't apply to it. Amusingly enough, though, if you control both Lae'zel and Doubling Season, they will both apply. This is because Lae'zel's replacement <i>effect</i> changes the number of counters, so Doubling Season recognizes that the counters are being put on by an effect in that scenario. <br>"
   },
   {
     "imgs": [
       "Dungeon of the Mad Mage"
     ],
     "q": "In the <b>Runestone Caverns</b> room of <span class=\"autocard\">Dungeon of the Mad Mage</span>, do I have to play the exiled cards immediately, or can I wait to play them later?",
-    "a": "This is very similar to the madness question from above. Since the ability does not specify a duration for the \"you may play them\" effect, it means \"right now\". If you can't or don't want to play those cards at that time, they'll remain exiled indefinitely."
+    "a": "This is very similar to the madness question from above. Since the ability does not specify a duration for the \"you may play them\" effect, it means \"right now\". If you can't or don't want to play those cards at that time, they'll remain exiled indefinitely. <br>"
   },
   {
     "imgs": [
@@ -128,7 +128,7 @@
       "Basalt Monolith"
     ],
     "q": "If I control <span class=\"autocard\">The Millennium Calendar</span> and <span class=\"autocard\">Basalt Monolith</span>, can I repeatedly tap and untap Basalt Monolith to put a bunch of time counters on the Calendar?",
-    "a": "No, that doesn't work. The Millenium Calendar only gets time counters with its first ability when you untap one or more permanents during your untap step. You don't get priority in the untap step, so you can't activate Basalt Monolith's ability at that time. By the time you get priority to tap and untap the Basalt Monolith, the game is in the upkeep step, and The Millenium Calendar is not interested in permanents being untapped during the upkeep step."
+    "a": "No, that doesn't work. The Millenium Calendar only gets time counters with its first ability when you untap one or more permanents during your untap step. You don't get priority in the untap step, so you can't activate Basalt Monolith's ability at that time. By the time you get priority to tap and untap the Basalt Monolith, the game is in the upkeep step, and The Millenium Calendar is not interested in permanents being untapped during the upkeep step. <br>"
   },
   {
     "imgs": [
@@ -137,7 +137,7 @@
       "Spellskite"
     ],
     "q": "My opponent controls <span class=\"autocard\">Horobi, Death's Wail</span> and targets my <span class=\"autocard\">Bear Cub</span> with some spell. Can I redirect the spell to my <span class=\"autocard\">Spellskite</span> to save the Bear Cub?",
-    "a": "No, and this play actually ends up getting the Spellskite killed as well. By the time you activate Spellskite's ability, Horobi's ability has already triggered for the Bear Cub, and changing the spell to target something else doesn't untrigger or counter Horobi's ability. The only thing you're accomplishing is that Horobi's ability triggers again when Spellskite becomes the target of the spell, so both the Spellskite and the Bear Cub end up getting destroyed."
+    "a": "No, and this play actually ends up getting the Spellskite killed as well. By the time you activate Spellskite's ability, Horobi's ability has already triggered for the Bear Cub, and changing the spell to target something else doesn't untrigger or counter Horobi's ability. The only thing you're accomplishing is that Horobi's ability triggers again when Spellskite becomes the target of the spell, so both the Spellskite and the Bear Cub end up getting destroyed. <br>"
   },
   {
     "imgs": [
@@ -145,6 +145,6 @@
       "Sol Ring"
     ],
     "q": "If I control <span class=\"autocard\">Mirrorworks</span> and cast <span class=\"autocard\">Sol Ring</span>, can I tap the Sol Ring itself to make a copy if it with Mirrorworks?",
-    "a": "Yes, you can do that. By the time Mirrorworks' ability resolves and asks you if you want to pay <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\">, the Sol Ring is on the battlefield and it doesn't have summoning sickness, so you can tap it for <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"> to make use of Mirrorworks' ability."
+    "a": "Yes, you can do that. By the time Mirrorworks' ability resolves and asks you if you want to pay <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\">, the Sol Ring is on the battlefield and it doesn't have summoning sickness, so you can tap it for <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"> to make use of Mirrorworks' ability. <br>"
   }
 ]

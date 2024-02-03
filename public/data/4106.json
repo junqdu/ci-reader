@@ -5,7 +5,7 @@
       "Clockspinning"
     ],
     "q": "Are these cards going to be legal in Standard or Modern?",
-    "a": "Most of them won't be, no. <i>Doctor Who</i> is a supplemental product, not a set release, so the cards from it don't enter the Standard rotation, so by default the cards from <i>Doctor Who</i> are only going to be legal in casual formats like Commander and in eternal formats like Legacy. However, since card legality goes by the name of the card, <i>Doctor Who</i> reprints of Standard-legal cards, such as <span class=\"autocard\">Evolving Wilds</span>, are also legal in Standard. The same is true for reprints of Modern-legal cards, such as <span class=\"autocard\">Clockspinning</span>."
+    "a": "Most of them won't be, no. <i>Doctor Who</i> is a supplemental product, not a set release, so the cards from it don't enter the Standard rotation, so by default the cards from <i>Doctor Who</i> are only going to be legal in casual formats like Commander and in eternal formats like Legacy. However, since card legality goes by the name of the card, <i>Doctor Who</i> reprints of Standard-legal cards, such as <span class=\"autocard\">Evolving Wilds</span>, are also legal in Standard. The same is true for reprints of Modern-legal cards, such as <span class=\"autocard\">Clockspinning</span>.<br>"
   },
   {
     "imgs": [
@@ -13,7 +13,7 @@
       "TARDIS"
     ],
     "q": "So, since <span class=\"autocard\">Missy</span> and <span class=\"autocard\">TARDIS</span> are legal in Legacy, does that mean I can have a planar deck in a Legacy tournament?",
-    "a": "No. Plane cards are nontraditional <b>Magic</b> cards that are only used in casual games. In a Legacy game, you don't have a planar deck, so instructions to planeswalk do nothing, and \"chaos ensues\" is an event that triggers no abilities in the game."
+    "a": "No. Plane cards are nontraditional <b>Magic</b> cards that are only used in casual games. In a Legacy game, you don't have a planar deck, so instructions to planeswalk do nothing, and \"chaos ensues\" is an event that triggers no abilities in the game. <br>"
   },
   {
     "imgs": [
@@ -21,7 +21,7 @@
       "The Tenth Doctor"
     ],
     "q": "Can I partner <span class=\"autocard\">Rose Tyler</span> with <span class=\"autocard\">The Tenth Doctor</span> even though there is no white in The Tenth Doctor's color identity?",
-    "a": "Absolutely. Doctor's companion works much like the partner ability, which means you designate two commanders, and your deck's color identity is the combined color identity of those two commanders. It's not necessary for the two commanders to have any colors in common."
+    "a": "Absolutely. Doctor's companion works much like the partner ability, which means you designate two commanders, and your deck's color identity is the combined color identity of those two commanders. It's not necessary for the two commanders to have any colors in common. <br>"
   },
   {
     "imgs": [
@@ -29,7 +29,7 @@
       "Morophon, the Boundless"
     ],
     "q": "Can I team up <span class=\"autocard\">K-9, Mark I</span> with <span class=\"autocard\">Morophon, the Boundless</span> because Morophon is a Doctor?",
-    "a": "Nope. While it's true that Morophon is <i>a</i> Doctor, thanks to Doctor being a creature type and Morophon having all of those, the reminder text for Doctor's companion says that the other commander must be <i>the</i> Doctor. The way this is implemented in the rules is that the other commander must have exactly the subtypes Time Lord Doctor, which is a unique combination of creature types that only the various incarnations of <i>the</i> Doctor have. Morophon has many more creature types than that, so it doesn't work."
+    "a": "Nope. While it's true that Morophon is <i>a</i> Doctor, thanks to Doctor being a creature type and Morophon having all of those, the reminder text for Doctor's companion says that the other commander must be <i>the</i> Doctor. The way this is implemented in the rules is that the other commander must have exactly the subtypes Time Lord Doctor, which is a unique combination of creature types that only the various incarnations of <i>the</i> Doctor have. Morophon has many more creature types than that, so it doesn't work.<br>"
   },
   {
     "imgs": [
@@ -37,7 +37,7 @@
       "Embiggen"
     ],
     "q": "Speaking of Time Lord Doctors, how many creature types does <span class=\"autocard\">The Thirteenth Doctor</span> have? <span class=\"autocard\">Embiggen</span> wants to know.",
-    "a": "One could be forgiven for thinking it's three, but it's actually only two. <i>Doctor Who</i> is breaking with decades of precedent in which creature types were single words and introduces the two-word phrase \"Time Lord\" as one creature type. Both <b>Magic</b> and <i>Doctor Who</i> are known for breaking their own rules, so this exception is perfectly on-brand."
+    "a": "One could be forgiven for thinking it's three, but it's actually only two. <i>Doctor Who</i> is breaking with decades of precedent in which creature types were single words and introduces the two-word phrase \"Time Lord\" as one creature type. Both <b>Magic</b> and <i>Doctor Who</i> are known for breaking their own rules, so this exception is perfectly on-brand. <br>"
   },
   {
     "imgs": [
@@ -45,14 +45,14 @@
       "Gallifrey Stands"
     ],
     "q": "Do <span class=\"autocard\">Avian Changeling</span> count for the win condition of <span class=\"autocard\">Gallifrey Stands</span>?",
-    "a": "Absolutely. Unlike the Doctor's companion ability, Gallifrey Stands simply checks if you control thirteen or more Doctors, which means thirteen or more creatures that have the creature type Doctor. It doesn't matter what they're named, whether they have unique names or not, or whether they have any creature types besides Doctor."
+    "a": "Absolutely. Unlike the Doctor's companion ability, Gallifrey Stands simply checks if you control thirteen or more Doctors, which means thirteen or more creatures that have the creature type Doctor. It doesn't matter what they're named, whether they have unique names or not, or whether they have any creature types besides Doctor.<br>"
   },
   {
     "imgs": [
       "Gallifrey Stands"
     ],
     "q": "What happens if I already control thirteen Doctors and don't put another Doctor card onto the battlefield when <span class=\"autocard\">Gallifrey Stands</span>'s ability resolves? Do I still win the game?",
-    "a": "Yup! Putting a Doctor card from your hand onto the battlefield is optional, and the \"thirteen or more Doctors\" condition is checked regardless of whether you chose to put a Doctor card onto the battlefield with the first part of the ability."
+    "a": "Yup! Putting a Doctor card from your hand onto the battlefield is optional, and the \"thirteen or more Doctors\" condition is checked regardless of whether you chose to put a Doctor card onto the battlefield with the first part of the ability. <br>"
   },
   {
     "imgs": [
@@ -61,7 +61,7 @@
       "Wibbly-wobbly, Timey-wimey"
     ],
     "q": "If I use <span class=\"autocard\">The Eleventh Doctor</span>'s first ability to exile <span class=\"autocard\">Ancestral Vision</span> from my hand, when do I end up casting Ancestral Vision?",
-    "a": "Unfortunately for you, probably never. You've exiled Ancestral Vision with no time counters on it, and the suspend ability only lets you cast it when the last time counter is removed, which won't happen unless you somehow manage to put a time counter on it. <span class=\"autocard\">Wibbly-wobbly, Timey-wimey</span> won't help you, since the card isn't considered suspended if it doesn't have any time counters on it."
+    "a": "Unfortunately for you, probably never. You've exiled Ancestral Vision with no time counters on it, and the suspend ability only lets you cast it when the last time counter is removed, which won't happen unless you somehow manage to put a time counter on it. <span class=\"autocard\">Wibbly-wobbly, Timey-wimey</span> won't help you, since the card isn't considered suspended if it doesn't have any time counters on it.<br>"
   },
   {
     "imgs": [
@@ -69,7 +69,7 @@
       "The Eleventh Hour"
     ],
     "q": "How does <span class=\"autocard\">Wibbly-wobbly, Timey-wimey</span> interact with <span class=\"autocard\">The Eleventh Hour</span>?",
-    "a": "It feels like there should be some interaction there, but there isn't. Time travel only affects time counters, and Sagas use lore counters to track their progress, so you can't use time travel to speed up or slow down the progress of a Saga."
+    "a": "It feels like there should be some interaction there, but there isn't. Time travel only affects time counters, and Sagas use lore counters to track their progress, so you can't use time travel to speed up or slow down the progress of a Saga.<br>"
   },
   {
     "imgs": [
@@ -78,7 +78,7 @@
       "Rose Tyler"
     ],
     "q": "How does <span class=\"autocard\">Wibbly-wobbly, Timey-wimey</span> interact with <span class=\"autocard\">Doubling Season</span>?",
-    "a": "If your goal is to put more time counters onto your permanents, for example if you control <span class=\"autocard\">Rose Tyler</span>, the interaction works out well for you. Adding a time counter with time travel is indeed an effect putting a counter on a permanent you control, so Doubling Season kicks in and doubles that to two time counters. Doubling Season does nothing for removing time counters from permanents, and it does nothing for manipulating time counters on suspended cards."
+    "a": "If your goal is to put more time counters onto your permanents, for example if you control <span class=\"autocard\">Rose Tyler</span>, the interaction works out well for you. Adding a time counter with time travel is indeed an effect putting a counter on a permanent you control, so Doubling Season kicks in and doubles that to two time counters. Doubling Season does nothing for removing time counters from permanents, and it does nothing for manipulating time counters on suspended cards. <br>"
   },
   {
     "imgs": [
@@ -86,14 +86,14 @@
       "The Twelfth Doctor"
     ],
     "q": "If I control <span class=\"autocard\">Clara Oswald</span> and <span class=\"autocard\">The Twelfth Doctor</span>, does the first spell I cast from somewhere other than my hand have demonstrate twice?",
-    "a": "No. Clara only doubles the triggered abilities of a Doctor you control. The ability that gives the spell demonstrate is a static ability, not a triggered ability, so Clara does nothing with that ability. The demonstrate ability is a triggered ability, but it's an ability of the spell, not an ability of the Doctor, so Clara doesn't do anything there, either."
+    "a": "No. Clara only doubles the triggered abilities of a Doctor you control. The ability that gives the spell demonstrate is a static ability, not a triggered ability, so Clara does nothing with that ability. The demonstrate ability is a triggered ability, but it's an ability of the spell, not an ability of the Doctor, so Clara doesn't do anything there, either. <br>"
   },
   {
     "imgs": [
       "Yasmin Khan"
     ],
     "q": "If I use <span class=\"autocard\">Yasmin Khan</span>'s ability to exile the top card of my library, do I get to cast it for free and/or at a time when I couldn't normally cast it?",
-    "a": "No. Yasmin Khan's ability allows you to play the card from exile, and that's it. It doesn't give the card an alternative cost or cost reduction, so you have to pay the usual costs. Also, since there is a time frame given for the \"you may play it\" effect, it's not instructing you to play the card at an unusual time, so you have to obey all applicable timing rules to play the card."
+    "a": "No. Yasmin Khan's ability allows you to play the card from exile, and that's it. It doesn't give the card an alternative cost or cost reduction, so you have to pay the usual costs. Also, since there is a time frame given for the \"you may play it\" effect, it's not instructing you to play the card at an unusual time, so you have to obey all applicable timing rules to play the card. <br>"
   },
   {
     "imgs": [
@@ -101,7 +101,7 @@
       "Time Lord Regeneration"
     ],
     "q": "I control <span class=\"autocard\">The Thirteenth Doctor</span> while <span class=\"autocard\">Time Lord Regeneration</span> \"regenerates\" another Time Lord. Does the <i>Paradox</i> ability trigger?",
-    "a": "No, <i>Paradox</i> only triggers when you <i>cast a spell</i> from a zone that's not your hand. Time Lord Regeneration puts a card from your library onto the battlefield, so it's true that the card is coming from a zone that's not your hand, but it's not being cast."
+    "a": "No, <i>Paradox</i> only triggers when you <i>cast a spell</i> from a zone that's not your hand. Time Lord Regeneration puts a card from your library onto the battlefield, so it's true that the card is coming from a zone that's not your hand, but it's not being cast.<br>"
   },
   {
     "imgs": [
@@ -109,14 +109,14 @@
       "The Thirteenth Doctor"
     ],
     "q": "Does <span class=\"autocard\">Into the Time Vortex</span> trigger <span class=\"autocard\">The Thirteenth Doctor</span>'s <i>Paradox</i> ability?",
-    "a": "It does! With cascade, you exile cards from your library and then you cast a card from exile without paying its mana cost. Since you're casting a spell from a zone that's not your hand, the <i>Paradox</i> ability triggers."
+    "a": "It does! With cascade, you exile cards from your library and then you cast a card from exile without paying its mana cost. Since you're casting a spell from a zone that's not your hand, the <i>Paradox</i> ability triggers. <br>"
   },
   {
     "imgs": [
       "The Foretold Soldier"
     ],
     "q": "If <span class=\"autocard\">The Foretold Soldier</span> gets blocked by something that can kill it, does it still become foretold?",
-    "a": "No. The ability to exile it face-down still triggers because The Foretold Soldier is dealing damage to the blocker, but before the trigger even goes on the stack, state-based actions are checked and The Foretold Soldier gets destroyed. When the triggered ability resolves, it fails to find The Foretold Soldier on the battlefield, so the ability does nothing."
+    "a": "No. The ability to exile it face-down still triggers because The Foretold Soldier is dealing damage to the blocker, but before the trigger even goes on the stack, state-based actions are checked and The Foretold Soldier gets destroyed. When the triggered ability resolves, it fails to find The Foretold Soldier on the battlefield, so the ability does nothing.<br>"
   },
   {
     "imgs": [
@@ -124,7 +124,7 @@
       "Davros, Dalek Creator"
     ],
     "q": "What on Earth is a <span class=\"autocard\">The Valeyard</span>?",
-    "a": "Some effects simply describe themselves to be a villainous choice. For example <span class=\"autocard\">Davros, Dalek Creator</span> has a triggered ability that causes players to face a villainous choice. The Valeyard's ability notices this and causes the player to face that choice (you draw a card or they discard a card) twice."
+    "a": "Some effects simply describe themselves to be a villainous choice. For example <span class=\"autocard\">Davros, Dalek Creator</span> has a triggered ability that causes players to face a villainous choice. The Valeyard's ability notices this and causes the player to face that choice (you draw a card or they discard a card) twice. <br>"
   },
   {
     "imgs": [
@@ -132,7 +132,7 @@
       "Death in Heaven"
     ],
     "q": "Does <span class=\"autocard\">Mirror Box</span> give the Cyberman creatures from <span class=\"autocard\">Death in Heaven</span> a big power/toughness boost?",
-    "a": "Not at all. Face-down creatures don't have a name, and the Cybermen from Death in Heaven are no exception to this even though the effect that made them gave them a creature type. Creature tokens have names that are based on their creature type, but these Cybermen aren't tokens, they're face-down creatures that are represented by cards. Since they don't have a name, they can't have the same name as another creature, so Mirror Box doesn't give them a bonus."
+    "a": "Not at all. Face-down creatures don't have a name, and the Cybermen from Death in Heaven are no exception to this even though the effect that made them gave them a creature type. Creature tokens have names that are based on their creature type, but these Cybermen aren't tokens, they're face-down creatures that are represented by cards. Since they don't have a name, they can't have the same name as another creature, so Mirror Box doesn't give them a bonus.<br>"
   },
   {
     "imgs": [
@@ -140,7 +140,7 @@
       "River Song"
     ],
     "q": "How many times does <span class=\"autocard\">From the Ashes</span> trigger <span class=\"autocard\">River Song</span>'s ability if multiple lands get destroyed?",
-    "a": "Just once. Even if a player searches for multiple cards with From the Ashes, it's just one search instruction, so River Song's ability only triggers once."
+    "a": "Just once. Even if a player searches for multiple cards with From the Ashes, it's just one search instruction, so River Song's ability only triggers once. <br>"
   },
   {
     "imgs": [
@@ -148,7 +148,7 @@
       "Teferi's Protection"
     ],
     "q": "If I control <span class=\"autocard\">The War Doctor</span> and phase out all my permanents with <span class=\"autocard\">Teferi's Protection</span>, does The War Doctor still get a time counter for the other permanents that phase out at the same time as it?",
-    "a": "From my understanding of how the rules are at the time of writing this, I'd say the answer is no. It is true that The War Doctor's ability triggers for the other permanents that phase out at the same time as it, since this ability looks back in time just like a leave-the-battlefield trigger does. However, when the ability resolves, The War Doctor is phased out and it's treated by the game as though it doesn't exist, and you can't put a counter on a permanent that doesn't exist."
+    "a": "From my understanding of how the rules are at the time of writing this, I'd say the answer is no. It is true that The War Doctor's ability triggers for the other permanents that phase out at the same time as it, since this ability looks back in time just like a leave-the-battlefield trigger does. However, when the ability resolves, The War Doctor is phased out and it's treated by the game as though it doesn't exist, and you can't put a counter on a permanent that doesn't exist.<br>"
   },
   {
     "imgs": [
@@ -156,6 +156,6 @@
       "Cybermat"
     ],
     "q": "If I control <span class=\"autocard\">Isshin, Two Heavens as One</span>, does <span class=\"autocard\">Cybermat</span>'s attack trigger get doubled?",
-    "a": "No. Isshin's ability applies to triggered abilities that are triggered by a creature attacking, so it can only apply to abilities that trigger in the declare attackers step. Cybermat's ability looks like an attack trigger if you squint hard enough, but the condition \"attacks and isn't blocked\" can only be checked once blockers are declared, so it's not actually an attack trigger and Isshin's ability doesn't care about it."
+    "a": "No. Isshin's ability applies to triggered abilities that are triggered by a creature attacking, so it can only apply to abilities that trigger in the declare attackers step. Cybermat's ability looks like an attack trigger if you squint hard enough, but the condition \"attacks and isn't blocked\" can only be checked once blockers are declared, so it's not actually an attack trigger and Isshin's ability doesn't care about it.<br>"
   }
 ]

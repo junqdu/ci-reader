@@ -5,14 +5,14 @@
       "Dire Blunderbuss"
     ],
     "q": "What does it mean to craft?",
-    "a": "Craft is a new keyword ability. It's written out as \"Craft with [object with a specific characteristic] [cost]\". We can see this on the card <span class=\"autocard\">Dire Flail</span>. To craft with Dire Flail, you must pay the costs and have the \"materials\" necessary to craft. The materials are the Dire Flail (card with craft) and another artifact you control or a artifact card in your graveyard (control a permanent with the appropriate characteristic or have a card in your graveyard with the appropriate characteristic). To craft you pay the cost and exile the materials.\nAfter the costs are paid, if the craft ability resolves, you return the Dire Flail to the battlefield transformed as <span class=\"autocard\">Dire Blunderbuss</span>  (return the card with Craft with {object with characteristic} to the battlefield transformed). Crafting is restricted to sorcery speed."
+    "a": "Craft is a new keyword ability. It's written out as \"Craft with [object with a specific characteristic] [cost]\". We can see this on the card <span class=\"autocard\">Dire Flail</span>. To craft with Dire Flail, you must pay the costs and have the \"materials\" necessary to craft. The materials are the Dire Flail (card with craft) and another artifact you control or a artifact card in your graveyard (control a permanent with the appropriate characteristic or have a card in your graveyard with the appropriate characteristic). To craft you pay the cost and exile the materials.<br>\nAfter the costs are paid, if the craft ability resolves, you return the Dire Flail to the battlefield transformed as <span class=\"autocard\">Dire Blunderbuss</span>  (return the card with Craft with {object with characteristic} to the battlefield transformed). Crafting is restricted to sorcery speed.<br>"
   },
   {
     "imgs": [
       "Throne of the Grim Captain"
     ],
     "q": "When I exile creatures to pay the craft cost of <span class=\"autocard\">Throne of the Grim Captain</span>, do all four need to be in the same zone, or can they be located in a combination of both graveyard and battlefield?",
-    "a": "They can be split between both zones or all in one or the other."
+    "a": "They can be split between both zones or all in one or the other.<br>"
   },
   {
     "imgs": [
@@ -20,7 +20,7 @@
       "Shardless Agent"
     ],
     "q": "What is discover?",
-    "a": "<span class=\"autocard\">Walk with the Ancestors</span> is very similar to <span class=\"autocard\">Shardless Agent</span>. When you discover N, you reveal cards from the top of your library until you find a nonland card with mana value N or less. Then you must either cast that spell for free or you must put that card into your hand. All other cards are shuffled to the bottom of your library.\nThis has some important differences from cascade. Probably the coolest part being, if you hit a card you can't cast, you must put it into your hand instead of it getting shuffled away. Next, cascade always searches for a value based on the value of the card it triggered from, whereas discover has a value of N that changes from card to card. The last major difference is that discover can happen under a myriad of conditions, whereas cascade is always a cast trigger."
+    "a": "<span class=\"autocard\">Walk with the Ancestors</span> is very similar to <span class=\"autocard\">Shardless Agent</span>. When you discover N, you reveal cards from the top of your library until you find a nonland card with mana value N or less. Then you must either cast that spell for free or you must put that card into your hand. All other cards are shuffled to the bottom of your library.<br>\nThis has some important differences from cascade. Probably the coolest part being, if you hit a card you can't cast, you must put it into your hand instead of it getting shuffled away. Next, cascade always searches for a value based on the value of the card it triggered from, whereas discover has a value of N that changes from card to card. The last major difference is that discover can happen under a myriad of conditions, whereas cascade is always a cast trigger.<br>"
   },
   {
     "imgs": [
@@ -28,7 +28,7 @@
       "Caparocti Sunborn"
     ],
     "q": "If I discover <span class=\"autocard\">Cyclonic Rift</span> with <span class=\"autocard\">Caparocti Sunborn</span>'s triggered ability, can I overload the Rift?",
-    "a": "You can not. Discover casting a spell without paying its mana cost is an alternative cost, as is overload. You may only ever use one alternative cost when casting a spell. However, you can choose to put the Rift into your hand, and then if you have enough mana left over, can manually overload it."
+    "a": "You can not. Discover casting a spell without paying its mana cost is an alternative cost, as is overload. You may only ever use one alternative cost when casting a spell. However, you can choose to put the Rift into your hand, and then if you have enough mana left over, can manually overload it.<br>"
   },
   {
     "imgs": [
@@ -39,14 +39,14 @@
       "Terror Tide"
     ],
     "q": "Am I crazy or is descend more than one ability?",
-    "a": "Descend has five variations in this set, but all of them care about permanent cards either being in your graveyard or having gone to your graveyard this turn.\n<span class=\"autocard\">Stalactite Stalker</span> You have descended if one or more permanent cards went to your graveyard this turn.<br>\n<span class=\"autocard\">The Mycotyrant</span> Some cards care how many times you have descended. This will count how many permanent cards have been put into your graveyard this turn.<br>\n<span class=\"autocard\">Didact Echo</span> Descend 4 is met if you have four or more permanent cards in your graveyard. If descend 4 is met, the card it's on will be boosted in some way.<br>\n<span class=\"autocard\">Wail of the Forgotten</span> Descend 8 is met if you have eight or more permanent cards in your graveyard. If descend 8 is met, the card it's on will be boosted in some way.<br>\n<span class=\"autocard\">Terror Tide</span> Fathomless Descent will count the number of permanent cards in your graveyard and use that number in a way specified by the card it's on.\n<br>"
+    "a": "Descend has five variations in this set, but all of them care about permanent cards either being in your graveyard or having gone to your graveyard this turn.<br>\n<span class=\"autocard\">Stalactite Stalker</span> You have descended if one or more permanent cards went to your graveyard this turn.<br>\n<span class=\"autocard\">The Mycotyrant</span> Some cards care how many times you have descended. This will count how many permanent cards have been put into your graveyard this turn.<br>\n<span class=\"autocard\">Didact Echo</span> Descend 4 is met if you have four or more permanent cards in your graveyard. If descend 4 is met, the card it's on will be boosted in some way.<br>\n<span class=\"autocard\">Wail of the Forgotten</span> Descend 8 is met if you have eight or more permanent cards in your graveyard. If descend 8 is met, the card it's on will be boosted in some way.<br>\n<span class=\"autocard\">Terror Tide</span> Fathomless Descent will count the number of permanent cards in your graveyard and use that number in a way specified by the card it's on.<br>"
   },
   {
     "imgs": [
       "Stalactite Stalker"
     ],
     "q": "If I used a Treasure token to cast <span class=\"autocard\">Stalactite Stalker</span> will that be enough for the Stalker's beginning of end step triggered ability to trigger?",
-    "a": "It will not. You only have descended if a permanent <span style=\"text-decoration:underline;\">card</span> is put into your graveyard. Although Treasure <span style=\"text-decoration:underline;\">tokens</span> do hit the graveyard before they cease to exist, they are not cards."
+    "a": "It will not. You only have descended if a permanent <span style=\"text-decoration:underline;\">card</span> is put into your graveyard. Although Treasure <span style=\"text-decoration:underline;\">tokens</span> do hit the graveyard before they cease to exist, they are not cards.<br>"
   },
   {
     "imgs": [
@@ -54,7 +54,7 @@
       "Lightning Bolt"
     ],
     "q": "My opponent's <span class=\"autocard\">Pathfinding Axejaw</span> is about to explore for having entered the battlefield. Can I let the Dinosaur start to explore, then choose to <span class=\"autocard\">Lightning Bolt</span> it once I know the top card of the opponent's library is a nonland before it gets the +1/+1 counter?",
-    "a": "You can not. Once the trigger for explore begins to resolve, you won't get priority again until after it fully resolves. Revealing the top card and either drawing that card or putting a +1/+1 counter on the exploring creature happens in the middle of the explore trigger resolving."
+    "a": "You can not. Once the trigger for explore begins to resolve, you won't get priority again until after it fully resolves. Revealing the top card and either drawing that card or putting a +1/+1 counter on the exploring creature happens in the middle of the explore trigger resolving.<br>"
   },
   {
     "imgs": [
@@ -62,7 +62,7 @@
       "Turn to Frog"
     ],
     "q": "What's with <span class=\"autocard\">Intrepid Paleontologist</span>?",
-    "a": "Finality counters will be placed on permanents that are supposed to be difficult to reanimate multiple times. If a permanent has one or more finality counters and it goes to the graveyard from the battlefield instead it will be exiled. This is not rules text added to the card or token it's on, but is a feature of having a finality counter on it. So making a creature with a finality counter on it lose all its abilities (say with <span class=\"autocard\">Turn to Frog</span>) will not stop it from getting exiled if it dies."
+    "a": "Finality counters will be placed on permanents that are supposed to be difficult to reanimate multiple times. If a permanent has one or more finality counters and it goes to the graveyard from the battlefield instead it will be exiled. This is not rules text added to the card or token it's on, but is a feature of having a finality counter on it. So making a creature with a finality counter on it lose all its abilities (say with <span class=\"autocard\">Turn to Frog</span>) will not stop it from getting exiled if it dies. <br>"
   },
   {
     "imgs": [
@@ -70,7 +70,7 @@
       "Llanowar Loamspeaker"
     ],
     "q": "If I animate <span class=\"autocard\">Restless Anchorage</span> with <span class=\"autocard\">Llanowar Loamspeaker</span>, will the creature it becomes still create a Map token when it attacks?",
-    "a": "Yes it will! The attack trigger it has is separate from the activated ability that animates it into a creature and will trigger whenever the land attacks, even if animated by a different ability."
+    "a": "Yes it will! The attack trigger it has is separate from the activated ability that animates it into a creature and will trigger whenever the land attacks, even if animated by a different ability.<br>"
   },
   {
     "imgs": [
@@ -81,7 +81,7 @@
       "Nezumi Graverobber"
     ],
     "q": "If I use <span class=\"autocard\">Abuelo, Ancestral Echo</span> to \"blink\" my <span class=\"autocard\">Mastercraft Raptor</span>, will it return as a Dinosaur or its front face?",
-    "a": "It will return as its front face. If a card leaves the battlefield and then returns to the battlefield, by default it will return untapped, <span class=\"autocard\">Delver of Secrets</span>, <span class=\"autocard\">Akroma, Angel of Fury</span>, and <span class=\"autocard\">Nezumi Graverobber</span>."
+    "a": "It will return as its front face. If a card leaves the battlefield and then returns to the battlefield, by default it will return untapped, <span class=\"autocard\">Delver of Secrets</span>, <span class=\"autocard\">Akroma, Angel of Fury</span>, and <span class=\"autocard\">Nezumi Graverobber</span>.<br>"
   },
   {
     "imgs": [
@@ -89,14 +89,14 @@
       "Smuggler's Copter"
     ],
     "q": "If I cast <span class=\"autocard\">Abuelo's Awakening</span> with X equal to zero, targeting <span class=\"autocard\">Smuggler's Copter</span>, then later crew the copter, what's its power and toughness?",
-    "a": "It will be a 1/1. The Awakening redefines the power and toughness of the Vehicle as 1/1. Crewing it in this case doesn't reset its power and toughness to 3/3."
+    "a": "It will be a 1/1. The Awakening redefines the power and toughness of the Vehicle as 1/1. Crewing it in this case doesn't reset its power and toughness to 3/3. <br>"
   },
   {
     "imgs": [
       "Bonehoard Dracosaur"
     ],
     "q": "If I reveal two lands with <span class=\"autocard\">Bonehoard Dracosaur</span>'s trigger do I create two Dinosaur tokens or only one?",
-    "a": "You get only one. For it to make two, it would need to say something like \"For each land exiled this way, create a 3/1 red Dinosaur creature token.\""
+    "a": "You get only one. For it to make two, it would need to say something like \"For each land exiled this way, create a 3/1 red Dinosaur creature token.\"<br>"
   },
   {
     "imgs": [
@@ -107,7 +107,7 @@
       "Counterspell"
     ],
     "q": "My opponent controls <span class=\"autocard\">Lodestone Golem</span>. I activate <span class=\"autocard\">Quintorius Kand</span>'s -3 loyalty ability to discover 4. The card I discover is <span class=\"autocard\">Plundering Pirate</span>. I know I still have to pay the additional <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\"> from Lodestone to cast the Pirate for free, but if I pay that <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\"> with a colored mana from my <span class=\"autocard\">Cavern of Souls</span> that has Pirates chosen for it, is the Plundering Pirate able to be <span class=\"autocard\">Counterspell</span>ed or not?",
-    "a": "It can't be countered. Additional costs are part of the spell being cast, even if those are additional costs are imposed by other sources."
+    "a": "It can't be countered. Additional costs are part of the spell being cast, even if those are additional costs are imposed by other sources.<br>"
   },
   {
     "imgs": [
@@ -115,7 +115,7 @@
       "Avian Changeling"
     ],
     "q": "Can I craft <span class=\"autocard\">Throne of the Grim Captain</span> with a single <span class=\"autocard\">Avian Changeling</span> creature?",
-    "a": "You can't. The crafting \"materials\" require four different cards. A changeling can be any of the four creature types you want, but not all of four them."
+    "a": "You can't. The crafting \"materials\" require four different cards. A changeling can be any of the four creature types you want, but not all of four them.<br>"
   },
   {
     "imgs": [
@@ -123,7 +123,7 @@
       "Crib Swap"
     ],
     "q": "I noticed <span class=\"autocard\">Throne of the Grim Captain</span> doesn't require creatures as part of its crafting cost. Can I use a <span class=\"autocard\">Crib Swap</span> to help pay the crafting cost?",
-    "a": "You can use a <span class=\"autocard\">Crib Swap</span> in your graveyard to help pay the Throne's crafting cost."
+    "a": "You can use a <span class=\"autocard\">Crib Swap</span> in your graveyard to help pay the Throne's crafting cost.<br>"
   },
   {
     "imgs": [
@@ -131,7 +131,7 @@
       "Tibalt, Cosmic Impostor"
     ],
     "q": "Can I \"discover 4\" into <span class=\"autocard\">Valki, God of Lies</span> and cast its back face <span class=\"autocard\">Tibalt, Cosmic Impostor</span>?",
-    "a": "You can not. Discover N \"digs\" for a card with Mana Value N or less, and then only casts a card with Mana Value N or less. So it checks twice, once when you find the card and it checks again when you try to cast it for free."
+    "a": "You can not. Discover N \"digs\" for a card with Mana Value N or less, and then only casts a card with Mana Value N or less. So it checks twice, once when you find the card and it checks again when you try to cast it for free.<br>"
   },
   {
     "imgs": [
@@ -139,7 +139,7 @@
       "Glowcap Lantern"
     ],
     "q": "During my opponent's turn my <span class=\"autocard\">Bear Cub</span> which is carrying <span class=\"autocard\">Glowcap Lantern</span> dies in combat. Can I still look at the top card of my library?",
-    "a": "You can't. Glowcap doesn't give you the ability to look at the top card of your library, instead it grants that ability to the creature it's equipped to. If its not equipped, then you can't be a looky-loo."
+    "a": "You can't. Glowcap doesn't give you the ability to look at the top card of your library, instead it grants that ability to the creature it's equipped to. If its not equipped, then you can't be a looky-loo.<br>"
   },
   {
     "imgs": [
@@ -147,7 +147,7 @@
       "Basilisk Collar"
     ],
     "q": "I'm attacking with a <span class=\"autocard\">Bloodletter of Aclazotz</span> which is wearing a <span class=\"autocard\">Basilisk Collar</span>. Will I gain 2 life or 4 life since the life loss is doubled?",
-    "a": "You will gain only 2 life. Damage dealt to players, if not prevented, turns into life loss. Lifelink is based on how much damage is dealt, not how much life is lost.\nThis is also true with commander damage. If you double the life loss from a commander, that doesn't double the amount of commander damage that player has taken."
+    "a": "You will gain only 2 life. Damage dealt to players, if not prevented, turns into life loss. Lifelink is based on how much damage is dealt, not how much life is lost.<br>\nThis is also true with commander damage. If you double the life loss from a commander, that doesn't double the amount of commander damage that player has taken.<br>"
   },
   {
     "imgs": [
@@ -156,7 +156,7 @@
       "Merfolk Cave-Diver"
     ],
     "q": "I cast <span class=\"autocard\">Cenote Scout</span>, but before its triggered ability resolves my opponent <span class=\"autocard\">Murder</span>s it. Will my <span class=\"autocard\">Merfolk Cave-Diver</span>'s ability still trigger even though the exploring creature died before its ability resolved?",
-    "a": "The Cave-Diver's ability will still trigger! Cenote Scout's ability still resolves even though it is in the graveyard when it does. Cenote Scout is still considered to have \"explored\" this turn, even though it's in the graveyard. It can't gain the +1/+1 while in the graveyard, but the rest of the ability can resolve normally."
+    "a": "The Cave-Diver's ability will still trigger! Cenote Scout's ability still resolves even though it is in the graveyard when it does. Cenote Scout is still considered to have \"explored\" this turn, even though it's in the graveyard. It can't gain the +1/+1 while in the graveyard, but the rest of the ability can resolve normally.<br>"
   },
   {
     "imgs": [
@@ -164,6 +164,6 @@
       "Disallow"
     ],
     "q": "My opponent just got their <span class=\"autocard\">The Millennium Calendar</span> to over 1,000 counters because they untapped enough permanents as their turn began and placed its 1,000 counters triggered ability on the stack. If I <span class=\"autocard\">Disallow</span> that trigger, do I buy myself a turn or will I no longer have to deal with the Calendar as it will get sacrificed?",
-    "a": "So I have some bad news. You will counter the state trigger the Calendar has, and since sacrificing the Calendar is part of that trigger, it will not get sacrificed. Worse yet, because this is a state trigger, once the ability gets countered, it will immediately trigger again. So you more or less discarded a card and wasted some mana and still lose 1,000 life."
+    "a": "So I have some bad news. You will counter the state trigger the Calendar has, and since sacrificing the Calendar is part of that trigger, it will not get sacrificed. Worse yet, because this is a state trigger, once the ability gets countered, it will immediately trigger again. So you more or less discarded a card and wasted some mana and still lose 1,000 life.<br>"
   }
 ]

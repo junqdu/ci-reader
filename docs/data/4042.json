@@ -5,21 +5,21 @@
       "Sauron, the Lidless Eye"
     ],
     "q": "I control <span class=\"autocard\">Bilbo, Retired Burglar</span>, who is also my Ring-bearer. If my opponent gains control of my Ring-bearer with <span class=\"autocard\">Sauron, the Lidless Eye</span>'s triggered ability, is it still a Ring-bearer while under their control?",
-    "a": "No, you losing control of the creature means it stops being your Ring-bearer. A creature remains a Ring-bearer for as long as you control it or until you choose a new Ring-bearer. When your opponent gained control of Bilbo, since you lost control of Bilbo, it's no longer your Ring-bearer, so Bilbo won't have any abilities from your Ring emblem since he's no longer your Ring-bearer."
+    "a": "No, you losing control of the creature means it stops being your Ring-bearer. A creature remains a Ring-bearer for as long as you control it or until you choose a new Ring-bearer. When your opponent gained control of Bilbo, since you lost control of Bilbo, it's no longer your Ring-bearer, so Bilbo won't have any abilities from your Ring emblem since he's no longer your Ring-bearer.<br>"
   },
   {
     "imgs": [
       "Éomer of the Riddermark"
     ],
     "q": "I control <span class=\"autocard\">Éomer of the Riddermark</span>, but my opponent also has a 5/5 creature in play. If I attack with Éomer, will I get its attack trigger?",
-    "a": "Yes you will. You need to control a creature with the greatest power among creatures on the battlefield for Éomer to trigger. It doesn't need to be the sole highest-powered creature. The highest power among creatures in play is 5, and Éomer has that power, so you'll get its attack trigger, even if another player also controls a creature with a power of 5."
+    "a": "Yes you will. You need to control a creature with the greatest power among creatures on the battlefield for Éomer to trigger. It doesn't need to be the sole highest-powered creature. The highest power among creatures in play is 5, and Éomer has that power, so you'll get its attack trigger, even if another player also controls a creature with a power of 5.<br>"
   },
   {
     "imgs": [
       "Frodo Baggins"
     ],
     "q": "I control <span class=\"autocard\">Frodo Baggins</span>, who is also my Ring-bearer. I attack with Frodo, but my opponent only controls creatures with power 2 or greater. Can one of them still block Frodo?",
-    "a": "They won't be able to block Frodo. The first ability of The Ring says that your Ring-bearer can't be blocked by creatures with greater power. When declaring blockers, we have to fulfill as many requirements as possible, but we can't violate any restrictions. Frodo has to be blocked if able, which is a requirement, but Frodo also can't be blocked by creatures with greater power, which is a restriction. Since your opponent doesn't have any creatures with power 1 or less in play, they can't block Frodo at all, since they're not allowed to violate a restriction."
+    "a": "They won't be able to block Frodo. The first ability of The Ring says that your Ring-bearer can't be blocked by creatures with greater power. When declaring blockers, we have to fulfill as many requirements as possible, but we can't violate any restrictions. Frodo has to be blocked if able, which is a requirement, but Frodo also can't be blocked by creatures with greater power, which is a restriction. Since your opponent doesn't have any creatures with power 1 or less in play, they can't block Frodo at all, since they're not allowed to violate a restriction.<br>"
   },
   {
     "imgs": [
@@ -27,14 +27,14 @@
       "Claim the Precious"
     ],
     "q": "I control <span class=\"autocard\">Faramir, Prince of Ithilien</span>, and I choose my opponent with his end step trigger. During my opponent's next turn, they destroy Faramir with <span class=\"autocard\">Claim the Precious</span>. If my opponent doesn't attack, will I still draw a card?",
-    "a": "Yes, you'll still draw a card from Faramir's delayed trigger, even if it's not on the battlefield anymore. The delayed trigger was set up by the end step trigger resolving on your turn. Even if they kill Faramir on their turn, the delayed trigger will still trigger at the end of your opponent's turn. If your opponent didn't attack you, you'll draw a card."
+    "a": "Yes, you'll still draw a card from Faramir's delayed trigger, even if it's not on the battlefield anymore. The delayed trigger was set up by the end step trigger resolving on your turn. Even if they kill Faramir on their turn, the delayed trigger will still trigger at the end of your opponent's turn. If your opponent didn't attack you, you'll draw a card.<br>"
   },
   {
     "imgs": [
       "Barad-dûr"
     ],
     "q": "Can I activate the last ability of <span class=\"autocard\">Barad-dûr</span> with X=0?",
-    "a": "Sure, you can do that. Barad-dûr doesn't say that X can't be zero, so you could choose to amass Orcs 0. If you control an Army, then not much will happen when the ability resolves - you don't put any counters on that Army. But if you don't control an Army, then you'll make a 0/0 Orc Army token, not put any counters on it, and then the token will die. This might be handy if you have dies triggers that you want to trigger."
+    "a": "Sure, you can do that. Barad-dûr doesn't say that X can't be zero, so you could choose to amass Orcs 0. If you control an Army, then not much will happen when the ability resolves - you don't put any counters on that Army. But if you don't control an Army, then you'll make a 0/0 Orc Army token, not put any counters on it, and then the token will die. This might be handy if you have dies triggers that you want to trigger.<br>"
   },
   {
     "imgs": [
@@ -43,7 +43,7 @@
       "Willow-Wind"
     ],
     "q": "I attack with <span class=\"autocard\">Ithilien Kingfisher</span> equipped with <span class=\"autocard\">Barrow-Blade</span>. My opponent blocks with <span class=\"autocard\">Willow-Wind</span>. Since the Blade causes Willow-Wind to lose its abilities, does that mean my Kingfisher is no longer blocked since Willow-Wind no longer has flying?",
-    "a": "No, your Kingfisher is still blocked. Once a creature is blocked, it remains blocked for the rest of combat, even if it loses the ability that let it block the attacking creature. While Barrow-Blade will remove flying from Willow-Wind, it's still blocking your attacking Kingfisher, and they'll deal damage to each other like normal."
+    "a": "No, your Kingfisher is still blocked. Once a creature is blocked, it remains blocked for the rest of combat, even if it loses the ability that let it block the attacking creature. While Barrow-Blade will remove flying from Willow-Wind, it's still blocking your attacking Kingfisher, and they'll deal damage to each other like normal.<br>"
   },
   {
     "imgs": [
@@ -51,14 +51,14 @@
       "Old Man Willow"
     ],
     "q": "I attack with a creature equipped with <span class=\"autocard\">Barrow-Blade</span>, and my opponent blocks with <span class=\"autocard\">Old Man Willow</span>. What happens?",
-    "a": "When the Blade's trigger resolves, Old Man Willow loses all of its abilities. That includes the ability that sets its power and toughness before it can apply. Barring anything else pumping its toughness (like a +1/+1 counter), Old Man Willow would become a 0/0 creature and would die once the Blade's trigger has resolved."
+    "a": "When the Blade's trigger resolves, Old Man Willow loses all of its abilities. That includes the ability that sets its power and toughness before it can apply. Barring anything else pumping its toughness (like a +1/+1 counter), Old Man Willow would become a 0/0 creature and would die once the Blade's trigger has resolved.<br>"
   },
   {
     "imgs": [
       "Fear, Fire, Foes!"
     ],
     "q": "My opponent controls a 4/4 creature and five 1/1s. Can I cast <span class=\"autocard\">Fear, Fire, Foes!</span> with X=0 targeting the 4/4 if I wanted to kill the five 1/1 tokens?",
-    "a": "Yes, you can do that. You can choose for X to be zero. When Fear, Fire, Foes resolves, you'll deal 0 damage to the targeted creature, but their other creatures will take 1 damage from the spell."
+    "a": "Yes, you can do that. You can choose for X to be zero. When Fear, Fire, Foes resolves, you'll deal 0 damage to the targeted creature, but their other creatures will take 1 damage from the spell.<br>"
   },
   {
     "imgs": [
@@ -66,28 +66,28 @@
       "Entish Restoration"
     ],
     "q": "I control <span class=\"autocard\">Dúnedain Rangers</span> and I don't currently have a Ring-bearer. If I cast <span class=\"autocard\">Entish Restoration</span> and search for three lands, will I be tempted three times?",
-    "a": "While you'll get three triggers, unless you have some sacrifice outlet, you'll only be tempted one time. The Rangers have an intervening if trigger - it triggers if you don't control a Ring-bearer when the land enters, and it checks again when it goes to resolve to make sure you still don't have a Ring-bearer. If you control a Ring-bearer when the trigger goes to resolve, you will not be tempted. The first trigger to resolve will work normally. But unless you sacrifice or get rid of your Ring-bearer before the other triggers resolve, those triggers won't do anything since you have a Ring-bearer now."
+    "a": "While you'll get three triggers, unless you have some sacrifice outlet, you'll only be tempted one time. The Rangers have an intervening if trigger - it triggers if you don't control a Ring-bearer when the land enters, and it checks again when it goes to resolve to make sure you still don't have a Ring-bearer. If you control a Ring-bearer when the trigger goes to resolve, you will not be tempted. The first trigger to resolve will work normally. But unless you sacrifice or get rid of your Ring-bearer before the other triggers resolve, those triggers won't do anything since you have a Ring-bearer now.<br>"
   },
   {
     "imgs": [
       "Gollum, Patient Plotter"
     ],
     "q": "Can I activate <span class=\"autocard\">Gollum, Patient Plotter</span>'s ability if it's on the battlefield?",
-    "a": "No, the only zone you can activate it from is the graveyard. Since Gollum's ability mentions moving Gollum out of the graveyard to your hand, the ability can only be activated if Gollum is in the graveyard. It can't be activated if Gollum is on the battlefield."
+    "a": "No, the only zone you can activate it from is the graveyard. Since Gollum's ability mentions moving Gollum out of the graveyard to your hand, the ability can only be activated if Gollum is in the graveyard. It can't be activated if Gollum is on the battlefield.<br>"
   },
   {
     "imgs": [
       "Fangorn, Tree Shepherd"
     ],
     "q": "<span class=\"autocard\">Fangorn, Tree Shepherd</span> says I don't lose green mana as steps and phases end, but will that mana carry over to another turn?",
-    "a": "Yes, the mana will carry over between turns. Your mana pool empties at the end of each step and phase, but your mana pool doesn't empty because the turn ends (it would be emptied during the cleanup step of the turn). So yes, the stored green mana will carry over to another turn."
+    "a": "Yes, the mana will carry over between turns. Your mana pool empties at the end of each step and phase, but your mana pool doesn't empty because the turn ends (it would be emptied during the cleanup step of the turn). So yes, the stored green mana will carry over to another turn.<br>"
   },
   {
     "imgs": [
       "King of the Oathbreakers"
     ],
     "q": "I have a <span class=\"autocard\">King of the Oathbreakers</span> that's phased out due to its trigger. When it phases back in, does that trigger go on the stack in my untap step or upkeep?",
-    "a": "It goes on the stack during your upkeep. If something triggers during your untap step, that trigger won't go on the stack until the upkeep because players don't get priority during the untap step. So you'll be getting your Spirit token during your upkeep step, not the untap step."
+    "a": "It goes on the stack during your upkeep. If something triggers during your untap step, that trigger won't go on the stack until the upkeep because players don't get priority during the untap step. So you'll be getting your Spirit token during your upkeep step, not the untap step.<br>"
   },
   {
     "imgs": [
@@ -95,7 +95,7 @@
       "Horobi, Death's Wail"
     ],
     "q": "I control <span class=\"autocard\">King of the Oathbreakers</span> and a <span class=\"autocard\">Horobi, Death's Wail</span>. If one of my opponents targets a Spirit I control, what happens?",
-    "a": "You'll choose if your Spirit is phased out or if it's destroyed. Both the King and Horobi will trigger when your Spirit is targeted. You control both of those triggers, so you'll choose the order they're put on the stack. If you put the King's trigger on the stack last, it will resolve first and your Spirit will phase out. Horobi's trigger would do nothing when it resolves since your creature is phased out. Stacking the triggers the other way would mean your Spirit is destroyed by Horobi's trigger, and then the King's trigger will do nothing since it's not on the battlefield anymore."
+    "a": "You'll choose if your Spirit is phased out or if it's destroyed. Both the King and Horobi will trigger when your Spirit is targeted. You control both of those triggers, so you'll choose the order they're put on the stack. If you put the King's trigger on the stack last, it will resolve first and your Spirit will phase out. Horobi's trigger would do nothing when it resolves since your creature is phased out. Stacking the triggers the other way would mean your Spirit is destroyed by Horobi's trigger, and then the King's trigger will do nothing since it's not on the battlefield anymore.<br>"
   },
   {
     "imgs": [
@@ -103,7 +103,7 @@
       "Chatterfang, Squirrel General"
     ],
     "q": "If I have <span class=\"autocard\">Peregrin Took</span> and <span class=\"autocard\">Chatterfang, Squirrel General</span>, will creating a token means that I get infinite Peregrin and infinite Chatterfang triggers?",
-    "a": "No, because there are no triggers here. Both Peregrin and Chatterfang have replacement effects, not triggered abilities. Each one can only apply to the token-creation event once. They're not triggered abilities, so they don't \"trigger\" off of each other. \nAssuming you want the most tokens, you want to apply Peregrin first - Peregrin will add one Food token to the total number of tokens created, but Chatterfang makes a Squirrel for each token you would create. For example, if you would create one Treasure token, you could apply Peregrin first, then Chatterfang, and ultimately create one Treasure, one Food, and two Squirrel tokens. If you applied Chatterfang first, you'd end up with one fewer Squirrel, because Peregrin only adds one Food to the total number of tokens being created, while Chatterfang adds a Squirrel for each token that would be created."
+    "a": "No, because there are no triggers here. Both Peregrin and Chatterfang have replacement effects, not triggered abilities. Each one can only apply to the token-creation event once. They're not triggered abilities, so they don't \"trigger\" off of each other. <br>\nAssuming you want the most tokens, you want to apply Peregrin first - Peregrin will add one Food token to the total number of tokens created, but Chatterfang makes a Squirrel for each token you would create. For example, if you would create one Treasure token, you could apply Peregrin first, then Chatterfang, and ultimately create one Treasure, one Food, and two Squirrel tokens. If you applied Chatterfang first, you'd end up with one fewer Squirrel, because Peregrin only adds one Food to the total number of tokens being created, while Chatterfang adds a Squirrel for each token that would be created.<br>"
   },
   {
     "imgs": [
@@ -111,7 +111,7 @@
       "Swarming of Moria"
     ],
     "q": "I control <span class=\"autocard\">Jinnie Fay, Jetmir's Second</span>. I cast <span class=\"autocard\">Swarming of Moria</span>, and instead of creating an Orc Army token, I create a Cat token instead. Does that Cat token get two +1/+1 counters?",
-    "a": "No, it won't get any counters. When you're told to amass Orcs 2, since you don't control an Army, you first create an Orc Army token, then you choose an Army you control to put the counters on. But you don't control any Armies at this point - the Army you would have created has been replaced by a Cat token. Since you don't have an Army, you won't be able put the counters on anything. While the Cat token was created by the amass instruction, it's not an Army, so you can't choose to put the counters on it."
+    "a": "No, it won't get any counters. When you're told to amass Orcs 2, since you don't control an Army, you first create an Orc Army token, then you choose an Army you control to put the counters on. But you don't control any Armies at this point - the Army you would have created has been replaced by a Cat token. Since you don't have an Army, you won't be able put the counters on anything. While the Cat token was created by the amass instruction, it's not an Army, so you can't choose to put the counters on it.<br>"
   },
   {
     "imgs": [
@@ -119,7 +119,7 @@
       "Tom Bombadil"
     ],
     "q": "I'm resolving the final chapter trigger of <span class=\"autocard\">Ascent of the Worthy</span>, returning <span class=\"autocard\">Tom Bombadil</span> to the battlefield. Will Tom return in time to have his final ability trigger from the Ascent's trigger resolving?",
-    "a": "Yes, you'll get Tom's trigger. Tom returns in the middle of the Ascent's ability resolving. Once the final Saga trigger has finished resolving, Tom is in play, so his last ability will trigger and you'll be able to replace the Ascent with another Saga."
+    "a": "Yes, you'll get Tom's trigger. Tom returns in the middle of the Ascent's ability resolving. Once the final Saga trigger has finished resolving, Tom is in play, so his last ability will trigger and you'll be able to replace the Ascent with another Saga.<br>"
   },
   {
     "imgs": [
@@ -127,7 +127,7 @@
       "Forge Anew"
     ],
     "q": "I control two 2/2s, one which is equipped with <span class=\"autocard\">Kaldra Compleat</span>. I also have a <span class=\"autocard\">Forge Anew</span> in play. Can I attack with both creatures and move the equipment to my other 2/2 after first strike damage is dealt so they both deal extra damage because of Kaldra Compleat?",
-    "a": "Yep, you can deal 14 damage this way. What you want to do is move to the first strike combat damage step, letting the equipped 2/2 deal its damage, then use the ability of Forge Anew to move Kaldra Compleat from the first 2/2 to the second 2/2. You can do this since the middle ability of Forge Anew let you activate equip abilities on your turn any time you have priority, including in the middle of combat. And the second 2/2 gaining first strike after first strike damage was dealt won't matter - it didn't have first or double strike as the first strike combat damage step began, so it will deal damage during the normal combat damage step. Both tokens will end up benefiting from Kaldra Compleat this way, and both will deal 7 damage in combat."
+    "a": "Yep, you can deal 14 damage this way. What you want to do is move to the first strike combat damage step, letting the equipped 2/2 deal its damage, then use the ability of Forge Anew to move Kaldra Compleat from the first 2/2 to the second 2/2. You can do this since the middle ability of Forge Anew let you activate equip abilities on your turn any time you have priority, including in the middle of combat. And the second 2/2 gaining first strike after first strike damage was dealt won't matter - it didn't have first or double strike as the first strike combat damage step began, so it will deal damage during the normal combat damage step. Both tokens will end up benefiting from Kaldra Compleat this way, and both will deal 7 damage in combat.<br>"
   },
   {
     "imgs": [
@@ -135,7 +135,7 @@
       "Wheel of Fortune"
     ],
     "q": "I have <span class=\"autocard\">Phial of Galadriel</span> in play, and my opponent just cast <span class=\"autocard\">Wheel of Fortune</span>. How many cards will I end up drawing, 8 cards or 14 cards?",
-    "a": "You'll draw 8 cards. We draw cards one at a time, not all at the same time. So you would draw your first card, but since your hand is empty, the Phial will replace that draw with drawing two cards instead. Now we try to draw the second card from the Wheel's effect. But your hand isn't empty anymore - you have two cards in your hand, so the Phial won't do anything to that draw or any of the other draws you would make from the Wheel. You'll end up with 8 cards in hand once the Wheel is done resolving."
+    "a": "You'll draw 8 cards. We draw cards one at a time, not all at the same time. So you would draw your first card, but since your hand is empty, the Phial will replace that draw with drawing two cards instead. Now we try to draw the second card from the Wheel's effect. But your hand isn't empty anymore - you have two cards in your hand, so the Phial won't do anything to that draw or any of the other draws you would make from the Wheel. You'll end up with 8 cards in hand once the Wheel is done resolving.<br>"
   },
   {
     "imgs": [
@@ -143,13 +143,13 @@
       "Elvish Piper"
     ],
     "q": "One of my opponents just cast <span class=\"autocard\">Trap the Trespassers</span>. Can I wait to see what the result of the vote is before deciding if I want to activate my <span class=\"autocard\">Elvish Piper</span>'s ability? If it's not going to be tapped, I'd rather not use the ability.",
-    "a": "No, that won't work. You don't get priority in the middle of Trap the Trespassers resolving to do anything. You're free to activate the Piper's ability before the Trap resolves and before any of the voting takes place, but you can't wait for the Trap to begin resolving, see the outcome of the vote, and then try to tap the Piper \"before\" it becomes tapped if someone voted for it."
+    "a": "No, that won't work. You don't get priority in the middle of Trap the Trespassers resolving to do anything. You're free to activate the Piper's ability before the Trap resolves and before any of the voting takes place, but you can't wait for the Trap to begin resolving, see the outcome of the vote, and then try to tap the Piper \"before\" it becomes tapped if someone voted for it.<br>"
   },
   {
     "imgs": [
       "The One Ring"
     ],
     "q": "I'm in a game of Two-Headed Giant, and my teammate cast <span class=\"autocard\">The One Ring</span> on our last turn. But my opponents say they can just attack and damage me. Is that right?",
-    "a": "Yep, The One Ring isn't quite as effective in Two-Headed Giant. Your teammate has protection from everything until your next turn, but that protection doesn't extend to you, their teammate. The opposing team can choose for their creatures to attack you with their creatures and not your teammate. You still block as a team, so your teammate's creatures can block as well, but the unblocked attackers will deal damage to you, and your team's life total will decrease like normal since you don't have protection."
+    "a": "Yep, The One Ring isn't quite as effective in Two-Headed Giant. Your teammate has protection from everything until your next turn, but that protection doesn't extend to you, their teammate. The opposing team can choose for their creatures to attack you with their creatures and not your teammate. You still block as a team, so your teammate's creatures can block as well, but the unblocked attackers will deal damage to you, and your team's life total will decrease like normal since you don't have protection.<br>"
   }
 ]

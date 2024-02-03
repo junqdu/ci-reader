@@ -6,7 +6,7 @@
       "Twiddle"
     ],
     "q": "I just equipped my <span class=\"autocard\">Glorybringer</span> with <span class=\"autocard\">Sword of Vengeance</span>. So long as the Dragon doesn't die, can I exert it each turn?",
-    "a": "You can! Exerting a creature doesn't tap it, the attacking is what usually taps the creature. Since the Dragon has vigilance, attacking does not cause it to tap. This allows it to exert each turn, while still being able to attack each turn. However, if the Dragon got tapped for some other reason (such at <span class=\"autocard\">Twiddle</span>) then you would have to wait for it to untap before it could attack and exert again."
+    "a": "You can! Exerting a creature doesn't tap it, the attacking is what usually taps the creature. Since the Dragon has vigilance, attacking does not cause it to tap. This allows it to exert each turn, while still being able to attack each turn. However, if the Dragon got tapped for some other reason (such at <span class=\"autocard\">Twiddle</span>) then you would have to wait for it to untap before it could attack and exert again. <br>"
   },
   {
     "imgs": [
@@ -14,7 +14,7 @@
       "Ashnod's Altar"
     ],
     "q": "If <span class=\"autocard\">Samwise the Stouthearted</span> enters the battlefield, can I sacrifice him to <span class=\"autocard\">Ashnod's Altar</span> in time for his trigger to return himself to my hand?",
-    "a": "You can not. Once Samwise enters the battlefield, before any player gets priority, triggers are put on the stack and targets for those triggers are chosen as part of them being put on the stack. You don't have priority to sacrifice him to Altar until after you have already chosen his enter the battlefield trigger's target."
+    "a": "You can not. Once Samwise enters the battlefield, before any player gets priority, triggers are put on the stack and targets for those triggers are chosen as part of them being put on the stack. You don't have priority to sacrifice him to Altar until after you have already chosen his enter the battlefield trigger's target.<br>"
   },
   {
     "imgs": [
@@ -22,7 +22,7 @@
       "Chomping Kavu"
     ],
     "q": "In a Two-Headed Giant game, I control <span class=\"autocard\">Horobi, Death's Wail</span> and my partner wants to cast <span class=\"autocard\">Chomping Kavu</span>. Can the Chomping Kavu's backup ability be used to kill an opponent's creature?",
-    "a": "Yes, it can. Backup is not limited to \"helping\" your own creatures. It just so happens that Horobi turns that helping targeting ability into a destructive targeting ability."
+    "a": "Yes, it can. Backup is not limited to \"helping\" your own creatures. It just so happens that Horobi turns that helping targeting ability into a destructive targeting ability.<br>"
   },
   {
     "imgs": [
@@ -30,7 +30,7 @@
       "See Double"
     ],
     "q": "My opponent cast <span class=\"autocard\">Vraska, Betrayal's Sting</span> paying the 2 life for the Phyrexian hybrid mana symbol. While Vraska is still on the stack I copied it using <span class=\"autocard\">See Double</span>. Will my Vraska enter the battlefield with 4 or 6 loyalty?",
-    "a": "Your Vraska will enter with 6 loyalty, even though it was a copy of a Vraska that will enter with only 4 loyalty.\nThe full text for compleated can be found here:\n702.150a Compleated is a static ability found on some planeswalker cards. Compleated means \"If this permanent would enter the battlefield with one or more loyalty counters on it and the player who cast it chose to pay life for any part of its cost represented by Phyrexian mana symbols, it instead enters the battlefield with that many loyalty counters minus two for each of those mana symbols.\"\nYou did not choose to pay 2 life as part of casting Vraska, in fact you paid no mana at all for Vraska as she was just a copy of a spell."
+    "a": "Your Vraska will enter with 6 loyalty, even though it was a copy of a Vraska that will enter with only 4 loyalty.<br>\nThe full text for compleated can be found here:<br>\n702.150a Compleated is a static ability found on some planeswalker cards. Compleated means \"If this permanent would enter the battlefield with one or more loyalty counters on it and the player who cast it chose to pay life for any part of its cost represented by Phyrexian mana symbols, it instead enters the battlefield with that many loyalty counters minus two for each of those mana symbols.\"<br>\nYou did not choose to pay 2 life as part of casting Vraska, in fact you paid no mana at all for Vraska as she was just a copy of a spell.<br>"
   },
   {
     "imgs": [
@@ -38,7 +38,7 @@
       "March of Souls"
     ],
     "q": "In a four-player Commander game, each player (including me) controls two creatures and one opponent controls <span class=\"autocard\">Dictate of Erebos</span>. If I cast <span class=\"autocard\">March of Souls</span>, how many Spirits will each player have when the turn ends?",
-    "a": "The opponent who controls Dictate will have two Spirit tokens, and every one else will have no Spirits.\nMarch of Souls destroys all creatures and creates the Spirit tokens as part of resolving. Then each player other than the Dictate player will have to sacrifice two creatures. This will leave the Dictate player as the only player with surviving tokens.\n<br>"
+    "a": "The opponent who controls Dictate will have two Spirit tokens, and every one else will have no Spirits.<br>\nMarch of Souls destroys all creatures and creates the Spirit tokens as part of resolving. Then each player other than the Dictate player will have to sacrifice two creatures. This will leave the Dictate player as the only player with surviving tokens.<br>"
   },
   {
     "imgs": [
@@ -46,21 +46,21 @@
       "Threaten"
     ],
     "q": "My opponent controls <span class=\"autocard\">Frodo Baggins</span> and Frodo is currently their Ring-bearer. If I temporarily steal Frodo using <span class=\"autocard\">Threaten</span>, is Frodo still a Ring-bearer on my side? Is Frodo a Ring-bearer for my opponent when he returns to their control?",
-    "a": "Frodo stops being a Ring-bearer as you gain control of him and will not regain that status upon returning to the opponent's control.\nThe following rule helps clarify this:\n701.52a Certain spells and abilities have the text \"the Ring tempts you.\" Each time the Ring tempts you, choose a creature you control. That creature becomes your Ring-bearer until another creature becomes your Ring-bearer or another player gains control of it.\nSo a Ring-bearer loses its status as soon an another player gains control of it. Frodo can become the Ring-bearer again if his controller becomes tempted by the Ring again.\n<br>"
+    "a": "Frodo stops being a Ring-bearer as you gain control of him and will not regain that status upon returning to the opponent's control.<br>\nThe following rule helps clarify this:<br>\n701.52a Certain spells and abilities have the text \"the Ring tempts you.\" Each time the Ring tempts you, choose a creature you control. That creature becomes your Ring-bearer until another creature becomes your Ring-bearer or another player gains control of it.<br>\nSo a Ring-bearer loses its status as soon an another player gains control of it. Frodo can become the Ring-bearer again if his controller becomes tempted by the Ring again.<br>"
   },
   {
     "imgs": [
       "Rivendell"
     ],
     "q": "During a Competitive Sealed event, I activate <span class=\"autocard\">Rivendell</span> at the end of my opponents turn to scry 2. I choose to leave both cards on top. It then becomes my turn and I draw a card. I then notice I could not have activated Rivendell last turn as I control no legendary creatures, so I call a judge. What should happen next?",
-    "a": "The judge has three main options. 1) investigate for cheating. As you called this on yourself, it seems unlikely to go too deep down this path; 2) back up to just before the point of the mistake, undoing any actions taken; 3) leave the game state as is, as backing up might be too disruptive.\nPersonally, I feel not a lot has happened, so I would back up to before the error. This means randomly placing a card from your hand on top of your library, then shuffling the random portion of the library. (If some cards were legally scried to the bottom keeping those where they belong and keeping the card returned to the top of the library on top). You would continue the game from the end of the opponent's last turn, with you not having used the Rivendell."
+    "a": "The judge has three main options. 1) investigate for cheating. As you called this on yourself, it seems unlikely to go too deep down this path; 2) back up to just before the point of the mistake, undoing any actions taken; 3) leave the game state as is, as backing up might be too disruptive.<br>\nPersonally, I feel not a lot has happened, so I would back up to before the error. This means randomly placing a card from your hand on top of your library, then shuffling the random portion of the library. (If some cards were legally scried to the bottom keeping those where they belong and keeping the card returned to the top of the library on top). You would continue the game from the end of the opponent's last turn, with you not having used the Rivendell. <br>"
   },
   {
     "imgs": [
       "Descendants' Fury"
     ],
     "q": "Does <span class=\"autocard\">Descendants' Fury</span> trigger for each of my creatures that dealt damage to an opponent?",
-    "a": "It only triggers once if you have multiple creatures hit the same opponent with combat damage. So at most you can sacrifice one of them.\nHowever, if you have more than one creature hit more than one opponent with combat damage, it will trigger once per opponent. This will allow you to sacrifice one creature per opponent, but each sacrificed creature must have hit a different opponent."
+    "a": "It only triggers once if you have multiple creatures hit the same opponent with combat damage. So at most you can sacrifice one of them.<br>\nHowever, if you have more than one creature hit more than one opponent with combat damage, it will trigger once per opponent. This will allow you to sacrifice one creature per opponent, but each sacrificed creature must have hit a different opponent.<br>"
   },
   {
     "imgs": [
@@ -68,7 +68,7 @@
       "Blasphemous Act"
     ],
     "q": "In a four-player game of Commander, each player is currently at 10 life, each player controls a 5/5 creature, and I control <span class=\"autocard\">Repercussion</span>. If I cast <span class=\"autocard\">Blasphemous Act</span>, do I survive as my opponents resolve their Repercussion trigger before I do?",
-    "a": "Actually you decide who lives. The Repercussion will trigger four times, once for each creature, but you control all four triggers (as you control the source of the triggers) and can put them on the stack in the order of your choosing. As these resolve last put on the stack to first put on the stack, you will want to put yours on the stack first, with each opponent above it. Resolve one at a time, killing an opponent with each one that resolves, until you are the last player standing with a trigger that would kill you. You however won't die as you win the game as soon as you are the only player left in the game."
+    "a": "Actually you decide who lives. The Repercussion will trigger four times, once for each creature, but you control all four triggers (as you control the source of the triggers) and can put them on the stack in the order of your choosing. As these resolve last put on the stack to first put on the stack, you will want to put yours on the stack first, with each opponent above it. Resolve one at a time, killing an opponent with each one that resolves, until you are the last player standing with a trigger that would kill you. You however won't die as you win the game as soon as you are the only player left in the game.<br>"
   },
   {
     "imgs": [
@@ -76,7 +76,7 @@
       "Ragavan, Nimble Pilferer"
     ],
     "q": "My opponent played <span class=\"autocard\">The One Ring</span> on their last turn. If I attack them unblocked with <span class=\"autocard\">Ragavan, Nimble Pilferer</span> do I still get Ragavan's trigger even though his damage gets prevented?",
-    "a": "You do not. Ragavan's trigger requires he deals combat damage to happen. Since the damage was prevented, you don't get a trigger."
+    "a": "You do not. Ragavan's trigger requires he deals combat damage to happen. Since the damage was prevented, you don't get a trigger.<br>"
   },
   {
     "imgs": [
@@ -85,7 +85,7 @@
       "Wrath of God"
     ],
     "q": "At the end of my last turn <span class=\"autocard\">Prosper, Tome-Bound</span> exiled <span class=\"autocard\">Sol Ring</span> with its first trigger. During my opponent's turn they killed Prosper by casting <span class=\"autocard\">Wrath of God</span>. During my next turn can I still cast Sol Ring, or does Prosper still need to be alive to do so?",
-    "a": "You can cast the Sol Ring. Prosper's first trigger gives a duration for how long you are allowed to cast the exiled card, which is \"until the end of your next turn\"."
+    "a": "You can cast the Sol Ring. Prosper's first trigger gives a duration for how long you are allowed to cast the exiled card, which is \"until the end of your next turn\". <br>"
   },
   {
     "imgs": [
@@ -94,14 +94,14 @@
       "Darksteel Forge"
     ],
     "q": "If I make my <span class=\"autocard\">Goblin Welder</span> into an artifact by using <span class=\"autocard\">Liquimetal Coating</span>, can the Welder target itself for the artifact on the battlefield to swap places with the <span class=\"autocard\">Darksteel Forge</span> in my graveyard?",
-    "a": "Yes, you can. Welder doesn't say \"another\" artifact, so if it becomes one, it is a viable target for the first part of its own ability."
+    "a": "Yes, you can. Welder doesn't say \"another\" artifact, so if it becomes one, it is a viable target for the first part of its own ability.<br>"
   },
   {
     "imgs": [
       "Skyscribing"
     ],
     "q": "During a four-player game of Commander, if I cast <span class=\"autocard\">Skyscribing</span> with <img src=\"/ci-reader/images/symbols/X.png\" class=\"mana\">=100, do the players with fewer cards in their library lose first, leaving the player with the most cards in their library as the winner?",
-    "a": "Nope, all four players lose simultaneously. Each player draws 100 cards at the same time. The game doesn't check between each draw to see if someone has lost. Instead, after all players have drawn out their whole libraries, the game simultaneously notes that each player has attempted to draw from an empty library and they all lose the game at the same time, making the game end in a draw."
+    "a": "Nope, all four players lose simultaneously. Each player draws 100 cards at the same time. The game doesn't check between each draw to see if someone has lost. Instead, after all players have drawn out their whole libraries, the game simultaneously notes that each player has attempted to draw from an empty library and they all lose the game at the same time, making the game end in a draw. <br>"
   },
   {
     "imgs": [
@@ -109,7 +109,7 @@
       "Armix, Filigree Thrasher"
     ],
     "q": "Can I use <span class=\"autocard\">Deflecting Swat</span> to make <span class=\"autocard\">Armix, Filigree Thrasher</span> target himself with his -X/-X triggered ability?",
-    "a": "Unfortunately, no. You can redirect it to almost any normal creature controlled by the same player Armix is attacking. Armix's ability requires the target to be a creature controlled by the defending player."
+    "a": "Unfortunately, no. You can redirect it to almost any normal creature controlled by the same player Armix is attacking. Armix's ability requires the target to be a creature controlled by the defending player.<br>"
   },
   {
     "imgs": [
@@ -117,7 +117,7 @@
       "Ugin, the Spirit Dragon"
     ],
     "q": "<span class=\"autocard\">Ugin's Mastery</span> manifested my <span class=\"autocard\">Ugin, the Spirit Dragon</span> last turn. This turn I attacked with three manifested creatures, including the Spirit Dragon. Can I use Ugin's Mastery's trigger to flip my Spirit Dragon face up in the middle of combat?",
-    "a": "You can. However, it's worth noting that Ugin, the Spirit Dragon will be immediately be placed in the graveyard as it has no loyalty counters.\nWhen a face-down permanent becomes face up, it doesn't trigger enter the battlefield triggers or suddenly get affected by replacement effects that should have happened when they were first manifested, those things simply don't happen. In the case of any planeswalkers, they won't get the loyalty counters they should have entered with."
+    "a": "You can. However, it's worth noting that Ugin, the Spirit Dragon will be immediately be placed in the graveyard as it has no loyalty counters.<br>\nWhen a face-down permanent becomes face up, it doesn't trigger enter the battlefield triggers or suddenly get affected by replacement effects that should have happened when they were first manifested, those things simply don't happen. In the case of any planeswalkers, they won't get the loyalty counters they should have entered with.<br>"
   },
   {
     "imgs": [
@@ -125,7 +125,7 @@
       "The One Ring"
     ],
     "q": "My opponent is enchanted with my <span class=\"autocard\">Curse of Misfortunes</span>. If they cast <span class=\"autocard\">The One Ring</span>, does that cause the Curse to fall off?",
-    "a": "This will cause the Curse to fall off into the graveyard. The opponent has gained protection from everything and one of the four abilities granted by protection is \"can't have things attached to them with quality X\". Since X in this case is everything, they can't have any permanents attached to them until the effect wears off."
+    "a": "This will cause the Curse to fall off into the graveyard. The opponent has gained protection from everything and one of the four abilities granted by protection is \"can't have things attached to them with quality X\". Since X in this case is everything, they can't have any permanents attached to them until the effect wears off. <br>"
   },
   {
     "imgs": [
@@ -133,7 +133,7 @@
       "Patriarch's Bidding"
     ],
     "q": "I currently have nine <span class=\"autocard\">Nazgûl</span> in my graveyard. If I cast <span class=\"autocard\">Patriarch's Bidding</span> naming Wraiths, how big will the Nazgûls be when all is said and done?",
-    "a": "They will each be 82/83's. All nine wraiths enter the battlefield at the same time. This will cause you to be \"tempted by the Ring\" nine times. Each \"tempted by the Ring\" trigger will resolve one at a time. When the first trigger resolves, all nine Wraiths will trigger to give a +1/+1 counter to each Wraith you control. This will add nine +1/+1 counters for the first \"Tempted by the Ring\" trigger. This will repeat 8 more times, making 9x9=81 +1/+1 counters. 81 counters added to a base power and toughness of 1/2, gets you 82/83s."
+    "a": "They will each be 82/83's. All nine wraiths enter the battlefield at the same time. This will cause you to be \"tempted by the Ring\" nine times. Each \"tempted by the Ring\" trigger will resolve one at a time. When the first trigger resolves, all nine Wraiths will trigger to give a +1/+1 counter to each Wraith you control. This will add nine +1/+1 counters for the first \"Tempted by the Ring\" trigger. This will repeat 8 more times, making 9x9=81 +1/+1 counters. 81 counters added to a base power and toughness of 1/2, gets you 82/83s.<br>"
   },
   {
     "imgs": [
@@ -143,7 +143,7 @@
       "Kozilek, Butcher of Truth"
     ],
     "q": "My <span class=\"autocard\">Edgar, Charmed Groom</span> has a slime counter on it from my opponent's <span class=\"autocard\">Sludge Monster</span> that they still control. If Edgar dies, does he return to the battlefield as his <span class=\"autocard\">Edgar Markov's Coffin</span>?",
-    "a": "He does not. Dies triggers (and triggers that happen from being put into the graveyard from the battlefield) trigger from the battlefield, not from the graveyard. Edgar had no abilities on the battlefield when he died, so nothing happens.\nWeirdly, triggers that happen from a card being put into the graveyard from anywhere, do trigger from the graveyard and so would happen to such a creature with a slime counter on them. So if <span class=\"autocard\">Kozilek, Butcher of Truth</span> has a slime counter and dies, it would cause your graveyard to get shuffled into your library.<br>"
+    "a": "He does not. Dies triggers (and triggers that happen from being put into the graveyard from the battlefield) trigger from the battlefield, not from the graveyard. Edgar had no abilities on the battlefield when he died, so nothing happens.<br>\nWeirdly, triggers that happen from a card being put into the graveyard from anywhere, do trigger from the graveyard and so would happen to such a creature with a slime counter on them. So if <span class=\"autocard\">Kozilek, Butcher of Truth</span> has a slime counter and dies, it would cause your graveyard to get shuffled into your library.<br>"
   },
   {
     "imgs": [
@@ -151,7 +151,7 @@
       "Isareth the Awakener"
     ],
     "q": "During a <i>Commander Masters</i> draft, can <span class=\"autocard\">Ulamog, the Ceaseless Hunger</span> and <span class=\"autocard\">Isareth the Awakener</span> both be my commanders by using the partner rule?",
-    "a": "Yes, they can. During a <i>Commander Masters</i> draft any legendary creature (or any card with the \"this can be your commander\" ability) that has one or fewer colors in its color identity gains the partner ability.\nThis includes colorless legendary creatures like Ulamog. It's important to note, it may be hard to draft enough black cards to hit the necessary sixty card minimum (though you do have access to any number of basic Swamps)."
+    "a": "Yes, they can. During a <i>Commander Masters</i> draft any legendary creature (or any card with the \"this can be your commander\" ability) that has one or fewer colors in its color identity gains the partner ability.<br>\nThis includes colorless legendary creatures like Ulamog. It's important to note, it may be hard to draft enough black cards to hit the necessary sixty card minimum (though you do have access to any number of basic Swamps). <br>"
   },
   {
     "imgs": [

@@ -5,14 +5,14 @@
       "Spellskite"
     ],
     "q": "If my opponent casts <span class=\"autocard\">Time Stretch</span>, can I use <span class=\"autocard\">Spellskite</span>'s ability to redirect Time Stretch and take the extra turns myself?",
-    "a": "Nope. You can activate Spellskite's ability in response to Time Stretch, but Spellskite is not a player, so it's an illegal target for Time Stretch and its ability won't do anything."
+    "a": "Nope. You can activate Spellskite's ability in response to Time Stretch, but Spellskite is not a player, so it's an illegal target for Time Stretch and its ability won't do anything. <br>"
   },
   {
     "imgs": [
       "Teferi, Master of Time"
     ],
     "q": "I'm in a four-player game and I control <span class=\"autocard\">Teferi, Master of Time</span>. If I activate Teferi's -10 ability during an opponent's turn, when do I take my extra turns?",
-    "a": "The extra turns are inserted into the turn sequence immediately after the current turn. Let's say you're player A, your opponents are B, C, and D in turn order, and you activated Teferi's ability during player B's turn. After player B's turn, rather than going to player C's turn, the game goes to your two extra turns, so you take those two turns then. After those two turns, the game returns to the normal turn sequence with player C's turn unless additional extra turns were created in the meantime."
+    "a": "The extra turns are inserted into the turn sequence immediately after the current turn. Let's say you're player A, your opponents are B, C, and D in turn order, and you activated Teferi's ability during player B's turn. After player B's turn, rather than going to player C's turn, the game goes to your two extra turns, so you take those two turns then. After those two turns, the game returns to the normal turn sequence with player C's turn unless additional extra turns were created in the meantime. <br>"
   },
   {
     "imgs": [
@@ -20,7 +20,7 @@
       "Fork"
     ],
     "q": "Player A casts <span class=\"autocard\">Time Walk</span> and player B <span class=\"autocard\">Fork</span>s it in response. What happens?",
-    "a": "As in the previous question, the extra turns are inserted into the turn sequence immediately after the current turn. Player B's Fork copy resolves first and inserts an extra turn for player B immediately after player A's current turn. Then, player A's original Time Walk resolves and creates an extra turn for player A, which is also inserted into the turn sequence immediately after the current turn, which means it gets inserted before player B's extra turn. In other words, after this turn, player A takes their extra turn, then player B takes their extra turn, and finally player B takes their normal turn."
+    "a": "As in the previous question, the extra turns are inserted into the turn sequence immediately after the current turn. Player B's Fork copy resolves first and inserts an extra turn for player B immediately after player A's current turn. Then, player A's original Time Walk resolves and creates an extra turn for player A, which is also inserted into the turn sequence immediately after the current turn, which means it gets inserted before player B's extra turn. In other words, after this turn, player A takes their extra turn, then player B takes their extra turn, and finally player B takes their normal turn.<br>"
   },
   {
     "imgs": [
@@ -28,7 +28,7 @@
       "Cast Through Time"
     ],
     "q": "How does <span class=\"autocard\">Fireball</span> work with <span class=\"autocard\">Cast Through Time</span>?",
-    "a": "Not terribly well. When Fireball rebounds, you cast it without paying its mana cost, so the only legal choice for X is 0, which puts it into the category of \"not very effective.\" It can still trigger abilities, for example abilities that trigger when you cast a spell or when a creature becomes the target of a spell, but that's the extent of its usefulness."
+    "a": "Not terribly well. When Fireball rebounds, you cast it without paying its mana cost, so the only legal choice for X is 0, which puts it into the category of \"not very effective.\" It can still trigger abilities, for example abilities that trigger when you cast a spell or when a creature becomes the target of a spell, but that's the extent of its usefulness. <br>"
   },
   {
     "imgs": [
@@ -36,21 +36,21 @@
       "Time Stop"
     ],
     "q": "Can I splice <span class=\"autocard\">Everdream</span> onto <span class=\"autocard\">Time Stop</span>?",
-    "a": "Yes, that's legal, and you'll even get to draw a card from the resulting spell even though Everdream's \"draw a card\" instruction gets added after Time Stop's \"end the turn\" instruction. Ending the turn involves exiling Time Stop itself, but rule 608.2k tells us that Time Stop still continues to resolve fully, so you still draw a card after Time Stop exiles itself."
+    "a": "Yes, that's legal, and you'll even get to draw a card from the resulting spell even though Everdream's \"draw a card\" instruction gets added after Time Stop's \"end the turn\" instruction. Ending the turn involves exiling Time Stop itself, but rule 608.2k tells us that Time Stop still continues to resolve fully, so you still draw a card after Time Stop exiles itself. <br>"
   },
   {
     "imgs": [
       "Borrowed Time"
     ],
     "q": "I'm in a three-player game and player B casts <span class=\"autocard\">Borrowed Time</span>. I respond with an instant that gives my only creature hexproof. Does player B now have to exile one of player C's creatures?",
-    "a": "As long as you actually responded to Borrowed Time itself, yes. If you allow Borrowed Time to resolve and respond to its enter-the-battlefield trigger, giving the target hexproof will simply cause the trigger to fail. If you respond to Borrowed Time itself, your creature has hexproof by the time Borrowed Time enters the battlefield and it can't be chosen as the target for its enter-the-battlefield ability. Since the ability is not optional, player B has to target one of player C's creatures provided that at least one of them can be targeted."
+    "a": "As long as you actually responded to Borrowed Time itself, yes. If you allow Borrowed Time to resolve and respond to its enter-the-battlefield trigger, giving the target hexproof will simply cause the trigger to fail. If you respond to Borrowed Time itself, your creature has hexproof by the time Borrowed Time enters the battlefield and it can't be chosen as the target for its enter-the-battlefield ability. Since the ability is not optional, player B has to target one of player C's creatures provided that at least one of them can be targeted. <br>"
   },
   {
     "imgs": [
       "Time Wipe"
     ],
     "q": "Can I cast <span class=\"autocard\">Time Wipe</span> if I don't control any creatures?",
-    "a": "Absolutely. Time Wipe doesn't target anything, let alone a creature you control, so the only requirement for casting it is that you have enough mana to pay for it. When it resolves, you follow its instructions as much as possible. If you don't control a creature when it resolves, you simply ignore that instruction, but then you still destroy all creatures."
+    "a": "Absolutely. Time Wipe doesn't target anything, let alone a creature you control, so the only requirement for casting it is that you have enough mana to pay for it. When it resolves, you follow its instructions as much as possible. If you don't control a creature when it resolves, you simply ignore that instruction, but then you still destroy all creatures. <br>"
   },
   {
     "imgs": [
@@ -58,7 +58,7 @@
       "Kenrith's Transformation"
     ],
     "q": "I control a <span class=\"autocard\">Painter's Servant</span> naming blue, and it gets enchanted with <span class=\"autocard\">Kenrith's Transformation</span>. What happens?",
-    "a": "Painter's Servant will be a green 3/3 Elk without any abilities, but everything else will still be blue in addition to its other colors. The reason is <a href=\"ooo\">layers</a>. In layer 4, Painter's Servant becomes an Elk and stops being an artifact. In layer 5, we have Painter's Servant's effect and the \"is green\" effect from Kenrith's transformation. Those two effects get applied in timestamp order, so first Painter's Servant adds blue to everything including itself, but then Kenrith's Transformation's effect makes the Painter only green. In layer 6, Painter's Servant loses its ability, but that doesn't stop its effect from applying, so things are still blue. Finally, in layer 7b, Painter's Servant becomes a 3/3."
+    "a": "Painter's Servant will be a green 3/3 Elk without any abilities, but everything else will still be blue in addition to its other colors. The reason is <a href=\"ooo\">layers</a>. In layer 4, Painter's Servant becomes an Elk and stops being an artifact. In layer 5, we have Painter's Servant's effect and the \"is green\" effect from Kenrith's transformation. Those two effects get applied in timestamp order, so first Painter's Servant adds blue to everything including itself, but then Kenrith's Transformation's effect makes the Painter only green. In layer 6, Painter's Servant loses its ability, but that doesn't stop its effect from applying, so things are still blue. Finally, in layer 7b, Painter's Servant becomes a 3/3.<br>"
   },
   {
     "imgs": [
@@ -66,7 +66,7 @@
       "Mosswort Bridge"
     ],
     "q": "If my opponent controls <span class=\"autocard\">Teferi, Time Raveler</span>, can I still play the card that's hidden away with <span class=\"autocard\">Mosswort Bridge</span>?",
-    "a": "Only if that card is a land card. If it's a nonland card, playing it involves casting it as a spell, and you'd be casting it during the resolution of Mosswort Bridge's ability. At that time you don't have priority, so Teferi's first ability prevents you from casting a spell during the resolution of Mosswort Bridge's ability."
+    "a": "Only if that card is a land card. If it's a nonland card, playing it involves casting it as a spell, and you'd be casting it during the resolution of Mosswort Bridge's ability. At that time you don't have priority, so Teferi's first ability prevents you from casting a spell during the resolution of Mosswort Bridge's ability. <br>"
   },
   {
     "imgs": [
@@ -74,21 +74,21 @@
       "Elsha of the Infinite"
     ],
     "q": "My opponent controls <span class=\"autocard\">Teferi, Time Raveler</span> and I control <span class=\"autocard\">Elsha of the Infinite</span>. Can I still cast spells from the top of my library?",
-    "a": "Yes, but with restrictions. Teferi doesn't turn off Elsha's ability that allows you to cast noncreature spells from the top of your library, so you can still do that. However, you can only do this at a time you could cast a sorcery because Teferi's restriction overrides Elsha's effect that wants to allow you to cast the spell as though it had flash."
+    "a": "Yes, but with restrictions. Teferi doesn't turn off Elsha's ability that allows you to cast noncreature spells from the top of your library, so you can still do that. However, you can only do this at a time you could cast a sorcery because Teferi's restriction overrides Elsha's effect that wants to allow you to cast the spell as though it had flash. <br>"
   },
   {
     "imgs": [
       "Dungeon of the Mad Mage"
     ],
     "q": "How does <span class=\"autocard\">Dungeon of the Mad Mage</span>'s <b>Runestone Caverns</b> ability work? Does it allow me to play lands?",
-    "a": "Since the ability doesn't provide a time frame, it gives you permission to play the exiled cards <i>right now</i>, during the resolution of the ability. However, this permission can still be overridden by restrictions. You can't play a land if you're out of land drops for the turn, and you can't play lands on an opponent's turn. If it's your turn and you still have a land drop left, you can play a land card from among the two exiled cards."
+    "a": "Since the ability doesn't provide a time frame, it gives you permission to play the exiled cards <i>right now</i>, during the resolution of the ability. However, this permission can still be overridden by restrictions. You can't play a land if you're out of land drops for the turn, and you can't play lands on an opponent's turn. If it's your turn and you still have a land drop left, you can play a land card from among the two exiled cards. <br>"
   },
   {
     "imgs": [
       "Eruth, Tormented Prophet"
     ],
     "q": "Do I get to ignore timing restrictions when I cast a card using <span class=\"autocard\">Eruth, Tormented Prophet</span>'s ability?",
-    "a": "No. Unlike the Dungeon's ability in the previous question, Eruth's ability provides a time frame, \"this turn\". This means that it creates a continuous effect that allows you to play some cards from exile. This effect only changes from where you play those cards, it doesn't alter when you can play those cards, so you still have to follow the normal timing rules for playing those cards."
+    "a": "No. Unlike the Dungeon's ability in the previous question, Eruth's ability provides a time frame, \"this turn\". This means that it creates a continuous effect that allows you to play some cards from exile. This effect only changes from where you play those cards, it doesn't alter when you can play those cards, so you still have to follow the normal timing rules for playing those cards. <br>"
   },
   {
     "imgs": [
@@ -96,7 +96,7 @@
       "Minimus Containment"
     ],
     "q": "I play <span class=\"autocard\">Out of Time</span> and then enchant it with <span class=\"autocard\">Minimus Containment</span>. Will the creatures stay phased out indefinitely? And what happens when I sacrifice the Treasure that was Out of Time?",
-    "a": "The Treasure that was Out of Time loses the vanishing ability, so you will no longer remove the time counters from it, which means that the creatures will remain phased out for as long as you control this Treasure. However, the creatures will phase in when you sacrifice the Treasure even though it no longer has the ability that phased out the creatures. This is because the resolution of Out of Time's enter-the-battlefield ability already created the one-shot effect that phases the creatures back in immediately after Out of Time leaves the battlefield."
+    "a": "The Treasure that was Out of Time loses the vanishing ability, so you will no longer remove the time counters from it, which means that the creatures will remain phased out for as long as you control this Treasure. However, the creatures will phase in when you sacrifice the Treasure even though it no longer has the ability that phased out the creatures. This is because the resolution of Out of Time's enter-the-battlefield ability already created the one-shot effect that phases the creatures back in immediately after Out of Time leaves the battlefield. <br>"
   },
   {
     "imgs": [
@@ -105,7 +105,7 @@
       "Bear Cub"
     ],
     "q": "What's the timing of <span class=\"autocard\">Satoru Umezawa</span>'s ability? Let's say I attack with a <span class=\"autocard\">Serra Angel</span> that goes unblocked. Can I pay <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/B.png\" class=\"mana\"> and return the Angel to my hand, put a huge creature card from the top three of my library into my hand with Satoru's ability, and then put that huge creature onto the battlefield as a new attacker?",
-    "a": "No, that doesn't work. Satoru's ability triggers when you activate the ninjutsu ability of a card that's already in your hand, and activating the ability involves revealing the card whose ninjutsu ability you're activating. Let's say you activate the ninjutsu ability of a <span class=\"autocard\">Bear Cub</span> in your hand by revealing the Bear Cub, paying <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/B.png\" class=\"mana\">, and returning the Angel to your hand. Satoru's ability resolves in between returning the Angel to your hand and putting the Bear Cub onto the battlefield, but even if Satoru's ability puts a huge creature into your hand, you have to put the Bear Cub onto the battlefield since that's the creature whose ninjutsu ability you activated."
+    "a": "No, that doesn't work. Satoru's ability triggers when you activate the ninjutsu ability of a card that's already in your hand, and activating the ability involves revealing the card whose ninjutsu ability you're activating. Let's say you activate the ninjutsu ability of a <span class=\"autocard\">Bear Cub</span> in your hand by revealing the Bear Cub, paying <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/B.png\" class=\"mana\">, and returning the Angel to your hand. Satoru's ability resolves in between returning the Angel to your hand and putting the Bear Cub onto the battlefield, but even if Satoru's ability puts a huge creature into your hand, you have to put the Bear Cub onto the battlefield since that's the creature whose ninjutsu ability you activated. <br>"
   },
   {
     "imgs": [
@@ -114,7 +114,7 @@
       "Mana Reflection"
     ],
     "q": "How does the timing of <span class=\"autocard\">Chain Stasis</span> work? If I control an <span class=\"autocard\">Incubation Druid</span> with a +1/+1 counter on it, can I untap it with Chain Stasis and tap it for mana to copy Chain Stasis and repeat that process as often as I want?",
-    "a": "Yup, that works. When Chain Stasis resolves, you follow the instructions in order, so you start by untapping Incubation Druid. Then Chain Stasis asks you whether you want to pay <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\">. Since a spell is asking for a mana payment, you get the chance to activate mana abilities, which allows you to tap Incubation Druid for mana. The mana ability resolves immediately, so now you have the mana you need to make a copy of Chain Stasis, and you can repeat this process as often as you'd like. Note that this loop won't net you anything in itself, but you could add <span class=\"autocard\">Mana Reflection</span> to generate lots of extra mana, just to name one example."
+    "a": "Yup, that works. When Chain Stasis resolves, you follow the instructions in order, so you start by untapping Incubation Druid. Then Chain Stasis asks you whether you want to pay <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\">. Since a spell is asking for a mana payment, you get the chance to activate mana abilities, which allows you to tap Incubation Druid for mana. The mana ability resolves immediately, so now you have the mana you need to make a copy of Chain Stasis, and you can repeat this process as often as you'd like. Note that this loop won't net you anything in itself, but you could add <span class=\"autocard\">Mana Reflection</span> to generate lots of extra mana, just to name one example. <br>"
   },
   {
     "imgs": [
@@ -122,11 +122,11 @@
       "Eidolon of the Great Revel"
     ],
     "q": "At what point in time is a triggered ability considered missed? Let's say I'm in a Commander game and I'm at 2 life. I cast <span class=\"autocard\">Aerial Predation</span> on an opponent's creature, and I ask for responses. Nobody has any responses, so I start to resolve Aerial Predation, but now a player points out that they control <span class=\"autocard\">Eidolon of the Great Revel</span> and that I should be dead. What happens?",
-    "a": "Since you're playing Commander, let's assume you're at Regular rules enforcement level, although the philosophy of when a trigger is considered missed is essentially the same at all RELs. The higher RELs just have additional considerations for fixing the situation. A triggered ability is considered missed if its controller didn't acknowledge it in any way at the time it required choices or had a visible in-game effect. In the case of Eidolon of the Great Revel, the ability has the visible in-game effect of changing a player's life total, and since the ability goes on the stack above the spell that triggers it, it resolves before the spell resolves, so it should have been acknowledged before Aerial Predation started to resolve. Since it wasn't acknowledged at that time, the trigger is considered missed. At Regular REL, the fix is to put the ability on the stack now unless doing so would be too disruptive, for example if significant decisions have been made based on the effect not happening. Since no decisions have been made, I'd say it's not too disruptive to put the ability on the stack now, so the ability still resolves, but it does so after you've gained life from Aerial Predation, which means that you get to stay in the game a bit longer than if the trigger had not been missed."
+    "a": "Since you're playing Commander, let's assume you're at Regular rules enforcement level, although the philosophy of when a trigger is considered missed is essentially the same at all RELs. The higher RELs just have additional considerations for fixing the situation. A triggered ability is considered missed if its controller didn't acknowledge it in any way at the time it required choices or had a visible in-game effect. In the case of Eidolon of the Great Revel, the ability has the visible in-game effect of changing a player's life total, and since the ability goes on the stack above the spell that triggers it, it resolves before the spell resolves, so it should have been acknowledged before Aerial Predation started to resolve. Since it wasn't acknowledged at that time, the trigger is considered missed. At Regular REL, the fix is to put the ability on the stack now unless doing so would be too disruptive, for example if significant decisions have been made based on the effect not happening. Since no decisions have been made, I'd say it's not too disruptive to put the ability on the stack now, so the ability still resolves, but it does so after you've gained life from Aerial Predation, which means that you get to stay in the game a bit longer than if the trigger had not been missed. <br>"
   },
   {
     "imgs": [],
     "q": "We're playing in a timed round of a single-elimination tournament, the match is tied at one game each, and time is up. What happens?",
-    "a": "First, you get to play the usual five additional turns. If the match is still tied after that, the player with the highest life total wins the current game, and with that, the match. If your life totals are equal, you continue to play as many turns as necessary under the \"sudden death\" rule while everybody else in the tournament glares at you for delaying the start of the next round. The \"sudden death\" rule works as an additional state-based action that causes a player who does not have the highest life total to lose the game."
+    "a": "First, you get to play the usual five additional turns. If the match is still tied after that, the player with the highest life total wins the current game, and with that, the match. If your life totals are equal, you continue to play as many turns as necessary under the \"sudden death\" rule while everybody else in the tournament glares at you for delaying the start of the next round. The \"sudden death\" rule works as an additional state-based action that causes a player who does not have the highest life total to lose the game. <br>"
   }
 ]

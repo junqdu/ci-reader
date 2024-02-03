@@ -5,7 +5,7 @@
       "Cast into the Fire"
     ],
     "q": "I have <span class=\"autocard\">The One Ring</span> in play with zero burden counters on it. I activate The One Ring's ability, but in response, my opponent casts <span class=\"autocard\">Cast into the Fire</span> and exiles The One Ring. What happens when The One Ring's ability resolves?",
-    "a": "You won't draw any cards. You don't add a burden counter as a cost of activating the ability, you add the burden counter when the ability resolves. And if The One Ring isn't on the battlefield when the ability goes to resolve, we use the last-known information about how many burden counters it has on it to determine how many cards you draw. It had zero burden counters on it when it was last on the battlefield, so you won't draw any cards when the ability resolves."
+    "a": "You won't draw any cards. You don't add a burden counter as a cost of activating the ability, you add the burden counter when the ability resolves. And if The One Ring isn't on the battlefield when the ability goes to resolve, we use the last-known information about how many burden counters it has on it to determine how many cards you draw. It had zero burden counters on it when it was last on the battlefield, so you won't draw any cards when the ability resolves.<br>"
   },
   {
     "imgs": [
@@ -13,7 +13,7 @@
       "Smite the Deathless"
     ],
     "q": "Is there a way I can save <span class=\"autocard\">Witch-king of Angmar</span> using his own ability from my opponent's <span class=\"autocard\">Smite the Deathless</span>?",
-    "a": "There is not. If you activate the Witch-king's ability before the Smite resolves, the Witch-king is dealt 3 damage and it loses indestructible until end of turn. There's no chance to activate the Witch-king's ability after the damage is dealt but before it would die due to state-based actions, so your Witch-king is going to die to the Smite even if you've resolved the Witch-king's ability that turn."
+    "a": "There is not. If you activate the Witch-king's ability before the Smite resolves, the Witch-king is dealt 3 damage and it loses indestructible until end of turn. There's no chance to activate the Witch-king's ability after the damage is dealt but before it would die due to state-based actions, so your Witch-king is going to die to the Smite even if you've resolved the Witch-king's ability that turn.<br>"
   },
   {
     "imgs": [
@@ -21,7 +21,7 @@
       "Barrow-Blade"
     ],
     "q": "My opponent attacks me with <span class=\"autocard\">Arwen, Mortal Queen</span>, who still has her indestructible counter on it. If I block with a 2/2 equipped with <span class=\"autocard\">Barrow-Blade</span>, will Arwen lose indestructible?",
-    "a": "Yep, Arwen will lose indestructible because of the Blade's triggered ability. The effect from the Blade has a later timestamp than the effect from the indestructible counter, which is when it was put on Arwen, so Arwen loses indestructible. It doesn't matter that Arwen has indestructible due to a counter, Arwen still loses indestructible when the Blade's trigger resolves."
+    "a": "Yep, Arwen will lose indestructible because of the Blade's triggered ability. The effect from the Blade has a later timestamp than the effect from the indestructible counter, which is when it was put on Arwen, so Arwen loses indestructible. It doesn't matter that Arwen has indestructible due to a counter, Arwen still loses indestructible when the Blade's trigger resolves.<br>"
   },
   {
     "imgs": [
@@ -29,14 +29,14 @@
       "Isochron Scepter"
     ],
     "q": "Will my opponent's <span class=\"autocard\">Boromir, Warden of the Tower</span> effectively shut down my <span class=\"autocard\">Isochron Scepter</span>?",
-    "a": "Yep, it will. While you'll be spending mana to activate the Scepter's ability, you won't be spending mana to cast the copy made by the Scepter - it's being cast without paying its mana cost. Since no mana is spent to cast the copy, Boromir will trigger and will counter the copy."
+    "a": "Yep, it will. While you'll be spending mana to activate the Scepter's ability, you won't be spending mana to cast the copy made by the Scepter - it's being cast without paying its mana cost. Since no mana is spent to cast the copy, Boromir will trigger and will counter the copy.<br>"
   },
   {
     "imgs": [
       "Samwise the Stouthearted"
     ],
     "q": "I control <span class=\"autocard\">Samwise the Stouthearted</span>. If I cast a second <span class=\"autocard\">Samwise the Stouthearted</span>, can I apply the legend rule first and return one Samwise with the second Samwise's trigger?",
-    "a": "Yep, you can do that. After the second Samwise enters, before we can put its enter the battlefield trigger on the stack, we check state-based actions. Since you control two Samwises, you'll choose one to keep and the other will go to the graveyard. Then we put the enter the battlefield trigger on the stack. The Samwise you just put into the graveyard is a legal target for the trigger, so you can return the Samwise that just died back to your hand."
+    "a": "Yep, you can do that. After the second Samwise enters, before we can put its enter the battlefield trigger on the stack, we check state-based actions. Since you control two Samwises, you'll choose one to keep and the other will go to the graveyard. Then we put the enter the battlefield trigger on the stack. The Samwise you just put into the graveyard is a legal target for the trigger, so you can return the Samwise that just died back to your hand.<br>"
   },
   {
     "imgs": [
@@ -44,7 +44,7 @@
       "Tarmogoyf"
     ],
     "q": "Can <span class=\"autocard\">Stern Scolding</span> counter my opponent's <span class=\"autocard\">Tarmogoyf</span> when they cast it?",
-    "a": "That's going to depend on what card types are in graveyards. Tarmogoyf's ability works in every zone, including the stack. If there are two or fewer card types among cards in graveyards, then Tarmogoyf will have a power of 2 or less, and can be countered by Stern Scolding. But if there are three or more card types among cards in graveyards, then Tarmogoyf's power and toughness will be too high and it can't be targeted by the Scolding."
+    "a": "That's going to depend on what card types are in graveyards. Tarmogoyf's ability works in every zone, including the stack. If there are two or fewer card types among cards in graveyards, then Tarmogoyf will have a power of 2 or less, and can be countered by Stern Scolding. But if there are three or more card types among cards in graveyards, then Tarmogoyf's power and toughness will be too high and it can't be targeted by the Scolding.<br>"
   },
   {
     "imgs": [
@@ -54,7 +54,7 @@
       "Aetherwing, Golden-Scale Flagship"
     ],
     "q": "I control an <span class=\"autocard\">Aether Vial</span> with two counters on it. My opponent controls <span class=\"autocard\">Invasion of Kaladesh</span> which they have just defeated. Can I respond to the cast trigger by Vialing in a <span class=\"autocard\">Meddling Mage</span> and name \"<span class=\"autocard\">Aetherwing, Golden-Scale Flagship</span>\" to prevent them from casting it?",
-    "a": "Yes, you can do that. You can respond to the trigger that triggers when the last defense counter is removed from the Invasion by putting the Mage onto the battlefield. By naming the back face of the Invasion, you'll stop them from casting it transformed when the trigger resolves, and the Invasion will be stuck in exile."
+    "a": "Yes, you can do that. You can respond to the trigger that triggers when the last defense counter is removed from the Invasion by putting the Mage onto the battlefield. By naming the back face of the Invasion, you'll stop them from casting it transformed when the trigger resolves, and the Invasion will be stuck in exile.<br>"
   },
   {
     "imgs": [
@@ -62,7 +62,7 @@
       "Zada, Hedron Grinder"
     ],
     "q": "What happens if I use the second mode of <span class=\"autocard\">See Double</span> targeting my <span class=\"autocard\">Zada, Hedron Grinder</span>?",
-    "a": "Not very much. See Double has a line of text that says \"This spell can't be copied\". That means that when Zada's trigger resolves, it won't be able to make any copies of See Double, and you won't get a copy of your other creatures - you'll only have the original See Double, targeting your Zada."
+    "a": "Not very much. See Double has a line of text that says \"This spell can't be copied\". That means that when Zada's trigger resolves, it won't be able to make any copies of See Double, and you won't get a copy of your other creatures - you'll only have the original See Double, targeting your Zada.<br>"
   },
   {
     "imgs": [
@@ -70,7 +70,7 @@
       "Arcane Bombardment"
     ],
     "q": "What if I exile my <span class=\"autocard\">See Double</span> to <span class=\"autocard\">Arcane Bombardment</span>? Will I get a copy of See Double every time I trigger the Bombardment?",
-    "a": "Yep, you will still make a copy like normal. See Double says \"This <i>spell</i> can't be copied\", but the only zone that See Double is a spell is while it's on the stack. In exile, it's just a card. So while you can't make a copy of a See Double spell on the stack, you can make copies of See Double if it's in another zone like exile and cast that copy."
+    "a": "Yep, you will still make a copy like normal. See Double says \"This <i>spell</i> can't be copied\", but the only zone that See Double is a spell is while it's on the stack. In exile, it's just a card. So while you can't make a copy of a See Double spell on the stack, you can make copies of See Double if it's in another zone like exile and cast that copy.<br>"
   },
   {
     "imgs": [
@@ -79,14 +79,14 @@
       "Blightsteel Colossus"
     ],
     "q": "I control <span class=\"autocard\">Lazav, Dimir Mastermind</span>. I activate <span class=\"autocard\">Millstone</span> targeting my opponent, and one of the cards I mill is a <span class=\"autocard\">Blightsteel Colossus</span>. Can I make Lazav into a copy of the Colossus?",
-    "a": "No you cannot. Blightsteel Colossus has a replacement effect - instead of going to the graveyard, it's shuffled into their library instead. It doesn't go to the graveyard at all, so Lazav's ability will not trigger and Lazav will not be able to copy the Colossus."
+    "a": "No you cannot. Blightsteel Colossus has a replacement effect - instead of going to the graveyard, it's shuffled into their library instead. It doesn't go to the graveyard at all, so Lazav's ability will not trigger and Lazav will not be able to copy the Colossus.<br>"
   },
   {
     "imgs": [
       "Counterflux"
     ],
     "q": "If there are no spells on the stack, can I cast <span class=\"autocard\">Counterflux</span> for its overload cost?",
-    "a": "Sure. A spell cast via overload has no targets. If you just want to cast Counterflux without having to counter an opponent's spell (perhaps you want to increase the storm count), you can cast it via overload, making Counterflux a spell without any targets."
+    "a": "Sure. A spell cast via overload has no targets. If you just want to cast Counterflux without having to counter an opponent's spell (perhaps you want to increase the storm count), you can cast it via overload, making Counterflux a spell without any targets.<br>"
   },
   {
     "imgs": [
@@ -94,7 +94,7 @@
       "Impact Tremors"
     ],
     "q": "If I cast <span class=\"autocard\">Warp World</span> and reveal a lot of creatures and <span class=\"autocard\">Impact Tremors</span>, will the Tremors trigger for each creature that I put onto the battlefield with Warp World?",
-    "a": "You actually don't get any Impact Tremors in this case. Warp World doesn't put everything onto the battlefield at the same time - creatures, artifacts, and lands are put onto the battlefield first, then enchantments. (This is so Auras have something they can enchant.) Since creatures enter first, then Impact Tremors, the Tremors will not see the creatures that were put onto the battlefield with Warp World, and the Tremors will not trigger."
+    "a": "You actually don't get any Impact Tremors in this case. Warp World doesn't put everything onto the battlefield at the same time - creatures, artifacts, and lands are put onto the battlefield first, then enchantments. (This is so Auras have something they can enchant.) Since creatures enter first, then Impact Tremors, the Tremors will not see the creatures that were put onto the battlefield with Warp World, and the Tremors will not trigger.<br>"
   },
   {
     "imgs": [
@@ -102,21 +102,21 @@
       "Farewell"
     ],
     "q": "If I have a creature enchanted with <span class=\"autocard\">Kaya's Ghostform</span> and my opponent casts <span class=\"autocard\">Farewell</span>, choosing to exile creatures and enchantments, will my creature return to the battlefield?",
-    "a": "Yep, your creature will come back. When we resolve Farewell, we resolve the modes in the order listed on the card. Exiling creatures is listed before we exile enchantments, so the creature is exiled first (triggering the Ghostform), then Ghostform is exiled. Once Farewell is done resolving, we put the Ghostform's trigger on the stack and the exiled creature will return."
+    "a": "Yep, your creature will come back. When we resolve Farewell, we resolve the modes in the order listed on the card. Exiling creatures is listed before we exile enchantments, so the creature is exiled first (triggering the Ghostform), then Ghostform is exiled. Once Farewell is done resolving, we put the Ghostform's trigger on the stack and the exiled creature will return.<br>"
   },
   {
     "imgs": [
       "Sleep"
     ],
     "q": "If my opponent casts <span class=\"autocard\">Sleep</span> targeting me, will it also stop my creatures that were tapped before Sleep resolved from untapping?",
-    "a": "Yes it will. Sleep doesn't care if the creatures were tapped or untapped when it resolves. You controlled the creatures when Sleep resolved, so none of them will untap during your next untap step, whether or not Sleep caused them to become tapped in the first place."
+    "a": "Yes it will. Sleep doesn't care if the creatures were tapped or untapped when it resolves. You controlled the creatures when Sleep resolved, so none of them will untap during your next untap step, whether or not Sleep caused them to become tapped in the first place.<br>"
   },
   {
     "imgs": [
       "Jungle Basin"
     ],
     "q": "If I play a <span class=\"autocard\">Jungle Basin</span>, can I choose a Forest to return, then respond by tapping it for mana before I return it to my hand?",
-    "a": "No you cannot. You have to choose an untapped Forest when the trigger resolves or sacrifice the Basin. If the Forest is tapped when the trigger resolves, it can't be chosen. And you can't do anything in between the land being chosen and the land being returned to its owner's hand. There's no chance to choose the untapped Forest to return but also tap it for mana before it's returned."
+    "a": "No you cannot. You have to choose an untapped Forest when the trigger resolves or sacrifice the Basin. If the Forest is tapped when the trigger resolves, it can't be chosen. And you can't do anything in between the land being chosen and the land being returned to its owner's hand. There's no chance to choose the untapped Forest to return but also tap it for mana before it's returned.<br>"
   },
   {
     "imgs": [
@@ -124,7 +124,7 @@
       "Strionic Resonator"
     ],
     "q": "If I have an <span class=\"autocard\">Argothian Enchantress</span> in play and cast an enchantment spell, can I copy the trigger with <span class=\"autocard\">Strionic Resonator</span>?",
-    "a": "Yep, it can be copied. While the Enchantress has shroud, we're not targeting the Enchantress here - we're targeting the triggered ability that's on the stack. Shroud doesn't do anything to the ability that's on the stack, so it can be targeted and copied by the Resonator's ability."
+    "a": "Yep, it can be copied. While the Enchantress has shroud, we're not targeting the Enchantress here - we're targeting the triggered ability that's on the stack. Shroud doesn't do anything to the ability that's on the stack, so it can be targeted and copied by the Resonator's ability.<br>"
   },
   {
     "imgs": [
@@ -132,7 +132,7 @@
       "Disenchant"
     ],
     "q": "It's my main phase, and I have a <span class=\"autocard\">Gossamer Chains</span> in play. If my opponent tries to <span class=\"autocard\">Disenchant</span> it, can I activate its ability in response and return it to my hand?",
-    "a": "You cannot. The Chain's ability requires a target unblocked creature to be able to activate it. There's no unblocked creature during your main phase since the earliest point in the turn where there would be an unblocked attacking creature is the declare blockers step, so you won't be able to activate the Chain's ability in response to the opponent's Disenchant in your main phase."
+    "a": "You cannot. The Chain's ability requires a target unblocked creature to be able to activate it. There's no unblocked creature during your main phase since the earliest point in the turn where there would be an unblocked attacking creature is the declare blockers step, so you won't be able to activate the Chain's ability in response to the opponent's Disenchant in your main phase.<br>"
   },
   {
     "imgs": [
@@ -140,7 +140,7 @@
       "Summons of Saruman"
     ],
     "q": "I control <span class=\"autocard\">Saruman, the White Hand</span>. I cast <span class=\"autocard\">Summons of Saruman</span> via its flashback cost, exiling five cards in my graveyard. How big of an amass Orcs token will I make with Saruman's triggered ability?",
-    "a": "You'll amass Orcs 7. Mana value is derived from the mana cost of the card, and all Xs on the card are the same number. While there's no X in the mana part of the flashback cost, you also have to exile X cards from your graveyard when you cast it, so the X in the mana cost will be equal to the number of cards you exiled to flash it back. Since X was 5, that makes the mana value of the Summons on the stack 7, so Saruman's trigger will have you amass Orcs 7."
+    "a": "You'll amass Orcs 7. Mana value is derived from the mana cost of the card, and all Xs on the card are the same number. While there's no X in the mana part of the flashback cost, you also have to exile X cards from your graveyard when you cast it, so the X in the mana cost will be equal to the number of cards you exiled to flash it back. Since X was 5, that makes the mana value of the Summons on the stack 7, so Saruman's trigger will have you amass Orcs 7.<br>"
   },
   {
     "imgs": [
@@ -148,7 +148,7 @@
       "Reins of Power"
     ],
     "q": "My opponent has 45 life and controls a <span class=\"autocard\">Felidar Sovereign</span>. I have a <span class=\"autocard\">Reins of Power</span> in my hand. Is there any way I can cast the Reins to stop my opponent from winning the game during their upkeep?",
-    "a": "No, there is not. The first chance you get to do anything during the turn is during the upkeep step, after all \"at beginning of upkeep\" triggers have gone on the stack. By the time you get priority to cast the Reins, the trigger from the Guardian is on the stack, and gaining control of the Guardian at that point won't do anything to that trigger - it will still resolve, even if they no longer control the Guardian, and your opponent would still win the game."
+    "a": "No, there is not. The first chance you get to do anything during the turn is during the upkeep step, after all \"at beginning of upkeep\" triggers have gone on the stack. By the time you get priority to cast the Reins, the trigger from the Guardian is on the stack, and gaining control of the Guardian at that point won't do anything to that trigger - it will still resolve, even if they no longer control the Guardian, and your opponent would still win the game.<br>"
   },
   {
     "imgs": [
@@ -156,6 +156,6 @@
       "Broodbirth Viper"
     ],
     "q": "I'm in a four player game, and I control a <span class=\"autocard\">Silent Arbiter</span> and a <span class=\"autocard\">Broodbirth Viper</span>. If I attack with the Viper and get two Viper tokens from the myriad trigger, which one of my opponents can block?",
-    "a": "All of your opponents can block. While the Arbiter says that only one creature can block each combat, we also have a rule that says when your opponents are declaring blockers, we don't consider blocks that are being declared by other players at the same time (802.4b, for those who are curious). So each opponent will get the chance to block the Viper that's attacking them, and it won't matter if another opponent is also blocking the Viper that's attacking them at the same time, since we'll ignore blocks being made by another player at the same time to determine if the block is legal."
+    "a": "All of your opponents can block. While the Arbiter says that only one creature can block each combat, we also have a rule that says when your opponents are declaring blockers, we don't consider blocks that are being declared by other players at the same time (802.4b, for those who are curious). So each opponent will get the chance to block the Viper that's attacking them, and it won't matter if another opponent is also blocking the Viper that's attacking them at the same time, since we'll ignore blocks being made by another player at the same time to determine if the block is legal.<br>"
   }
 ]

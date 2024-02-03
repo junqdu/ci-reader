@@ -5,7 +5,7 @@
       "Vampire Hexmage"
     ],
     "q": "My opponent controls <span class=\"autocard\">Archfiend of the Dross</span>. Can I make them lose the game by removing all its oil counters with <span class=\"autocard\">Vampire Hexmage</span>?",
-    "a": "Not right away, but it'll put your opponent in a tight spot. Removing the oil counters won't cause your opponent to lose the game immediately. The game loss only happens as part of Archfiend's own upkeep ability. This means that your opponent has until their next upkeep to either get some oil counters onto their Archfiend or to get rid of it somehow. If they still control their counterless Archfiend at the beginning of their next upkeep, they'll lose the game at that time."
+    "a": "Not right away, but it'll put your opponent in a tight spot. Removing the oil counters won't cause your opponent to lose the game immediately. The game loss only happens as part of Archfiend's own upkeep ability. This means that your opponent has until their next upkeep to either get some oil counters onto their Archfiend or to get rid of it somehow. If they still control their counterless Archfiend at the beginning of their next upkeep, they'll lose the game at that time. <br>"
   },
   {
     "imgs": [
@@ -14,7 +14,7 @@
       "Bear Cub"
     ],
     "q": "I control <span class=\"autocard\">Archfiend of the Dross</span> and I use <span class=\"autocard\">Exchange of Words</span> to swap its text box with my opponent's <span class=\"autocard\">Bear Cub</span>'s text box. What happens?",
-    "a": "Your opponent will probably lose the game soon. The name \"Archfiend of the Dross\" in its rules text means \"this permanent\", so your opponent now controls a Bear Cub with the ability \"At the beginning of your upkeep, remove an oil counter from this permanent. Then if it has no oil counters on it, you lose the game.\" And of course their Bear Cub is unlikely to have any oil counters on it, so they're in essentially the same situation as in the previous question, and they'll lose the game in their next upkeep unless they can somehow get out of this situation."
+    "a": "Your opponent will probably lose the game soon. The name \"Archfiend of the Dross\" in its rules text means \"this permanent\", so your opponent now controls a Bear Cub with the ability \"At the beginning of your upkeep, remove an oil counter from this permanent. Then if it has no oil counters on it, you lose the game.\" And of course their Bear Cub is unlikely to have any oil counters on it, so they're in essentially the same situation as in the previous question, and they'll lose the game in their next upkeep unless they can somehow get out of this situation.<br>"
   },
   {
     "imgs": [
@@ -22,7 +22,7 @@
       "Seat of the Synod"
     ],
     "q": "I control <span class=\"autocard\">Jin-Gitaxias, Progress Tyrant</span> and play an <span class=\"autocard\">Seat of the Synod</span>. Does Jin-Gitaxias make a copy of this land?",
-    "a": "No. Even though the land is also an artifact, lands are never cast as spell, so playing an artifact land does not trigger Jin-Gitaxias's ability."
+    "a": "No. Even though the land is also an artifact, lands are never cast as spell, so playing an artifact land does not trigger Jin-Gitaxias's ability. <br>"
   },
   {
     "imgs": [
@@ -30,14 +30,14 @@
       "Gleeful Demolition"
     ],
     "q": "I control a <span class=\"autocard\">Glittermonger</span>. Can I target it with <span class=\"autocard\">Gleeful Demolition</span>, sacrificing it to make the <img src=\"/ci-reader/images/symbols/R.png\" class=\"mana\"> I need, and get the three Goblin tokens from Gleeful Demolition?",
-    "a": "The action you're describing is legal, but it won't have the result you're hoping for. Casting Gleeful Demolition starts by putting it on the stack, and then you choose your Treasure as its target. Then you get the chance to activate mana abilities, which is where you crack the Treasure for <img src=\"/ci-reader/images/symbols/R.png\" class=\"mana\">, which you then use to pay for Gleeful Demolition, so you've legally cast Gleeful Demolition. The problem is that when Gleeful Demolition tries to resolve, it finds its only target gone, so it has no legal targets and doesn't resolve, so none of its effects happen and you don't get the Goblin tokens."
+    "a": "The action you're describing is legal, but it won't have the result you're hoping for. Casting Gleeful Demolition starts by putting it on the stack, and then you choose your Treasure as its target. Then you get the chance to activate mana abilities, which is where you crack the Treasure for <img src=\"/ci-reader/images/symbols/R.png\" class=\"mana\">, which you then use to pay for Gleeful Demolition, so you've legally cast Gleeful Demolition. The problem is that when Gleeful Demolition tries to resolve, it finds its only target gone, so it has no legal targets and doesn't resolve, so none of its effects happen and you don't get the Goblin tokens.<br>"
   },
   {
     "imgs": [
       "Preston, the Vanisher"
     ],
     "q": "If I blink a legendary creature while I control <span class=\"autocard\">Preston, the Vanisher</span>, is the token copy that Preston's ability makes still legendary?",
-    "a": "Yes, the copy is still legendary, so you'll have to deal with the legend rule. The \"it's a 0/1 white Illusion\" exception to the copy effect only modifies the parts of the copiable values that it lists, which are the token's power and toughness, its color, and its creature type. All other characteristics, including the legendary supertype, are copied as usual from the original."
+    "a": "Yes, the copy is still legendary, so you'll have to deal with the legend rule. The \"it's a 0/1 white Illusion\" exception to the copy effect only modifies the parts of the copiable values that it lists, which are the token's power and toughness, its color, and its creature type. All other characteristics, including the legendary supertype, are copied as usual from the original. <br>"
   },
   {
     "imgs": [
@@ -45,35 +45,35 @@
       "Full Flowering"
     ],
     "q": "I control a bunch of creature tokens and cast <span class=\"autocard\">Triumph of the Hordes</span> to give them +1/+1, trample, and infect. If I <span class=\"autocard\">Full Flowering</span> afterwards, do the copies from populate also have the bonuses from Triumph of the Hordes?",
-    "a": "No. The copies only have the copiable characteristics from the originals, which are the tokens as they were originally created, without the bonuses from Triumph of the Hordes. Additionally, the effect from Triumph of the Hordes won't apply to the newly made tokens since the effect was locked in to the creatures you controlled at the time it resolved."
+    "a": "No. The copies only have the copiable characteristics from the originals, which are the tokens as they were originally created, without the bonuses from Triumph of the Hordes. Additionally, the effect from Triumph of the Hordes won't apply to the newly made tokens since the effect was locked in to the creatures you controlled at the time it resolved. <br>"
   },
   {
     "imgs": [
       "All Will Be One"
     ],
     "q": "Does <span class=\"autocard\">All Will Be One</span>'s ability trigger when I activate a planeswalker's +1 ability?",
-    "a": "Absolutely. All Will Be One triggers any time you put one or more counters on a permanent or player for any reason. It doesn't matter whether this is happening due to the resolution of a spell or ability, or as the result of combat damage, or due to paying the activation cost of a loyalty ability."
+    "a": "Absolutely. All Will Be One triggers any time you put one or more counters on a permanent or player for any reason. It doesn't matter whether this is happening due to the resolution of a spell or ability, or as the result of combat damage, or due to paying the activation cost of a loyalty ability. <br>"
   },
   {
     "imgs": [
       "Fleet Swallower"
     ],
     "q": "If I attack my opponent with two <span class=\"autocard\">Fleet Swallower</span>s, do they mill their entire library?",
-    "a": "Not exactly. Each Fleet Swallower's ability triggers and resolves independently, and each ability determines how much half of your opponent's library is at the time the ability resolves. The first resolution mills half of their library, and the second resolution mills half of what's left after the first resolution. In the end they'll be left with roughly a quarter of the number they started out with, minus a card or two for rounding."
+    "a": "Not exactly. Each Fleet Swallower's ability triggers and resolves independently, and each ability determines how much half of your opponent's library is at the time the ability resolves. The first resolution mills half of their library, and the second resolution mills half of what's left after the first resolution. In the end they'll be left with roughly a quarter of the number they started out with, minus a card or two for rounding. <br>"
   },
   {
     "imgs": [
       "Ram Through"
     ],
     "q": "Does <span class=\"autocard\">Ram Through</span> deal combat damage?",
-    "a": "No. The fact that the amount of damage is based on the creature's power and that excess damage goes through to your opponent if the creature has trample makes the damage look very similar to combat damage, but it's not combat damage. Combat damage is only the damage that's assigned and dealt during the combat damage step of the combat phase. Damage that's dealt during the resolution of a spell or ability is never combat damage."
+    "a": "No. The fact that the amount of damage is based on the creature's power and that excess damage goes through to your opponent if the creature has trample makes the damage look very similar to combat damage, but it's not combat damage. Combat damage is only the damage that's assigned and dealt during the combat damage step of the combat phase. Damage that's dealt during the resolution of a spell or ability is never combat damage.<br>"
   },
   {
     "imgs": [
       "Sickening Dreams"
     ],
     "q": "If I cast <span class=\"autocard\">Sickening Dreams</span> for enough damage to kill my opponent but also myself, what happens?",
-    "a": "After Sickening Dreams finishes resolving, state-based actions see that both you and your opponent are at 0 or less life, so both you and your opponent lose the game simultaneously, so the game is a draw."
+    "a": "After Sickening Dreams finishes resolving, state-based actions see that both you and your opponent are at 0 or less life, so both you and your opponent lose the game simultaneously, so the game is a draw. <br>"
   },
   {
     "imgs": [
@@ -81,14 +81,14 @@
       "Impact Resonance"
     ],
     "q": "<span class=\"autocard\">Slicer, Hired Muscle</span> attacks my opponent and they don't block, so it deals a total of 6 damage to them. If I cast <span class=\"autocard\">Impact Resonance</span> afterwards, does it deal 6 damage?",
-    "a": "No, Impact Resonance will only deal 3 damage. It looks at the greatest amount of damage that a source dealt to a permanent or player this turn in a single event, not the greatest total damage that a source dealt over the course of the turn. Slicer dealt two blows of 3 damage each, so the greatest amount of damage that was dealt by a source is 3."
+    "a": "No, Impact Resonance will only deal 3 damage. It looks at the greatest amount of damage that a source dealt to a permanent or player this turn in a single event, not the greatest total damage that a source dealt over the course of the turn. Slicer dealt two blows of 3 damage each, so the greatest amount of damage that was dealt by a source is 3. <br>"
   },
   {
     "imgs": [
       "Conduit of Worlds"
     ],
     "q": "Can I use <span class=\"autocard\">Conduit of Worlds</span> to cast a spell with an X in its mana cost and choose a nonzero X?",
-    "a": "Sure. Conduit of Worlds doesn't say \"without paying its mana cost\" or anything else that gives the card an alternative cost. You're casting the card at an unusual time from an unusual zone, but you still have to pay its mana cost to cast it, and since you're paying a cost that includes X, you can choose any value for X that you can afford to pay for."
+    "a": "Sure. Conduit of Worlds doesn't say \"without paying its mana cost\" or anything else that gives the card an alternative cost. You're casting the card at an unusual time from an unusual zone, but you still have to pay its mana cost to cast it, and since you're paying a cost that includes X, you can choose any value for X that you can afford to pay for. <br>"
   },
   {
     "imgs": [
@@ -96,7 +96,7 @@
       "The Mycosynth Gardens"
     ],
     "q": "Can I copy <span class=\"autocard\">Razortide Bridge</span> with <span class=\"autocard\">The Mycosynth Gardens</span>'s last ability for 0 mana?",
-    "a": "Absolutely. The Mycosynth Gardens's ability looks at the mana value of the artifact you want to copy, and Razortide Bridge is an artifact (that's also a land) that doesn't have a mana cost. Therefore, its mana value is 0, so the cost to activate The Mycosynth Gardens's ability in this case works out to \"<img src=\"/ci-reader/images/symbols/0.png\" class=\"mana\">, <img src=\"/ci-reader/images/symbols/T.png\" class=\"mana\">\"."
+    "a": "Absolutely. The Mycosynth Gardens's ability looks at the mana value of the artifact you want to copy, and Razortide Bridge is an artifact (that's also a land) that doesn't have a mana cost. Therefore, its mana value is 0, so the cost to activate The Mycosynth Gardens's ability in this case works out to \"<img src=\"/ci-reader/images/symbols/0.png\" class=\"mana\">, <img src=\"/ci-reader/images/symbols/T.png\" class=\"mana\">\". <br>"
   },
   {
     "imgs": [
@@ -104,7 +104,7 @@
       "Burn at the Stake"
     ],
     "q": "I control <span class=\"autocard\">Ovika, Enigma Goliath</span> and cast <span class=\"autocard\">Burn at the Stake</span>. Can I use the Goblin tokens that Ovika's ability makes to help pay the additional cost for Burn at the Stake?",
-    "a": "Nope. Ovika's ability doesn't even trigger, let alone resolve, until after you've finished casting Burn at the Stake, which includes paying all of its costs. You can only tap creatures you already control before you begin casting Burn at the Stake to pay its additional cost."
+    "a": "Nope. Ovika's ability doesn't even trigger, let alone resolve, until after you've finished casting Burn at the Stake, which includes paying all of its costs. You can only tap creatures you already control before you begin casting Burn at the Stake to pay its additional cost. <br>"
   },
   {
     "imgs": [
@@ -112,7 +112,7 @@
       "Blightbelly Rat"
     ],
     "q": "I control <span class=\"autocard\">Yawgmoth, Thran Physician</span> and <span class=\"autocard\">Blightbelly Rat</span>. If I sacrifice the Rat to activate Yawgmoth's ability, does the Rat's proliferate ability resolve before or after Yawgmoth gives its -1/-1 counter?",
-    "a": "The Rat's ability resolves first. When you activate Yawgmoth's ability, you start by putting the ability on the stack, and later you pay for the ability which involves sacrificing the Rat. The Rat's triggered ability goes on the stack above Yawgmoth's ability, so it resolves first."
+    "a": "The Rat's ability resolves first. When you activate Yawgmoth's ability, you start by putting the ability on the stack, and later you pay for the ability which involves sacrificing the Rat. The Rat's triggered ability goes on the stack above Yawgmoth's ability, so it resolves first. <br>"
   },
   {
     "imgs": [
@@ -120,14 +120,14 @@
       "Oko, Thief of Crowns"
     ],
     "q": "<span class=\"autocard\">Annex Sentry</span> has exiled a creature and gets elkified by <span class=\"autocard\">Oko, Thief of Crowns</span>. Does the exiled creature still get returned when the Elk dies?",
-    "a": "Yup. The resolution of Annex Sentry's enter-the-battlefield ability creates two one-shot effects: One to exile the creature, and one to return it to the battlefield later. The second effect still happens at the time the Elk that used to be Annex Sentry leaves the battlefield. The fact that the Elk no longer has the ability is irrelevant, since the effect had already been created way back when the enter-the-battlefield ability resolved."
+    "a": "Yup. The resolution of Annex Sentry's enter-the-battlefield ability creates two one-shot effects: One to exile the creature, and one to return it to the battlefield later. The second effect still happens at the time the Elk that used to be Annex Sentry leaves the battlefield. The fact that the Elk no longer has the ability is irrelevant, since the effect had already been created way back when the enter-the-battlefield ability resolved. <br>"
   },
   {
     "imgs": [
       "Urza, Lord High Artificer"
     ],
     "q": "My opponent controls <span class=\"autocard\">Urza, Lord High Artificer</span> and has ten floating mana. They want to activate Urza's last ability twice and just exile the top two cards without shuffling for the second activation. Can I insist that they shuffle for the second activation?",
-    "a": "Only if you want to take some action between the two activations that would give you or your opponent information about the order or position of some cards in your opponent's library. In the absence of such an action, your opponent's library is still randomized from the first resolution of the ability, so no physical action is necessary to randomize it for the second resolution."
+    "a": "Only if you want to take some action between the two activations that would give you or your opponent information about the order or position of some cards in your opponent's library. In the absence of such an action, your opponent's library is still randomized from the first resolution of the ability, so no physical action is necessary to randomize it for the second resolution. <br>"
   },
   {
     "imgs": [
@@ -135,6 +135,6 @@
       "Phyrexian Atlas"
     ],
     "q": "I'm head-judging a Standard tournament at Competitive rules enforcement level, and a player's decklist lists <span class=\"autocard\">Phyrexian Altar</span> in their deck. Since Phyrexian Altar is not even remotely Standard-legal, I'm quite sure they actually mean <span class=\"autocard\">Phyrexian Atlas</span>. How should I handle this situation?",
-    "a": "Strictly speaking, the player has committed a Tournament Error — Decklist Problem by submitting an illegal decklist, and the penalty for this infraction is a Game Loss. However, as the Head Judge you may choose not to issue this penalty if you believe that what the player wrote is obvious and unambiguous even if it's not entirely accurate. \"Obvious\" is a bit open to interpretation, but it is still a pretty high bar: If you need to ask the player what they meant, it's not obvious. If you need to check what's in their deck, it's not obvious. If you think you know which card they meant only by looking at the decklist, then you can deem it obvious and choose not to issue the penalty. Note that this is not a downgrade; you simply decide that no infraction has occurred. However, as a matter of customer service you might want to inform the player that you noticed their mistake, and advise them to be more careful in the future in case the Head Judge at their next tournament has a different interpretation of \"obvious\"."
+    "a": "Strictly speaking, the player has committed a Tournament Error — Decklist Problem by submitting an illegal decklist, and the penalty for this infraction is a Game Loss. However, as the Head Judge you may choose not to issue this penalty if you believe that what the player wrote is obvious and unambiguous even if it's not entirely accurate. \"Obvious\" is a bit open to interpretation, but it is still a pretty high bar: If you need to ask the player what they meant, it's not obvious. If you need to check what's in their deck, it's not obvious. If you think you know which card they meant only by looking at the decklist, then you can deem it obvious and choose not to issue the penalty. Note that this is not a downgrade; you simply decide that no infraction has occurred. However, as a matter of customer service you might want to inform the player that you noticed their mistake, and advise them to be more careful in the future in case the Head Judge at their next tournament has a different interpretation of \"obvious\". <br>"
   }
 ]
