@@ -1,0 +1,166 @@
+[
+  {
+    "imgs": [
+      "Fugitive Codebreaker",
+      "Scornful Egotist"
+    ],
+    "q": "What is the new <span class=\"autocard\">Fugitive Codebreaker</span> ability?",
+    "a": "In short it's the <span class=\"autocard\">Scornful Egotist</span> ability but the face down card also has Ward <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\">. <br>\nDisguise (and morph), allow a permanent (usually a creature) that has the ability to be cast for <img src=\"/ci-reader/images/symbols/3.png\" class=\"mana\"> instead of its normal cost. However, the card is placed on the stack and enters the battlefield face down with no name, no mana cost, no creature types, and is a 2/2 creature with no abilities (other than ward <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"> if it has disguise).<br>\nOnce on the battlefield, its controller can reveal the front face of the disguised creature and pay its disguise cost to turn the card face up. This is a special action that doesn't use the stack, so no player may respond until after the card has fully turned face up. <br>"
+  },
+  {
+    "imgs": [
+      "Hide in Plain Sight",
+      "Reality Shift"
+    ],
+    "q": "What is the new <span class=\"autocard\">Hide in Plain Sight</span> action?",
+    "a": "In shorts it's the <span class=\"autocard\">Reality Shift</span> action but the face down card also has Ward <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\">.<br>\nCloak (and manifest) take a card (usually from a hidden zone, but not always) and place it face down on the battlefield as a 2/2 creature with no name, no creature types, and no abilities (other than ward <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"> if it was cloaked).<br>\nOnce on the battlefield, its controller can reveal the front face of the cloaked creature and if it's a creature on its front face, may pay that creature's mana cost to turn it face up. This is a special action that doesn't use the stack, so no player may respond until after the card has fully turned face up. <br>"
+  },
+  {
+    "imgs": [],
+    "q": "If I cloaked a creature that already has disguise, can I still turn it face up with its disguise cost?",
+    "a": "Yes, you can. You can choose to pay either its normal mana cost or its disguise cost to turn it face up.<br>"
+  },
+  {
+    "imgs": [
+      "Cryptic Coat",
+      "Sanitation Automaton"
+    ],
+    "q": "If I use <span class=\"autocard\">Cryptic Coat</span> to cloak the <span class=\"autocard\">Sanitation Automaton</span> from the top of my library, then later pay its mana cost to turn it face up, do I get to surveil 1?",
+    "a": "You do not. Turning a face down card face up, does not make it enter the battlefield. The Automaton entered the battlefield when it was cloaked, so it had no enter-the-battlefield ability at the time.<br>"
+  },
+  {
+    "imgs": [
+      "Vannifar, Evolved Enigma",
+      "Ulvenwald Oddity"
+    ],
+    "q": "What happens if I use <span class=\"autocard\">Vannifar, Evolved Enigma</span>'s trigger to cloak a double faced card like <span class=\"autocard\">Ulvenwald Oddity</span>?",
+    "a": "You get a 2/2 nameless creature with no abilities other than ward <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\">]/m]. It can't transform while it's face down. However, you can pay [m]<img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/G.png\" class=\"mana\"> to turn it face up as it is cloaked.  <br>"
+  },
+  {
+    "imgs": [
+      "Lightning Bolt",
+      "Vannifar, Evolved Enigma",
+      "Break Open"
+    ],
+    "q": "What happens if I cloaked a <span class=\"autocard\">Lightning Bolt</span> using <span class=\"autocard\">Vannifar, Evolved Enigma</span>'s ability and then my opponent casts <span class=\"autocard\">Break Open</span> targeting the face down Lightning Bolt?",
+    "a": "Assuming your opponent pays the ward <img src=\"/ci-reader/images/symbols/2.png\" class=\"mana\"> cost, you reveal the Lightning Bolt, showing it's not a permanent, and it stays a face down 2/2 creature.<br>"
+  },
+  {
+    "imgs": [
+      "Case of the Crimson Pulse",
+      "Case of the Gorgon's Kiss",
+      "Case of the Shifting Visage",
+      "Case of the Ransacked Lab"
+    ],
+    "q": "How does a card like <span class=\"autocard\">Case of the Crimson Pulse</span> work?",
+    "a": "There are currently only thirteen Case cards in <b>Magic</b>. Case is a new subtype for enchantments. Each of the current Cases has an effect you get without having to jump through any hoops, such as <span class=\"autocard\">Case of the Gorgon's Kiss</span>, <span class=\"autocard\">Case of the Shifting Visage</span>, or <span class=\"autocard\">Case of the Ransacked Lab</span>. <br>\nThen, if you can \"solve\" the case you get an additional benefit. Solving a Case can only be done once per Case and requires you to jump through some sort of hoop to accomplish. <br>\nThe \"to solve\" is the hoop (which is checked at the beginning of each of your end steps) and the \"Solved\" is the additional benefit.<br>\nSo with the Case of the Crimson Pulse, when it enters the battlefield you discard a card and then draw two cards. This is the \"hoop free\" benefit.<br>\n\"To solve\" this case, you only need to have no cards in hand as your beginning of end step starts.<br>\nOnce solved, the case will make you discard your hand and draw two cards on each of your upkeeps.<br>\n <br>"
+  },
+  {
+    "imgs": [
+      "Case of the Trampled Garden",
+      "Copy Enchantment",
+      "Clone",
+      "Bear Cub"
+    ],
+    "q": "My opponent has already solved their <span class=\"autocard\">Case of the Trampled Garden</span>. If I copy it using <span class=\"autocard\">Copy Enchantment</span>, will mine already be solved?",
+    "a": "It will not be solved yet. Being solved is not a copiable value. You can think of it similarly to being tapped, you don't expect if you <span class=\"autocard\">Clone</span> a tapped <span class=\"autocard\">Bear Cub</span> that it would enter the battlefield tapped.<br>"
+  },
+  {
+    "imgs": [
+      "Vitu-Ghazi Inspector",
+      "Tormod's Crypt"
+    ],
+    "q": "I have a <span class=\"autocard\">Vitu-Ghazi Inspector</span> in my hand and I have more than enough mana value in cards in my graveyard to collect evidence 6. However, my opponent controls a <span class=\"autocard\">Tormod's Crypt</span>. If I go to cast the Inspector, can my opponent exile my graveyard to prevent me from collecting evidence?",
+    "a": "They can not. Collect evidence is an additional cost. Once you announce you are casting a spell, no player may respond until well after you have paid any additional costs. <br>\nFor more details you can check out the article I wrote on the steps of casting a spell <a href=\"article/3750\">here.</a> <br>"
+  },
+  {
+    "imgs": [
+      "Person of Interest",
+      "Frogify",
+      "Arbor Colossus"
+    ],
+    "q": "My opponent's <span class=\"autocard\">Person of Interest</span> is currently a suspect. If I enchant it with <span class=\"autocard\">Frogify</span>, is it still a suspect afterwards?",
+    "a": "The Person of Interest will lose both menace and \"this creature can't block\", but it will still be a suspect. Suspect is a designation, much like being <span class=\"autocard\">Arbor Colossus</span>, and can't be erased by losing all abilities.<br>"
+  },
+  {
+    "imgs": [
+      "Defenestrated Phantom",
+      "Assemble the Players"
+    ],
+    "q": "If the top card of my library is <span class=\"autocard\">Defenestrated Phantom</span> can I cast it with <span class=\"autocard\">Assemble the Players</span> by using its disguise ability?",
+    "a": "Yes, you can. Part of casting a disguise creature is placing it face down as a 2/2 on the stack, which fulfills the requirement that it be a creature with power 2 or less.<br>"
+  },
+  {
+    "imgs": [
+      "Aurelia's Vindicator",
+      "Murder"
+    ],
+    "q": "Earlier in this article you said I can't respond to a creature being turned face up because it's a special action that doesn't use the stack. Can I still react to triggers caused by a creature turning face up, such as <span class=\"autocard\">Aurelia's Vindicator</span>'s trigger?",
+    "a": "Yes, you can. The special action of turning face up doesn't use the stack. However, the trigger caused by the Vindicator turning face up does use the stack. You can respond before it resolves and you will know which targets it has before you have to decide to respond. <br>\nIf you were to <span class=\"autocard\">Murder</span> the Vindicator after it is turned face up but before its trigger resolved then no creatures would get returned to their owner's hands as its last trigger would resolve before its turned-face-up trigger did.<br>"
+  },
+  {
+    "imgs": [
+      "Kellan, Inquisitive Prodigy // Tail the Suspect",
+      "Barbed Servitor",
+      "Rampage of the Clans"
+    ],
+    "q": "If I attack with <span class=\"autocard\">Kellan, Inquisitive Prodigy // Tail the Suspect</span> targeting my <span class=\"autocard\">Barbed Servitor</span> with his triggered ability, do I still draw a card even though the Servitor won't be destroyed?",
+    "a": "You will still get to draw the card. Kellan's trigger doesn't require the artifact actually be destroyed to draw the card. It would have to be worded something like <span class=\"autocard\">Rampage of the Clans</span> for you not to draw the card.<br>"
+  },
+  {
+    "imgs": [
+      "Long Goodbye"
+    ],
+    "q": "My opponent casts a card from their hand using disguise. If I target it with <span class=\"autocard\">Long Goodbye</span>, do I still have to pay the ward cost?",
+    "a": "You do not have to pay the ward cost, and if you don't pay it, the ward trigger can't counter Long Goodbye. <br>"
+  },
+  {
+    "imgs": [
+      "Bear Cub",
+      "Rope"
+    ],
+    "q": "My <span class=\"autocard\">Bear Cub</span> is currently a suspect and has <span class=\"autocard\">Rope</span> equipped. If I attack with the Bear, can it be blocked?",
+    "a": "Your Bear can't be blocked. It has two blocking restrictions:<br>\n1) Menace (can't be blocked except by two or more creature)<br>\n2) Can't be blocked by more than one creature.<br>\nIn order to declare a legal block, your opponent must fulfill all restrictions. The only way to fulfill both restrictions is not to block the Bear at all.<br>"
+  },
+  {
+    "imgs": [
+      "Slime Against Humanity",
+      "Nazgul",
+      "Relentless Rats"
+    ],
+    "q": "Can I put more than one copy of <span class=\"autocard\">Slime Against Humanity</span> in a green Commander deck?",
+    "a": "Yes, you can. If a card has an ability allowing <span class=\"autocard\">Nazgul</span> or allows <span class=\"autocard\">Relentless Rats</span>, this ability overrides the normal rules for that format.<br>"
+  },
+  {
+    "imgs": [
+      "Connecting the Dots"
+    ],
+    "q": "I have <span class=\"autocard\">Connecting the Dots</span> with several cards exiled with it, but I currently have no cards in my hand. Can I pay the activation cost \"<img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/R.png\" class=\"mana\">, discard your hand, sacrifice Connecting the Dots\" even though I have no cards in hand?",
+    "a": "You can! It's true if the cost of an ability or spell requires you discard a card, you can't pay that cost if you have no cards in hand, but you may discard your hand if you have no cards in hand. The subtle difference here is discard a card requires one card, whereas discard your whole hand can be any number including zero.<br>"
+  },
+  {
+    "imgs": [
+      "Conspiracy Unraveler",
+      "Cyclonic Rift"
+    ],
+    "q": "If I control <span class=\"autocard\">Conspiracy Unraveler</span> and have 10 or more mana value of cards in my graveyard, can I cast <span class=\"autocard\">Cyclonic Rift</span> for free and overload it?",
+    "a": "You can't. Overload and casting a card for free through the Unraveler are both alternative costs and you can't use more than one alternative cost at the same time with the same spell.<br>"
+  },
+  {
+    "imgs": [
+      "Deadly Cover-Up",
+      "Swamp",
+      "Memoricide",
+      "Surgical Extraction"
+    ],
+    "q": "My opponent cast <span class=\"autocard\">Deadly Cover-Up</span> and paid the collect evidence cost. They claim they can exile the <span class=\"autocard\">Swamp</span> from my graveyard and then rip all copies of Swamp from my hand, library, and graveyard. Is this true?",
+    "a": "They can. Usually spells like this say \"<span class=\"autocard\">Memoricide</span>\" or \"<span class=\"autocard\">Surgical Extraction</span>\", however this card was not given those restrictions.<br>"
+  },
+  {
+    "imgs": [
+      "Intrude on the Mind"
+    ],
+    "q": "If I cast <span class=\"autocard\">Intrude on the Mind</span> can I choose to make a pile of five cards and a pile of with no cards?",
+    "a": "Yes you can. This gives the opponent the option to give you five cards and a 0/0 Thopter or to give you no cards and a 5/5 Thopter.<br>"
+  }
+]

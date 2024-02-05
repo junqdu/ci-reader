@@ -126,5 +126,5 @@ const getBatch = async () => {
     // });
 };
 
-// get(4082);
-getBatch();
+get(id);
+// getBatch();
