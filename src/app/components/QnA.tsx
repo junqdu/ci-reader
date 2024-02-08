@@ -19,10 +19,17 @@ const imageLoader = ({ src }: { src: string }) => {
     return src;
 };
 
+const isDoubleFace = (layout: string) => {
+    return ['flip', 'transform', 'double_faced_token', 'modal_dfc'].includes(
+        layout
+    );
+};
+
 export function QnA({ a, q, imgs = [] }: QnAInterface) {
     const [question, setQuestion] = useState(q);
     const [imgLinks, setImgLinks] = useState<string[]>([]);
     const [showAnswer, setShowAnswer] = useState(false);
+    const [sfLinks, setSFLinks] = useState<string[]>([]);
 
     useEffect(() => {
         const fetchImg = async () => {
@@ -36,6 +43,8 @@ export function QnA({ a, q, imgs = [] }: QnAInterface) {
                 const results = (await Promise.all(promises).then(
                     (data) => data
                 )) as {
+                    layout: string;
+                    scryfall_uri: string;
                     image_uris: {
                         normal: string;
                     };
@@ -49,13 +58,18 @@ export function QnA({ a, q, imgs = [] }: QnAInterface) {
                 // console.log(results);
                 setImgLinks(
                     results.map((res, idx) => {
-                        if (res.card_faces) {
+                        if (isDoubleFace(res.layout)) {
                             // return res.card_faces[0].image_uris.normal;
                             return res.card_faces.find(
                                 (face) => face.name === imgs[idx]
                             )!.image_uris.normal;
                         }
                         return res.image_uris.normal;
+                    })
+                );
+                setSFLinks(
+                    results.map((res) => {
+                        return res.scryfall_uri;
                     })
                 );
             } catch (e) {
@@ -71,16 +85,17 @@ export function QnA({ a, q, imgs = [] }: QnAInterface) {
             <div>
                 Q: <span dangerouslySetInnerHTML={{ __html: question }} />
             </div>
-            {imgLinks?.map((img) => (
-                <Image
-                    className="my-4 rounded-xl overflow-hidden max-w-72"
-                    key={img}
-                    loader={imageLoader}
-                    src={img}
-                    alt="card image"
-                    width={500}
-                    height={500}
-                />
+            {imgLinks?.map((img, idx) => (
+                <a key={img} href={sfLinks[idx]} target="_blank">
+                    <Image
+                        className="my-4 rounded-xl overflow-hidden max-w-72"
+                        loader={imageLoader}
+                        src={img}
+                        alt="card image"
+                        width={500}
+                        height={500}
+                    />
+                </a>
             ))}
             <div>
                 {!showAnswer ? (
