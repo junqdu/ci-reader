@@ -86,9 +86,14 @@ export function QnA({ a, q, imgs = [] }: QnAInterface) {
                 Q: <span dangerouslySetInnerHTML={{ __html: question }} />
             </div>
             {imgLinks?.map((img, idx) => (
-                <a key={img} href={sfLinks[idx]} target="_blank">
+                <a
+                    key={img}
+                    href={sfLinks[idx]}
+                    target="_blank"
+                    className="m-2 rounded-xl overflow-hidden inline-block"
+                >
                     <Image
-                        className="my-4 rounded-xl overflow-hidden max-w-72"
+                        className="max-w-72"
                         loader={imageLoader}
                         src={img}
                         alt="card image"
