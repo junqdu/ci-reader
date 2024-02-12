@@ -1,0 +1,139 @@
+[
+  {
+    "imgs": [
+      "Lazav, Wearer of Faces",
+      "Clone"
+    ],
+    "q": "I control <span class=\"autocard\">Lazav, Wearer of Faces</span> and I have exiled a <span class=\"autocard\">Clone</span> with it. If I make Lazav a copy of Clone, can I choose another creature on the battlefield to copy at that time?",
+    "a": "No, choosing to copy the Clone will kill Lazav unless you have some other effect that boosts its toughness. Clone only gets to copy another creature as it's entering the battlefield. Lazav isn't entering the battlefield, so it just takes on the copiable values of Clone as it's printed, which means it becomes a 0/0 and dies. <br>"
+  },
+  {
+    "imgs": [
+      "Incinerator of the Guilty"
+    ],
+    "q": "Who or what determines the value of X for the collect evidence X ability of <span class=\"autocard\">Incinerator of the Guilty</span>?",
+    "a": "You do, provided that you are its controller. As Incinerator of the Guilty's combat damage trigger resolves, you choose any number for X, and the only limitation is that you need to have cards in your graveyard with enough total mana value to cover the value of X you choose. <br>"
+  },
+  {
+    "imgs": [
+      "Exit Specialist",
+      "Auspicious Starrix"
+    ],
+    "q": "I control an <span class=\"autocard\">Exit Specialist</span> that's currently face-down due to being disguised. I cast an <span class=\"autocard\">Auspicious Starrix</span> to mutate the Specialist, leaving the face-down creature on top. Is the resulting creature face-down or face-up? If it's face-down, can I turn it face-up?",
+    "a": "The resulting creature is face-down because the topmost component of the mutate stack is face-down. This creature still has the disguise ability, so you can turn it face-up by paying its disguise cost. To turn it face up, you turn each face-down component face up, which in this situation just means that you turn the topmost card face up. The resulting creature is a mutated Human, which is a bit unnatural, but it's not against the rules. Being non-Human is only a targeting requirement for casting the Starrix for its mutate cost. After the Starrix has resolved and merged with the creature, the creature type of that creature no longer matters. <br>"
+  },
+  {
+    "imgs": [
+      "Crime Novelist"
+    ],
+    "q": "I think that <span class=\"autocard\">Crime Novelist</span>'s ability can be a mana ability depending on how I trigger it. For example, if I sacrifice a Treasure for mana, Crime Novelist's ability is a mana ability and doesn't use the stack, but if I sacrifice a Clue, Crime Novelist's ability uses the stack. Is that right?",
+    "a": "No, that's not correct. Crime Novelist's ability meets two of the three criteria for being a triggered mana ability by not requiring a target and being able to add mana to a player's mana pool. However, the third criterion is that it <i>triggers</i> from the activation or resolution of an activated mana ability or from mana being added to a player's mana pool. The use of the present tense in that criterion indicates that it's a statement about what type of event triggers the ability <i>in general</i>, based on how the trigger condition is written. It is not a statement about some specific chain of events that starts with activating a mana ability and ends with the ability being triggered. Crime Novelist's ability triggers from sacrificing an artifact, so it's not a mana ability.<br>"
+  },
+  {
+    "imgs": [
+      "Delney, Streetwise Lookout",
+      "Skyclave Apparition"
+    ],
+    "q": "Thanks to my <span class=\"autocard\">Delney, Streetwise Lookout</span>, <span class=\"autocard\">Skyclave Apparition</span> exiled two cards when it entered the battlefield. What happens when it leaves the battlefield?",
+    "a": "The leave-the-battlefield ability finds both cards that were exiled by the enter-the-battlefield ability when it looks for \"the exiled card\". This means that \"the exiled card's owner\" is interpreted as \"the exiled cards' owners\" and \"the mana value of the exiled card\" is interpreted as \"the total mana value of the exiled cards.\" This means that each player who owned one of the exiled cards creates an X/X token, where X is the sum of both cards' mana values. <br>"
+  },
+  {
+    "imgs": [
+      "Grothama, All-Devouring",
+      "Swiftfoot Boots"
+    ],
+    "q": "If I control <span class=\"autocard\">Grothama, All-Devouring</span> and equip it with <span class=\"autocard\">Swiftfoot Boots</span>, can my opponent still get their attacking creatures to fight Grothama?",
+    "a": "I'm afraid so. Even though the ability \"you may have it fight Grothama, All-Devouring\" is specifically directed at Grothama, it's not actually targeting Grothama. An ability only targets a permanent if it uses the word \"target\" to refer to that permanent in its rules text, and the fight ability doesn't use the word \"target\", so having hexproof doesn't help. <br>"
+  },
+  {
+    "imgs": [
+      "Boltbender",
+      "Infest"
+    ],
+    "q": "If I turn a disguised <span class=\"autocard\">Boltbender</span> face up, can I choose new targets for my opponent's <span class=\"autocard\">Infest</span>?",
+    "a": "No. Very similarly to the previous question, the targets of a spell are only the objects that are described by the word \"target\". Infest simply affects all creatures that are on the battlefield when it resolves, and there's nothing that Boltbender can do about that. <br>"
+  },
+  {
+    "imgs": [
+      "Grave Betrayal"
+    ],
+    "q": "My opponent controls <span class=\"autocard\">Grave Betrayal</span> and I control cloaked or disguised creatures. If those creatures die, does my opponent get them with Grave Betrayal in face-up form?",
+    "a": "Yes, as long as their face-up form is a permanent card, which need not necessarily be the case with cloaked cards. If the card is an instant or sorcery, it stays in your graveyard. Otherwise, your opponent puts it face-up on the battlefield with a +1/+1 counter on it (even if it's not a creature), and it'll be black in addition to its other colors. If it's a creature, it'll also be a Zombie in addition to its other types. <br>"
+  },
+  {
+    "imgs": [
+      "In the Darkness Bind Them"
+    ],
+    "q": "An opponent has reached chapter IV of <span class=\"autocard\">In the Darkness Bind Them</span> and took control of a creature that they then designated as their Ring-bearer. When they return the creature to its original controller at the end of the turn, is it still their Ring-bearer?",
+    "a": "No. There are two ways a creature can stop being a player's Ring-bearer. One is if the player chooses another creature as their Ring-bearer. The other is if another player gains control of a player's Ring-bearer. Since another player gained control of your opponent's creature, it stopped being their Ring-bearer. <br>"
+  },
+  {
+    "imgs": [
+      "Feign Death",
+      "Not Dead After All"
+    ],
+    "q": "If I cast <span class=\"autocard\">Feign Death</span> and <span class=\"autocard\">Not Dead After All</span> on the same creature and it dies, do I get it back with a +1/+1 counter, with a Wicked Role, or both?",
+    "a": "You'll get to choose between the counter or the Role. When the creature dies, two delayed triggered abilities trigger and want to go on the stack at the same time. You control both abilities, so you choose their order on the stack. Whichever ability you put on top of the stack resolves first, and that's the ability that returns the creature to the battlefield with its particular bonus. The other ability then fails to find the card in the graveyard, so it does nothing. <br>"
+  },
+  {
+    "imgs": [
+      "Wrenn and Realmbreaker"
+    ],
+    "q": "Let's say I use <span class=\"autocard\">Wrenn and Realmbreaker</span>'s +1 ability to turn a land into a 3/3 creature with vigilance, hexproof, and haste. I attack with it, and then I tap it for mana to cast an instant. Will the land still deal damage?",
+    "a": "Absolutely. The notion that untapping a tapped attacker or tapping an untapped attacker will somehow thwart its attack is (or at least was at some point) so common that there exists a special rule to address this misconception. It's rule 506.4b, and the part of it we need here says that tapping or untapping an attacker doesn't remove it from combat and doesn't prevent its combat damage. <br>"
+  },
+  {
+    "imgs": [
+      "Balloon Stand",
+      "Disciple of the Vault"
+    ],
+    "q": "If an <span class=\"autocard\">Balloon Stand</span> gets destroyed, does that trigger <span class=\"autocard\">Disciple of the Vault</span>?",
+    "a": "No. Attractions can only exist on the battlefield, in exile, and in the command zone. If an Attraction would move to any other zone than those, a replacement effect kicks in and moves the card to the command zone instead. Since the card is going to the command zone instead of going to the graveyard, Disciple of the Vault's ability doesn't trigger. <br>"
+  },
+  {
+    "imgs": [
+      "Sophia, Dogged Detective",
+      "Academy Manufactor"
+    ],
+    "q": "If I control <span class=\"autocard\">Sophia, Dogged Detective</span> and <span class=\"autocard\">Academy Manufactor</span> and deal combat damage to an opponent with a Dog, what happens?",
+    "a": "You'll create two Clues, two Foods, and two Treasures. Sophia's ability instructs you to create a Food token and then it instructs you to investigate, which leads to you creating a Clue token. Each of those token creation events get replaced by Academy Manufactor, so you'll create a Clue, a Food, and a Treasure, and then you do that again. <br>"
+  },
+  {
+    "imgs": [
+      "Humility",
+      "Brazen Borrower // Petty Theft"
+    ],
+    "q": "How does <span class=\"autocard\">Humility</span> interact with Adventure spells? If Humility is on the battlefield, can I still cast <span class=\"autocard\">Brazen Borrower // Petty Theft</span>?",
+    "a": "There is no interaction with Humility there, so yes, you can still cast Petty Theft. Humility only affects creatures on the battlefield. It does not affect the Brazen Borrower in your hand or on the stack, so it doesn't interfere in any way with the process of casting the Adventure spell. <br>"
+  },
+  {
+    "imgs": [
+      "Esper Sentinel",
+      "Delney, Streetwise Lookout"
+    ],
+    "q": "How does <span class=\"autocard\">Esper Sentinel</span>'s ability work when I control <span class=\"autocard\">Delney, Streetwise Lookout</span>?",
+    "a": "Delney causes Esper Sentinel's ability to trigger twice, so you will resolve two separate instances of Esper Sentinel's ability. The first instance that resolves asks your opponent whether they'd like to pay <img src=\"/ci-reader/images/symbols/X.png\" class=\"mana\">, where X is Esper Sentinel's power, so probably <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\">. If they don't, you draw a card. Then the second instance resolves and does the same thing, so your opponent once again gets to pay <img src=\"/ci-reader/images/symbols/X.png\" class=\"mana\">, and if they don't, you draw a card. <br>"
+  },
+  {
+    "imgs": [
+      "Athreos, God of Passage"
+    ],
+    "q": "When is the target opponent for <span class=\"autocard\">Athreos, God of Passage</span> chosen? When it enters the battlefield, or when its last ability triggers?",
+    "a": "You don't choose a target for the ability when Athreos enters the battlefield. You choose a target when the ability triggers, or more precisely, when it's put on the stack. If you have multiple opponents, you can choose a different one for each time the ability triggers if that's what you want.<br>"
+  },
+  {
+    "imgs": [
+      "Lobotomy",
+      "Slime Against Humanity"
+    ],
+    "q": "A friend told me that you can cast <span class=\"autocard\">Lobotomy</span> on yourself to exile some, but not necessarily all, copies of <span class=\"autocard\">Slime Against Humanity</span> from your library. Is that true?",
+    "a": "If there's a Slime Against Humanity in your hand at the time you Lobotomize yourself, sure. You reveal your hand and choose the Slime Against Humanity in your hand, and then you proceed to search your graveyard, hand, and library for all cards with that name and exile them. Since you are searching for cards with a stated quality, you don't have to find all such cards that are in hidden zones. You have to find and exile all Slimes from your graveyard because the graveyard is a public zone, but how many copies you remove from your hand and library is up to you.<br>"
+  },
+  {
+    "imgs": [
+      "Sakashima of a Thousand Faces"
+    ],
+    "q": "I'm playing Commander, and my commanders are <span class=\"autocard\">Sakashima of a Thousand Faces</span> and some other commander with partner. If Sakashima copies my other commander, how does that interact with the rule about 21 commander damage?",
+    "a": "There's no interaction. Each of your commanders track their combat damage separately from each other, even if they look the same. In order to lose the game to the 21-damage rule, your opponent must be dealt a total of 21 combat damage by the same commander over the course of the game. <br>"
+  }
+]
