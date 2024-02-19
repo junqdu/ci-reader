@@ -2,10 +2,12 @@
   {
     "imgs": [
       "Converter Beast",
-      "Shalai and Hallar"
+      "Shalai and Hallar",
+      "Fable of the Mirror-Breaker",
+      "Nicol Bolas, the Ravager"
     ],
-    "q": "If I transform an Incubator token, does that trigger my Shalai and Hallar?",
-    "a": "It does not. Transforming a permanent does not normally cause it to \"re-enter\" the battlefield, it merely changes status (similar to becoming tapped). There are a few cards that exile themselves, then enter the battlefield transformed (<a href=\"http"
+    "q": "If I transform an <span class=\"autocard\">Converter Beast</span>, does that trigger my <span class=\"autocard\">Shalai and Hallar</span>?",
+    "a": "It does not. Transforming a permanent does not normally cause it to \"re-enter\" the battlefield, it merely changes status (similar to becoming tapped). There are a few cards that exile themselves, then enter the battlefield transformed (<span class=\"autocard\">Fable of the Mirror-Breaker</span> and <span class=\"autocard\">Nicol Bolas, the Ravager</span> come to mind). If any such card entered transformed as a creature with +1/+1 counters, those would trigger Shalai and Hallar, though currently I don't think there are any.<br>"
   },
   {
     "imgs": [
@@ -13,8 +15,8 @@
       "Privileged Position",
       "Bear Cub"
     ],
-    "q": "My opponent cast Disciple of Caelus Nin while I control Privileged Position and twenty Bear Cubs. Can I choose Privileged Position as one of my five safe non-land permanents keeping all my Bears safe from phasing as they have hexproof?",
-    "a": "You can choose Privileged Position and up to four Bear Cubs, but the other Bears will be phased out as the Disciple's ability doesn't target."
+    "q": "My opponent cast <span class=\"autocard\">Disciple of Caelus Nin</span> while I control <span class=\"autocard\">Privileged Position</span> and twenty <span class=\"autocard\">Bear Cub</span>s. Can I choose Privileged Position as one of my five safe non-land permanents keeping all my Bears safe from phasing as they have hexproof?",
+    "a": "You can choose Privileged Position and up to four Bear Cubs, but the other Bears will be phased out as the Disciple's ability doesn't target.<br>"
   },
   {
     "imgs": [
@@ -23,31 +25,31 @@
       "Forest",
       "Animate Land"
     ],
-    "q": "I control Myrkul, Lord of Bones and my opponent Murders my Forest that was animated into a creature by Animate Land. Can I still exile it to make a copy of it? Will it still be able to make mana?",
-    "a": "Yes and no. Yes you can exile the land to make a copy that is an enchantment with no other types. The game looks back and sees that the last time it was on the battlefield it was a creature. However, it can't make mana as the only mana ability it had was granted by its land subtype Forest, which was removed when it lost its card type land."
+    "q": "I control <span class=\"autocard\">Myrkul, Lord of Bones</span> and my opponent <span class=\"autocard\">Murder</span>s my <span class=\"autocard\">Forest</span> that was animated into a creature by <span class=\"autocard\">Animate Land</span>. Can I still exile it to make a copy of it? Will it still be able to make mana?",
+    "a": "Yes and no. Yes you can exile the land to make a copy that is an enchantment with no other types. The game looks back and sees that the last time it was on the battlefield it was a creature. However, it can't make mana as the only mana ability it had was granted by its land subtype Forest, which was removed when it lost its card type land. <br>\nCongrats on making an enchantment with no abilities.<br>"
   },
   {
     "imgs": [
       "No Way Out"
     ],
-    "q": "I cast No Way Out targeting my opponent who already has an empty hand. Do I still create the decayed Zombie?",
-    "a": "You do! No Way Out doesn't care if the opponent discards two, one, or zero cards, it will still make a Zombie."
+    "q": "I cast <span class=\"autocard\">No Way Out</span> targeting my opponent who already has an empty hand. Do I still create the decayed Zombie?",
+    "a": "You do! No Way Out doesn't care if the opponent discards two, one, or zero cards, it will still make a Zombie.<br>"
   },
   {
     "imgs": [
       "No Way Out",
       "Blossoming Calm"
     ],
-    "q": "I cast No Way Out targeting my opponent. They respond by casting Blossoming Calm. Do I still create the decayed Zombie?",
-    "a": "You do not. No Way Out's only target just became illegal, so instead of resolving, it gets placed in the graveyard and completes none of its actions."
+    "q": "I cast <span class=\"autocard\">No Way Out</span> targeting my opponent. They respond by casting <span class=\"autocard\">Blossoming Calm</span>. Do I still create the decayed Zombie?",
+    "a": "You do not. No Way Out's only target just became illegal, so instead of resolving, it gets placed in the graveyard and completes none of its actions.<br>"
   },
   {
     "imgs": [
       "Balthor the Defiled",
       "Arvad the Cursed"
     ],
-    "q": "Is Balthor the Defiled playable in my Arvad the Cursed Commander deck?",
-    "a": "Yes, you can include Balthor in your Arvad deck. Balthor's color identity is only black. The word \"red\" in his text box doesn't add red to his color identity."
+    "q": "Is <span class=\"autocard\">Balthor the Defiled</span> playable in my <span class=\"autocard\">Arvad the Cursed</span> Commander deck?",
+    "a": "Yes, you can include Balthor in your Arvad deck. Balthor's color identity is only black. The word \"red\" in his text box doesn't add red to his color identity. <br>"
   },
   {
     "imgs": [
@@ -55,24 +57,24 @@
       "Pantlaza, Sun-Favored",
       "Clone"
     ],
-    "q": "Last week you answered a question about Roaming Throne with \"Dinosaur\" as the chosen type and then casting Pantlaza, Sun-Favored. In the answer you said, a player will effectively only get to discover once. Is this also true if I just Clone Pantlaza?",
-    "a": "So long as the Clone is the first Dinosaur to enter the battlefield this turn, you will get to discover once for the original Pantlaza and once for the Clone. Before either discover trigger is put on the stack, you will have to put one Pantlaza into your graveyard to the legend rule."
+    "q": "Last week you answered a question about <span class=\"autocard\">Roaming Throne</span> with \"Dinosaur\" as the chosen type and then casting <span class=\"autocard\">Pantlaza, Sun-Favored</span>. In the answer you said, a player will effectively only get to discover once. Is this also true if I just <span class=\"autocard\">Clone</span> Pantlaza?",
+    "a": "So long as the Clone is the first Dinosaur to enter the battlefield this turn, you will get to discover once for the original Pantlaza and once for the Clone. Before either discover trigger is put on the stack, you will have to put one Pantlaza into your graveyard to the legend rule.<br>\nIn last week's question, Roaming Throne isn't the source of the second trigger, it just makes the original Pantlaza trigger a second time. In this question, each Pantlaza triggers separately. The restriction on Pantlaza's ability doesn't care if other sources have the same ability, it's only looking for the same ability from the same source.<br>"
   },
   {
     "imgs": [
       "Ghalta, Primal Hunger",
       "Mogg Fanatic"
     ],
-    "q": "I attack my opponent with Ghalta, Primal Hunger and they block it with Mogg Fanatic. If they sacrifice the Fanatic to deal one damage to me before combat damage is dealt, will my opponent take 11 trample damage or 12?",
-    "a": "They will take 12 trample damage. When a trample creature deals combat damage, it must assign at least lethal damage to each creature blocking it, then any remaining damage may be assigned to the defending player (or planeswalker). In this case there are no creatures to assign damage to, so all of it tramples over."
+    "q": "I attack my opponent with <span class=\"autocard\">Ghalta, Primal Hunger</span> and they block it with <span class=\"autocard\">Mogg Fanatic</span>. If they sacrifice the Fanatic to deal one damage to me before combat damage is dealt, will my opponent take 11 trample damage or 12?",
+    "a": "They will take 12 trample damage. When a trample creature deals combat damage, it must assign at least lethal damage to each creature blocking it, then any remaining damage may be assigned to the defending player (or planeswalker). In this case there are no creatures to assign damage to, so all of it tramples over.<br>"
   },
   {
     "imgs": [
       "Éomer, King of Rohan",
       "Shock"
     ],
-    "q": "My opponent currently controls five Human creatures and is casting Éomer, King of Rohan. Is there a point where I can Shock him before he gets his +1/+1 counters?",
-    "a": "There is not. Éomer's +1/+1 counter ability is a replacement effect, not a triggered ability. He is never on the battlefield without those counters."
+    "q": "My opponent currently controls five Human creatures and is casting <span class=\"autocard\">Éomer, King of Rohan</span>. Is there a point where I can <span class=\"autocard\">Shock</span> him before he gets his +1/+1 counters?",
+    "a": "There is not. Éomer's +1/+1 counter ability is a replacement effect, not a triggered ability. He is never on the battlefield without those counters.<br>"
   },
   {
     "imgs": [
@@ -80,24 +82,24 @@
       "Lightning Bolt",
       "Wrath of God"
     ],
-    "q": "I was told by a friend that if you destroy Dauthi Voidwalker with a Lightning Bolt, the Lightning Bolt will get exiled by the Voidwalker. But if you destroy the Voidwalker with a Wrath of God, the Wrath will go to the graveyard. Is this true? And if so, why?",
-    "a": "Your friend is correct on both accounts. When a sorcery or instant resolves you complete all actions in the text box in the order they appear. Then after all actions are completed, as the final step the sorcery or instant gets placed in the graveyard. So why do these two kill spells end up in different places? The short answer is what is actually killing the Voidwalker."
+    "q": "I was told by a friend that if you destroy <span class=\"autocard\">Dauthi Voidwalker</span> with a <span class=\"autocard\">Lightning Bolt</span>, the Lightning Bolt will get exiled by the Voidwalker. But if you destroy the Voidwalker with a <span class=\"autocard\">Wrath of God</span>, the Wrath will go to the graveyard. Is this true? And if so, why?",
+    "a": "Your friend is correct on both accounts. When a sorcery or instant resolves you complete all actions in the text box in the order they appear. Then after all actions are completed, as the final step the sorcery or instant gets placed in the graveyard. So why do these two kill spells end up in different places? The short answer is what is actually killing the Voidwalker. <br>\nWrath of God kills the Voidwalker, because it destroys all creatures. So Voidwalker goes to the graveyard, before the Wrath finishes resolving and attempts to go to the graveyard itself.<br>\nLightning Bolt, however, does not kill the Voidwalker, instead the Voidwalker is destroyed by state based actions. Lightning Bolt deals damage to the Voidwalker, then the Lightning Bolt attempts to go to the graveyard and gets exiled instead. Then state based actions are checked and see the Voidwalker has too much damage marked on it, and it gets destroyed. <br>"
   },
   {
     "imgs": [
       "Unexpected Fangs",
       "Mutavault"
     ],
-    "q": "I cast Unexpected Fangs targeting my animated Mutavault. At end of turn, do the counters fall off?",
-    "a": "They do not. A non-creature permanent can have and keep counters such as +1/+1 counters and lifelink counters."
+    "q": "I cast <span class=\"autocard\">Unexpected Fangs</span> targeting my animated <span class=\"autocard\">Mutavault</span>. At end of turn, do the counters fall off?",
+    "a": "They do not. A non-creature permanent can have and keep counters such as +1/+1 counters and lifelink counters.<br>"
   },
   {
     "imgs": [
       "Lord Xander, the Collector",
       "Rite of Replication"
     ],
-    "q": "Lord Xander, the Collector is my commander and he has been on the battlefield for a few turns. If I copy him five times with a kicked Rite of Replication, what happens?",
-    "a": "You will go from having one Xander to six Xanders. Before you choose targets for the Xanders' enter the battlefield (ETB) triggers, you will have to place five of the Xanders in your graveyard to the legend rule. This will trigger five Xander death triggers. The five death triggers and the five ETB triggers will be put on the stack at the same time and you may place them in any order (5x Death followed by 5 ETB, or 5 ETB followed by 5x Death, or alternate between Death and ETB, or any other combination you can imagine)."
+    "q": "<span class=\"autocard\">Lord Xander, the Collector</span> is my commander and he has been on the battlefield for a few turns. If I copy him five times with a kicked <span class=\"autocard\">Rite of Replication</span>, what happens?",
+    "a": "You will go from having one Xander to six Xanders. Before you choose targets for the Xanders' enter the battlefield (ETB) triggers, you will have to place five of the Xanders in your graveyard to the legend rule. This will trigger five Xander death triggers. The five death triggers and the five ETB triggers will be put on the stack at the same time and you may place them in any order (5x Death followed by 5 ETB, or 5 ETB followed by 5x Death, or alternate between Death and ETB, or any other combination you can imagine).<br>\nBoth of these Death and ETB triggers round down. This means if you target the same player with all ten triggers, the opponent won't be reduced to below 1 card in hand, or less than one non-land permanent. <br>\nIf an opponent has less than 17 cards in hand, hitting them with all 5 ETB triggers will waste one or more of the triggers. If an opponent has only 1 card in hand, each ETB trigger aimed at them is wasted.<br>\nIf an opponent has less then 17 non-land permanents, hitting them with all 5 Death triggers will waste one or more of the triggers. If an opponent has only 1 non-land permanent, each Death trigger aimed at them is wasted.<br>"
   },
   {
     "imgs": [
@@ -106,56 +108,58 @@
       "Swamp",
       "Dismember"
     ],
-    "q": "My opponent controls a Trinisphere and a Bear Cub and the only mana source I have available is an untapped Swamp. Can I Dismember the Bear by paying 4 life?",
-    "a": "Trinisphere will prevent you from being able to cast the Dismember this way. When you pay life for a Phyrexian Mana, it's not considered to be paying mana, therefore you will still need to pay <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\"> for each <img src=\"/ci-reader/images/symbols/BP.png\" class=\"mana\"> you paid life for."
+    "q": "My opponent controls a <span class=\"autocard\">Trinisphere</span> and a <span class=\"autocard\">Bear Cub</span> and the only mana source I have available is an untapped <span class=\"autocard\">Swamp</span>. Can I <span class=\"autocard\">Dismember</span> the Bear by paying 4 life?",
+    "a": "Trinisphere will prevent you from being able to cast the Dismember this way. When you pay life for a Phyrexian Mana, it's not considered to be paying mana, therefore you will still need to pay <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\"> for each <img src=\"/ci-reader/images/symbols/BP.png\" class=\"mana\"> you paid life for.<br>"
   },
   {
     "imgs": [
       "Murderous Cut",
       "Swamp",
-      "Trinisphere"
+      "Trinisphere",
+      "Halo Hopper",
+      "Foundry Assembler"
     ],
-    "q": "Similar to the last question, if I want to Murderous Cut the Bear but only have one untapped Swamp but five cards in my graveyard with the opponent having a Trinisphere, can I do so?",
-    "a": "Yes, you can. Delve, <a href=\"http"
+    "q": "Similar to the last question, if I want to <span class=\"autocard\">Murderous Cut</span> the Bear but only have one untapped <span class=\"autocard\">Swamp</span> but five cards in my graveyard with the opponent having a <span class=\"autocard\">Trinisphere</span>, can I do so?",
+    "a": "Yes, you can. Delve, <span class=\"autocard\">Halo Hopper</span>, and <span class=\"autocard\">Foundry Assembler</span> each allow you to pay mana costs through an alternate means. <br>"
   },
   {
     "imgs": [
       "Chord of Calling",
       "Trinisphere"
     ],
-    "q": "Wait a minute, I could have sworn back in the day if you paid all of Chord of Calling's costs by tapping creatures, you still had to pay  for Trinisphere. What gives?",
-    "a": "You are correct, this is a change from how delve and convoke used to work with Trinisphere. Around the time the core set M15 brought back convoke, both convoke and delve changed from abilities that reduced the cost of a spell (which didn't get around Trinisphere), to giving an alternative way to pay mana (which now does get around Trinisphere)."
+    "q": "Wait a minute, I could have sworn back in the day if you paid all of <span class=\"autocard\">Chord of Calling</span>'s costs by tapping creatures, you still had to pay <img src=\"/ci-reader/images/symbols/3.png\" class=\"mana\"> for <span class=\"autocard\">Trinisphere</span>. What gives?",
+    "a": "You are correct, this is a change from how delve and convoke used to work with Trinisphere. Around the time the core set M15 brought back convoke, both convoke and delve changed from abilities that reduced the cost of a spell (which didn't get around Trinisphere), to giving an alternative way to pay mana (which now does get around Trinisphere).<br>"
   },
   {
     "imgs": [
       "Charismatic Conqueror"
     ],
-    "q": "What happens if I cast Charismatic Conqueror while my opponent already controls one?",
-    "a": "You and your opponent have an optional infinite combo for which either of you can end it as soon as either likes."
+    "q": "What happens if I cast <span class=\"autocard\">Charismatic Conqueror</span> while my opponent already controls one?",
+    "a": "You and your opponent have an optional infinite combo for which either of you can end it as soon as either likes. <br>\nThis has three options:<br>\nA) You can choose not to start the combo and just have a tapped Conqueror.<br>\nB) You and your opponent can agree to repeat the combo until you <br>\ngain X Vampire tokens and the opponent gains X+1 Vampire tokens where the last one is tapped.<br>\nC) You and your opponent can agree to repeat the combo until both players gain X Vampire tokens and your last Vampire token is tapped.<br>"
   },
   {
     "imgs": [
       "Bear Cub",
       "Charismatic Conqueror"
     ],
-    "q": "If I cast a Bear Cub while my opponent controls a two Charismatic Conqueror, can I tap it twice to prevent my opponent from getting Vampire tokens?",
-    "a": "You can not. You can't pay the cost of tapping if it is already tapped. So your options are give the opponent two Vampire tokens and keep the Bear Cub untapped through both triggers, or give the opponent one Vampire token, but your Bear Cub becomes tapped."
+    "q": "If I cast a <span class=\"autocard\">Bear Cub</span> while my opponent controls a two <span class=\"autocard\">Charismatic Conqueror</span>, can I tap it twice to prevent my opponent from getting Vampire tokens?",
+    "a": "You can not. You can't pay the cost of tapping if it is already tapped. So your options are give the opponent two Vampire tokens and keep the Bear Cub untapped through both triggers, or give the opponent one Vampire token, but your Bear Cub becomes tapped. <br>"
   },
   {
     "imgs": [
       "Charismatic Conqueror"
     ],
-    "q": "So I asked you that last question so that I could ask you this question. What happens if during a three-player game, each player controls a Charismatic Conqueror?",
-    "a": "So the first time a creature enters the battlefield untapped (most likely when the third Conqueror comes in), that creature will at minimum create one token for one opponent (because that player is stuck making one of the two options explained in the last question). The player or players who just created a Vampire will now trigger the Conquerors of each of their opponents. This will again make at least one Vampire, triggering yet again. This will go on ad infinitum, unless one player has a way to break the infinite chain (say they can sacrifice their own Conqueror or can destroy a Conqueror at instant speed). If there is no way to break the chain, then the game ends in draw."
+    "q": "So I asked you that last question so that I could ask you this question. What happens if during a three-player game, each player controls a <span class=\"autocard\">Charismatic Conqueror</span>?",
+    "a": "So the first time a creature enters the battlefield untapped (most likely when the third Conqueror comes in), that creature will at minimum create one token for one opponent (because that player is stuck making one of the two options explained in the last question). The player or players who just created a Vampire will now trigger the Conquerors of each of their opponents. This will again make at least one Vampire, triggering yet again. This will go on ad infinitum, unless one player has a way to break the infinite chain (say they can sacrifice their own Conqueror or can destroy a Conqueror at instant speed). If there is no way to break the chain, then the game ends in draw.<br>\nIf one or more players can break the chain, they simply agree how many times they want to repeat the cycle of giving players Vampires, then take the action to end the cycle.<br>"
   },
   {
     "imgs": [],
     "q": "In the last question, you said the combo can be broken. What happens if each player decides to give only one Vampire token each time as they are forced to, and then the combo gets broken?",
-    "a": "So because triggers are put on the stack in player turn order (APNAP order), if all three players choose to tap their creature on the first trigger to resolve, and are then forced to give an opponent a Vampire token on the second trigger to resolve, two players create tons of tokens, while the third player gets no tokens."
+    "a": "So because triggers are put on the stack in player turn order (APNAP order), if all three players choose to tap their creature on the first trigger to resolve, and are then forced to give an opponent a Vampire token on the second trigger to resolve, two players create tons of tokens, while the third player gets no tokens.<br>\nLets say the active player is Amy, and the next player in turn order is Becky, and then the last player in turn order is Carl. <br>\nIf Amy started this by casting her Conqueror, this will give a trigger to both Becky and Carl. <br>\n1) Becky puts her trigger on the stack first and then Carl puts his on the stack above Becky's. Carl's will resolve first, for which Amy will choose to tap her creature, giving no token to Carl. Then Amy is forced to give Becky a Vampire when Becky's trigger resolves. <br>\n2) This now triggers Amy and Carl's Conquerors. Amy's trigger is put on the stack first, with Carl's above it. Carl's will again resolve first, for which Becky will choose to tap her Vampire, giving no token to Carl. Then Becky is forced to give Amy a Vampire when Amy's trigger resolves. This will trigger both Becky and Carl's Conquerors.<br>\nWe now infinitely repeat steps 1) and step 2), giving tokens only to Amy and Becky, and none to Carl. Note that Carl has no voice in this, once Amy and Becky decide to start skipping him, he won't be given Vampires, and therefore won't make choices on tapping or not tapping the token he doesn't have.<br>"
   },
   {
     "imgs": [],
     "q": "What if the combo is broken after all players decide to give both opponents tokens?",
-    "a": "Let's again say the active player is Amy, and the next player in turn order is Becky, and then the last player in turn order is Carl."
+    "a": "Let's again say the active player is Amy, and the next player in turn order is Becky, and then the last player in turn order is Carl.<br>\nIf Amy started this by casting her Conqueror, this will give a trigger to both Becky and Carl. <br>\n1) Becky puts her trigger on the stack first and then Carl puts his on the stack above Becky's. Carl's will resolve first, for which Amy will choose not to tap her creature, giving a token to Carl. Before we move onto Becky's trigger, we now create two triggers above that, one for Amy and one for Becky. <br>\n2) Amy's is put on the stack first with Becky's above that. Becky's resolves first, and Carl chooses not to tap his vampire, so Becky gets a token. Before we move onto Amy's trigger (which has Becky's original one below it) we now create two triggers above that, one for Carl and one for Amy.<br>\n3) Amy's goes on the stack with Carl's above that. Carl's resolves first and Becky chooses not to tap her Vampire so Carl gets a token. Before moving onto Amy's trigger (which has Amy's previous trigger below it, with Becky's even older trigger below that) we now create two triggers above that, one for Amy and one for Becky.<br>\n4) Amy's is put on the stack first with Becky's above that. Becky's resolves first, and Carl chooses not to tap his Vampire, so Becky gets a token. Before we move onto Amy's trigger (which has two Amy triggers below it, and has Becky's original at the bottom) we now create two triggers above that, one for Carl and one for Amy.<br>\nThis repeats where Carl and Becky each get a creature and Amy's triggers just stack up not currently resolving (and the one Becky trigger at the very bottom not resolving either). If at some point one of the Conquerors leaves that battlefield, then each of Amy's triggers will resolve (along with the lone Becky trigger). Though what happens from there depends on which Conqueror went away. If Carl or Becky's Conqueror died, Amy should choose to have all her tokens become tapped so no more Vampires are made. This will roughly give each player the same number of Vampire tokens.<br>\nOr she could choose to make a deal with the player who still has a Conqueror and Amy and them could choose to make any number of Vampires in the same way as Question #16.<br>\nHowever, if Amy's Conqueror went away, things get weird again.<br>\nAmy must give a Vampire to Becky for each Vampire Amy makes. She has the option to give Carl anywhere from zero Vampires up to as many Vampires as Amy makes. Additionally, at any time, Becky can choose to make any number of additional Vampires with Carl in the same way as Question #16.<br>"
   }
 ]
