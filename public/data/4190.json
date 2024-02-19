@@ -1,0 +1,134 @@
+[
+  {
+    "imgs": [],
+    "q": "I just picked up <i>Ravnica: Clue Edition</i> from my local store. How do we play?",
+    "a": "The easiest comparison to make is that Clue Edition is a mashup with <b>Magi</b>c's <i>Jumpstart</i> product and the classic board game <i>Clue</i>. Before each game, each player will take two of the Clue Boosters and shuffle them together and that will be their deck for the game. Each booster is themed around one of the ten Ravnica guilds. However, instead of starting at 20 life, you'll be starting the game at 30 life.<br>\nAlso, before the game, you'll set aside the three types of evidence cards (suspect, weapon, and room cards), shuffle each pile separately, then put one card from each pile into the Case File Envelope. That'll represent who the suspect is, what weapon was used, and where the murder took place. You'll then reveal two of the room cards at random (so that's a bit of free information for everyone), then shuffle the remaining evidence cards together and deal them face down to each player in the game. You are allowed to look at these cards (and you'll know some of the cards that are not in the case file).<br>"
+  },
+  {
+    "imgs": [
+      "Senator Peacock",
+      "Rope",
+      "Ballroom"
+    ],
+    "q": "So how can I find out what evidence cards my opponents have?",
+    "a": "There's two ways to make a Suggestion and get information from your opponents. If you deal combat damage to an opponent, you must make a Suggestion - you pick one suspect, one weapon, and one room. For example, you could say \"I believe that <span class=\"autocard\">Senator Peacock</span> did it with the <span class=\"autocard\">Rope</span> in the <span class=\"autocard\">Ballroom</span>\". The damaged player will then look at their evidence cards and will show you (if able) one of those cards from their evidence cards. You can't choose to not show anything if you have a card to reveal, but there's also nothing preventing you from showing the player the same card multiple times (so if your opponent keeps saying \"<span class=\"autocard\">Rope</span>\", you can show them your Rope card each time). But as a bonus for the player who's showing their evidence card, when you show your evidence to another player, you'll create a Treasure token. We'll get to the other method shortly.<br>"
+  },
+  {
+    "imgs": [],
+    "q": "Since this is a multiplayer game, what if I deal combat damage to multiple opponents?",
+    "a": "You'll still make a single Suggestion, and the damaged player to your left will have to reveal a card from their collection of evidence cards first. If that player reveals one of their evidence cards to you, then no one else will reveal. If that player doesn't reveal any of their evidence to you, then you'll move to the next player you dealt combat damage to in turn order, and so on until either one of your opponents reveals one of their evidence cards or you run out of opponents that you dealt damage to.<br>"
+  },
+  {
+    "imgs": [],
+    "q": "What if I just can't deal combat damage to my opponents? Am I shut out of making a Suggestion?",
+    "a": "Nope, there's another chance for you to make a Suggestion. During the end step on your turn, if you haven't made a Suggestion yet that turn, you can exile cards from your graveyard with total mana value 6 or greater (similar to collect evidence 6 in the main set). If you do, then you'll get to make a Suggestion, but with all of your opponents, so the player to your left will be the first one to reveal, and if they don't reveal anything, the next player will have to reveal evidence, and so on.<br>"
+  },
+  {
+    "imgs": [],
+    "q": "Ok, I think I know what happened. How do I make an Accusation?",
+    "a": "During your end step, after a Suggestion has been made, you can then make an Accusation. You'll state who did it, with what weapon, and in what room the murder was done, and then look at the cards in the Case File Envelope. If those three cards match your Accusation, you win the game! But be careful - you can only make one Accusation each game. If you're wrong, you don't lose the game, but you do lose the ability to make any Suggestions or Accusations for the rest of the game.<br>"
+  },
+  {
+    "imgs": [],
+    "q": "So if I make a wrong Accusation, how can I win the game?",
+    "a": "You're still playing a game of <b>Magic</b>, so you can still win the same way you normally win a game of <b>Magic</b>. If you can kill all of your remaining opponents, you can still win the game that way.<br>"
+  },
+  {
+    "imgs": [],
+    "q": "What happens to my evidence cards when I lose the game?",
+    "a": "That information won't be lost forever for the remaining players in the game. When you lose, you'll reveal all of your evidence cards to the remaining players, who will get that information for free.<br>"
+  },
+  {
+    "imgs": [
+      "Mastermind Plum"
+    ],
+    "q": "What formats will the new cards from <i>Ravnica: Clue Edition</i> (like <span class=\"autocard\">Mastermind Plum</span>) be legal in?",
+    "a": "Those cards are going to be Eternal legal, so they'll be legal in formats like Vintage, Legacy, or Commander. They won't be legal in other formats, so don't expect to see <span class=\"autocard\">Mastermind Plum</span> in your next Standard, Pioneer, or Modern match.<br>"
+  },
+  {
+    "imgs": [
+      "Afterlife Insurance"
+    ],
+    "q": "Will <span class=\"autocard\">Afterlife Insurance</span> give anything that dies after it resolves (like the 1/1 Spirits from afterlife) afterlife 1 as well?",
+    "a": "No it will not. Afterlife Insurance only affects creatures you control when the spell resolves. It won't affect anything that enters after the Insurance resolves, so the Spirit tokens you get from afterlife will not also have afterlife 1 since they were not on the battlefield when Afterlife Insurance resolves.<br>"
+  },
+  {
+    "imgs": [
+      "Boros Strike-Captain"
+    ],
+    "q": "I have a <span class=\"autocard\">Boros Strike-Captain</span> in play, who previously exiled a card with its <i>battalion</i> trigger, but then my Strike-Captain dies. If I attack with three or more creatures on a later turn, can I play that exiled card?",
+    "a": "You can! The permission to play the exiled card is set up by the Strike-Captain's trigger resolving. That permission will still exist even if the Strike-Captain leaves play. If you don't play it on that turn, but attack with three or more creatures on another turn, you'll get access to the exiled card again, even if the Strike-Captain is no longer on the battlefield.<br>"
+  },
+  {
+    "imgs": [
+      "Conclave Evangelist"
+    ],
+    "q": "I attack with <span class=\"autocard\">Conclave Evangelist</span> and make myriad copies attacking my other opponents. If one of those tokens deals combat damage to a player, will that token be exiled to the myriad trigger at the end of combat as well?",
+    "a": "No, you'll keep that token. Only tokens made by the myriad trigger will be exiled at the end of combat. Any token made by that myriad token won't be exiled. You'll lose the myriad token copies at the end of combat, but any token copies made by your Evangelist or the myriad copies won't be exiled at the end of combat.<br>"
+  },
+  {
+    "imgs": [
+      "Covetous Elegy"
+    ],
+    "q": "I have five creatures in play. My opponent casts <span class=\"autocard\">Covetous Elegy</span>. Can I choose to sacrifice all of my creatures to prevent my opponent from getting extra Treasure tokens?",
+    "a": "Sure, that's fine. Covetous Elegy says each player needs to choose \"up to two creatures\" they control, and then sacrifice the rest of the creatures. \"Up to two\" means you can choose one or zero, which means you'll sacrifice more of your creatures, but also means that your opponent will create fewer Treasure tokens.<br>"
+  },
+  {
+    "imgs": [
+      "Herald of Ilharg",
+      "Ripscale Predator"
+    ],
+    "q": "I control a <span class=\"autocard\">Herald of Ilharg</span>. If I cast a <span class=\"autocard\">Ripscale Predator</span>, do I get counters or do I get to deal damage?",
+    "a": "You get both! You cast a creature spell, so you get the Herald's triggered ability. When it resolves, you always put two +1/+1 counters on the Herald. But since you cast a creature spell with a mana value of 5 or more, you also get the second effect, and after putting those counters on the Herald, you'll deal damage equal to the number of counters on the Herald to each of your opponents.<br>"
+  },
+  {
+    "imgs": [
+      "Furious Spinesplitter"
+    ],
+    "q": "I attack and deal combat damage to two of my opponents. Then, after combat, I cast <span class=\"autocard\">Furious Spinesplitter</span>. Will my Spinesplitter get two +1/+1 counters during my end step?",
+    "a": "Yep, it'll get two counters. Furious Spinesplitter doesn't need to be on the battlefield when an opponent is dealt damage. During the end step, when the trigger resolves, it will know about any opponent who was dealt damage that turn, even if that damage happened before Furious Spinesplitter entered the battlefield. Since two of your opponents were dealt damage this turn, Furious Spinesplitter will get two +1/+1 counters.<br>"
+  },
+  {
+    "imgs": [
+      "Memory Vampire",
+      "Wildsize"
+    ],
+    "q": "<span class=\"autocard\">Memory Vampire</span> says that any number of target players mill \"that many cards\". How do I determine how many cards will be milled?",
+    "a": "\"That many\" is referring to how much combat damage the Vampire just dealt to the defending player. Most of the time, that's going to be 4 damage, so the Vampire's trigger will cause any number of players to mill four cards. But if you increase the damage the Vampire deals (say, with a pump spell like <span class=\"autocard\">Wildsize</span>), then the Vampire's trigger can mill more cards.<br>"
+  },
+  {
+    "imgs": [
+      "Ordruun Mentor"
+    ],
+    "q": "Can <span class=\"autocard\">Ordruun Mentor</span> give itself first strike when it attacks?",
+    "a": "Yes it can. If the Mentor itself is one of your attacking creatures, assuming it's attacking a player (and not a planeswalker), it's a legal target for its own trigger, and the Mentor can give itself first strike for the turn.<br>"
+  },
+  {
+    "imgs": [
+      "Sludge Titan"
+    ],
+    "q": "I want to attack with my <span class=\"autocard\">Sludge Titan</span>, but I don't have very many cards left in my library. Can I just ignore the attack trigger and not mill any cards?",
+    "a": "Sorry, but no. Sludge Titan's trigger isn't optional - if you attack with the Titan, you must mill five cards. Returning a creature card from graveyard to your hand is optional, but you'll have to mill whenever Sludge Titan attacks, so keep an eye on your library.<br>"
+  },
+  {
+    "imgs": [
+      "Commander Mustard"
+    ],
+    "q": "If I activate <span class=\"autocard\">Commander Mustard</span>'s ability twice, will my Soldiers deal 2 damage when they attack?",
+    "a": "Yep, they will. Each of your Soldiers will have two instances of the attack trigger, and each instance will trigger when the Soldier attacks. If you activate Commander Mustard's ability twice, then attack with three Soldiers, your opponent will take a total of 6 damage from the triggers.<br>"
+  },
+  {
+    "imgs": [
+      "Emissary Green"
+    ],
+    "q": "If one of my opponents attacks with <span class=\"autocard\">Emissary Green</span>, will I know the other players' votes before I vote?",
+    "a": "With Emissary Green's trigger, we don't hide the votes as they happen. Each player, starting with the attacking player, will vote for profit or security. You'll know their vote (as well as the vote for any player before you in the turn order) before you make your own vote.<br>"
+  },
+  {
+    "imgs": [
+      "Mastermind Plum"
+    ],
+    "q": "Can <span class=\"autocard\">Mastermind Plum</span> exile a card from anyone's graveyard, or just my own graveyard?",
+    "a": "You can exile a card from anyone's graveyard. If you have an artifact card in your graveyard, you may want to exile it so you can make the Treasure token. But if an opponent has an artifact card in their graveyard (or just something in general that you'd like to get rid of), you can exile a card from an opponent's graveyard instead of your graveyard.<br>"
+  }
+]
