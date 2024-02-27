@@ -1,0 +1,189 @@
+[
+  {
+    "imgs": [
+      "Alpine Moon",
+      "Urza's Saga"
+    ],
+    "q": "On turn 1 of a game I cast <span class=\"autocard\">Alpine Moon</span> naming <span class=\"autocard\">Urza's Saga</span>. On the following turn, my opponent plays an <span class=\"autocard\">Urza's Saga</span>. What happens to my opponent's Urza's Saga?",
+    "a": "Alpine Moon strips the Urza's Saga of all its abilities. However, it will still be an enchantment with the Saga subtype. The game will see it enter the battlefield with no chapters and one lore counter. Rule 714.4 will see a Saga with as many or more lore counters as that saga has chapters, but no triggered ability on the stack caused by a lore counter being put on that Saga, so without using the stack the game will force the Saga's controller to sacrifice it. This means the opponent will have no chance to even tap the Saga for mana before it gets sacrificed. <br>"
+  },
+  {
+    "imgs": [
+      "Bear Cub",
+      "Forest",
+      "Lightning Bolt",
+      "Tarmogoyf",
+      "bear cub",
+      "forest"
+    ],
+    "q": "Across all graveyards there are currently only two cards: <span class=\"autocard\">Bear Cub</span> and a <span class=\"autocard\">Forest</span>. If my opponent tries to <span class=\"autocard\">Lightning Bolt</span> my <span class=\"autocard\">Tarmogoyf</span>, will it survive?",
+    "a": "Like Gloria Gaynor, the Goyf will survive. The last thing a spell does before state-based actions are checked is go to the graveyard. So Lightning Bolt deals 3 damage to Goyf, then Lightning Bolt goes to the graveyard, then state-based actions are checked. By the time the game checks to see if the Goyf died to the 3 damage, it will be at 4 toughness: 1 (<span class=\"autocard\">bear cub</span>) +1 (<span class=\"autocard\">forest</span>) +1 (<span class=\"autocard\">Lightning Bolt</span>) +1 (base toughness) = 4.<br>"
+  },
+  {
+    "imgs": [
+      "Inquisition of Kozilek",
+      "Fire // Ice"
+    ],
+    "q": "I've just cast <span class=\"autocard\">Inquisition of Kozilek</span> and my opponent reveals their hand. Can I make them discard the <span class=\"autocard\">Fire // Ice</span> in their hand?",
+    "a": "You can't make a player discard Fire // Ice with Inquisition of Kozilek. In all zones other than the stack, a split card like Fire // Ice has a mana value equal to both halves added together. So with Fire // Ice that makes it a mana value of 4.<br>"
+  },
+  {
+    "imgs": [
+      "Urza's Saga",
+      "Arcbound Mouser"
+    ],
+    "q": "When I resolve the last trigger of <span class=\"autocard\">Urza's Saga</span>, can I grab a <span class=\"autocard\">Arcbound Mouser</span> from my library and put it on the battlefield?",
+    "a": "You can't. Urza's Saga's last chapter says to find an artifact with a mana cost of <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\"> or <img src=\"/ci-reader/images/symbols/0.png\" class=\"mana\">, not a mana value of 1 or less. This is rather subtle, but mana cost is the actual thing printed at the top right of a normal <b>Magic</b> card, whereas mana value is equal to the total amount of mana in the mana cost regardless of color. The mana value of Arcbound Mouser is 1, but its mana cost is <img src=\"/ci-reader/images/symbols/W.png\" class=\"mana\">, not <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\">. <br>"
+  },
+  {
+    "imgs": [
+      "Agatha's Soul Cauldron",
+      "Arcbound Ravager",
+      "Arcbound Worker",
+      "Rakdos Charm"
+    ],
+    "q": "I've tapped my <span class=\"autocard\">Agatha's Soul Cauldron</span> to exile the <span class=\"autocard\">Arcbound Ravager</span> from my graveyard and place a +1/+1 counter on my <span class=\"autocard\">Arcbound Worker</span>. My opponent responds by exiling my graveyard by casting <span class=\"autocard\">Rakdos Charm</span>. My opponent claims my Worker doesn't get the +1/+1 counter, but I'm sure it still gets the counter. Who is right?",
+    "a": "Your opponent is correct. Most spells or abilities that have more than one target will still try to complete as many actions as they can if they lose one or more targets but still have at least one target. However, Agatha's tap ability is really two separate abilities. Part one is the tap ability to exile a card in a graveyard, part two is a reflexive ability that only triggers if the first part happens. You don't actually chose the target to get the counter until after the card in the graveyard gets exiled by Agatha's Soul Cauldron. <br>"
+  },
+  {
+    "imgs": [
+      "The Ozolith",
+      "Hardened Scales",
+      "Arcbound Worker",
+      "Arcbound Mouser",
+      "Arcbound Ravager"
+    ],
+    "q": "I control <span class=\"autocard\">The Ozolith</span> with no counters on it, <span class=\"autocard\">Hardened Scales</span>, an <span class=\"autocard\">Arcbound Worker</span> with one +1/+1 counter on it, an <span class=\"autocard\">Arcbound Mouser</span> with one +1/+1 counter on it, and an <span class=\"autocard\">Arcbound Ravager</span> with one +1/+1 counter on it. Assuming that I move all +1/+1 counters to Ravager when I can, if I sacrifice Worker and Mouser to Ravager before moving to combat, how big will Ravager be if I attack with it this turn?",
+    "a": "It would be a 12/12.<br>\nRavager eats Worker, giving itself two +1/+1 counters. The Worker dying puts two more +1/+1 counters onto the Ravager (making a total of five so far). The Worker dying also puts one +1/+1 counter on The Ozolith.<br>\nRavager eats Mouser, giving iteself two +1/+1 counters. The Mouser dying puts two more +1/+1 counters onto the Ravager (making a total of nine so far). The Mouser dying also puts one +1/+1 counter on The Ozolith (making a total of two so far).<br>\nAt the beginning of combat, The Ozolith will attempt to move its two +1/+1 counters onto Ravager, but this is increased to adding three counters because of Hardened Scales. 9 + 3 = 12. <br>"
+  },
+  {
+    "imgs": [
+      "Archive Trap",
+      "Field of Ruin",
+      "Xander's Lounge"
+    ],
+    "q": "My opponent knows they have no basic lands left in their deck and they suspect I have an <span class=\"autocard\">Archive Trap</span> in my hand. If I use <span class=\"autocard\">Field of Ruin</span> on their <span class=\"autocard\">Xander's Lounge</span> can they choose not to search their library to prevent my Archive Trap from becoming free?",
+    "a": "Field of Ruin forces each player to search their library, even if they physically don't look through their library (such as skipping right to shuffling their library as they know there are no basics left to fetch). If Field of Ruin's ability resolved this turn, your Archive Traps will be free to cast until end of turn.<br>"
+  },
+  {
+    "imgs": [
+      "Tormod's Crypt",
+      "Shardless Agent",
+      "Crashing Footfalls",
+      "Drown in the Loch"
+    ],
+    "q": "My opponent controls <span class=\"autocard\">Tormod's Crypt</span> and has five cards in their graveyard. My opponent casts <span class=\"autocard\">Shardless Agent</span> cascading into <span class=\"autocard\">Crashing Footfalls</span>. I then cast <span class=\"autocard\">Drown in the Loch</span> to counter the Footfalls. The opponent responds to that by exiling their own graveyard with <span class=\"autocard\">Tormod's Crypt</span>. Do I still counter the Footfalls?",
+    "a": "You do! The mana value of Crashing Footfalls is 0. When an opponent has no cards in their graveyard, Drown in the Loch can counter any spell with mana value 0 or less (so really only spells with mana value 0).<br>"
+  },
+  {
+    "imgs": [
+      "Lightning Bolt",
+      "Extirpate"
+    ],
+    "q": "My opponent has a <span class=\"autocard\">Lightning Bolt</span> in their graveyard and they begin to cast a Lightning Bolt from their hand. Can I cast <span class=\"autocard\">Extirpate</span> to stop the Lightning Bolt they are attempting to cast?",
+    "a": "You can't do that. Once a player begins to cast a spell, the first thing they do is put that card on the stack and you won't get a chance to cast any instants (even those with Split Second) until after it's already on the stack and they have paid all costs.  <br>\nStrategy Bonus: If you wait until after a player draws their card for the turn and they attempt to move to their first main phase, you can Extirpate any instant in their graveyard, hopefully grabbing any copies of that card they may have just drawn, and they can't respond with casting that instant because you have priority and Extirpate has split second.<br>"
+  },
+  {
+    "imgs": [
+      "Chalice of the Void",
+      "Shattering Spree"
+    ],
+    "q": "My opponent controls a <span class=\"autocard\">Chalice of the Void</span> with one charge counter on it. If I cast <span class=\"autocard\">Shattering Spree</span> replicating it once and having both the original and the copy target the Chalice, will I destroy the Chalice?",
+    "a": "You will. When a spell gets replicated, the copies it makes are made when the initial spell is cast, not when it resolves, and exist independent of the original spell. These copies are not cast, but are just placed on the stack. These copies can be countered, but each one must be countered separately from each other and from the original spell. <br>\nChalice of the Void triggers each time a spell with the correct mana value is cast, the copies from replicate are not cast, so Chalice won't trigger for them. <br>\nThe copies from replicate resolve before the original spell. <br>"
+  },
+  {
+    "imgs": [
+      "Aether Vial",
+      "Goblin Bushwhacker"
+    ],
+    "q": "I have two <span class=\"autocard\">Aether Vial</span>s, one with one charge counter and one with two charge counters. Can I use the one with two counters to put a kicked <span class=\"autocard\">Goblin Bushwhacker</span> onto the battlefield? Can I use the one with one counter to put a Goblin Bushwhacker onto the battlefield and pay <img src=\"/ci-reader/images/symbols/R.png\" class=\"mana\"> to kick it?",
+    "a": "No and No. Aether Vial puts a creature onto the battlefield and isn't casting it. Kicker is an additional cost to casting a spell. You can only kick a spell if you are casting it. There is no way to combine Aether Vial and kicker.<br>"
+  },
+  {
+    "imgs": [
+      "Warren Instigator",
+      "Goblin Chieftain"
+    ],
+    "q": "<span class=\"autocard\">Warren Instigator</span> is my only attacking creature. If during its first strike hit I put a <span class=\"autocard\">Goblin Chieftain</span> onto the battlefield with the Instigator's trigger, will the Instigator hit for 2 damage during the normal damage step of this turn?",
+    "a": "Yes, the Chieftain will pump the Instigator in time to make Instigator strike for 2 damage during the normal damage step.<br>"
+  },
+  {
+    "imgs": [
+      "Time Warp"
+    ],
+    "q": "It's currently my turn during a Modern tournament when time is called. Both the opponent and I each have one game win so far this match. The opponent and I are told by a judge we only have five more turns to win or the match will end in a draw. What happens if I cast three <span class=\"autocard\">Time Warp</span>s before passing the turn?",
+    "a": "Assuming no other extra turn spells are cast, you will get turns 1, 2, 3, then the opponent will get turn 4, and you will get the final turn 5. If neither of you win during those turns, then the match still ends in a draw. The five turns during time are across both players, not necessarily distributed evenly. It's possible for this extra turns deck to take all five of the turns during time. <br>"
+  },
+  {
+    "imgs": [
+      "Thoughtseize",
+      "Remand",
+      "Temporal Mastery",
+      "Island"
+    ],
+    "q": "During my opponent's turn they cast <span class=\"autocard\">Thoughtseize</span>, so I respond by <span class=\"autocard\">Remand</span>ing it. I happen to draw <span class=\"autocard\">Temporal Mastery</span> with the Remand. This is the first card I've drawn this turn and I have two untapped <span class=\"autocard\">Island</span>s, can I miracle it even though it's not my turn?",
+    "a": "Yes you can. Miracle's only limitations are that it must be the first card you draw in that turn, you must reveal the card as you draw it, and you must be able to pay its miracle cost.<br>"
+  },
+  {
+    "imgs": [
+      "Island",
+      "Minamo, School at Water's Edge",
+      "Nykthos, Shrine to Nyx"
+    ],
+    "q": "My current devotion to blue is five. I currently control two <span class=\"autocard\">Island</span>s, <span class=\"autocard\">Minamo, School at Water's Edge</span>, and <span class=\"autocard\">Nykthos, Shrine to Nyx</span>. What's the most mana I can make?",
+    "a": "Seven mana, all blue. Tap the two Islands to activate Nykthos. This will make five mana. Then use one of the five mana and Minamo to untap Nykthos. You now have four mana. Use two of the floating mana to activate Nykthos a second time. This reduces you to two mana, but then adds five more for a total of seven.<br>"
+  },
+  {
+    "imgs": [
+      "Kaldra Compleat",
+      "Bear Cub",
+      "Darksteel Plate"
+    ],
+    "q": "My 0/0 Germ wielding <span class=\"autocard\">Kaldra Compleat</span> is blocked by my opponent's <span class=\"autocard\">Bear Cub</span>. Does the Bear Cub go the graveyard or get exiled?",
+    "a": "The exile ability granted by Kaldra Compleat is a trigger that only works on creatures still on the battlefield when the trigger resolves. So the Bear Cub will just go to the graveyard and not get exiled. If the Bear Cub was made indestructible by, say, wearing <span class=\"autocard\">Darksteel Plate</span>, then it would survive being dealt 5 combat damage and then get exiled by the Germ.<br>"
+  },
+  {
+    "imgs": [
+      "Ghost Quarter",
+      "Flagstones of Trokair",
+      "Plains",
+      "Mistveil Plains"
+    ],
+    "q": "If I <span class=\"autocard\">Ghost Quarter</span> my own <span class=\"autocard\">Flagstones of Trokair</span> can I put a normal <span class=\"autocard\">Plains</span> and a <span class=\"autocard\">Mistveil Plains</span> onto the battlefield from my library?",
+    "a": "Yes, you can. Flagstones of Trokair lets you get any land with the Plains subtype — not just basic Plains — and Ghost Quarter will get you a basic Plains.<br>"
+  },
+  {
+    "imgs": [
+      "Cleansing Nova"
+    ],
+    "q": "If I cast <span class=\"autocard\">Cleansing Nova</span> does my opponent get to know which mode I'm choosing in time to respond before it resolves?",
+    "a": "Yes, they do. The mode of a spell like Cleansing Nova is decided after the spell is put on the stack but before any targets are chosen. Before the spell will resolve, each player will get priority at least once, giving them a chance to cast spells and activate abilities, fully knowing which mode or modes where chosen for the spell.<br>"
+  },
+  {
+    "imgs": [
+      "Narset, Parter of Veils",
+      "Jace, the Mind Sculptor"
+    ],
+    "q": "My opponent controls <span class=\"autocard\">Narset, Parter of Veils</span> and I currently have three cards in hand. During my first main phase, I activate <span class=\"autocard\">Jace, the Mind Sculptor</span>'s +0 ability. What happens when that ability resolves?",
+    "a": "You would draw zero cards (as you already drew the one card you could draw this turn during your draw step), then you will take two of the three cards in your hand and place them on top of your library in an order of your choosing.<br>"
+  },
+  {
+    "imgs": [
+      "Crashing Footfalls",
+      "Echoing Truth"
+    ],
+    "q": "Do tokens have names? My opponent has two 4/4 Rhino tokens from casting <span class=\"autocard\">Crashing Footfalls</span> and I need to know if I <span class=\"autocard\">Echoing Truth</span> one token, will the other get bounced as well?",
+    "a": "Tokens do have names. If the name is not specified by the ability or spell that made it, then its name is its creature types with the word \"Token\" stapled onto the end. In the case of the Footfalls tokens, their name is \"Rhino Token\". So yes, if you Echoing Truth one Rhino token, you will also bounce the other Rhino Token.<br>"
+  },
+  {
+    "imgs": [
+      "Detention Sphere",
+      "Omnath, Locus of Creation",
+      "Leyline of Binding",
+      "Oblivion Ring",
+      "Banishing Light"
+    ],
+    "q": "My <span class=\"autocard\">Detention Sphere</span>'s enter the battlefield trigger is targeting my opponent's <span class=\"autocard\">Omnath, Locus of Creation</span>. Before that trigger can resolve, my opponent responds by <span class=\"autocard\">Leyline of Binding</span> the Detention Sphere. My opponent thinks his Omnath will never leave the battlefield and I'm convinced the Omnath just got permanently exiled. Who is right?",
+    "a": "You are correct, the Omnath is on a one way journey to exile. What might be confusing your opponent is the difference between <span class=\"autocard\">Oblivion Ring</span> and <span class=\"autocard\">Banishing Light</span>. <br>\nWhat just happened to Omnath is sometimes called the Oblivion Ring trick. Oblivion Ring has two separate triggered abilities, an enters the battlefield trigger and a leaves the battlefield trigger. If the leaves battlefield trigger resolves before the enters the battlefield trigger does, then the game will try to return something that hasn't left yet, and then will exile that thing permanently. Detention Sphere works just like this if it's destroyed before it exiles anything.<br>\nTo prevent this silly thing from happening, newer cards are worded like <span class=\"autocard\">Banishing Light</span> now, where instead of two different triggers there is only one trigger, but that trigger has a built in duration. If you destroy a Banishing Light style card before it exiles anything, then its duration was ended before it began so nothing gets exiled ever. This means cards like Banishing Light can't do the \"Oblivion Ring Trick\".  <br>"
+  }
+]
