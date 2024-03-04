@@ -1,0 +1,153 @@
+[
+  {
+    "imgs": [],
+    "q": "So, are those <i>Fallout</i> cards going to be legal in Standard?",
+    "a": "No. Just like all Commander products, <i>Fallout</i> is not a set release that enters into Standard or Modern. The new-to-<b>Magic</b> cards from <i>Fallout</i> are only legal in Eternal formats, i.e. Commander, Legacy, or Vintage, and the reprints of previously released cards are legal in whichever formats they were already legal. <br>"
+  },
+  {
+    "imgs": [
+      "Megaton's Fate",
+      "T-45 Power Armor",
+      "Contagion Clasp"
+    ],
+    "q": "If I have both <span class=\"autocard\">Megaton's Fate</span> and <span class=\"autocard\">T-45 Power Armor</span> on me and <span class=\"autocard\">Contagion Clasp</span> can I choose to proliferate only the energy counter on me?",
+    "a": "No. If you choose to include yourself in the set of players to add counters to, you have to add one of each type of counter that's already on you. In this case, your choice is to add both a rad counter and an energy counter, or to add neither. <br>"
+  },
+  {
+    "imgs": [
+      "Junk Jet"
+    ],
+    "q": "I sacrifice a <span class=\"autocard\">Junk Jet</span> and exile a creature card from the top of my library. When can I play that card?",
+    "a": "You can play that card during the current turn, but only at a time when you can normally cast a creature spell, which means it has to be during one of your main phases and when the stack is empty. The reason for this is that the effect from the Junk token's ability specifies a duration of \"this turn\", so it only creates a continuous effect that allows you to play the card from an unusual zone, namely the exile zone. Everything else about playing the card follows the normal rules, so you have to pay any applicable costs and you have to obey the applicable timing rules. <br>"
+  },
+  {
+    "imgs": [
+      "Luck Bobblehead"
+    ],
+    "q": "In what color decks can I play the <span class=\"autocard\">Luck Bobblehead</span>?",
+    "a": "The Bobbleheads can be played in a deck of any color identity. Even though they can create mana of any color, they don't have a color and they don't mention any colored mana symbols in their rules text. This means that their color identity is colorless, which is always a subset of your commander's color identity regardless of what that color identity is. <br>"
+  },
+  {
+    "imgs": [
+      "The Wise Mothman"
+    ],
+    "q": "Does <span class=\"autocard\">The Wise Mothman</span>'s ability only trigger when I mill cards, or does it trigger for any player?",
+    "a": "It triggers for any player. Note that the trigger condition says \"Whenever one or more nonland cards are milled\", not \"Whenever you mill one or more nonland cards\", so it doesn't matter who is doing the milling. <br>"
+  },
+  {
+    "imgs": [
+      "Raul, Trouble Shooter",
+      "The Wise Mothman"
+    ],
+    "q": "So, wait, what if multiple players mill at the same time with <span class=\"autocard\">Raul, Trouble Shooter</span> and they each mill a nonland card? How many times does <span class=\"autocard\">The Wise Mothman</span>'s ability trigger?",
+    "a": "It triggers just once. Since the trigger condition doesn't say \"whenever a player mills one or more nonland cards\", the ability looks for any number of nonland cards being milled by any player or combination of players in a single event. Raul's ability causes each player to mill a card simultaneously rather than individually, so all cards are getting milled in a single event, which triggers the ability just once.<br>"
+  },
+  {
+    "imgs": [
+      "Undead Alchemist",
+      "The Wise Mothman"
+    ],
+    "q": "If I make my opponent mill cards with <span class=\"autocard\">Undead Alchemist</span> and the cards are getting exiled, does that still trigger <span class=\"autocard\">The Wise Mothman</span>'s ability?",
+    "a": "It sure does. Undead Alchemist's ability that exiles the milled cards is a triggered ability, not a replacement effect, so the cards hit the graveyard first and trigger The Wise Mothman's ability before they get exiled. Also, even if a replacement effect were to change where the milled cards go, The Wise Mothman's ability would still trigger, since it just triggers off of cards getting milled and doesn't care in which zone the cards ended up.<br>"
+  },
+  {
+    "imgs": [
+      "V.A.T.S.",
+      "Coral Trickster"
+    ],
+    "q": "My opponent is targeting several 2/2 creatures of mine with <span class=\"autocard\">V.A.T.S.</span>. One of those 2/2s is a face-down <span class=\"autocard\">Coral Trickster</span>. In response, I turn the Trickster face up. What happens to V.A.T.S.?",
+    "a": "First off, I'll start by reassuring you that what you did is legal in the first place. Even though V.A.T.S. has split second, you can still activate mana abilities and take special actions such as turning a face-down creature face up. When V.A.T.S. goes to resolve, it rechecks the legality of its targets and it sees that one of its targets now has a different toughness than the others, which means that the set of targets is no longer a set of target creatures with equal toughness. Therefore, none of the targets are legal and V.A.T.S fails to resolve.<br>"
+  },
+  {
+    "imgs": [
+      "V.A.T.S.",
+      "Chalice of the Void"
+    ],
+    "q": "My opponent claims that they can make a spell uncounterable by holding priority and responding to it with <span class=\"autocard\">V.A.T.S.</span> since that essentially shuts off the stack. Is that true?",
+    "a": "That's not even a little bit true. While it's true that V.A.T.S. has split second, it doesn't shut off the stack. For one, things can still go on the stack above V.A.T.S., most notably triggered abilities, and a <span class=\"autocard\">Chalice of the Void</span> on four counters would have no problem countering V.A.T.S., for example. Split second merely restricts what you can do while V.A.T.S. is on the stack, possibly to the point of not being able to do anything at all, but that restriction only lasts while it's on the stack. After V.A.T.S. has left the stack, probably by resolving, there still has to be a round of priority passes before your opponent's supposedly uncounterable spell can resolve, and that gives you the opportunity to respond and counter that spell. <br>"
+  },
+  {
+    "imgs": [
+      "Autonomous Assembler",
+      "Curie, Emergent Intelligence"
+    ],
+    "q": "I control an <span class=\"autocard\">Autonomous Assembler</span> that I cast for its prototype cost, and I exile it with <span class=\"autocard\">Curie, Emergent Intelligence</span> to make Curie into a copy of it. Does Curie become 2/2 or 4/5?",
+    "a": "It'll only be 2/2. Curie takes on the copiable values of the creature as it existed on the battlefield, not as it exists in the exile zone. Since the prototype ability replaces the copiable characteristics of the permanent with its alternative values, Curie's copy effect sees the 2/2 prototype rather than the 4/5 creature. <br>"
+  },
+  {
+    "imgs": [
+      "Walking Ballista"
+    ],
+    "q": "Can I have both <span class=\"autocard\">Walking Ballista</span> and <span class=\"autocard\">Walking Ballista</span> in the same Commander deck?",
+    "a": "No. Assaultron Invader is not only functionally identical to Walking Ballista, as far as the game rules and tournament rules are concerned it actually has the same card name for all purposes, including deck legality. Assaultron Invader is an alternative name for the <i>Fallout</i> printing, but if you look closely, the official name of Walking Ballista is printed underneath that alternative name. <br>"
+  },
+  {
+    "imgs": [
+      "Mr. House, President and CEO"
+    ],
+    "q": "How does <span class=\"autocard\">Mr. House, President and CEO</span>'s triggered ability work?",
+    "a": "It's actually pretty straightforward. Any time you roll some number of dice, House's ability looks at each individual die's result and triggers accordingly if you rolled a 4 or higher. Let's say for example you activate its second ability and you spend two mana from Treasures to do so, so you roll three six-sided dice. If you roll a 4, a 5, and a 6, the first ability triggers three times, you'll make three Robot tokens and one Treasure token.<br>"
+  },
+  {
+    "imgs": [
+      "Mr. House, President and CEO",
+      "Danse Macabre"
+    ],
+    "q": "So, what if I control <span class=\"autocard\">Mr. House, President and CEO</span> and I cast <span class=\"autocard\">Danse Macabre</span> and sacrifice a creature with toughness 4 to it?",
+    "a": "You'll be guaranteed a trigger from House, and it's <i>very</i> likely you'll get both a Robot and a Treasure for your trouble. House's ability looks at the result of the die roll, which includes the toughness of the creature that Danse Macabre tells you to add to the die. Since you sacrificed a creature with toughness 4, the result that House's ability sees is guaranteed to be at least 5, and there's a 95% probability of the result being 6 or higher. <br>"
+  },
+  {
+    "imgs": [
+      "Mr. House, President and CEO",
+      "Rings of Brighthearth"
+    ],
+    "q": "I control <span class=\"autocard\">Mr. House, President and CEO</span>, activate its second ability using four mana from Treasures, and then use <span class=\"autocard\">Rings of Brighthearth</span> to copy House's ability. How many dice do I roll with the copy of the ability?",
+    "a": "Just one. While the value of choices you made while activating the original ability get copied, House's ability isn't asking about a choice you made. It's asking how much mana from Treasures was spent to activate the ability. Since the copy wasn't activated at all, no mana at all was spent to activate the ability, let alone mana from Treasures. <br>"
+  },
+  {
+    "imgs": [
+      "Three Dog, Galaxy News DJ",
+      "Ghostblade Eidolon"
+    ],
+    "q": "I control <span class=\"autocard\">Three Dog, Galaxy News DJ</span> and it is enchanted with a bestowed <span class=\"autocard\">Ghostblade Eidolon</span>. If I sacrifice the Eidolon to Three Dog's triggered ability, do the attacking creatures get Ghostblade Eidolon token Auras attached to them?",
+    "a": "No. Unlike the prototype question above, bestow does not change the copiable values of the permanent that the spell becomes, so the token copies that Three Dog's ability makes are Ghostblade Eidolon creature tokens. Three Dog's ability tries to attach those tokens to your attacking creatures, but that's impossible, so the ability does as much as it can and the tokens enter the battlefield not attached to anything. <br>"
+  },
+  {
+    "imgs": [
+      "Securitron Squadron"
+    ],
+    "q": "I cast <span class=\"autocard\">Securitron Squadron</span> and pay its squad cost twice. What happens?",
+    "a": "First, the original Securitron Squadron enters the battlefield, which triggers its squad ability that makes two token copies of it. Those two token copies enter the battlefield simultaneously, and they trigger a whole bunch of enter-the-battlefield abilties since they both see each other and themselves enter the battlefield, and the original Securitron Squadron sees them entering as well. Overall, each of the tokens is seen entering by three Securitron Squadrons, so they each get three +1/+1 counters. In the end, you'll have a 2/2 original and two 5/5 tokens.<br>"
+  },
+  {
+    "imgs": [
+      "Doubling Season",
+      "Recon Craft Theta"
+    ],
+    "q": "If I control <span class=\"autocard\">Doubling Season</span> and play <span class=\"autocard\">Recon Craft Theta</span>, what happens?",
+    "a": "Recon Craft Theta's enter the battlefield ability wants to create a 0/0 Alien token, which Doubling Season doubles to two tokens, and the instruction to put a +1/+1 counter on <i>it</i> becomes an instruction to put a +1/+1 counter on each of those tokens. Those counters get doubled to two counters each, so you'll have two 2/2 Alien tokens. <br>"
+  },
+  {
+    "imgs": [
+      "Doubling Season",
+      "Preston Garvey, Minuteman"
+    ],
+    "q": "I control <span class=\"autocard\">Doubling Season</span> and <span class=\"autocard\">Preston Garvey, Minuteman</span>'s first ability triggers. Can I attach Settlement tokens to two lands?",
+    "a": "No, you'll attach two tokens to one land, which is not nearly as useful as attaching one token to each of two lands. Preston Garvey's ability has a target, and the resolution of the ability instructs you to attach the Settlement token to that target land. Doubling Season changes that to two tokens, but they both become attached to that target land. This means that the land has two instances of the ability that lets you tap it for one mana of any color, which is not any more useful than just having one instance of that ability. <br>"
+  },
+  {
+    "imgs": [
+      "Yes Man, Personal Securitron",
+      "Rings of Brighthearth"
+    ],
+    "q": "I control <span class=\"autocard\">Yes Man, Personal Securitron</span> and <span class=\"autocard\">Rings of Brighthearth</span>, and I have one opponent left. If I activate Yes Man's ability and copy the ability with Rings of Brighthearth, do I get to draw four cards?",
+    "a": "Yes, that works. Nothing in Yes Man's ability requires that gaining control of it actually changes its controller. It only requires that a control-changing effect can be established, which requires Yes Man to be on the battlefield and that the opponent is a legal target. As long as those conditions are met, the control-changing effect gets established and the reflexive trigger triggers even if that opponent already controls Yes Man at that time due to the earlier resolution of the identical ability.<br>"
+  },
+  {
+    "imgs": [
+      "Sierra, Nuka's Biggest Fan"
+    ],
+    "q": "If I deal combat damage to three opponents, does <span class=\"autocard\">Sierra, Nuka's Biggest Fan</span>'s ability trigger three times?",
+    "a": "It does! While the number of creatures that deal damage to a particular player doesn't matter, the trigger condition includes the player being dealt damage, so dealing combat damage to three players triggers three separate instances of Sierra's first ability. <br>"
+  }
+]
