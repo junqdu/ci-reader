@@ -1,0 +1,156 @@
+[
+  {
+    "imgs": [
+      "Arcade Gannon",
+      "Lotus Petal"
+    ],
+    "q": "If I just cast <span class=\"autocard\">Arcade Gannon</span>, could I immediatley cast a <span class=\"autocard\">Lotus Petal</span> from my graveyard using his ability?",
+    "a": "Yes you can. Arcade Cannon enters the battlefield with zero quest counters on it, but Lotus Petal's mana value is 0, which is less than or equal to the number of quest counters on Arcade Gannon. You'll be able to take advantage of his ability as soon as he enters the battlefield if you have an artifact card (or Human card, but that seems less likely) with a mana value of 0 in your graveyard you want to cast.<br>"
+  },
+  {
+    "imgs": [
+      "Ilharg, the Raze-Boar",
+      "Agent Frank Horrigan"
+    ],
+    "q": "If I attack with <span class=\"autocard\">Ilharg, the Raze-Boar</span> and put <span class=\"autocard\">Agent Frank Horrigan</span> onto the battlefield tapped and attacking, will he be indestructible?",
+    "a": "No, he will not be indestructible. Frank has to be declared as an attacker to be indestructible. He won't become indestructible if he's put onto the battlefield attacking, so while Frank will be an attacking creature in this scenario, he won't be indestructible. <br>\nLikewise, his last ability will only trigger once, not twice. You get one trigger since Frank enters the battlefield, but since he wasn't declared as an attacker, you don't get a second trigger.<br>"
+  },
+  {
+    "imgs": [
+      "Liberty Prime, Recharged"
+    ],
+    "q": "I currently have no energy counters. Can I attack with <span class=\"autocard\">Liberty Prime, Recharged</span>, then activate its ability to produce two energy to pay for its triggered ability?",
+    "a": "Sure. Since Liberty Prime has vigilance, it won't tap when it attacks, which means that you'll be able to attack with it, then activate Liberty Prime's activated ability and sacrifice an artifact to produce the two energy you need to pay for the triggered ability.<br>"
+  },
+  {
+    "imgs": [
+      "Branch of Vitu-Ghazi"
+    ],
+    "q": "I control a disguised <span class=\"autocard\">Branch of Vitu-Ghazi</span>. If my opponent attacks and I block with my disguised Branch, then turn it face up, what happens?",
+    "a": "When your disguised creature is turned face up, we see that it's a land. Since it's not a creature, the Branch is immediately removed from combat. But even though the Branch is no longer in combat, the attacking creature that it blocked is still considered blocked, and it won't assign or deal any damage in combat (unless the attacking creature has trample).<br>"
+  },
+  {
+    "imgs": [
+      "Anzrag, the Quake-Mole"
+    ],
+    "q": "I control a cloaked <span class=\"autocard\">Anzrag, the Quake-Mole</span>. I attack with it, and my opponent blocks it. If it turn my Anzrag face up, do I get its triggered ability and another combat phase?",
+    "a": "No, you don't get the trigger. Anzrag's ability triggers when it becomes blocked. It needs to have that ability when blockers are declared in order for it to trigger. You're free to turn it face up after blockers are declared, but that won't go back and make its ability trigger. If you want the trigger, Anzrag needs to be face up when blockers are declared.<br>"
+  },
+  {
+    "imgs": [
+      "Anzrag, the Quake-Mole"
+    ],
+    "q": "I control <span class=\"autocard\">Anzrag, the Quake-Mole</span>, and I've given it menace. I activate Anzrag's ability, then I attack with it. What happens next?",
+    "a": "Well, that depends on how many creatures your opponent could block with. If your opponent only has one blocker, then they can't choose to block Anzrag - you have to fulfill as many requirements as possible without violating any restrictions, and while Anzrag must be blocked if able, menace makes it so it must be blocked by at least two creatures. Since your opponent only has one blocker, that creature can't block Anzrag and can block another attacking creature (or not block at all).<br>\nBut if your opponent has two or more creatures that could block, then they have to block Anzrag with at least two of their creatures. They can't choose to not block Anzrag in this case since blocking it with two creatures will fulfill the requirement of \"Anzrag must be blocked\" and won't violate the restriction from menace of \"must be blocked by at least two creatures\", so your opponent will be forced to block Anzrag with at least two creatures.<br>"
+  },
+  {
+    "imgs": [
+      "Aurelia's Vindicator",
+      "Murder"
+    ],
+    "q": "I control a disguised <span class=\"autocard\">Aurelia's Vindicator</span>. My opponent casts <span class=\"autocard\">Murder</span> targeting the face down creature, and pays for the ward trigger. If I then turn the Vindicator face up, will the front face's ward 2 also trigger and make my opponent pay two more mana or counter their Murder?",
+    "a": "No, that won't work. Ward only triggers if it has ward when the spell targeting it is cast. Gaining ward in response to the targeted spell won't let that instance of ward trigger. You're free to turn the Vindicator face up in response to the Murder, but the instance of ward 2 on the front face won't trigger since it wasn't face up when Murder was cast (only the ward 2 it had when it was disguised will trigger).<br>"
+  },
+  {
+    "imgs": [
+      "Judith, Carnage Connoisseur",
+      "Victimize"
+    ],
+    "q": "I have <span class=\"autocard\">Judith, Carnage Connoisseur</span> in play and two creature cards in my graveyard. If I cast <span class=\"autocard\">Victimize</span>, can I create a token with Judith's trigger, then sacrifice that token to Victimize?",
+    "a": "Yep, that combo works. With Victimize, you don't sacrifice as a cost to casting the spell - you sacrifice a creature when Victimize resolves. Since it's not an additional cost, you can cast Victimize, choose to create the 2/2 Imp token with Judith's trigger, then, when Victimize resolves, sacrifice the token you just created to return the two targets to the battlefield.<br>"
+  },
+  {
+    "imgs": [
+      "Axebane Ferox",
+      "Murder",
+      "Riveteers Charm"
+    ],
+    "q": "I control an <span class=\"autocard\">Axebane Ferox</span>. My opponent has a full graveyard and targets the Ferox with <span class=\"autocard\">Murder</span>. Can I respond to my ward trigger by casting <span class=\"autocard\">Riveteers Charm</span> and exile my opponent's graveyard, leaving them unable to pay for the ward trigger when it resolves?",
+    "a": "Yep, you can do that. They don't exile cards for the ward trigger until the Ferox's ward trigger is resolving. You can respond to their trigger by exiling their graveyard, leaving them unable to pay for the ward trigger since their graveyard is empty, and counter their Murder.<br>"
+  },
+  {
+    "imgs": [
+      "Aurelia, the Law Above"
+    ],
+    "q": "If I control <span class=\"autocard\">Aurelia, the Law Above</span>, will Aurelia also trigger if my opponent attacks with three creatures?",
+    "a": "She will! Aurelia's abilities will trigger when any player attacks with three (or five) creatures, not just you. If your opponent becomes aggressive and attacks you with three creature, then Aurelia's ability will trigger and you'll draw a card.<br>"
+  },
+  {
+    "imgs": [
+      "Aftermath Analyst",
+      "Echoing Deeps",
+      "Cabaretti Courtyard"
+    ],
+    "q": "I activate the ability of <span class=\"autocard\">Aftermath Analyst</span>, returning an <span class=\"autocard\">Echoing Deeps</span> and a <span class=\"autocard\">Cabaretti Courtyard</span> to the battlefield. Could Echoing Deep choose to copy the Courtyard that's entering at the same time as itself?",
+    "a": "Surprisingly, the answer is \"yes\"! When the Analyst's ability resolves, it would return the Deep and the Courtyard to the battlefield at the same time. The Deep has a replacement effect that needs to apply, and that will apply before the Deep and the Courtyard have entered the battlefield. Since they're not on the battlefield yet, they're still in the graveyard, which means that the Deep is going to be able to copy the Courtyard that's returning at the same time as itself.<br>"
+  },
+  {
+    "imgs": [
+      "Niv-Mizzet, Guildpact",
+      "Leyline of the Guildpact"
+    ],
+    "q": "What happens if I have <span class=\"autocard\">Niv-Mizzet, Guildpact</span> in play along with <span class=\"autocard\">Leyline of the Guildpact</span>? Will that maximize what happens with Niv-Mizzet's trigger?",
+    "a": "Unfortunately, it has the opposite effect - it effectively negates the trigger. Niv-Mizzet's trigger is counting the number of color pairs among your permanents, as in, permanents that are exactly two colors. But the Leyline makes all of your permanents all five colors. You don't control any permanents that are exactly two colors anymore, so Niv-Mizzet's trigger won't do anything when it resolves since X will be zero.<br>"
+  },
+  {
+    "imgs": [
+      "Ramos, Dragon Engine",
+      "Leyline of the Guildpact"
+    ],
+    "q": "If I control <span class=\"autocard\">Ramos, Dragon Engine</span> and a <span class=\"autocard\">Leyline of the Guildpact</span>, will all of my spells give Ramos five counters?",
+    "a": "Unfortunately, this doesn't work. The Leyline only makes nonland permanents on the battlefield all colors. It won't affect cards in other zones or spells on the stack. A spell on the stack will still have its normal colors, not all five colors from the Leyline, so the Leyline won't affect Ramos's trigger.<br>"
+  },
+  {
+    "imgs": [
+      "Imperial Recruiter",
+      "Haughty Djinn"
+    ],
+    "q": "Can I use the ability of <span class=\"autocard\">Imperial Recruiter</span> to search my library for a <span class=\"autocard\">Haughty Djinn</span>?",
+    "a": "That depends on how many instants and sorcery cards you have in your graveyard. The Djinn has a characteristic-defining ability - the ability that sets its power works in every zone, including the library. If you have two or fewer instant and sorcery cards in your graveyard, then it's a legal choice for the Recruiter's trigger. But if you have three or more instant and sorcery cards in your graveyard, then the Djinn's power is too high and can't be found with the Recruiter's trigger.<br>"
+  },
+  {
+    "imgs": [
+      "Norin the Wary",
+      "Stoke the Flames"
+    ],
+    "q": "I control <span class=\"autocard\">Norin the Wary</span> and three Mountains. Can I cast <span class=\"autocard\">Stoke the Flames</span> by tapping Norin for convoke, or has he already left the battlefield since I'm casting a spell?",
+    "a": "No, you can tap Norin for convoke. You pay the costs for the spell before the spell becomes cast (and Norin's ability triggers). He's still on the battlefield while you're announcing the Stoke, so you'll be able to tap Norin to help pay for the Stoke, and then after the Stoke has been cast, Norin will be exiled to his trigger.<br>"
+  },
+  {
+    "imgs": [
+      "Retether",
+      "Boltbender"
+    ],
+    "q": "If my opponent casts <span class=\"autocard\">Retether</span>, can I turn my <span class=\"autocard\">Boltbender</span> face up in response and change the target so my creatures get the Auras instead?",
+    "a": "You're free to turn your Boltbender face up in response to Retether and target it with Boltbender's trigger. However, there's one small problem with this plan - Retether doesn't target anything. It returns the Auras to the battlefield when it resolves, and those Auras don't target anything since they're not being cast. Your opponent will just choose a legal creature to attach each Aura to as they're entering. While you can turn Boltbender face up and target Retether with its trigger, you won't really do anything, since Retether doesn't target.<br>"
+  },
+  {
+    "imgs": [
+      "Berserker's Frenzy"
+    ],
+    "q": "I cast <span class=\"autocard\">Berserker's Frenzy</span>, and I end up with a 10. Can I choose zero creatures and make my opponent unable to block my attackers?",
+    "a": "Nope, that's not how the Frenzy works. Getting a result of 1-14 means you choose any number of creatures that must block if able. Those chosen creatures have to block, but the Frenzy doesn't prevent other creatures from blocking. Since you rolled a 1-14, you can force 0 of your opponent's creatures to block, but that just means that your opponent effectively gets to choose what blocks that combat (so not really different from any other combat phase).<br>"
+  },
+  {
+    "imgs": [
+      "The Pride of Hull Clade"
+    ],
+    "q": "If <span class=\"autocard\">The Pride of Hull Clade</span> is my commander, can its cost reduction effect also reduce the commander tax?",
+    "a": "Yes it can! The commander tax is an additional cost to cast the spell, and when we're figuring out the cost to cast a spell, we apply cost increasers first, then we apply cost decreasers. If you have enough toughness among creatures you control, the cost reduction effect from The Pride of Hull Clade can also cover the commander tax to cast it.<br>"
+  },
+  {
+    "imgs": [
+      "Yarus, Roar of the Old Gods",
+      "Day of Judgment"
+    ],
+    "q": "I control <span class=\"autocard\">Yarus, Roar of the Old Gods</span> and a few face down creatures. My opponent casts <span class=\"autocard\">Day of Judgment</span> and destroys all of my creatures. Will Yarus trigger for the face down creatures that died along with Yarus?",
+    "a": "Yes he will. Yarus will see the other face down creatures dying at the same time as Yarus, and Yarus will trigger. Those face down creatures will return to the battlefield under their owner's control and will be turned face up, which probably means that your opponent will want a second board wipe to deal with your face-up army.<br>"
+  },
+  {
+    "imgs": [
+      "Prisoner's Dilemma"
+    ],
+    "q": "What happens if I cast <span class=\"autocard\">Prisoner's Dilemma</span> but I only have one opponent?",
+    "a": "Your opponent is likely going to take 4 damage. Your opponent will choose \"silence\" or \"snitch\" when it resolves. If your opponent picks \"silence\", they'll take 4 damage from the Dilemma. If they wanted to take more damage, they're free to pick \"snitch\", in which case they'll take 8 damage. There's no other opponents to compare the choices to, so the otherwise part won't really matter and it won't be much of a secret to your opponent how much damage they'll take.<br>"
+  }
+]
