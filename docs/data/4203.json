@@ -1,0 +1,193 @@
+[
+  {
+    "imgs": [
+      "All is Dust",
+      "Fusion Elemental",
+      "Slaughter Pact",
+      "Transguild Courier",
+      "Treetop Village"
+    ],
+    "q": "If I cast <span class=\"autocard\">All is Dust</span> will it cause all players to sacrifice all lands?",
+    "a": "Most likely no lands will be sacrificed as the vast majority of lands are colorless. A permanent's colors are determined by either the <span class=\"autocard\">Fusion Elemental</span>, the <span class=\"autocard\">Slaughter Pact</span>, or by <span class=\"autocard\">Transguild Courier</span>. Having a colored mana symbol in its rules text doesn't determine its color. It is possible for a land to gain a color or colors though an ability, such as animating <span class=\"autocard\">Treetop Village</span> into a green Ape creature.<br>"
+  },
+  {
+    "imgs": [
+      "Elves of Deep Shadow",
+      "Eladamri, Lord of Leaves",
+      "Complete Disregard",
+      "Garruk Relentless",
+      "Garruk, the Veil-Cursed",
+      "Volrath's Stronghold"
+    ],
+    "q": "In the last question you said \"having a mana symbol in the rules text doesn't determine color\". Does this mean I can play <span class=\"autocard\">Elves of Deep Shadow</span> in my <span class=\"autocard\">Eladamri, Lord of Leaves</span> Commander deck?",
+    "a": "Unfortunately, you can't. Commander makes use of Color Identity, which is different from Color. Color Identity looks at the same places as Color, plus it looks for mana symbols in the rules text of a card, and also looks in all the same places on the back side of a card if it has one. It then considers all of these to determine the Color Identity. It's worth noting, Color Identity disregards the ability <span class=\"autocard\">Complete Disregard</span>.<br>\nColor Identity only matters during deck construction.<br>\n<span class=\"autocard\">Elves of Deep Shadow</span> is a green card, with a Green/Black Color Identity, because of its black mana ability.<br>\n<span class=\"autocard\">Garruk Relentless</span> is a green card, with a Green/Black Color Identity, because of its <span class=\"autocard\">Garruk, the Veil-Cursed</span>.<br>\n<span class=\"autocard\">Volrath's Stronghold</span> is a colorless card, with a Black Color identity, because of the mana symbol in the cost of its second ability.<br>\n<span class=\"autocard\">Complete Disregard</span> is a colorless card, with a Black Color Identity, because Devoid overrides color, but does not override Color Identity.<br>"
+  },
+  {
+    "imgs": [
+      "Clone",
+      "Dockside Extortionist",
+      "Neoform",
+      "Activated Sleeper"
+    ],
+    "q": "I control a <span class=\"autocard\">Clone</span> that is copying my opponent's <span class=\"autocard\">Dockside Extortionist</span>. If I sacrifice that Clone to <span class=\"autocard\">Neoform</span>, can I grab <span class=\"autocard\">Activated Sleeper</span> to have it copy the now dead Clone, to then copy the opponent's Dockside Extortionist?",
+    "a": "You can. Normally when you copy a Clone, you copy whatever it is currently copying. However, if it is not copying anything, you can use the Clone's ability to copy another legal thing its ability can copy.<br>\nAs a side note, the resulting Dockside Extortionist will not be Phyrexian. Activated Sleeper tries to make a Phyrexian Clone, then Clone overrides everything into just being a Dockside Extortionist.<br>"
+  },
+  {
+    "imgs": [
+      "Animate Dead",
+      "Grist, the Hunger Tide"
+    ],
+    "q": "Can I <span class=\"autocard\">Animate Dead</span> the <span class=\"autocard\">Grist, the Hunger Tide</span> from my graveyard?",
+    "a": "You can, but it won't be very effective. Grist is a creature in all zones except the battlefield. This makes Grist a legal target for Animate Dead while Grist is in your graveyard. When Animate Dead goes to resolve, it will put Grist onto the battlefield, then Animate Dead will change what it can enchant to \"enchant creature put onto the battlefield with Animate Dead\", and when it does this it can no longer enchant Grist as Grist is not a creature now. The next time state based actions are checked, Animate Dead will be placed in the graveyard for being an Aura that isn't attached to anything. This then triggers Animate Dead's ability \"When Animate Dead leaves the battlefield, that creature's controller sacrifices it.\" The game knows Grist was the creature it put onto the battlefield and will make you sacrifice it even though it is not currently a creature.<br>\nIn short, Grist will enter the battlefield, but will get sacrificed before you can even activate any of Grist's abilities.<br>"
+  },
+  {
+    "imgs": [
+      "Heartless Summoning",
+      "Fleshbag Marauder"
+    ],
+    "q": "I control <span class=\"autocard\">Heartless Summoning</span> and cast <span class=\"autocard\">Fleshbag Marauder</span>, will I be able to sacrifice the Marauder to its own trigger?",
+    "a": "You will not. The Marauder will be put into the graveyard for having 0 or less toughness, before the Marauder's trigger resolves. When Marauder's trigger resolves you will still have to sacrifice a creature if you have any left.<br>"
+  },
+  {
+    "imgs": [
+      "Bear Cub",
+      "Bear Umbra",
+      "Sudden Spoiling"
+    ],
+    "q": "My opponent's <span class=\"autocard\">Bear Cub</span> is enchanted with <span class=\"autocard\">Bear Umbra</span>. If I cast <span class=\"autocard\">Sudden Spoiling</span>, will the Cub still benefit from the +2/+2 from the Umbra?",
+    "a": "The Cub will still benefit from the +2/+2. The Cub will be a 2/4 with no abilities. It's worth noting, it will still be protected by Totem Armor as that's an ability of the Umbra, not an ability of the Cub.<br>\nThis is a layers question. I have an article that goes over layers in greater detail <a href=\"http://www.cranialinsertion.com/article/3327\">here</a>. <br>\nAdding and losing abilities happens in layer 6. These happen in order of oldest first to newest last. The Cub gained \"Whenever this creature attacks, untap all lands you control\" when it became enchanted, then lost that ability when Sudden Spoiling resolved. Then when we get to Layer 7b (the power and/or toughness setting layer), it goes from a 2/2, to a 0/2. Then in Layer 7c (the power and/or toughness adding and/or subtracting layer), it gets +2/+2, making it a 2/4.<br>"
+  },
+  {
+    "imgs": [
+      "Mighty Leap",
+      "Bear Cub"
+    ],
+    "q": "I think I understand the last question, but what would happen if in the same turn after Sudden Spoiling resolved, if my opponent cast <span class=\"autocard\">Mighty Leap</span> targeting the <span class=\"autocard\">Bear Cub</span>?",
+    "a": "The Cub would be a 4/6 with Flying and no other abilities.<br>\nAs said in the last answer, adding and losing abilities happen in the same Layer (Layer 6) and they are ordered oldest first to newest last. So Cub gaining \"untap lands\" ability happened quite a while ago, then it loses all abilities (including \"untap lands\" ability), then it gains Flying. Losing all abilities only removes abilities that the creature had before the removal resolved. Adding new abilities later will be unaffected.<br>\nLayer 7b, the Bear still changes to a 0/2.<br>\nLayer 7c, it gets +2/+2 from Umbra (to a 2/4), then gets +2/+2 from Mighty Leap (to a 4/6).<br>"
+  },
+  {
+    "imgs": [
+      "Pestilence",
+      "Death Speakers"
+    ],
+    "q": "My opponent activates their <span class=\"autocard\">Pestilence</span> once, does the protection from black my <span class=\"autocard\">Death Speakers</span> has keep it from dying?",
+    "a": "It does. Protection is four abilities in one. Some people use the mnemonic acronym D.E.B.T. to remember what these four abilities are.<br>\n(D.)amage - prevent all damage from X sources<br>\n(E.)nchanted or attached - can't be enchanted by X or can't have X attached to it<br>\n(B.)locked - can't be blocked by X<br>\n(T.)argeted - can't be targeted by X<br>\nWhere X is what the permanent or player has Protection from.<br>\nIn this case, protection from black prevents all damage to Death Speakers from black sources, and since Pestilence is a black source, all damage to Death Speakers from Pestilence is prevented.<br>"
+  },
+  {
+    "imgs": [
+      "Xorn",
+      "Anointed Procession",
+      "Improvised Weaponry"
+    ],
+    "q": "I control <span class=\"autocard\">Xorn</span> and <span class=\"autocard\">Anointed Procession</span>. If I hit my opponent for 2 damage with <span class=\"autocard\">Improvised Weaponry</span>, how many Treasure tokens do I make?",
+    "a": "Its your choice of three or four Treasure tokens.<br>\nWhen multiple replacement effects try to replace the same event, the affected player or controller of affected spell or permanent chooses the order they apply in.<br>\nYou control the affected permanents (the Treasure token), so you can choose whether to apply Xorn first or Procession first, then the other will apply second.<br>\nXorn first, Procession second:<br>\nYou try to make one Treasure, Xorn increases this to make two Treasures, then Procession doubles this to create four Treasure tokens.<br>\nProcession first, Xorn second:<br>\nYou try to make one Treasure, Procession doubles this to two Treasures, then Xorn increases this by one, making a total of three Treasure tokens.<br>"
+  },
+  {
+    "imgs": [
+      "Thalia, Guardian of Thraben",
+      "Memory Deluge"
+    ],
+    "q": "My opponent controls <span class=\"autocard\">Thalia, Guardian of Thraben</span> and I flashback <span class=\"autocard\">Memory Deluge</span> from my graveyard, how many cards deep do I look into my library?",
+    "a": "Since the flashback cost is <img src=\"/ci-reader/images/symbols/5.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\"> and Thalia makes you pay one more than that, you get to dip eight cards deep.<br>"
+  },
+  {
+    "imgs": [
+      "Maskwood Nexus",
+      "Hatchery Sliver",
+      "Mulldrifter"
+    ],
+    "q": "I control <span class=\"autocard\">Maskwood Nexus</span> and <span class=\"autocard\">Hatchery Sliver</span>. If I evoke a <span class=\"autocard\">Mulldrifter</span> from my hand can I replicate it? And if I do, how much mana does it cost? Do the copies live or die?",
+    "a": "Yes, <img src=\"/ci-reader/images/symbols/4.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/U.png\" class=\"mana\">, and they die. <br>\nHatchery Sliver gives replicate to all the creatures you cast (when you have Maskwood Nexus). The replicate cost is equal to that spell's mana cost. Casting a spell for its evoke cost doesn't change its mana cost. When you copy a spell, it copies choices made. All copies of an evoked spell will copy the choice of being cast for evoke, so they will get sacrificed very quickly after entering the battlefield.<br>"
+  },
+  {
+    "imgs": [
+      "Dowsing Device",
+      "Cryptic Coat"
+    ],
+    "q": "I control <span class=\"autocard\">Dowsing Device</span> and no creatures. If I cast <span class=\"autocard\">Cryptic Coat</span> can I use the Device to give the \"cloaked\" creature haste?",
+    "a": "You can't. <br>\nBoth Dowsing Device and Cryptic Coat trigger at the same time, and you can choose the order in which they resolve, but you must choose the target for Dowsing Device before either trigger resolves and the \"cloaked\" creature won't be made yet.<br>"
+  },
+  {
+    "imgs": [
+      "Awoken Horror",
+      "Leyline Binding",
+      "Naturalize",
+      "Thing in the Ice",
+      "Rune-Tail, Kitsune Ascendant",
+      "Sinuous Vermin",
+      "Case of the Burning Masks",
+      "Rubblebelt Braggart",
+      "Relic Seeker"
+    ],
+    "q": "My opponent exiled my <span class=\"autocard\">Awoken Horror</span> with <span class=\"autocard\">Leyline Binding</span> last turn. If I <span class=\"autocard\">Naturalize</span> the Leyline, do I get back <span class=\"autocard\">Awoken Horror</span> or <span class=\"autocard\">Thing in the Ice</span>?",
+    "a": "You get Thing in the Ice.<br>\nBy default permanent cards that leave the battlefield and then return do so face up, untapped, <span class=\"autocard\">Rune-Tail, Kitsune Ascendant</span>, having lost all counters, and having lost all designations previously gained. For all intents and purposes the game considers it a brand new object with no relation to its previous existence even if it clearly is the same physical object.<br>\nDesignations include things like <span class=\"autocard\">Sinuous Vermin</span>, <span class=\"autocard\">Case of the Burning Masks</span>, <span class=\"autocard\">Rubblebelt Braggart</span>, and <span class=\"autocard\">Relic Seeker</span>.<br>"
+  },
+  {
+    "imgs": [
+      "Agrus Kos, Eternal Soldier",
+      "Parish-Blade Trainee",
+      "arcbound worker"
+    ],
+    "q": "I control four 1/1 Soldier tokens, <span class=\"autocard\">Agrus Kos, Eternal Soldier</span> and a <span class=\"autocard\">Parish-Blade Trainee</span> with two +1/+1 counters on it. When the Trainee dies, if I target Agrus with the trigger and then pay the <img src=\"/ci-reader/images/symbols/1.png\" class=\"mana\"><img src=\"/ci-reader/images/symbols/RW.png\" class=\"mana\">, will I end up with two +1/+1 counters on each of my creatures or can I only move the counters to one of my creatures?",
+    "a": "You will get two +1/+1 counters on each of your creatures.<br>\nThe deal here is that Parish-Blade Trainee (and any creature with <span class=\"autocard\">arcbound worker</span>) don't work the way you think they do. They don't actually move their counters.<br>\nWhen the Trainee dies, it goes to the graveyard. Once in the graveyard two things happen at the same time, its counters cease to exists and its ability triggers. The Trainee's trigger is placed on the stack, with you choosing a target and then waits to resolve. So before the trigger ever has a chance to resolve, the counters don't exist anymore. When it does go to resolve, it looks back in time to the last time the Trainee was on the battlefield, then \"remembers\" the number and types of counters it had (this is called last known information), creates copies of those counters and places them on the target creature. <br>\nSo when you copy Trainee's trigger, you create two new +1/+1 counters for each copy (including the original trigger), not just move around the actual counters the Trainee died with.<br>"
+  },
+  {
+    "imgs": [
+      "Isochron Scepter",
+      "Thrill of Possibility"
+    ],
+    "q": "My <span class=\"autocard\">Isochron Scepter</span> has <span class=\"autocard\">Thrill of Possibility</span> imprinted onto it. If I activate the Scepter, do I still have to discard a card to cast Thrill of Possibility?",
+    "a": "You do. Scepter copies the card and then tries to cast the copy. If you cast a card or cast a copy of a card you must pay any mandatory additional costs to be able to cast them.<br>"
+  },
+  {
+    "imgs": [
+      "Thrill of Possibility",
+      "Twincast"
+    ],
+    "q": "My opponent casts <span class=\"autocard\">Thrill of Possibility</span>, discarding a card as part of its cost. Before Thrill can resolve, I want to copy it with the <span class=\"autocard\">Twincast</span> in my hand. Do I have to discard a card to do so?",
+    "a": "Not only do you not have to discard a card to do so, you can't discard a card even if you wanted to. If you copy a spell with Twincast, you don't cast the copy, it's just placed on the stack.<br>"
+  },
+  {
+    "imgs": [
+      "Linvala, Keeper of Silence",
+      "Nature's Revolt"
+    ],
+    "q": "If I control <span class=\"autocard\">Linvala, Keeper of Silence</span> and <span class=\"autocard\">Nature's Revolt</span>, is my opponent unable to make mana with their lands?",
+    "a": "That is correct, your opponents can't activate abilities of their creatures and all their lands are also creatures.<br>"
+  },
+  {
+    "imgs": [
+      "Eye of Duskmantle",
+      "Curate",
+      "Swamp",
+      "Duress",
+      "Vedalken Orrery",
+      "Violent Outburst"
+    ],
+    "q": "I control <span class=\"autocard\">Eye of Duskmantle</span> and during my opponent's turn I cast <span class=\"autocard\">Curate</span> and surveil both a <span class=\"autocard\">Swamp</span> and a <span class=\"autocard\">Duress</span> into my graveyard. Does the Eye of Duskmantle let me play the land or cast the Sorcery during their turn?",
+    "a": "Eye of Duskmantle doesn't let you do either. The Eye doesn't change the normal timing for playing lands or casting sorcery spells. We can tell it doesn't change timing because it doesn't specifically call it out like <span class=\"autocard\">Vedalken Orrery</span> and its permission has a duration (this turn). You can still cast instants and cards with flash that you surveil into your graveyard during the opponent's turn. <br>\nThere are cards that give permission to get around timing for \"sorcery speed\" spells, but these won't give a duration for how long you may cast such spells. Instead, they just instruct you to cast them immediately. <span class=\"autocard\">Violent Outburst</span> is a good example, it will allow you to cast a sorcery, creature, artifact, enchantment, or planeswalker even though you normally can't cast such spells while other things are on the stack, or even during the opponent's turn.<br>\nYou can't play lands during your opponent's turn, as per rule 305.3: A player can't play a land, for any reason, if it isn't their turn. Ignore any part of an effect that instructs a player to do so.<br>\nNote that being instructed to \"put a land onto the battlefield\" is different than playing a land.<br>"
+  },
+  {
+    "imgs": [
+      "Horobi, Death's Wail",
+      "Cloud Cover",
+      "Bear Cub",
+      "Alchemist's Gift"
+    ],
+    "q": "During a two player game, my opponent controls <span class=\"autocard\">Horobi, Death's Wail</span> and I control <span class=\"autocard\">Cloud Cover</span> and <span class=\"autocard\">Bear Cub</span>. If my opponent targets my Cub with <span class=\"autocard\">Alchemist's Gift</span>, does it go to my hand or get destroyed?",
+    "a": "Depends whose turn it is. When multiple triggers try to go on the stack at the same time, they are placed in APNAP order (Active Player Non-Active Player). <br>\nThe player whose turn it is (active player), places all their triggers on the stack first with choices of targets and modes known and places those triggers on the stack in the order of their choosing. <br>\nThen the next player in turn order (Non-Active Player) does the same with full knowledge of all choices the previous player has made. These must all be placed above all triggers placed by the previous player, but can be placed in any order otherwise, again making choices for targets and modes.<br>\nIf there are more than two players, the next player in turn order does the same thing, putting all of their trigger above all previous players' triggers in the order of their choosing, and this repeats until all players with triggers have placed them on the stack.<br>\nOnce all triggers are placed on the stack, each trigger will resolve one at a time with the topmost trigger resolving first and the bottom trigger resolving last.<br>\nIf the opponent casts Alchemist's Gift during your turn, the Cub gets destroyed.<br>\nStack:<br>\nTop) Destroy Cub -trigger<br>\nBottom) May return Cub to owner's hand -trigger<br>\nIf the opponent casts Alchemist's Gift during their turn, you may return the Cub to your hand, and if you don't, it gets destroyed.<br>\nStack:<br>\nTop) May return Cub to owner's hand -trigger<br>\nBottom) Destroy Cub -trigger<br>"
+  },
+  {
+    "imgs": [
+      "Warp World",
+      "Ravenous Chupacabra",
+      "Soul Warden",
+      "Bear Cub",
+      "Bramble Armor",
+      "Titanoth Rex",
+      "Fleshbag Marauder"
+    ],
+    "q": "OK, so I think I understand the last question, so let's do lots of triggers with more than two players. What if I cast <span class=\"autocard\">Warp World</span> in a four player game, and because of Warp World I put <span class=\"autocard\">Ravenous Chupacabra</span> on the battlefield, my opponent Nick who is next in turn order puts a <span class=\"autocard\">Soul Warden</span> onto the battlefield, Nancy who is next after Nick puts <span class=\"autocard\">Bear Cub</span>, <span class=\"autocard\">Bramble Armor</span>, and <span class=\"autocard\">Titanoth Rex</span> onto the battlefield, and Nina who goes after Nancy puts <span class=\"autocard\">Fleshbag Marauder</span> on to the battlefield. How do all these triggers resolve?",
+    "a": "Like the answer to the last question, the triggers will be put on the stack in APNAP order. Since Warp World is a sorcery, we know it's currently your turn. You will put Chupacabra's trigger on stack first, making it the bottom of the stack. Let's say you target Titanoth Rex with Chupacabra's trigger. All three other players know your target before they put any of their triggers on the stack. Then Nick who is next in turn order will put all the Soul Warden triggers on top of Chupacabra's trigger (4 triggers total, one for each creature other than Soul Warden). Then Nancy puts Bramble Armor's trigger above all the Soul Warden triggers, she chooses to target her Bear Cub with Bramble Armor as she knows Titanoth Rex will get destroyed by Chupacabra. Lastly, Nina places Fleshbag Marauder's trigger as the topmost trigger on the stack.<br>\nStack:<br>\nTop) Each player sacrifices a creature -trigger<br>\nNext) Attach Bramble Armor to Bear Cub -trigger<br>\nNext) Nick gains 1 life -trigger<br>\nNext) Nick gains 1 life -trigger<br>\nNext) Nick gains 1 life -trigger<br>\nNext) Nick gains 1 life -trigger<br>\nBottom) Chupacabra destroys Titanoth Rex.<br>\nThese will resolve in order Top to bottom. Each player will sacrifice a creature (Chupacabra for you, Soul Warden for Nick, Titanoth Rex for Nancy as she knows it's dying to Chupacabra anyways, and Fleshbag Marauder for Nina). Then Bramble Armor gets attached to Bear Cub. Then Nick gains 1 life four times. Lastly, Chupacabra tries to destroy Titanoth Rex, but that ability fails to resolve because its target has become illegal.<br>"
+  }
+]
