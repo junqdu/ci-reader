@@ -1,0 +1,158 @@
+[
+  {
+    "imgs": [
+      "The Wise Mothman",
+      "Vorinclex, Monstrous Raider"
+    ],
+    "q": "If I control <span class=\"autocard\">The Wise Mothman</span> and <span class=\"autocard\">Vorinclex, Monstrous Raider</span>, how do the rad counters from Mothman get affected by Vorinclex?",
+    "a": "With Vorinclex, Mothman will give two rad counters to each player. Mothman's ability doesn't specify who is putting the rad counters onto each player, so by default the Mothman's controller does this, which means that Vorinclex's \"twice that many\" replacement effect kicks in. <br>"
+  },
+  {
+    "imgs": [
+      "Synth Eradicator"
+    ],
+    "q": "Can I use <span class=\"autocard\">Synth Eradicator</span>'s ability to play a second land for the turn?",
+    "a": "Not without additional help. Synth Eradicator's ability tries to give you permission to play the exiled card, but if that card is a land card and you're out of land plays for the turn, the rules actively forbid you from playing additional lands this turn, so the permission from Synth Eradicator's effect is meaningless.  <br>"
+  },
+  {
+    "imgs": [
+      "Cryptic Coat",
+      "Kaya, Spirits' Justice"
+    ],
+    "q": "I used <span class=\"autocard\">Cryptic Coat</span> to cloak the top card of my library, which happened to be <span class=\"autocard\">Kaya, Spirits' Justice</span>, and then I win game 1. I don't want to show Kaya to my opponent to give them as little information as possible for sideboarding for game 2. I know I have to reveal disguised creatures at the end of the game, but do I also have to reveal cloaked cards?",
+    "a": "I'm afraid you'll have to show Kaya to your opponent. The game rules specify that at the end of each game, all face-down permanents must be revealed to all players, regardless of how or why they came to be face-down. <br>"
+  },
+  {
+    "imgs": [
+      "Likeness Looter",
+      "Souls of the Lost",
+      "The End"
+    ],
+    "q": "My <span class=\"autocard\">Likeness Looter</span> has become a copy of a <span class=\"autocard\">Souls of the Lost</span> in my graveyard. If my opponent casts <span class=\"autocard\">The End</span> on my Likeness Looter, am I right in thinking that they'll exile all copies of Souls of the Lost from my hand, library, and graveyard?",
+    "a": "Yes, that is correct. The End looks at the name of the permanent that was exiled, not the name of the card that ends up in the exile zone. The permanent's name was \"Souls of the Lost\", so that's what your opponent searches for and exiles. <br>"
+  },
+  {
+    "imgs": [
+      "Lucius the Eternal"
+    ],
+    "q": "When <span class=\"autocard\">Lucius the Eternal</span> dies, is there an opportunity to kill the target for its death trigger so that he stays in exile indefinitely?",
+    "a": "Not exactly. You can respond to the ability by sacrificing the target or otherwise render the target illegal, but this won't cause Lucius to be stranded in exile. If the target has become illegal, Lucius's death trigger won't resolve at all, so Lucius won't be exiled and it'll just stay in the graveyard. <br>"
+  },
+  {
+    "imgs": [
+      "Megaton's Fate",
+      "Display of Power"
+    ],
+    "q": "If I cast <span class=\"autocard\">Megaton's Fate</span> in its first mode, can I use the Treasures it creates to cast <span class=\"autocard\">Display of Power</span> to copy the Megaton's Fate that's still on the stack?",
+    "a": "No, that won't work. The Treasures only get created once Megaton's Fate resolves, and once it starts to resolve you won't get the chance to cast anything until after it has finished resolving, which includes going to the graveyard. This means that either Megaton's Fate is on the stack and you don't have the Treasures yet, or Megaton's Fate is in the graveyard and you have the Treasures. <br>"
+  },
+  {
+    "imgs": [
+      "Escape Velocity",
+      "Quintorius, Field Historian"
+    ],
+    "q": "If I cast <span class=\"autocard\">Escape Velocity</span> for its escape cost, how many times does <span class=\"autocard\">Quintorius, Field Historian</span>'s ability trigger?",
+    "a": "It'll trigger twice. Casting Escape Velocity is a multi-step process that begins with taking Escape Velocity from the zone it's in and putting it on the stack. Since it's in the graveyard, this means Quintorius sees a card leave your graveyard. Later on, you'll pay the cost to cast Escape Velocity, which involves exiling two cards from your graveyard. This is a separate event that triggers Quintorius's ability a second time. <br>"
+  },
+  {
+    "imgs": [
+      "Zedruu the Greathearted",
+      "Bronze Bombshell",
+      "Bazaar Trader"
+    ],
+    "q": "If my opponent uses <span class=\"autocard\">Zedruu the Greathearted</span> to give their <span class=\"autocard\">Bronze Bombshell</span> to me, can I use <span class=\"autocard\">Bazaar Trader</span>'s ability in time to keep the Bombshell from blowing up in my face?",
+    "a": "Yes, you can do that. After Zedruu's ability resolves, the conditions for Bronze Bombshell's state trigger are met, so the ability goes on the stack. You can respond to that ability with Bazaar Trader's ability to give Bronze Bombshell back to your opponent, or even to a different opponent whom you like less. This won't stop the ability from resolving, but when it resolves, it asks you to sacrifice the Bombshell. This is impossible since you no longer control the Bombshell, so the \"if the player does\" clause doesn't happen. If you traded the Bombshell to another opponent, its state trigger will trigger for that opponent now, and they find themselves having to deal with an imminent explosion. <br>"
+  },
+  {
+    "imgs": [
+      "Wrath of God",
+      "Progenitus"
+    ],
+    "q": "Does <span class=\"autocard\">Wrath of God</span> kill <span class=\"autocard\">Progenitus</span>?",
+    "a": "I'm afraid so. As Justin explained last week, protection only includes four narrow benefits, and Wrath of God doesn't attempt to do anything that protection cares about. In particular, Wrath of God doesn't target anything, and it doesn't deal damage to anything. <br>"
+  },
+  {
+    "imgs": [
+      "Judith, Carnage Connoisseur",
+      "Charnel Serenade"
+    ],
+    "q": "If I control <span class=\"autocard\">Judith, Carnage Connoisseur</span> and suspend <span class=\"autocard\">Charnel Serenade</span>, does Judith's ability trigger?",
+    "a": "Eventually yes, but not right away. When you exile Charnel Serenade with time counters on it, you're not casting anything, so this does not trigger Judith's ability. However, when the last time counter is removed from Charnel Serenade, the suspend ability lets you cast Charnel Serenade without paying its mana cost. At that time, you <i>are</i> casting sorcery spell, so Judith's ability triggers. <br>"
+  },
+  {
+    "imgs": [
+      "Firestorm"
+    ],
+    "q": "If I cast <span class=\"autocard\">Firestorm</span> and discard 40 cards for its additional cost, do I have to choose 40 targets for it? And if so, can I choose the same target multiple times?",
+    "a": "Unfortunately for you, and fortunately for your opponent who won't have to deal with 1600 damage heading their way, the answers are yes and no, in that order. Firestorm doesn't say \"up to X targets\", so if X is 40, you have to choose 40 targets. Also, since there is only one instance of the word \"target\" here, the same object or player can't be chosen multiple times. In other words, you'd have to choose 40 different targets, which is probably difficult to do. <br>"
+  },
+  {
+    "imgs": [
+      "Cloudfin Raptor",
+      "Undercity",
+      "Ravenloft Adventurer"
+    ],
+    "q": "I control a <span class=\"autocard\">Cloudfin Raptor</span> that's 3/4 thanks to having evolved multiple times. If I complete <span class=\"autocard\">Undercity</span> and use the <b>Throne of the Dead Three</b> ability to bring out a <span class=\"autocard\">Ravenloft Adventurer</span> with three +1/+1 counters on it, does Cloudfin Raptor evolve again?",
+    "a": "It does! Ravenloft Adventurer gets put onto the battlefield with those three +1/+1 counters on it, so it enters the battlefield as a 6/7, as opposed to entering as a 3/4 and then growing to 6/7. This means that Ravenloft Adventurer meets the conditions for triggering Cloudfin Raptor's evolve ability. <br>"
+  },
+  {
+    "imgs": [
+      "Kardur, Doomscourge"
+    ],
+    "q": "In a multiplayer game, a player resolves <span class=\"autocard\">Kardur, Doomscourge</span> and later that turn loses the game. Does the effect from Kardur, Doomscourge still apply?",
+    "a": "Yes, the effect sticks around for a little while. To be precise, the effect ends just before that player's next turn would have begun if the player were still in the game. <br>"
+  },
+  {
+    "imgs": [
+      "Dictate of Erebos",
+      "Teysa Karlov"
+    ],
+    "q": "I control <span class=\"autocard\">Dictate of Erebos</span> and <span class=\"autocard\">Teysa Karlov</span>, and my opponent destroys Teysa Karlov. Does Dictate of Erebos's ability trigger twice?",
+    "a": "It does! Dictate of Erebos's trigger is a \"dies\" trigger, which means it looks back in time and triggers based on the game state immediately prior to the event that triggered it. In that game state, Teysa Karlov was alive and well, so her ability makes the Dictate's ability trigger twice. <br>"
+  },
+  {
+    "imgs": [
+      "Psychic Surgery",
+      "Scheming Symmetry"
+    ],
+    "q": "If I control <span class=\"autocard\">Psychic Surgery</span> and cast <span class=\"autocard\">Scheming Symmetry</span>, do I get to look at and exile the card they put on top of their library?",
+    "a": "Absolutely. Psychic Surgery's ability triggers while Scheming Symmetry resolves, and it goes on the stack after Scheming Symmetry has finished resolving. Unless your opponent somehow responds to Psychic Surgery's ability, the card they fetched will still be on top of their library, so it's among the two cards you look at, and you may exile one of those cards. <br>"
+  },
+  {
+    "imgs": [
+      "Mechanized Production"
+    ],
+    "q": "Can eight Treasure tokens satisfy the win condition for <span class=\"autocard\">Mechanized Production</span> since they have the same name?",
+    "a": "Certainly. They are artifacts and they all have the name \"Treasure Token\", so you do in fact control eight artifacts that have the same name as one another. <br>"
+  },
+  {
+    "imgs": [
+      "Krark, the Thumbless",
+      "Conflagrate"
+    ],
+    "q": "If I control <span class=\"autocard\">Krark, the Thumbless</span>, cast a spell for its <span class=\"autocard\">Conflagrate</span> cost and lose the flip for Krark's ability, does the spell get returned to my hand?",
+    "a": "I'm afraid not. Casting a spell for its flashback cost sets up a replacement effect that exiles the card if it would leave the stack for any zone that's not the exile zone. When Krark's ability tries to return the spell to your hand, that replacement effect kicks in and exiles the card instead. <br>"
+  },
+  {
+    "imgs": [
+      "Mr. House, President and CEO",
+      "Barbarian Class"
+    ],
+    "q": "I control <span class=\"autocard\">Mr. House, President and CEO</span> and <span class=\"autocard\">Barbarian Class</span>, and I activate Mr. House's ability to roll a d6. Because of Barbarian Class, I roll two d6 instead. Does Mr. House's first ability see both dice?",
+    "a": "No. Barbarian Class tells you to roll an additional die and then you ignore the lowest roll. The ignored roll is treated as though it never happened, so Mr. House only sees one die roll. <br>"
+  },
+  {
+    "imgs": [
+      "MacCready, Lamplight Mayor"
+    ],
+    "q": "I control <span class=\"autocard\">MacCready, Lamplight Mayor</span> and my opponent attacks me with a 1/3. Before damage, they pump their creature to 5/5. Does MacCready drain them for 2 life?",
+    "a": "No. MacCready's ability only triggers if the attacker's power is 4 or greater at the time it's declared as an attacker. This was not the case when attackers were declared, and the ability doesn't trigger retroactively just because an attacker's power now happens to be greater than 4. <br>"
+  },
+  {
+    "imgs": [
+      "Ride the Avalanche"
+    ],
+    "q": "If I use <span class=\"autocard\">Ride the Avalanche</span>, can I trigger its \"when you cast\" trigger by casting my commander from the command zone? And if so, can I put the +1/+1 counters on my commander?",
+    "a": "The answer to your first question is yes. The delayed trigger that Ride the Avalance sets up doesn't care from which zone you cast your next spell this turn, so you can trigger it by casting your commander from the command zone. However, the answer to your second question is no. Your commander goes on the stack and Ride the Avalanche's trigger goes on the stack above it, and you have to choose a target for the trigger at the time it goes on the stack. Since your commander is not on the battlefield yet, you can't target it with Ride the Avalanche's trigger. <br>"
+  }
+]
